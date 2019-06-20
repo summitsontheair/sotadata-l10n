@@ -18,7 +18,7 @@ Within the file are a list of source entries, like so:
       </trans-unit>
 ```
 
-Add an entry below the <source> tags called &lt;target&gt; and add the translation:
+Add an entry below the &lt;source&gt; tags called &lt;target&gt; and add the translation:
 
 ```
       <trans-unit id="Welcome" datatype="html">
