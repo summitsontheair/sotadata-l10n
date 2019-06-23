@@ -176,42 +176,48 @@
       </trans-unit>
       <trans-unit id="MyActivatorLog" datatype="html">
         <source>My Activator Log</source>
-        <context-group purpose="location">
+	      <target>Meine Aktivierungen</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">89</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MyActivatorUniques" datatype="html">
         <source>My Activator Uniques</source>
-        <context-group purpose="location">
+	      <target>Meine Aktivierungen - Uniques</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">93</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MyActivatorRegions" datatype="html">
         <source>My Activator Regions</source>
-        <context-group purpose="location">
+        <target>Meine aktivierten Regionen</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">97</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MyChaserLog" datatype="html">
         <source>My Chaser Log</source>
-        <context-group purpose="location">
+        <target>Mein Jägerlog</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">101</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MyChaserUniques" datatype="html">
         <source>My Chaser Uniques</source>
-        <context-group purpose="location">
+        <target>Mein Jägerlog - Uniques</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">105</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MyChaserRegions" datatype="html">
         <source>My Chaser Regions</source>
-        <context-group purpose="location">
+        <target>Mein Jägerlog - Regionen</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">109</context>
         </context-group>
@@ -232,70 +238,80 @@
       </trans-unit>
       <trans-unit id="MyMicrowaveActivator" datatype="html">
         <source>My Microwave Activator Log</source>
-        <context-group purpose="location">
+        <target>Meine Mikrowellen-Aktivierungen</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">121</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MyMicrowaveChaser" datatype="html">
         <source>My Microwave Chaser Log</source>
-        <context-group purpose="location">
+        <target>Mein Mikrowellen-Jägerlog</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">125</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MyMicrowaveS2S" datatype="html">
         <source>My Microwave S2S Log</source>
-        <context-group purpose="location">
+        <target>Mein Mikrowellen-S2S-Log</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">129</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MySWLLog" datatype="html">
         <source>My SWL Log</source>
-        <context-group purpose="location">
+        <target>Mein SWL-Log</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">133</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MyAwards" datatype="html">
         <source>My Awards</source>
-        <context-group purpose="location">
+        <target>Meine Diplome</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">137</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MyStatistics" datatype="html">
         <source>My Statistics</source>
-        <context-group purpose="location">
+        <target>Meine Statistik</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">141</context>
         </context-group>
       </trans-unit>
       <trans-unit id="SummitList" datatype="html">
         <source>List of all summits</source>
-        <context-group purpose="location">
+        <target>Liste aller Gipfel</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">148</context>
         </context-group>
       </trans-unit>
       <trans-unit id="FindSummits" datatype="html">
         <source>Find summits</source>
-        <context-group purpose="location">
+        <target>Gipfel finden</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">152</context>
         </context-group>
       </trans-unit>
       <trans-unit id="PopularSummits" datatype="html">
         <source>Popular summits</source>
-        <context-group purpose="location">
+        <target>Meistaktivierte Gipfel</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">156</context>
         </context-group>
       </trans-unit>
       <trans-unit id="RecentSummits" datatype="html">
         <source>Recently activated summits</source>
-        <context-group purpose="location">
+        <target>Kürzlich aktivierte Gipfel</target>
+	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">160</context>
         </context-group>
