@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="MainTitle" datatype="html">
         <source>SOTA Results and Summits Database</source>
-<target>SOTA - Ergebnisse und Gipfeldatenbank</target>
+<target>SOTA - Ergebnislisten und Gipfeldatenbank</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">9</context>
@@ -40,7 +40,7 @@
       </trans-unit>
       <trans-unit id="ViewResults" datatype="html">
         <source>View Results</source>
-        <target>Ergebnisse</target>
+        <target>Ergebnislisten</target>
 <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">17</context>
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="1st12mActivator" datatype="html">
         <source>1st 12m Challenge Activator Roll of Honour</source>
-        <target>1. 12m Challenge Aktivierer</target>
+        <target>1. 12m Challenge - Aktivierer</target>
  <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">74</context>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="1st12mChaser" datatype="html">
         <source>1st 12m Challenge Chaser Roll of Honour</source>
-        <target>1. 12m Challenge Jäger</target>
+        <target>1. 12m Challenge - Jäger</target>
  <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">77</context>
@@ -160,7 +160,7 @@
       </trans-unit>
       <trans-unit id="1st610Activator" datatype="html">
         <source>1st 6m/10m Challenge Activator Roll of Honour</source>
-        <target>1. 6m/10m Challenge Aktivierer</target>
+        <target>1. 6m/10m Challenge - Aktivierer</target>
  <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">80</context>
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="1st610Chaser" datatype="html">
         <source>1st 6m/10m Challenge Chaser Roll of Honour</source>
-        <target>1. 6m/10m Challenge Jäger</target>
+        <target>1. 6m/10m Challenge - Jäger</target>
  <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">83</context>
@@ -224,7 +224,7 @@
       </trans-unit>
       <trans-unit id="MyS2SLog" datatype="html">
         <source>My S2S Log</source>
-        <target>My S2S Log</target>
+        <target>Mein S2S-Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">113</context>
@@ -232,7 +232,7 @@
       </trans-unit>
       <trans-unit id="MySOTAComplete" datatype="html">
         <source>My SOTA Complete Log</source>
-        <target>My SOTA Complete Log</target>
+        <target>Meine komplettierten Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">117</context>
@@ -240,7 +240,7 @@
       </trans-unit>
       <trans-unit id="MyMicrowaveActivator" datatype="html">
         <source>My Microwave Activator Log</source>
-        <target>Meine Mikrowellen-Aktivierungen</target>
+        <target>Mein Mikrowellen-Log Aktivierer</target>
 	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">121</context>
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="MyMicrowaveChaser" datatype="html">
         <source>My Microwave Chaser Log</source>
-        <target>Mein Mikrowellen-Jägerlog</target>
+        <target>Mein Mikrowellen-Log Jäger</target>
 	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">125</context>
@@ -256,7 +256,7 @@
       </trans-unit>
       <trans-unit id="MyMicrowaveS2S" datatype="html">
         <source>My Microwave S2S Log</source>
-        <target>Mein Mikrowellen-S2S-Log</target>
+        <target>Mein Mikrowellen-Log S2S</target>
 	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">129</context>
@@ -280,7 +280,7 @@
       </trans-unit>
       <trans-unit id="MyStatistics" datatype="html">
         <source>My Statistics</source>
-        <target>Meine Statistik</target>
+        <target>Meine Statistiken</target>
 	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">141</context>
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="SummitList" datatype="html">
         <source>List of all summits</source>
-        <target>Liste aller Gipfel</target>
+        <target>Alle SOTA-Gipfel</target>
 	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">148</context>
@@ -296,7 +296,7 @@
       </trans-unit>
       <trans-unit id="FindSummits" datatype="html">
         <source>Find summits</source>
-        <target>Gipfel finden</target>
+        <target>Gipfelsuche</target>
 	      <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">152</context>
@@ -361,7 +361,7 @@ Willkommen in der SOTA-Datenbank!</target>
         <source>
 Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
 </source>
-       <target> Das Diplomprogramm Summits on the Air (SOTA, deutsch: Gipfel auf Sendung) richtet sich an Funkamateure,  die gerne draußen sind und Bergwandern: Nimm' Dein Funkgerät mit und mach’ auf dem Gipfel eines Berges Betrieb!
+       <target> Das Diplomprogramm Summits on the Air (SOTA, deutsch: Gipfel auf Sendung) richtet sich an Funkamateure,  die gerne draußen sind und gerne Bergwandern: Pack' Dein Funkgerät ein und mach’ auf dem Gipfel eines Berges Betrieb!
 </target>
  <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -514,7 +514,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
 	Press the Browse button below and select the CSV or TSV file on your hard drive
    </source>
         <target>
-	"Browse" klicken, um die CSV- oder TSV-Datei auszuwählen.
+	"Durchsuchen" klicken, um die CSV- oder TSV-Datei auszuwählen.
    </target>
 <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -525,7 +525,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
         <source>
 	Press the Upload File button on the bottom of this screen to transfer the file to our server and begin processing it. This may take a few seconds. Please be patient!</source>
       <target>
-	Auf "Upload file" klicken, um die Datei auf den Server hochzuladen. Bitte etwas Geduld, es kann einige Sekunden dauern, die Datei zu verarbeiten. </target>
+	Auf "CSV-/TSV-Logdatei hochladen" klicken, um die Datei auf den Server hochzuladen. Bitte etwas Geduld, es kann einige Sekunden dauern, die Datei zu verarbeiten. </target>
   <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">29</context>
@@ -677,7 +677,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="IsS2S" datatype="html">
         <source> Is S2S? </source>
-      <target> S2S-QSO? </target>
+      <target> S2S-QSO </target>
   <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">85</context>
@@ -685,7 +685,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="IsI18N" datatype="html">
         <source> Is Chaser Entry? </source>
-       <target> Jäger-QSO? </target>
+       <target> Jäger-QSO </target>
  <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">89</context>
@@ -701,7 +701,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Cancel" datatype="html">
         <source>Cancel</source>
-         <target>Abbruch</target>
+         <target>Abbrechen</target>
        <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">97</context>
@@ -742,7 +742,7 @@ and spirit of the SOTA Programme. I agree that the decision of the
 Management Team will be final in any case of dispute.
 </source>
         <target>
-Mit dem Hochladen des Logs bestätige ich, dass ich die Aktivierung in Einklang mit den SOTA-Regeln und im Sinne des Programms durchgeführt habe. Ich erkenne außerdem an, dass das Management Team im Fall etwaiger Streitfälle immer das letzte Wort hat.
+Mit dem Hochladen des Logs bestätige ich, dass ich die Aktivierung in Einklang mit den SOTA-Regeln und im Sinne des Programms durchgeführt habe. Ich erkenne außerdem an, dass das Management Team bei etwaigen Streitfällen immer das letzte Wort hat.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
