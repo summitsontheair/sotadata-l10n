@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id="MyActivatorUniques" datatype="html">
         <source>My Activator Uniques</source>
-        <target>Mis Unicos Activados/target>
+        <target>Mis Unicos Activados</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">93</context>
@@ -747,8 +747,8 @@ del programa.
         </context-group>
       </trans-unit>
       <trans-unit id="awardsMG" datatype="html">
-        <source>You are a Mountain Goat with <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> points.</source>
-        <target>Ha alcanzado el nivel Cabra Montesa con <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> puntos.</target>
+        <source>You are a Mountain Goat with</source>
+        <target>Ha alcanzado el nivel Cabra Montesa con</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
           <context context-type="linenumber">6</context>
