@@ -778,8 +778,8 @@ Razumem da so dosežki, prikazani na tej spletni strani, le informativnega znač
 				</context-group>
 			</trans-unit>
 			<trans-unit id="awardsMG" datatype="html">
-				<source>You are a Mountain Goat with <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> points.</source>
-				<target>Z <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> točkami si dosegel naslov "Mountain Goat".</target>
+				<source>You are a Mountain Goat with .</source>
+				<target>Si dosegel naslov "Mountain Goat".</target>
 				<context-group purpose="location">
 					<context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
 					<context context-type="linenumber">6</context>
