@@ -568,7 +568,7 @@ Mehr Informationen über SOTA in Deiner Gegend auf <x id="START_LINK" ctype="x-a
         <source>
 Please help us to keep this page up-to-date by regularly submitting your SOTA logs.</source>
         <target state="new">
-Please help us to keep this page up-to-date by regularly submitting your SOTA logs.</target>
+Die Datenbank lebt vom Mitmachen. Bitte ladet Eure SOTA-Logs regelmäßig hoch.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">4</context>
@@ -592,7 +592,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Association" datatype="html">
         <source>Association</source>
-        <target state="new">Association</target>
+        <target state="new">Assoziation</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">10</context>
@@ -680,7 +680,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Year" datatype="html">
         <source>Year</source>
-        <target state="new">Year</target>
+        <target state="new">Jahr</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">24</context>
@@ -1163,7 +1163,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Modes" datatype="html">
         <source>Modes</source>
-        <target state="new">Modes</target>
+        <target state="new">Betriebsarten</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">35</context>
@@ -1203,7 +1203,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="DatabaseStatistics" datatype="html">
         <source>Database statistics</source>
-        <target state="new">Database statistics</target>
+        <target state="new">Statistiken Datenbank</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">5</context>
@@ -1211,7 +1211,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="RegisteredUsers" datatype="html">
         <source>Registered Users</source>
-        <target state="new">Registered Users</target>
+        <target state="new">Registrierte Nutzer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">8</context>
@@ -1219,7 +1219,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Associations" datatype="html">
         <source>Associations</source>
-        <target state="new">Associations</target>
+        <target state="new">Assoziationen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">11</context>
@@ -1227,7 +1227,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Regions" datatype="html">
         <source>Regions</source>
-        <target state="new">Regions</target>
+        <target state="new">Regionen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">14</context>
@@ -1235,7 +1235,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="WebpageHits" datatype="html">
         <source>Webpage Hits since 10 Jan 2004</source>
-        <target state="new">Webpage Hits since 10 Jan 2004</target>
+        <target state="new">Seitenaufrufe seit 10. Januar 2004</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">20</context>
@@ -1243,7 +1243,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ActivatorStatistics" datatype="html">
         <source>Activator statistics</source>
-        <target state="new">Activator statistics</target>
+        <target state="new">Statistiken Aktivierer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">25</context>
@@ -1251,7 +1251,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="NumberActivators" datatype="html">
         <source>Number of Activators</source>
-        <target state="new">Number of Activators</target>
+        <target state="new">Anzahl Aktivierer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">28</context>
@@ -1259,7 +1259,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ActivatedSummits" datatype="html">
         <source>Activated Summits</source>
-        <target state="new">Activated Summits</target>
+        <target state="new">Aktivierte Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">31</context>
@@ -1267,7 +1267,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="NumberActivations" datatype="html">
         <source>Number of Activations</source>
-        <target state="new">Number of Activations</target>
+        <target state="new">Anzahl Aktivierungen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">34</context>
@@ -1275,7 +1275,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="NumberQSOs" datatype="html">
         <source>Number of QSOs</source>
-        <target state="new">Number of QSOs</target>
+        <target state="new">Anzahl QSOs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">37</context>
@@ -1283,7 +1283,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="TotalActivatorPoints" datatype="html">
         <source>Total Activator Points</source>
-        <target state="new">Total Activator Points</target>
+        <target state="new">Gesamtpunkte Aktivierer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">40</context>
@@ -1291,7 +1291,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ActivatorQSOsByMode" datatype="html">
         <source>Activator QSOs by Mode</source>
-        <target state="new">Activator QSOs by Mode</target>
+        <target state="new">Aktivierer-QSOs nach Betriebsart</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">44</context>
@@ -1299,7 +1299,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ActivatorQSOsByBand" datatype="html">
         <source>Activator QSOs by Band</source>
-        <target state="new">Activator QSOs by Band</target>
+        <target state="new">Aktivierer-QSOs nach Band</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">52</context>
@@ -1307,7 +1307,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Chasers" datatype="html">
         <source>Chasers</source>
-        <target state="new">Chasers</target>
+        <target state="new">Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">61</context>
@@ -1315,7 +1315,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="NumberOfChasers" datatype="html">
         <source>Number of Chasers</source>
-        <target state="new">Number of Chasers</target>
+        <target state="new">Anzahl Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">64</context>
@@ -1323,7 +1323,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ChaserActivators" datatype="html">
         <source>Chasers who are also activators</source>
-        <target state="new">Chasers who are also activators</target>
+        <target state="new">Schnittmenge Jäger/Aktivierer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">67</context>
@@ -1331,7 +1331,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="NumberChaserContacts" datatype="html">
         <source>Number of Chaser Contacts</source>
-        <target state="new">Number of Chaser Contacts</target>
+        <target state="new">Anzahl Jäger-QSOs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">70</context>
@@ -1339,7 +1339,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="TotalChaserPoints" datatype="html">
         <source>Total Chaser Points</source>
-        <target state="new">Total Chaser Points</target>
+        <target state="new">Gesamtpunkte Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">73</context>
@@ -1355,7 +1355,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="S2SContacts" datatype="html">
         <source>Summit to Summit Contacts</source>
-        <target state="new">Summit to Summit Contacts</target>
+        <target state="new">Summit to Summit-Kontakte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">81</context>
@@ -1363,7 +1363,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="S2SPoints" datatype="html">
         <source>Summit to Summit Points</source>
-        <target state="new">Summit to Summit Points</target>
+        <target state="new">Summit to Summit Punkte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">84</context>
@@ -1643,7 +1643,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="UniqueSummits" datatype="html">
         <source> Unique Summits </source>
-        <target state="new"> Unique Summits </target>
+        <target state="new"> Uniques </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">54</context>
@@ -1655,7 +1655,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="TotalSummits" datatype="html">
         <source> Total Summits </source>
-        <target state="new"> Total Summits </target>
+        <target state="new"> Anzahl Gipfel </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">58</context>
@@ -1675,7 +1675,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="PercentUnique" datatype="html">
         <source> Percent Unique </source>
-        <target state="new"> Percent Unique </target>
+        <target state="new"> Uniques % </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">62</context>
@@ -1831,7 +1831,7 @@ Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur inform
       </trans-unit>
       <trans-unit id="TimeUTC" datatype="html">
         <source>Time (UTC)</source>
-        <target state="new">Time (UTC)</target>
+        <target state="new">Uhrzeit (UTC)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">67</context>
@@ -1859,7 +1859,7 @@ Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur inform
       </trans-unit>
       <trans-unit id="ActivationStatistics" datatype="html">
         <source>Activation Statistics</source>
-        <target state="new">Activation Statistics</target>
+        <target state="new">Statistiken Aktivierung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">2</context>
@@ -1867,7 +1867,7 @@ Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur inform
       </trans-unit>
       <trans-unit id="Score" datatype="html">
         <source>Score</source>
-        <target state="new">Score</target>
+        <target state="new">Punkte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">5</context>
@@ -3820,7 +3820,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="ChaserCallsignsUsed" datatype="html">
         <source> Chaser Callsigns Used </source>
-        <target state="new"> Benutze Rufzeichen (Jäger)</target>
+        <target state="new"> Benutze Rufzeichen Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">99</context>
@@ -3828,7 +3828,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="ChasedAssocsRegions" datatype="html">
         <source>Chased associations and regions</source>
-        <target state="new">Gearbeitete Assoziationen und Regionen (Jäger)</target>
+        <target state="new">Gearbeitete Assoziationen und Regionen Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">106</context>
@@ -4716,7 +4716,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Previous500" datatype="html">
         <source>Previous 500</source>
-        <target state="new">500 zurück</target>
+        <target state="new">500 Einträge zurück</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">9</context>
@@ -4736,7 +4736,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Next500" datatype="html">
         <source>Next 500</source>
-        <target state="new">500 vor</target>
+        <target state="new">500 einträge vor</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">10</context>
