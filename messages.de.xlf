@@ -192,7 +192,7 @@
       </trans-unit>
       <trans-unit id="1st12mActivator" datatype="html">
         <source>1st 12m Challenge Activator Roll of Honour</source>
-        <target>1. 12m Challenge - Aktivierer</target>
+        <target>Erste 12m Challenge - Aktivierer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">74</context>
@@ -204,7 +204,7 @@
       </trans-unit>
       <trans-unit id="1st12mChaser" datatype="html">
         <source>1st 12m Challenge Chaser Roll of Honour</source>
-        <target>1. 12m Challenge - Jäger</target>
+        <target>Erste 12m Challenge - Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">77</context>
@@ -216,7 +216,7 @@
       </trans-unit>
       <trans-unit id="1st610Activator" datatype="html">
         <source>1st 6m/10m Challenge Activator Roll of Honour</source>
-        <target>1. 6m/10m Challenge - Aktivierer</target>
+        <target>Erste 6m/10m Challenge - Aktivierer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">80</context>
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="1st610Chaser" datatype="html">
         <source>1st 6m/10m Challenge Chaser Roll of Honour</source>
-        <target>1. 6m/10m Challenge - Jäger</target>
+        <target>Erste 6m/10m Challenge - Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">83</context>
@@ -485,7 +485,7 @@ Willkommen in der SOTA-Datenbank!</target>
         <source>
 Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
 </source>
-        <target> Das Diplomprogramm Summits on the Air (SOTA, deutsch: Gipfel auf Sendung) richtet sich an Funkamateure,  die gerne draußen sind und gerne Bergwandern: Pack' Dein Funkgerät ein und mach’ auf dem Gipfel eines Berges Betrieb!
+        <target> Das Diplomprogramm Summits on the Air (SOTA, deutsch: Gipfel auf Sendung) richtet sich an Funkamateure,  die gerne draußen sind und in den Bergen wandern: Pack' Dein Funkgerät ein und mach’ auf dem Gipfel eines Berges Betrieb!
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -4232,7 +4232,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="1st610mChaser" datatype="html">
         <source>First 6/10m Challenge Chaser Results</source>
-        <target state="new">1. 6/10m Challenge Jäger</target>
+        <target state="new">Erste 6/10m Challenge Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
           <context context-type="linenumber">1</context>
