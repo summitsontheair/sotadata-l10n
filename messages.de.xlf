@@ -590,6 +590,302 @@ Die Datenbank lebt vom Mitmachen. Bitte ladet Eure SOTA-Logs regelmäßig hoch.<
           <context context-type="linenumber">4</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="AllAssociations" datatype="html">
+        <source>All Associations</source>
+        <target state="new">All Associations</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/first12m-activator/first12m-activator.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/first12m-chaser/first12m-chaser.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="All" datatype="html">
+        <source>All</source>
+        <target state="new">All</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="Association" datatype="html">
         <source>Association</source>
         <target state="new">Assoziation</target>
@@ -604,6 +900,10 @@ Die Datenbank lebt vom Mitmachen. Bitte ladet Eure SOTA-Logs regelmäßig hoch.<
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
+          <context context-type="linenumber">7</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
@@ -1457,6 +1757,10 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
           <context context-type="linenumber">61</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
           <context context-type="linenumber">27</context>
         </context-group>
@@ -1587,6 +1891,10 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">77</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
+          <context context-type="linenumber">42</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
@@ -1829,6 +2137,14 @@ Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur inform
           <context context-type="linenumber">124</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="SelectAssociation" datatype="html">
+        <source>Select Association</source>
+        <target state="new">Select Association</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="TimeUTC" datatype="html">
         <source>Time (UTC)</source>
         <target state="new">Uhrzeit (UTC)</target>
@@ -1842,7 +2158,7 @@ Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur inform
         </context-group>
       </trans-unit>
       <trans-unit id="awardsMG" datatype="html">
-        <source>You are a Mountain Goat with</source>
+        <source>You are a Mountain Goat with <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> points.</source>
         <target>Du bist Mountain Goat mit</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
@@ -2321,6 +2637,10 @@ Klicke "Löschen" oder "Abbruch".
         <source>Region</source>
         <target state="new">Region</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">10</context>
         </context-group>
@@ -2351,6 +2671,22 @@ Klicke "Löschen" oder "Abbruch".
         <context-group purpose="location">
           <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
           <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="SelectRegion" datatype="html">
+        <source>Select Region</source>
+        <target state="new">Select Region</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="SelectSummit" datatype="html">
+        <source>Select Summit</source>
+        <target state="new">Select Summit</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
+          <context context-type="linenumber">34</context>
         </context-group>
       </trans-unit>
       <trans-unit id="BySummitRef" datatype="html">
@@ -2597,6 +2933,270 @@ Danke, dass Du bei SOTA mitmachst!
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
           <context context-type="linenumber">167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Last6Months" datatype="html">
+        <source>Last 6 Months</source>
+        <target state="new">Last 6 Months</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Last12Months" datatype="html">
+        <source>Last 12 Months</source>
+        <target state="new">Last 12 Months</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-log/activator-log.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Jan" datatype="html">
+        <source>Jan</source>
+        <target state="new">Jan</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-log/activator-log.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-log/activator-log.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Dec" datatype="html">
+        <source>Dec</source>
+        <target state="new">Dec</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-log/activator-log.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-log/activator-log.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context>
+          <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Order" datatype="html">
@@ -3095,7 +3695,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       <trans-unit id="csvDate" datatype="html">
         <source>The date of the QSO.
               Most date formats are accepted but be careful about USA vs. International date
-              format.  Use of International date format (DD/MM/YY) is recommended</source>
+              format.  Use of International date format (DD/MM/YY) is recommended</source>
         <target>Datum des QSOs.
               Die Eingabe ist in den meisten Datumsformaten möglich, aber das internationale Format (TT/MM/JJ) wird empfohlen. Bei US-Datumsformat (MM/TT/JJ) besteht Verwechselungsgefahr! </target>
         <context-group purpose="location">
@@ -3123,7 +3723,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csvOtherCall" datatype="html">
         <source>The callsign of the <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
-                station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</source>
+                station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</source>
         <target>Das Rufzeichen der  <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
@@ -3162,8 +3762,8 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csv9" datatype="html">
         <source>The easiest way to
-        create your TSV/CSV file is using Excel.  This allows you to arrange your
-        log data in columns then save it as either a TSV or CSV file.  Either is
+        create your TSV/CSV file is using Excel.  This allows you to arrange your
+        log data in columns then save it as either a TSV or CSV file.  Either is
         accepted by the SOTA program.</source>
         <context-group purpose="location">
           <target>Man erzeugt eine CSV- oder TSV-Datei am besten mit Excel. Man kann alle Logdaten in  Spalten sortieren und die Tabelle als CSV oder TSV speichern. Der SOTA-Server unterstützt beide Formate. </target>
@@ -3181,7 +3781,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csv10" datatype="html">
         <source>Spaces in the
-            callsigns.  Our callsigns do not have spaces in them!</source>
+            callsigns.  Our callsigns do not have spaces in them!</source>
         <target>Leerzeichen im Rufzeichen. Amateurfunk-Rufzeichen  enthalten keine Leerzeichen.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
@@ -3190,7 +3790,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csv11" datatype="html">
         <source>Date or time out of
-            order.  The input parser will show an error if the log is not in
+            order.  The input parser will show an error if the log is not in
             sequential order</source>
         <target>Datum und Uhrzeit sind durcheinander geraten. Der Upload-Parser zeigt einen Fehler an, wenn die Logeinträge nicht in der korrekten Reihenfolge gespeichert sind. </target>
         <context-group purpose="location">
@@ -3200,7 +3800,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csv12" datatype="html">
         <source>Errors in the SOTA
-            reference number.  Spaces in the reference, leaving off the ITU prefix, or
+            reference number.  Spaces in the reference, leaving off the ITU prefix, or
             specifying a reference that does not exist will all result in an error being
             reported.</source>
         <target>Fehler in der SOTA-Referenz. Leerzeichen in der Referenz, ein vergessener ITU-Präfix oder ungültige Referenzen erzeugen eine Fehlermeldung. </target>
@@ -4162,28 +4762,168 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
         <source>All Bands</source>
         <target state="new">Alle Bänder</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
           <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/award-check/award-check.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/award-check-activator/award-check-activator.component.html</context>
+          <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit>
       <trans-unit id="AllModes" datatype="html">
         <source>All Modes</source>
         <target state="new">Alle Betriebsarten</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
           <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/award-check/award-check.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/award-check-activator/award-check-activator.component.html</context>
+          <context context-type="linenumber">15</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Show" datatype="html">
         <source>Show</source>
         <target state="new">Anzeigen</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
           <context context-type="linenumber">40</context>
         </context-group>
         <context-group purpose="location">
+          <context context-type="sourcefile">app/activator-log/activator-log.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/first12m-activator/first12m-activator.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/first12m-chaser/first12m-chaser.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context>
           <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/award-check/award-check.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/award-check-activator/award-check-activator.component.html</context>
+          <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit>
       <trans-unit id="StationsHeard" datatype="html">
@@ -4323,8 +5063,12 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
         </context-group>
       </trans-unit>
       <trans-unit id="ActivationDate" datatype="html">
-        <source> Activation Date </source>
+        <source>Date of activation</source>
         <target state="new"> Datum der Aktivierung </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-sota-complete/my-sota-complete.component.html</context>
           <context context-type="linenumber">26</context>
@@ -4332,6 +5076,14 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
         <context-group purpose="location">
           <context context-type="sourcefile">app/completes-show/completes-show.component.html</context>
           <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ChooseADate" datatype="html">
+        <source>Choose a date</source>
+        <target state="new">Choose a date</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
+          <context context-type="linenumber">53</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ChasedDate" datatype="html">
