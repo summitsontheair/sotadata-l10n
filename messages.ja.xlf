@@ -484,7 +484,7 @@ Welcome to the Worldwide Summits On The Air database service.
         <source>
 Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
 </source>
-        <target>SOTA (Summit on the Air) はアマチュア無線の山岳移動アワードプログラムです。</target>
+        <target>SOTA (Summits on the Air) はアマチュア無線の山岳移動アワードプログラムです。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">5</context>
@@ -3977,8 +3977,7 @@ SOTAプログラムに参加していただきありがとうございました
       <trans-unit id="SummitsListCSV" datatype="html">
         <source>NOTE : You can download a CSV file containing a list of all summits by clicking <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
     </source>
-        <target>備考:<x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>こちら<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>をクリックすると全ての山岳リストが入ったCSVファイルをダウンロードすることができます。"/>
-    </target>
+        <target>備考:<x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>こちら<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>をクリックすると全ての山岳リストが入ったCSVファイルをダウンロードすることができます。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">99</context>
