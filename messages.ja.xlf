@@ -746,7 +746,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="csvUp1" datatype="html">
         <source>
-You can use this page to perform a bulk upload of many Activator Entries at 
+You can use this page to perform a bulk upload of many Activator Entries at
 once. This page is intended for more experienced users only.
 </source>
         <target>このページはエキスパート専用です。このページからはアクティベータのログをまとめてアップロードすることができます。</target>
@@ -766,7 +766,7 @@ once. This page is intended for more experienced users only.
       </trans-unit>
       <trans-unit id="csvUp3" datatype="html">
         <source>
-If however you only have a dozen or less entries, it will probably be easier 
+If however you only have a dozen or less entries, it will probably be easier
 to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web page.
 </source>
         <target>登録するログが少ない場合は通常のログ登録ページからの登録が簡単です。<x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>アクティベートログ登録<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> のページ</target>
@@ -785,8 +785,8 @@ to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activa
       </trans-unit>
       <trans-unit id="csvUpInst1" datatype="html">
         <source>
-	Create a CSV or TSV file containing all your entries. These can be for any number of activations. The file can be generated using a text editor such as 
-NOTEPAD, or can be exported from many other programs, such as Microsoft Excel. 
+	Create a CSV or TSV file containing all your entries. These can be for any number of activations. The file can be generated using a text editor such as
+NOTEPAD, or can be exported from many other programs, such as Microsoft Excel.
 The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> for details of the format of the CSV file that we require.</source>
         <target>
 	はじめに登録したいログデータのCSVデータ、もしくはTSVデータを作成します。登録するQSOデータ数に上限はありません。CSVもしくはTSVデータは「ノートパッド」のようなテキストエディタで作成します。もしくは「マイクロソフトエクセル」のようなプログラムからデータを作成することもできます。
@@ -2393,7 +2393,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="WebpageHits" datatype="html">
         <source>Webpage Hits since 10 Jan 2004</source>
-        <target>Webpage Hits since 10 Jan 2004</target>
+        <target>ページヒット数(2004年1月10日から)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">20</context>
