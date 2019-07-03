@@ -92,7 +92,7 @@
       </trans-unit>
       <trans-unit id="ActivatorRollOfHonour" datatype="html">
         <source>Activator Roll of Honour</source>
-        <target>Aktivierer - Ewige Bestenliste</target>
+        <target>Aktivierer - Bestenliste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">36</context>
@@ -116,7 +116,7 @@
       </trans-unit>
       <trans-unit id="ChaserRollOfHonour" datatype="html">
         <source>Chaser Roll of Honour</source>
-        <target>Jäger - Ewige Bestenliste</target>
+        <target>Jäger - Bestenliste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">44</context>
@@ -140,7 +140,7 @@
       </trans-unit>
       <trans-unit id="S2SRollOfHonour" datatype="html">
         <source>Summit to Summit Roll of Honour</source>
-        <target>Summit to Summit - Ewige Bestenliste</target>
+        <target>Summit to Summit - Bestenliste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">52</context>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="SOTACompleteRoll" datatype="html">
         <source>SOTA Complete Roll of Honour</source>
-        <target>SOTA komplettiert - Ewige Bestenliste</target>
+        <target>SOTA Complete - Bestenliste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">56</context>
@@ -164,7 +164,7 @@
       </trans-unit>
       <trans-unit id="SWLRoll" datatype="html">
         <source>SWL Roll of Honour</source>
-        <target>SWL - Ewige Bestenliste</target>
+        <target>SWL - Bestenliste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">60</context>
@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id="MyResults" datatype="html">
         <source>My Results</source>
-        <target>Dein SOTA-Log</target>
+        <target>Mein SOTA-Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">68</context>
@@ -236,7 +236,7 @@
       </trans-unit>
       <trans-unit id="MyActivatorLog" datatype="html">
         <source>My Activator Log</source>
-        <target>Deine Aktivierungen</target>
+        <target>Meine Aktivierungen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">89</context>
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="MyActivatorUniques" datatype="html">
         <source>My Activator Uniques</source>
-        <target>Deine Aktivierungen - Uniques</target>
+        <target>Meine Aktivierungen - Uniques</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">93</context>
@@ -260,7 +260,7 @@
       </trans-unit>
       <trans-unit id="MyActivatorRegions" datatype="html">
         <source>My Activator Regions</source>
-        <target>Deine aktivierten Regionen</target>
+        <target>Meine aktivierten Regionen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">97</context>
@@ -272,7 +272,7 @@
       </trans-unit>
       <trans-unit id="MyChaserLog" datatype="html">
         <source>My Chaser Log</source>
-        <target>Dein Jägerlog</target>
+        <target>Mein Jägerlog</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">101</context>
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit id="MyChaserUniques" datatype="html">
         <source>My Chaser Uniques</source>
-        <target>Dein Jägerlog - Uniques</target>
+        <target>Mein Jägerlog - Uniques</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">105</context>
@@ -296,7 +296,7 @@
       </trans-unit>
       <trans-unit id="MyChaserRegions" datatype="html">
         <source>My Chaser Regions</source>
-        <target>Dein Jägerlog - Regionen</target>
+        <target>Mein Jägerlog - Regionen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">109</context>
@@ -304,7 +304,7 @@
       </trans-unit>
       <trans-unit id="MyS2SLog" datatype="html">
         <source>My S2S Log</source>
-        <target>Dein S2S-Log</target>
+        <target>Mein S2S-Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">113</context>
@@ -316,7 +316,7 @@
       </trans-unit>
       <trans-unit id="MySOTAComplete" datatype="html">
         <source>My SOTA Complete Log</source>
-        <target>Deine komplettierten Gipfel</target>
+        <target>Mein SOTA Complete</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">117</context>
@@ -324,7 +324,7 @@
       </trans-unit>
       <trans-unit id="MyMicrowaveActivator" datatype="html">
         <source>My Microwave Activator Log</source>
-        <target>Dein Mikrowellen-Log Aktivierer</target>
+        <target>Mein Mikrowellen Aktivierer-Log </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">121</context>
@@ -336,7 +336,7 @@
       </trans-unit>
       <trans-unit id="MyMicrowaveChaser" datatype="html">
         <source>My Microwave Chaser Log</source>
-        <target>Dein Mikrowellen-Log Jäger</target>
+        <target>Mein Mikrowellen Jäger-Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">125</context>
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="MyMicrowaveS2S" datatype="html">
         <source>My Microwave S2S Log</source>
-        <target>Dein Mikrowellen-Log S2S</target>
+        <target>Mein Mikrowellen S2S-Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">129</context>
@@ -360,7 +360,7 @@
       </trans-unit>
       <trans-unit id="MySWLLog" datatype="html">
         <source>My SWL Log</source>
-        <target>Dein SWL-Log</target>
+        <target>Mein SWL-Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">133</context>
@@ -372,7 +372,7 @@
       </trans-unit>
       <trans-unit id="MyAwards" datatype="html">
         <source>My Awards</source>
-        <target>Deine Diplome</target>
+        <target>Meine Diplome</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">137</context>
@@ -384,7 +384,7 @@
       </trans-unit>
       <trans-unit id="MyStatistics" datatype="html">
         <source>My Statistics</source>
-        <target>Deine Statistiken</target>
+        <target>Meine Statistiken</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">141</context>
@@ -485,7 +485,7 @@ Willkommen in der SOTA-Datenbank!</target>
         <source>
 Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
 </source>
-        <target> Das Diplomprogramm Summits on the Air (SOTA, deutsch: Gipfel auf Sendung) richtet sich an Funkamateure,  die gerne draußen sind und in den Bergen wandern: Pack' Dein Funkgerät ein und mach’ auf dem Gipfel eines Berges Betrieb!
+        <target>Das Diplomprogramm Summits on the Air (SOTA, deutsch: Gipfel auf Sendung) richtet sich an Funkamateure welche gerne draußen unterwegs sind und auf Bergen Funkbetrieb machen.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -497,7 +497,7 @@ Summits on the Air is a programme that encourages radio amateurs who enjoy hill 
 An award scheme recognises those who activate the summits and also those that make QSOs with the activators. The programme can be operated anywhere in the world.
 </source>
         <target>
-Es gibt Diplome für Aktivierer, die vom Berg Betrieb machen und Diplome für Jäger, die QSOs mit den Aktivierern haben. An SOTA kann man überall auf der Welt teilnehmen.
+Es gibt Diplome für Aktivierer welche vom Berg aus Betrieb machen und Diplome für Jäger die QSOs mit den Aktivierern haben. Ein S2S (Summit-to-summit, dt. Gipfel zu Gipfel) wird extra gewertet und ist meist der Höhepunkt eine Aktivierung. An SOTA kann man überall auf der Welt teilnehmen.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -509,7 +509,7 @@ Es gibt Diplome für Aktivierer, die vom Berg Betrieb machen und Diplome für J�
 For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>http://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
 </source>
         <target>
-Mehr Informationen über SOTA in Deiner Gegend auf <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>http://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+Mehr Informationen über SOTA in meiner Gegend auf <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>http://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -518,7 +518,7 @@ Mehr Informationen über SOTA in Deiner Gegend auf <x id="START_LINK" ctype="x-a
       </trans-unit>
       <trans-unit id="SOTACompetition" datatype="html">
         <source>SOTA is not inherently a competitive activity, it's about individual aspirations and working towards a goal at your own pace. However, it can be fun to see how your progress compares with that of others, hence we publish our Honour Roll on the internet.</source>
-        <target>SOTA ist grundsätzlich kein Wettbewerb. Es geht um den Antrieb, ein selbstgesetztes Ziel in der selbstgewählten Geschwindigkeit zu erreichen. Trotzdem ist es natürlich interessant, seinen eigenen Fortschritt mit dem anderer zu vergleichen. Deshalb wird die ewige Bestenliste im Internet veröffentlicht. </target>
+        <target>SOTA ist grundsätzlich kein Wettbewerb. Es geht um den eigenen Antrieb und Motivation ein selbstgesetzten Ziel zu erreichen. Trotzdem ist es natürlich spannend seinen eigenen Fortschritt mit dem anderen zu vergleichen. Deshalb werden die Bestenlisten hier veröffentlicht. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">3</context>
@@ -1074,12 +1074,10 @@ Auf dieser Seite können mehrere Logs auf einmal hochgeladen werden. Nur für er
         </context-group>
       </trans-unit>
       <trans-unit id="csvUp3" datatype="html">
-        <source>
-If however you only have a dozen or less entries, it will probably be easier 
+        <source>If however you only have a dozen or less entries, it will probably be easier 
 to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web page.
 </source>
-        <target>
-Bei nur einer Handvoll QSOs oder so ist die manuelle <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Logeingabe<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> besser.
+        <target>Bei nur wenigen QSOs ist die manuelle <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Logeingabe<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> empfohlen.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -1100,20 +1098,16 @@ Bei nur einer Handvoll QSOs oder so ist die manuelle <x id="START_LINK" ctype="x
 NOTEPAD, or can be exported from many other programs, such as Microsoft Excel. 
 The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> for details of the format of the CSV file that we require.</source>
         <target>
-	Zuerst muss eine CSV- oder TSV-Datei erzeugt werden, die alle Logeinträge enthält. Dabei können mehrere Aktivierungen in einer Datei zusammengefasst werden. Die Datei lässt sich mit einem beliebigen Texteditor erzeugen, zum Beispiel
-NOTEPAD oder vielen anderen Programmen, auch Microsoft Excel.
-
-Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespeichert werden.   <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Hier<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> gibt es nähere Infos über das geforderte CSV-Format. </target>
+	Zuerst muss eine CSV- oder TSV-Datei erzeugt werden, die alle Logeinträge enthält. Dabei können mehrere Aktivierungen und Chases in einer Datei zusammengefasst werden. Die Datei lässt sich mit einem beliebigen Texteditor erzeugen, zum Beispiel
+NOTEPAD oder auch Microsoft Excel. Weiters gibt es Logprogramme wie z.B.: Fast log entry, Log4OM, VK port-a-log für Android. Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespeichert werden.   <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Hier<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> gibt es nähere Infos über das geforderte CSV-Format. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit>
       <trans-unit id="csvUpInst2" datatype="html">
-        <source>
-	If you are unsure what a CSV or TSV file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source>
-        <target>
-	Wer nicht weiß, was TSV- oder CSV-Dateien sind, benutzt am besten die manuelle  <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Logeingabe<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> .</target>
+        <source>If you are unsure what a CSV or TSV file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source>
+        <target> Wer nicht weiß, was TSV- oder CSV-Dateien sind, benutzt am besten die manuelle  <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Logeingabe<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> .</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">24</context>
@@ -1143,7 +1137,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="selectCSV" datatype="html">
         <source>Select CSV File:</source>
-        <target>CSV-Datei auswählen:</target>
+        <target>CSV-Datei auswählen: </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">34</context>
@@ -1343,7 +1337,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Band" datatype="html">
         <source>Band</source>
-        <target> Band </target>
+        <target>Band</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">29</context>
@@ -1875,7 +1869,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Duplicate" datatype="html">
         <source> Duplicate? </source>
-        <target> Doppel-QSO? </target>
+        <target> Duplikat? </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">73</context>
@@ -1999,7 +1993,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="IsS2S" datatype="html">
         <source> Is S2S? </source>
-        <target> S2S-QSO </target>
+        <target> War S2S? </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">85</context>
@@ -2076,7 +2070,7 @@ and spirit of the SOTA Programme. I agree that the decision of the
 Management Team will be final in any case of dispute.
 </source>
         <target>
-Mit dem Hochladen des Logs bestätige ich, dass ich die Aktivierung in Einklang mit den SOTA-Regeln und im Sinne des Programms durchgeführt habe. Ich erkenne außerdem an, dass das Management Team bei etwaigen Streitfällen immer das letzte Wort hat.
+Mit dem Hochladen des Logs bestätige ich, dass ich die QSO im Einklang mit den SOTA-Regeln und im Sinne des Programms durchgeführt habe. Ich erkenne außerdem an, dass das Management Team bei etwaigen Streitfällen immer das letzte Wort hat.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -2098,7 +2092,7 @@ and that entries may be subject to verification and adjustment by the award
 administrators.
 </source>
         <target>
-Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur informativen Charakter haben und dass alle Einträge von den Administratoren des Diplomprogramms jederzeit überprüft und verändert werden können.
+Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur informativen Charakter haben und dass alle Einträge von den Administratoren des Diplomprogramms jederzeit überprüft und korrigiert werden können.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -2139,7 +2133,7 @@ Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur inform
       </trans-unit>
       <trans-unit id="SelectAssociation" datatype="html">
         <source>Select Association</source>
-        <target state="new">Select Association</target>
+        <target state="new">Wähle Assoziation</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">11</context>
@@ -2159,7 +2153,7 @@ Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur inform
       </trans-unit>
       <trans-unit id="awardsMG" datatype="html">
         <source>You are a Mountain Goat with <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> points.</source>
-        <target>Du bist Mountain Goat mit</target>
+        <target>Du bist Mountain Goat mit <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> Punkten.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
           <context context-type="linenumber">6</context>
@@ -2881,7 +2875,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="MySummitDetails" datatype="html">
         <source>My summit details</source>
-        <target state="new">Deine Gipfelinfos</target>
+        <target state="new">Meine Gipfelinfos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
           <context context-type="linenumber">106</context>
@@ -3651,7 +3645,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="AltFt" datatype="html">
         <source> Alt (ft) </source>
-        <target state="new"> Höhe (ft) </target>
+        <target state="new"> Höhe (feet) </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3667,7 +3661,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="MyCallsign" datatype="html">
         <source>My Callsign</source>
-        <target>Dein Rufzeichen</target>
+        <target>Mein Rufzeichen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3792,7 +3786,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
         <source>Date or time out of
             order.  The input parser will show an error if the log is not in
             sequential order</source>
-        <target>Datum und Uhrzeit sind durcheinander geraten. Der Upload-Parser zeigt einen Fehler an, wenn die Logeinträge nicht in der korrekten Reihenfolge gespeichert sind. </target>
+        <target>Datum+Uhrzeit sind nicht aufsteigend sortiert. Der Upload-Parser zeigt einen Fehler an, wenn die Logeinträge nicht in der korrekten Reihenfolge gespeichert sind. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">271</context>
@@ -4172,7 +4166,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="ActivatorCallsignsUsed" datatype="html">
         <source> Activator Callsigns Used </source>
-        <target state="new"> Benutze Rufzeichen </target>
+        <target state="new"> Benutze Rufzeichen (Aktivierer) </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">17</context>
@@ -4196,7 +4190,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="MyTopActivatedSummits" datatype="html">
         <source>My top activated summits</source>
-        <target state="new">Am häufigsten aktivierte Gipfel</target>
+        <target state="new">Meine meist aktivierte Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">45</context>
@@ -4420,7 +4414,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="ChaserCallsignsUsed" datatype="html">
         <source> Chaser Callsigns Used </source>
-        <target state="new"> Benutze Rufzeichen Jäger</target>
+        <target state="new"> Meine Rufzeichen als Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">99</context>
@@ -4460,7 +4454,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="MyChaserRegoins" datatype="html">
         <source>My Chased Regions</source>
-        <target state="new">Gearbeitete Regionen</target>
+        <target state="new">Gejagte Regionen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-regions/my-chaser-regions.component.html</context>
           <context context-type="linenumber">1</context>
@@ -4480,7 +4474,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="MyActivatedSummits" datatype="html">
         <source> My Activated Summits </source>
-        <target state="new"> Deine aktivierten Gipfel</target>
+        <target state="new"> Meine aktivierten Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-regions/my-activator-regions.component.html</context>
           <context context-type="linenumber">13</context>
@@ -4652,7 +4646,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="ShowWhoChased" datatype="html">
         <source>Show Who Chased Me</source>
-        <target state="new">Jäger anzeigen</target>
+        <target state="new">Meine Jäger anzeigen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
           <context context-type="linenumber">4</context>
@@ -4668,7 +4662,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="FollowingQSOs" datatype="html">
         <source>The following QSOs were logged for</source>
-        <target state="new">QSOs mit </target>
+        <target state="new">QSOs mit</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
           <context context-type="linenumber">53</context>
@@ -4680,7 +4674,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="On" datatype="html">
         <source>on</source>
-        <target state="new"> auf </target>
+        <target state="new">auf</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
           <context context-type="linenumber">53</context>
@@ -4983,7 +4977,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
 Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13th February 2016
 </source>
         <target state="new">
-Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 2015 bis 13. ebruar 2016 
+Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 2015 bis 13. Februar 2016 
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
@@ -5044,7 +5038,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Number" datatype="html">
         <source> Number </source>
-        <target state="new"> Anzahl </target>
+        <target state="new"> Nummer </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">22</context>
@@ -5064,7 +5058,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="ActivationDate" datatype="html">
         <source>Date of activation</source>
-        <target state="new"> Datum der Aktivierung </target>
+        <target state="new">Datum der Aktivierung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">50</context>
@@ -5100,7 +5094,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="CompletedDate" datatype="html">
         <source> Completed Date </source>
-        <target state="new"> Komplettiert</target>
+        <target state="new"> Komplettiert am </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-sota-complete/my-sota-complete.component.html</context>
           <context context-type="linenumber">34</context>
@@ -5216,7 +5210,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="ActivatorPoints" datatype="html">
         <source> Activator Points </source>
-        <target state="new"> Aktiviererpunkte</target>
+        <target state="new"> Aktiviererpunkte </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">68</context>
@@ -5488,7 +5482,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Next500" datatype="html">
         <source>Next 500</source>
-        <target state="new">500 einträge vor</target>
+        <target state="new">500 Einträge vor</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">10</context>
@@ -5528,7 +5522,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="MySWL" datatype="html">
         <source> My SWL </source>
-        <target state="new"> Dein SWL </target>
+        <target state="new"> Mein SWL </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context>
           <context context-type="linenumber">38</context>
@@ -5572,7 +5566,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="DownloadCompleteLog" datatype="html">
         <source>Download complete log</source>
-        <target state="new">Komplettiert-Log herunterladen</target>
+        <target state="new">Gesamtes QSO Log herunterladen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context>
           <context context-type="linenumber">82</context>
