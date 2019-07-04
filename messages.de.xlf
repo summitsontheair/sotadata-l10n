@@ -2669,7 +2669,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="SelectRegion" datatype="html">
         <source>Select Region</source>
-        <target state="new">Select Region</target>
+        <target state="new">Wähle Region</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">22</context>
@@ -3027,7 +3027,7 @@ Danke, dass Du bei SOTA mitmachst!
       </trans-unit>
       <trans-unit id="Jan" datatype="html">
         <source>Jan</source>
-        <target state="new">Jan</target>
+        <target state="new">Januar</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">21</context>
@@ -3111,7 +3111,7 @@ Danke, dass Du bei SOTA mitmachst!
       </trans-unit>
       <trans-unit id="Dec" datatype="html">
         <source>Dec</source>
-        <target state="new">Dec</target>
+        <target state="new">Dezember</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">21</context>
@@ -4414,7 +4414,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="ChaserCallsignsUsed" datatype="html">
         <source> Chaser Callsigns Used </source>
-        <target state="new"> Meine Rufzeichen als Jäger</target>
+        <target state="new"> Meine Rufzeichen als Jäger </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">99</context>
