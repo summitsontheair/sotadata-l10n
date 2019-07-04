@@ -1993,7 +1993,7 @@ NOTEPAD oder auch Microsoft Excel. Weiters gibt es Logprogramme wie z.B.: Fast l
       </trans-unit>
       <trans-unit id="IsS2S" datatype="html">
         <source> Is S2S? </source>
-        <target> War S2S? </target>
+        <target> S2S? </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">85</context>
