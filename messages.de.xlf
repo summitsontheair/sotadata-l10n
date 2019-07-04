@@ -1343,7 +1343,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Band" datatype="html">
         <source>Band</source>
-        <target> Band </target>
+        <target>Band</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">29</context>
@@ -4983,7 +4983,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
 Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13th February 2016
 </source>
         <target state="new">
-Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 2015 bis 13. ebruar 2016 
+Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 2015 bis 13. Februar 2016 
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
