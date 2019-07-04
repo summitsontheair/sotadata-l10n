@@ -3695,7 +3695,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       <trans-unit id="csvDate" datatype="html">
         <source>The date of the QSO.
               Most date formats are accepted but be careful about USA vs. International date
-              format.  Use of International date format (DD/MM/YY) is recommended</source>
+              format.  Use of International date format (DD/MM/YY) is recommended</source>
         <target>Datum des QSOs.
               Die Eingabe ist in den meisten Datumsformaten möglich, aber das internationale Format (TT/MM/JJ) wird empfohlen. Bei US-Datumsformat (MM/TT/JJ) besteht Verwechselungsgefahr! </target>
         <context-group purpose="location">
@@ -3723,7 +3723,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csvOtherCall" datatype="html">
         <source>The callsign of the <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
-                station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</source>
+                station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</source>
         <target>Das Rufzeichen der  <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
@@ -3762,8 +3762,8 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csv9" datatype="html">
         <source>The easiest way to
-        create your TSV/CSV file is using Excel.  This allows you to arrange your
-        log data in columns then save it as either a TSV or CSV file.  Either is
+        create your TSV/CSV file is using Excel.  This allows you to arrange your
+        log data in columns then save it as either a TSV or CSV file.  Either is
         accepted by the SOTA program.</source>
         <context-group purpose="location">
           <target>Man erzeugt eine CSV- oder TSV-Datei am besten mit Excel. Man kann alle Logdaten in  Spalten sortieren und die Tabelle als CSV oder TSV speichern. Der SOTA-Server unterstützt beide Formate. </target>
@@ -3781,7 +3781,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csv10" datatype="html">
         <source>Spaces in the
-            callsigns.  Our callsigns do not have spaces in them!</source>
+            callsigns.  Our callsigns do not have spaces in them!</source>
         <target>Leerzeichen im Rufzeichen. Amateurfunk-Rufzeichen  enthalten keine Leerzeichen.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
@@ -3790,7 +3790,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csv11" datatype="html">
         <source>Date or time out of
-            order.  The input parser will show an error if the log is not in
+            order.  The input parser will show an error if the log is not in
             sequential order</source>
         <target>Datum und Uhrzeit sind durcheinander geraten. Der Upload-Parser zeigt einen Fehler an, wenn die Logeinträge nicht in der korrekten Reihenfolge gespeichert sind. </target>
         <context-group purpose="location">
@@ -3800,7 +3800,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csv12" datatype="html">
         <source>Errors in the SOTA
-            reference number.  Spaces in the reference, leaving off the ITU prefix, or
+            reference number.  Spaces in the reference, leaving off the ITU prefix, or
             specifying a reference that does not exist will all result in an error being
             reported.</source>
         <target>Fehler in der SOTA-Referenz. Leerzeichen in der Referenz, ein vergessener ITU-Präfix oder ungültige Referenzen erzeugen eine Fehlermeldung. </target>
@@ -3911,7 +3911,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
         </context-group>
       </trans-unit>
       <trans-unit id="ExtraInfo" datatype="html">
-        <source>Extra Info: </source>
+        <source>Extra Info:</source>
         <target state="new">Mehr Infos: </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
