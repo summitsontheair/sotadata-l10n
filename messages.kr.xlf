@@ -46,7 +46,7 @@
       </trans-unit>
       <trans-unit id="ViewResults" datatype="html">
         <source>View Results</source>
-        <target>결과 보기</target>
+        <target>결과보기</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">17</context>
@@ -67,7 +67,7 @@
       </trans-unit>
       <trans-unit id="FactsAndFigures" datatype="html">
         <source>Facts and Figures</source>
-        <target>사실과 수치</target>
+        <target>통계자료</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">41</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="ActivatorRollOfHonour" datatype="html">
