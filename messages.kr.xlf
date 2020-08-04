@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="MainTitle" datatype="html">
         <source>SOTA Results and Summits Database</source>
-        <target>SOTA Results and Summits Database</target>
+        <target>SOTA 결과 및 산정상 데이터베이스</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">9</context>
@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="Menu" datatype="html">
         <source>Menu</source>
-        <target>Menu</target>
+        <target>메뉴</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">3</context>
@@ -20,13 +20,13 @@
       </trans-unit>
       <trans-unit id="Home" datatype="html">
         <source>Home</source>
-        <target>Home</target>
+        <target>홈</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit><trans-unit id="UserAccount" datatype="html">
-        <source>User Account</source><target state="final">User Account</target>
+        <source>User Account</source><target state="최종">사용자 계정</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">13</context>
@@ -34,11 +34,11 @@
       </trans-unit>
       <trans-unit id="Login" datatype="html">
         <source>Login</source>
-        <target>Login</target>
+        <target>로그인</target>
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/login-display/login-display.component.html</context><context context-type="linenumber">2</context></context-group></trans-unit><trans-unit id="UpdateProfile" datatype="html">
-        <source>Update Profile</source><target state="final">Update Profile</target>
+        <source>Update Profile</source><target state="최종">프로파일 업데이트</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">36</context>
@@ -46,7 +46,7 @@
       </trans-unit>
       <trans-unit id="ViewResults" datatype="html">
         <source>View Results</source>
-        <target>View Results</target>
+        <target>결과 보기</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">17</context>
@@ -54,12 +54,12 @@
       </trans-unit>
       <trans-unit id="Summits" datatype="html">
         <source>Summits</source>
-        <target>Summits</target>
+        <target>산정상</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">21</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context><context context-type="linenumber">17</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context><context context-type="linenumber">57</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/list-summits/list-summits.component.html</context><context context-type="linenumber">39</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context><context context-type="linenumber">58</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context><context context-type="linenumber">64</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context><context context-type="linenumber">64</context></context-group></trans-unit>
       <trans-unit id="SubmitLogs" datatype="html">
         <source>Submit Logs</source>
-        <target>Submit Logs</target>
+        <target>로그 제출</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">25</context>
@@ -67,22 +67,22 @@
       </trans-unit>
       <trans-unit id="FactsAndFigures" datatype="html">
         <source>Facts and Figures</source>
-        <target>Facts and Figures</target>
+        <target>사실과 수치</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">41</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="ActivatorRollOfHonour" datatype="html">
         <source>Activator Roll of Honour</source>
-        <target>Activator Roll of Honour</target>
+        <target>활동자 명예의 전당</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">45</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="ActivatorUniques" datatype="html">
         <source>Activator Uniques</source>
-        <target>Activator Uniques</target>
+        <target>유일한 활동자</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">49</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="ChaserRollOfHonour" datatype="html">
         <source>Chaser Roll of Honour</source>
-        <target>Chaser Roll of Honour</target>
+        <target>추적자 명예의 전당</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">53</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="ChaserUniques" datatype="html">
