@@ -277,7 +277,7 @@
         <source>
 Welcome to the Worldwide Summits On The Air database service.
 </source>
-        <target state="최종">
+        <target state="final">
 SOTA 데이터베이스에 오신 것을 환영합니다.
 </target>
         <context-group purpose="location">
@@ -289,8 +289,8 @@ SOTA 데이터베이스에 오신 것을 환영합니다.
         <source>
 Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
 </source>
-        <target state="최종">
-SOTA (Summits on the Air) 은 아마추어 무선 산악 이동 어워드 프로그램입니다.
+        <target state="final">
+SOTA (Summits on the Air)는 언덕길 도보여행과 야외 활동을 즐기는 아마추어무선사들이 무전기를 들고 산정상에서 무선활동할 수 있도록 장려하는 프로그램이다.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -401,7 +401,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
           <context context-type="linenumber">3</context>
         </context-group>
       </trans-unit><trans-unit id="AllAssociations" datatype="html">
-        <source>All Associations</source><target state="final">All Associations</target>
+        <source>All Associations</source><target state="final">모든지역협회</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">11</context>
@@ -955,7 +955,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
           <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit><trans-unit id="Year" datatype="html">
-        <source>Year</source><target state="final">Year</target>
+        <source>Year</source><target state="final">년도</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">27</context>
@@ -1025,7 +1025,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit><trans-unit id="AllBands" datatype="html">
-        <source>All Bands</source><target state="final">All Bands</target>
+        <source>All Bands</source><target state="final">모든 주파수밴드</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">33</context>
@@ -1070,15 +1070,13 @@ once. This page is intended for more experienced users only.
 </source>
         <target state="final">
 이 페이지는 경험이 많은 사용자만을 위한 것이다.이 페이지에서는 Activator, Chaser 및 S2S 항목의 대량 로그를 정리해 업로드 할 수 있습니다.
-등록하고 싶은 QSO 로그가 대량의 경우, 이 페이지에서 업로드하면 편리합니다.
-등록하는 로그가 적은 경우는 통상의 로그 등록 페이지로부터의 등록이 간단합니다.
 </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">5</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">5</context></context-group></trans-unit>
       <trans-unit id="csvUp2" datatype="html">
         <source>If you have a large number of log entries you want to claim, this may be the fastest way of recording them
 </source>
-        <target state="final">If you have a large number of log entries you want to claim, this may be the fastest way of recording them
+        <target state="final">등록하고 싶은 QSO 로그가 대량의 경우, 이 페이지에서 업로드하면 편리합니다.
 </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">10</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">10</context></context-group></trans-unit>
@@ -1088,8 +1086,8 @@ If however you only have a dozen or less entries, it will probably be easier
 to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
 </source>
         <target state="final">
-If however you only have a dozen or less entries, it will probably be easier 
-to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
+등록하는 로그가 적은 경우는 통상의 로그 등록 페이지로부터의 등록이 간단합니다.
+<x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
 </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">13</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">13</context></context-group></trans-unit>
@@ -1104,9 +1102,9 @@ to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activa
 NOTEPAD, or can be exported from many other programs, such as Microsoft Excel. 
 The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> for details of the format of the CSV file that we require.</source>
         <target state="final">
-	Create a CSV or TSV file containing all your entries. These can be for any number of activations. The file can be generated using a text editor such as 
-NOTEPAD, or can be exported from many other programs, such as Microsoft Excel. 
-The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> for details of the format of the CSV file that we require.</target>
+	모든 항목이 포함된 CSV 또는 TSV 파일을 생성하십시오. 이것들은 어느 정도의 활성화에나 해당될 수 있습니다. 다음과 같은 텍스트 편집기를 사용하여 파일을 생성할 수 있습니다. 
+NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서 내보낼 수 있습니다. 
+이 파일의 형식은 정확한 로그 항목이 기록되도록 하는 데 매우 중요합니다. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> for details of the format of the CSV file that we require.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">20</context>
@@ -1116,7 +1114,7 @@ The format of this file is critical to ensure that correct log entries are recor
         <source>
 	If you are unsure what a CSV or TSV file is, please use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>chaser<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source>
         <target state="final">
-	If you are unsure what a CSV or TSV file is, please use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>chaser<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</target>
+	CSV 또는 TSV 파일이 무엇인지 잘 모를 경우 일반 파일을 사용하십시오. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>chaser<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">24</context>
@@ -1127,7 +1125,7 @@ The format of this file is critical to ensure that correct log entries are recor
 	Press the Browse button below and select the CSV or TSV file on your hard drive
    </source>
         <target state="final">
-	Press the Browse button below and select the CSV or TSV file on your hard drive
+	아래의 찾아보기 버튼을 누르고 하드 드라이브의 CSV 또는 TSV 파일을 선택하십시오.
    </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -1138,12 +1136,12 @@ The format of this file is critical to ensure that correct log entries are recor
         <source>
 	Press the Upload File button on the bottom of this screen to transfer the file to our server and begin processing it. This may take a few seconds. Please be patient!</source>
         <target state="final">
-	Press the Upload File button on the bottom of this screen to transfer the file to our server and begin processing it. This may take a few seconds. Please be patient!</target>
+	이 화면 하단에 있는 파일 업로드 버튼을 눌러 파일을 서버로 전송하고 처리를 시작하십시오. 이 작업은 몇 초가 걸릴 수 있다. 조금만 기다려주세요!</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">29</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">27</context></context-group></trans-unit>
       <trans-unit id="selectCSV" datatype="html">
         <source>Select CSV File:</source>
-        <target>Select CSV File:</target>
+        <target>CSV 파일 선택:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">34</context>
@@ -1151,26 +1149,26 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="Date" datatype="html">
         <source> Date </source>
-        <target> Date </target>
+        <target> 날짜 </target>
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">45</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">43</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">33</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">87</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context><context context-type="linenumber">82</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context><context context-type="linenumber">14</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-uniques/my-activator-uniques.component.html</context><context context-type="linenumber">14</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">83</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context><context context-type="linenumber">30</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/summit-report/summit-report.component.html</context><context context-type="linenumber">79</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/summit-report/summit-report.component.html</context><context context-type="linenumber">94</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context><context context-type="linenumber">7</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">11</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-log/activator-log.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-log/activator-log.component.html</context><context context-type="linenumber">78</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">86</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-uniques-show/activator-uniques-show.component.html</context><context context-type="linenumber">13</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-uniques-show/chaser-uniques-show.component.html</context><context context-type="linenumber">13</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context><context context-type="linenumber">30</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context><context context-type="linenumber">29</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context><context context-type="linenumber">30</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context><context context-type="linenumber">30</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/award-check/award-check.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/award-check-activator/award-check-activator.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">43</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context><context context-type="linenumber">17</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context><context context-type="linenumber">48</context></context-group></trans-unit>
       <trans-unit id="Time" datatype="html">
         <source> Time </source>
-        <target> Time </target>
+        <target> 시간 </target>
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">49</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">103</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">37</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">91</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context><context context-type="linenumber">36</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context><context context-type="linenumber">36</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">93</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context><context context-type="linenumber">34</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context><context context-type="linenumber">23</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">27</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">65</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">102</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-log/activator-log.component.html</context><context context-type="linenumber">36</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">36</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">90</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context><context context-type="linenumber">34</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context><context context-type="linenumber">33</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context><context context-type="linenumber">34</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context><context context-type="linenumber">34</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">47</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context><context context-type="linenumber">17</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context><context context-type="linenumber">48</context></context-group></trans-unit>
       <trans-unit id="Band" datatype="html">
         <source>Band</source>
-        <target state="final">Band</target>
+        <target state="final">주파수 밴드</target>
         
         
         
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">53</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">77</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">111</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">74</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">49</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context><context context-type="linenumber">48</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context><context context-type="linenumber">28</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">102</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context><context context-type="linenumber">46</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context><context context-type="linenumber">15</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">19</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">57</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">94</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog-delete/my-s2-slog-delete.component.html</context><context context-type="linenumber">28</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context><context context-type="linenumber">25</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context><context context-type="linenumber">33</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/swlroll/swlroll.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">48</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context><context context-type="linenumber">46</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context><context context-type="linenumber">45</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context><context context-type="linenumber">58</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context><context context-type="linenumber">58</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/award-check/award-check.component.html</context><context context-type="linenumber">8</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/award-check-activator/award-check-activator.component.html</context><context context-type="linenumber">8</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">51</context></context-group></trans-unit><trans-unit id="AllModes" datatype="html">
-        <source>All Modes</source><target state="final">All Modes</target>
+        <source>All Modes</source><target state="final">모든 모드</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">39</context>
@@ -1208,7 +1206,7 @@ The format of this file is critical to ensure that correct log entries are recor
           <context context-type="linenumber">15</context>
         </context-group>
       </trans-unit><trans-unit id="Modes" datatype="html">
-        <source>Modes</source><target state="final">Modes</target>
+        <source>Modes</source><target state="final">모드</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">38</context>
@@ -1246,7 +1244,7 @@ The format of this file is critical to ensure that correct log entries are recor
           <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit><trans-unit id="Show" datatype="html">
-        <source>Show</source><target state="final">Show</target>
+        <source>Show</source><target state="final">보기</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">43</context>
@@ -1340,7 +1338,7 @@ The format of this file is critical to ensure that correct log entries are recor
           <context context-type="linenumber">22</context>
         </context-group>
       </trans-unit><trans-unit id="Position" datatype="html">
-        <source> Position </source><target state="final"> Position </target>
+        <source> Position </source><target state="final"> 순위 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">49</context>
@@ -1394,7 +1392,7 @@ The format of this file is critical to ensure that correct log entries are recor
           <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit><trans-unit id="ChaserCallsign" datatype="html">
-        <source> Chaser Callsign </source><target state="final"> Chaser Callsign </target>
+        <source> Chaser Callsign </source><target state="final"> 추적자 콜싸인 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">53</context>
@@ -1416,7 +1414,7 @@ The format of this file is critical to ensure that correct log entries are recor
           <context context-type="linenumber">53</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatorsWorked" datatype="html">
-        <source> Activators Worked </source><target state="final"> Activators Worked </target>
+        <source> Activators Worked </source><target state="final"> 교신수 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">57</context>
@@ -1428,7 +1426,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="Mode" datatype="html">
         <source> Mode </source>
-        <target> Mode </target>
+        <target> 모드 </target>
         
         
         
@@ -1436,7 +1434,7 @@ The format of this file is critical to ensure that correct log entries are recor
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">57</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">82</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">115</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">81</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">53</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context><context context-type="linenumber">52</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">222</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context><context context-type="linenumber">50</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context><context context-type="linenumber">19</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">23</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">61</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">98</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog-delete/my-s2-slog-delete.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context><context context-type="linenumber">28</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">52</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context><context context-type="linenumber">50</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context><context context-type="linenumber">49</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context><context context-type="linenumber">62</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context><context context-type="linenumber">62</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">55</context></context-group></trans-unit>
       <trans-unit id="Summit" datatype="html">
         <source> Summit </source>
-        <target> Summit </target>
+        <target> 나의 산꼭데기 </target>
         
         
         
@@ -1444,27 +1442,27 @@ The format of this file is critical to ensure that correct log entries are recor
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">61</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">29</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">27</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">30</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">129</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">132</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">69</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">171</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context><context context-type="linenumber">60</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context><context context-type="linenumber">174</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context><context context-type="linenumber">76</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context><context context-type="linenumber">25</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context><context context-type="linenumber">66</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context><context context-type="linenumber">8</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">12</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog-delete/my-s2-slog-delete.component.html</context><context context-type="linenumber">25</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-log/activator-log.component.html</context><context context-type="linenumber">60</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-log/activator-log.component.html</context><context context-type="linenumber">158</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">68</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">170</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context><context context-type="linenumber">74</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context><context context-type="linenumber">65</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">59</context></context-group></trans-unit>
       <trans-unit id="OtherSummit" datatype="html">
         <source> Other Summit </source>
-        <target> Other Summit </target>
+        <target> 상대국 산꼭데기 </target>
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">65</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">240</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">63</context></context-group></trans-unit>
       <trans-unit id="OtherCallsign" datatype="html">
         <source> Other Callsign </source>
-        <target> Other Callsign </target>
+        <target> 상대국 콜싸인 </target>
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">69</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">67</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">231</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">67</context></context-group></trans-unit>
       <trans-unit id="Duplicate" datatype="html">
         <source> Duplicate? </source>
-        <target> Duplicate? </target>
+        <target> 중복? </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">73</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">71</context></context-group></trans-unit>
       <trans-unit id="Callsign" datatype="html">
         <source> Callsign </source>
-        <target> Callsign </target>
+        <target> 콜싸인 </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context><context context-type="linenumber">53</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">77</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">42</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context><context context-type="linenumber">9</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context><context context-type="linenumber">27</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">13</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context><context context-type="linenumber">54</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first12m-chaser/first12m-chaser.component.html</context><context context-type="linenumber">24</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context><context context-type="linenumber">20</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first610m-activator/first610m-activator.component.html</context><context context-type="linenumber">20</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/generate-awards/generate-awards.component.html</context><context context-type="linenumber">12</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/award-check/award-check.component.html</context><context context-type="linenumber">2</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/award-check-activator/award-check-activator.component.html</context><context context-type="linenumber">2</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">75</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context><context context-type="linenumber">28</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context><context context-type="linenumber">28</context></context-group></trans-unit><trans-unit id="UniqueSummits" datatype="html">
-        <source> Unique Summits </source><target state="final"> Unique Summits </target>
+        <source> Unique Summits </source><target state="final"> 첫교신한 산꼭데기 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">57</context>
@@ -1474,7 +1472,7 @@ The format of this file is critical to ensure that correct log entries are recor
           <context context-type="linenumber">57</context>
         </context-group>
       </trans-unit><trans-unit id="TotalSummits" datatype="html">
-        <source> Total Summits </source><target state="final"> Total Summits </target>
+        <source> Total Summits </source><target state="final"> 총 산꼭데기 수 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">61</context>
@@ -1492,7 +1490,7 @@ The format of this file is critical to ensure that correct log entries are recor
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit><trans-unit id="PercentUnique" datatype="html">
-        <source> Percent Unique </source><target state="final"> Percent Unique </target>
+        <source> Percent Unique </source><target state="final"> 첫교신한한한한 산꼭데기 비율 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">65</context>
@@ -1500,39 +1498,39 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="Comment" datatype="html">
         <source> Comment </source>
-        <target> Comment </target>
+        <target> 논평 </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">81</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">79</context></context-group></trans-unit>
       <trans-unit id="IsS2S" datatype="html">
         <source> Is S2S? </source>
-        <target> Is S2S? </target>
+        <target> S2S입니까? </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">85</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">83</context></context-group></trans-unit>
       <trans-unit id="IsI18N" datatype="html">
         <source> Is Chaser Entry? </source>
-        <target> Is Chaser Entry? </target>
+        <target> 추적자 로그 등록입니까? </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">89</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">87</context></context-group></trans-unit>
       <trans-unit id="uploadError" datatype="html">
         <source>There are errors in your file - please correct them and try again</source>
-        <target>There are errors in your file - please correct them and try again</target>
+        <target>파일에 오류가 있습니다.수정해서 재발송해주세요.</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">96</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">94</context></context-group></trans-unit>
       <trans-unit id="Cancel" datatype="html">
         <source>Cancel</source>
-        <target>Cancel</target>
+        <target>취소</target>
         
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">97</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">102</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">119</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">148</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">95</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">100</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">117</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context><context context-type="linenumber">63</context></context-group></trans-unit>
       <trans-unit id="uploadVerify" datatype="html">
         <source>Please verify the uploaded details and click Submit when ready</source>
-        <target>Please verify the uploaded details and click Submit when ready</target>
+        <target>업로드 내용을 확인한 후 제출 버튼을 클릭하세요</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">100</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">98</context></context-group></trans-unit>
       <trans-unit id="Submit" datatype="html">
         <source>Submit</source>
-        <target>Submit</target>
+        <target>제출</target>
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">101</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">118</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">147</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">156</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">99</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">116</context></context-group></trans-unit>
@@ -1543,9 +1541,7 @@ and spirit of the SOTA Programme. I agree that the decision of the
 Management Team will be final in any case of dispute.
 </source>
         <target>
-By submitting this log, I certify that I have operated within the rules
-and spirit of the SOTA Programme. I agree that the decision of the
-Management Team will be final in any case of dispute.
+이 로그 제출 시 나는 규칙에 따라 운용하며 SOTA 프로그램의 정신에 따르고 있음을 선언합니다.나는 SOTA 매니지먼트 팀의 어떠한 지도, 결의에도 따릅니다.
         </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">107</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">136</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">145</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">105</context></context-group></trans-unit>
@@ -1556,29 +1552,27 @@ and that entries may be subject to verification and adjustment by the award
 administrators.
 </source>
         <target state="final">
-I understand that the scores shown on this website are for guidance only
-and that entries may be subject to verification and adjustment by the award
-administrators.
+나는 이 웹 사이트에 게재되는 점수는 일시적인 것이며, 그 점수는 어워드 위원회에 의해 수정의 가능성이 있음을 승낙합니다.
 </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">112</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">141</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">150</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">110</context></context-group></trans-unit>
       <trans-unit id="IAgree" datatype="html">
         <source>I agree</source>
-        <target>I agree</target>
+        <target>승낙합니다</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">117</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">146</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">155</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">115</context></context-group></trans-unit>
       <trans-unit id="uploadAnother" datatype="html">
         <source>Upload another log</source>
-        <target>Upload another log</target>
+        <target>다른 로그데이터 업로드</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">124</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">122</context></context-group></trans-unit><trans-unit id="SelectAssociation" datatype="html">
-        <source>Select Association</source><target state="final">Select Association</target>
+        <source>Select Association</source><target state="final">국가협회 선택</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit><trans-unit id="Region" datatype="html">
-        <source>Region</source><target state="final">Region</target>
+        <source>Region</source><target state="final">지역</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">18</context>
@@ -1616,19 +1610,19 @@ administrators.
           <context context-type="linenumber">18</context>
         </context-group>
       </trans-unit><trans-unit id="SelectRegion" datatype="html">
-        <source>Select Region</source><target state="final">Select Region</target>
+        <source>Select Region</source><target state="final">지역 선택</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">22</context>
         </context-group>
       </trans-unit><trans-unit id="SelectSummit" datatype="html">
-        <source>Select Summit</source><target state="final">Select Summit</target>
+        <source>Select Summit</source><target state="final">산꼭데기 선택</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">34</context>
         </context-group>
       </trans-unit><trans-unit id="ActivationDate" datatype="html">
-        <source>Date of activation</source><target state="final">Date of activation</target>
+        <source>Date of activation</source><target state="final">활동한 날짜</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">50</context>
@@ -1642,13 +1636,13 @@ administrators.
           <context context-type="linenumber">26</context>
         </context-group>
       </trans-unit><trans-unit id="ChooseADate" datatype="html">
-        <source>Choose a date</source><target state="final">Choose a date</target>
+        <source>Choose a date</source><target state="final">날짜 선택</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">53</context>
         </context-group>
       </trans-unit><trans-unit id="TimeUTC" datatype="html">
-        <source>Time (UTC)</source><target state="final">Time (UTC)</target>
+        <source>Time (UTC)</source><target state="final">시각 (UTC)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">67</context>
@@ -1660,7 +1654,7 @@ administrators.
       </trans-unit>
       <trans-unit id="awardsMG" datatype="html">
         <source>You are a Mountain Goat with <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> points.</source>
-        <target>You are a Mountain Goat with <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> points.</target>
+        <target>당신은 <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> 점수의 Mountain Goat입니다..</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
           <context context-type="linenumber">6</context>
@@ -1668,13 +1662,13 @@ administrators.
       </trans-unit>
       <trans-unit id="achievedon" datatype="html">
         <source>achieved on</source>
-        <target>achieved on</target>
+        <target>완성일</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit><trans-unit id="Association(s)Activated" datatype="html">
-        <source> Association(s) Activated </source><target state="final"> Association(s) Activated </target>
+        <source> Association(s) Activated </source><target state="final"> 활동한 지부 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
           <context context-type="linenumber">26</context>
@@ -1688,13 +1682,13 @@ administrators.
           <context context-type="linenumber">27</context>
         </context-group>
       </trans-unit><trans-unit id="ActivationStatistics" datatype="html">
-        <source>Activation Statistics</source><target state="final">Activation Statistics</target>
+        <source>Activation Statistics</source><target state="final">활동통계</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
       </trans-unit><trans-unit id="Score" datatype="html">
-        <source>Score</source><target state="final">Score</target>
+        <source>Score</source><target state="final">점수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">5</context>
@@ -1704,7 +1698,7 @@ administrators.
           <context context-type="linenumber">64</context>
         </context-group>
       </trans-unit><trans-unit id="TotalSummitsActivated" datatype="html">
-        <source>Total summits activated</source><target state="final">Total summits activated</target>
+        <source>Total summits activated</source><target state="final">활성화된 총 산꼭대기 수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">8</context>
