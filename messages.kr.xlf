@@ -26,7 +26,7 @@
           <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit><trans-unit id="UserAccount" datatype="html">
-        <source>User Account</source><target state="최종">사용자 계정</target>
+        <source>User Account</source><target state="final">사용자 계정</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">13</context>
@@ -38,7 +38,7 @@
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/login-display/login-display.component.html</context><context context-type="linenumber">2</context></context-group></trans-unit><trans-unit id="UpdateProfile" datatype="html">
-        <source>Update Profile</source><target state="최종">프로파일 업데이트</target>
+        <source>Update Profile</source><target state="final">프로파일 업데이트</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">36</context>
@@ -87,61 +87,61 @@
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">53</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="ChaserUniques" datatype="html">
         <source>Chaser Uniques</source>
-        <target>Chaser Uniques</target>
+        <target>유일한 추적자</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">57</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="S2SRollOfHonour" datatype="html">
         <source>Summit to Summit Roll of Honour</source>
-        <target>Summit to Summit Roll of Honour</target>
+        <target>산대산 명예의 전당</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">61</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="SOTACompleteRoll" datatype="html">
         <source>SOTA Complete Roll of Honour</source>
-        <target>SOTA Complete Roll of Honour</target>
+        <target>SOTA 활동 및 추적 완성 명예의 전당</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">65</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="SWLRoll" datatype="html">
         <source>SWL Roll of Honour</source>
-        <target>SWL Roll of Honour</target>
+        <target>SWL 명예의 전당</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">69</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/swlroll/swlroll.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="Challenges" datatype="html">
         <source>Challenges</source>
-        <target>Challenges</target>
+        <target>도전</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">73</context></context-group></trans-unit>
       <trans-unit id="MyResults" datatype="html">
         <source>My Results</source>
-        <target>My Results</target>
+        <target>나의 결과</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">77</context></context-group></trans-unit>
       <trans-unit id="1st12mActivator" datatype="html">
         <source>1st 12m Challenge Activator Roll of Honour</source>
-        <target>1st 12m Challenge Activator Roll of Honour</target>
+        <target>1st 12m 도전 활동자 명예의 전당</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">83</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first12m-activator/first12m-activator.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="1st12mChaser" datatype="html">
         <source>1st 12m Challenge Chaser Roll of Honour</source>
-        <target>1st 12m Challenge Chaser Roll of Honour</target>
+        <target>1st 12m 도전 추적자 명예의 전당</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">86</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first12m-chaser/first12m-chaser.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="1st610Activator" datatype="html">
         <source>1st 6m/10m Challenge Activator Roll of Honour</source>
-        <target>1st 6m/10m Challenge Activator Roll of Honour</target>
+        <target>1st 6m/10m 도전 활동자 명예의 전당</target>
         
-      <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">89</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first610m-activator/first610m-activator.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
+      <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">89</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first610m-activator/first610m-activator.component.html</context><context context-type="linenumber">1</context></context-group><당trans-unit>
       <trans-unit id="1st610Chaser" datatype="html">
         <source>1st 6m/10m Challenge Chaser Roll of Honour</source>
-        <target>1st 6m/10m Challenge Chaser Roll of Honour</target>
+        <target>1st 6m/10m 도전 추적자 명예의 전당</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">92</context></context-group></trans-unit><trans-unit id="2020SOTAChallengeActivator" datatype="html">
-        <source>2020 SOTA Challenge Activator Roll of Honour</source><target state="final">2020 SOTA Challenge Activator Roll of Honour</target>
+        <source>2020 SOTA Challenge Activator Roll of Honour</source><target state="final">2020 SOTA 도전 활동자 명예의 전당</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">95</context>
         </context-group>
       </trans-unit><trans-unit id="2020SOTAChallengeChaser" datatype="html">
-        <source>2020 SOTA Challenge Chaser Roll of Honour</source><target state="final">2020 SOTA Challenge Chaser Roll of Honour</target>
+        <source>2020 SOTA Challenge Chaser Roll of Honour</source><target state="final">2020 SOTA 도전 추적자 명예의 전당</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">98</context>
@@ -149,111 +149,111 @@
       </trans-unit>
       <trans-unit id="MyActivatorLog" datatype="html">
         <source>My Activator Log</source>
-        <target>My Activator Log</target>
+        <target>나의 활동 로그</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">104</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyActivatorUniques" datatype="html">
         <source>My Activator Uniques</source>
-        <target>My Activator Uniques</target>
+        <target>나의 유일한 활동</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">108</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-uniques/my-activator-uniques.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyActivatorRegions" datatype="html">
         <source>My Activator Regions</source>
-        <target>My Activator Regions</target>
+        <target>나의 활동 지역</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">112</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-regions/my-activator-regions.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyChaserLog" datatype="html">
         <source>My Chaser Log</source>
-        <target>My Chaser Log</target>
+        <target>나의 추적 로그</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">116</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyChaserUniques" datatype="html">
         <source>My Chaser Uniques</source>
-        <target>My Chaser Uniques</target>
+        <target>나의 유일한 추적</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">120</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyChaserRegions" datatype="html">
         <source>My Chaser Regions</source>
-        <target>My Chaser Regions</target>
+        <target>나의 추적 지역</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">124</context></context-group></trans-unit>
       <trans-unit id="MyS2SLog" datatype="html">
         <source>My S2S Log</source>
-        <target>My S2S Log</target>
+        <target>나의 산대산 로그</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">128</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context><context context-type="linenumber">2</context></context-group></trans-unit>
       <trans-unit id="MySOTAComplete" datatype="html">
         <source>My SOTA Complete Log</source>
-        <target>My SOTA Complete Log</target>
+        <target>나의 SOTA 완성 로그</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">132</context></context-group></trans-unit>
       <trans-unit id="MyMicrowaveActivator" datatype="html">
         <source>My Microwave Activator Log</source>
-        <target>My Microwave Activator Log</target>
+        <target>나의 마이크로파 활동 로그</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">136</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyMicrowaveChaser" datatype="html">
         <source>My Microwave Chaser Log</source>
-        <target>My Microwave Chaser Log</target>
+        <target>나의 마이크로파 추적 로그</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">140</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyMicrowaveS2S" datatype="html">
         <source>My Microwave S2S Log</source>
-        <target>My Microwave S2S Log</target>
+        <target>나의 마이크로파 산대산 로그</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">144</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MySWLLog" datatype="html">
         <source>My SWL Log</source>
-        <target>My SWL Log</target>
+        <target>나의 SWL 로그</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">148</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyAwards" datatype="html">
         <source>My Awards</source>
-        <target>My Awards</target>
+        <target>나의 상장</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">152</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-awards/my-awards.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyStatistics" datatype="html">
         <source>My Statistics</source>
-        <target>My Statistics</target>
+        <target>나의 통계</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">156</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="SummitList" datatype="html">
         <source>List of all summits</source>
-        <target>List of all summits</target>
+        <target>모든 산정상 목록</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">163</context></context-group></trans-unit>
       <trans-unit id="FindSummits" datatype="html">
         <source>Find summits</source>
-        <target>Find summits</target>
+        <target>산정상 찾기</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">167</context></context-group></trans-unit>
       <trans-unit id="PopularSummits" datatype="html">
         <source>Popular summits</source>
-        <target>Popular summits</target>
+        <target>인기 산정상</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">171</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/top-summits/top-summits.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="RecentSummits" datatype="html">
         <source>Recently activated summits</source>
-        <target>Recently activated summits</target>
+        <target>최근 활동한 산정상</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">175</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/recent-summits/recent-summits.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="SubmitActivator" datatype="html">
         <source>Submit Activator Entry</source>
-        <target>Submit Activator Entry</target>
+        <target>활동항목 제출</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">184</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="SubmitChaserS2S" datatype="html">
         <source>Submit Chaser/S2S Entry</source>
-        <target>Submit Chaser/S2S Entry</target>
+        <target>산대산 추적항목 제출</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">188</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="UploadCSV" datatype="html">
         <source>Upload CSV/TSV log file</source>
-        <target>Upload CSV/TSV log file</target>
+        <target>업로드 CSV/TSV 로그파일</target>
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">192</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">38</context></context-group></trans-unit><trans-unit id="UploadADIF" datatype="html">
-        <source>Upload ADIF log file</source><target state="final">Upload ADIF log file</target>
+        <source>Upload ADIF log file</source><target state="final">업로드 ADIF 로그파일</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">196</context>
@@ -263,7 +263,7 @@
           <context context-type="linenumber">36</context>
         </context-group>
       </trans-unit><trans-unit id="ManageUploads" datatype="html">
-        <source>Manage Uploads</source><target state="final">Manage Uploads</target>
+        <source>Manage Uploads</source><target state="final">업로드 관리</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">200</context>
@@ -277,8 +277,8 @@
         <source>
 Welcome to the Worldwide Summits On The Air database service.
 </source>
-        <target state="final">
-Welcome to the Worldwide Summits On The Air database service.
+        <target state="최종">
+SOTA 데이터베이스에 오신 것을 환영합니다.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -289,8 +289,8 @@ Welcome to the Worldwide Summits On The Air database service.
         <source>
 Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
 </source>
-        <target state="final">
-Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
+        <target state="최종">
+SOTA (Summits on the Air) 은 아마추어 무선 산악 이동 어워드 프로그램입니다.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -302,7 +302,7 @@ Summits on the Air is a programme that encourages radio amateurs who enjoy hill 
 An award scheme recognises those who activate the summits and also those that make QSOs with the activators. The programme can be operated anywhere in the world.
 </source>
         <target state="final">
-An award scheme recognises those who activate the summits and also those that make QSOs with the activators. The programme can be operated anywhere in the world.
+이 수상제도는, 온 세상의 산에 올라 산악 이동 운용하는 활동자와 그 산악 이동국과 QSO 하는 추적자 분들을 칭찬하는 것입니다.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -314,7 +314,7 @@ An award scheme recognises those who activate the summits and also those that ma
 For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
 </source>
         <target state="final">
-For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+SOTA에 대한 자세한 설명은 SOTA 웹사이트를 참고해주세요. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -323,7 +323,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SOTACompetition" datatype="html">
         <source>SOTA is not inherently a competitive activity, it's about individual aspirations and working towards a goal at your own pace. However, it can be fun to see how your progress compares with that of others, hence we publish our Honour Roll on the internet.</source>
-        <target>SOTA is not inherently a competitive activity, it's about individual aspirations and working towards a goal at your own pace. However, it can be fun to see how your progress compares with that of others, hence we publish our Honour Roll on the internet.</target>
+        <target>SOTA는 본래 점수획득 경쟁을 목적으로 하는 것이 아니고, 자신의 페이스로 즐기면서 목표로 향하는 것입니다.그러나, 자신의 점수나 달성도를 다른 사람과 비교하거나 인터넷상에 공개해 나가는 것은, 자신의 목표달성에 격려가 되는 것이겠지요.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">3</context>
@@ -371,7 +371,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit><trans-unit id="SOTAPleaseSubmit" datatype="html">
         <source>
 Please help us to keep this page up-to-date by regularly submitting your SOTA logs.</source><target state="final">
-Please help us to keep this page up-to-date by regularly submitting your SOTA logs.</target>
+이 페이지를 최신 상태로 유지하기 위해 정기적으로 SOTA 로그를 제출해 주십시오.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">4</context>
@@ -1069,8 +1069,9 @@ You can use this page to perform a bulk upload of many Activator, Chaser and S2S
 once. This page is intended for more experienced users only.
 </source>
         <target state="final">
-You can use this page to perform a bulk upload of many Activator, Chaser and S2S Entries at
-once. This page is intended for more experienced users only.
+이 페이지는 경험이 많은 사용자만을 위한 것이다.이 페이지에서는 Activator, Chaser 및 S2S 항목의 대량 로그를 정리해 업로드 할 수 있습니다.
+등록하고 싶은 QSO 로그가 대량의 경우, 이 페이지에서 업로드하면 편리합니다.
+등록하는 로그가 적은 경우는 통상의 로그 등록 페이지로부터의 등록이 간단합니다.
 </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">5</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">5</context></context-group></trans-unit>
