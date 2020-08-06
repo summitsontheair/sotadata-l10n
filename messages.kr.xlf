@@ -1951,15 +1951,19 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         
         
         
+
+        
+        
+        
       <context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">72</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">107</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context><context context-type="linenumber">22</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog-delete/my-s2-slog-delete.component.html</context><context context-type="linenumber">22</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context><context context-type="linenumber">22</context></context-group></trans-unit>
       <trans-unit id="Points" datatype="html">
         <source> Points </source>
-        <target state="final"> Points </target>
+        <target state="final"> 점수 </target>
         
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context><context context-type="linenumber">61</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context><context context-type="linenumber">61</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/top-summits/top-summits.component.html</context><context context-type="linenumber">21</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/recent-summits/recent-summits.component.html</context><context context-type="linenumber">21</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/list-summits/list-summits.component.html</context><context context-type="linenumber">71</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">61</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">163</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context><context context-type="linenumber">48</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context><context context-type="linenumber">162</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context><context context-type="linenumber">166</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context><context context-type="linenumber">5</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context><context context-type="linenumber">34</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context><context context-type="linenumber">58</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context><context context-type="linenumber">10</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">14</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog-delete/my-s2-slog-delete.component.html</context><context context-type="linenumber">34</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context><context context-type="linenumber">22</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context><context context-type="linenumber">62</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context><context context-type="linenumber">61</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/swlroll/swlroll.component.html</context><context context-type="linenumber">61</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-log/activator-log.component.html</context><context context-type="linenumber">48</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-log/activator-log.component.html</context><context context-type="linenumber">146</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-log/activator-log.component.html</context><context context-type="linenumber">150</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">60</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">162</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first12m-activator/first12m-activator.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first12m-chaser/first12m-chaser.component.html</context><context context-type="linenumber">32</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context><context context-type="linenumber">28</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first610m-activator/first610m-activator.component.html</context><context context-type="linenumber">28</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context><context context-type="linenumber">57</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/award-check/award-check.component.html</context><context context-type="linenumber">5</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/award-check/award-check.component.html</context><context context-type="linenumber">43</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/award-check-activator/award-check-activator.component.html</context><context context-type="linenumber">5</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/award-check-activator/award-check-activator.component.html</context><context context-type="linenumber">43</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context><context context-type="linenumber">36</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context><context context-type="linenumber">36</context></context-group></trans-unit><trans-unit id="Average" datatype="html">
-        <source> Average </source><target state="final"> Average </target>
+        <source> Average </source><target state="final"> 평균 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">65</context>
@@ -1969,7 +1973,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
           <context context-type="linenumber">73</context>
         </context-group>
       </trans-unit><trans-unit id="ViewLog" datatype="html">
-        <source> View Log </source><target state="final"> View Log </target>
+        <source> View Log </source><target state="final"> 로그보기 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">69</context>
@@ -1999,7 +2003,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
           <context context-type="linenumber">69</context>
         </context-group>
       </trans-unit><trans-unit id="View" datatype="html">
-        <source>View</source><target state="final">View</target>
+        <source>View</source><target state="final">보기</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">70</context>
@@ -2033,7 +2037,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
           <context context-type="linenumber">70</context>
         </context-group>
       </trans-unit><trans-unit id="NoResultsFound" datatype="html">
-        <source>No results found</source><target state="final">No results found</target>
+        <source>No results found</source><target state="final">결과를 찾을 수 없음</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">83</context>
@@ -2079,115 +2083,115 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
           <context context-type="linenumber">78</context>
         </context-group>
       </trans-unit><trans-unit id="DatabaseStatistics" datatype="html">
-        <source>Database statistics</source><target state="final">Database statistics</target>
+        <source>Database statistics</source><target state="final">데이터베이스 통계</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit><trans-unit id="RegisteredUsers" datatype="html">
-        <source>Registered Users</source><target state="final">Registered Users</target>
+        <source>Registered Users</source><target state="final">등록된 사용자</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit><trans-unit id="Associations" datatype="html">
-        <source>Associations</source><target state="final">Associations</target>
+        <source>Associations</source><target state="final">협회</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit><trans-unit id="Regions" datatype="html">
-        <source>Regions</source><target state="final">Regions</target>
+        <source>Regions</source><target state="final">지역</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit><trans-unit id="WebpageHits" datatype="html">
-        <source>Webpage Hits since 10 Jan 2004</source><target state="final">Webpage Hits since 10 Jan 2004</target>
+        <source>Webpage Hits since 10 Jan 2004</source><target state="final">2004년 1월 10일 이후 웹페이지 조회수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatorStatistics" datatype="html">
-        <source>Activator statistics</source><target state="final">Activator statistics</target>
+        <source>Activator statistics</source><target state="final">활동자 통계</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">25</context>
         </context-group>
       </trans-unit><trans-unit id="NumberActivators" datatype="html">
-        <source>Number of Activators</source><target state="final">Number of Activators</target>
+        <source>Number of Activators</source><target state="final">활동자 수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatedSummits" datatype="html">
-        <source>Activated Summits</source><target state="final">Activated Summits</target>
+        <source>Activated Summits</source><target state="final">활성화된 산정상</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">31</context>
         </context-group>
       </trans-unit><trans-unit id="NumberActivations" datatype="html">
-        <source>Number of Activations</source><target state="final">Number of Activations</target>
+        <source>Number of Activations</source><target state="final">활성화 수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">34</context>
         </context-group>
       </trans-unit><trans-unit id="NumberQSOs" datatype="html">
-        <source>Number of QSOs</source><target state="final">Number of QSOs</target>
+        <source>Number of QSOs</source><target state="final">QSO 수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">37</context>
         </context-group>
       </trans-unit><trans-unit id="TotalActivatorPoints" datatype="html">
-        <source>Total Activator Points</source><target state="final">Total Activator Points</target>
+        <source>Total Activator Points</source><target state="final">총 활동자 점수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">40</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatorQSOsByMode" datatype="html">
-        <source>Activator QSOs by Mode</source><target state="final">Activator QSOs by Mode</target>
+        <source>Activator QSOs by Mode</source><target state="final">모드별 활성화 QSO</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">44</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatorQSOsByBand" datatype="html">
-        <source>Activator QSOs by Band</source><target state="final">Activator QSOs by Band</target>
+        <source>Activator QSOs by Band</source><target state="final">주파수 밴드별 활성화 QSO</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">52</context>
         </context-group>
       </trans-unit><trans-unit id="Chasers" datatype="html">
-        <source>Chasers</source><target state="final">Chasers</target>
+        <source>Chasers</source><target state="final">추적자들</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">61</context>
         </context-group>
       </trans-unit><trans-unit id="NumberOfChasers" datatype="html">
-        <source>Number of Chasers</source><target state="final">Number of Chasers</target>
+        <source>Number of Chasers</source><target state="final">추적자들 수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">64</context>
         </context-group>
       </trans-unit><trans-unit id="ChaserActivators" datatype="html">
-        <source>Chasers who are also activators</source><target state="final">Chasers who are also activators</target>
+        <source>Chasers who are also activators</source><target state="final">활동자이기도 한 추적자</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">67</context>
         </context-group>
       </trans-unit><trans-unit id="NumberChaserContacts" datatype="html">
-        <source>Number of Chaser Contacts</source><target state="final">Number of Chaser Contacts</target>
+        <source>Number of Chaser Contacts</source><target state="final">추적자와 교신한 수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">70</context>
         </context-group>
       </trans-unit><trans-unit id="TotalChaserPoints" datatype="html">
-        <source>Total Chaser Points</source><target state="final">Total Chaser Points</target>
+        <source>Total Chaser Points</source><target state="final">총 추적자 점수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">73</context>
         </context-group>
       </trans-unit><trans-unit id="S2S" datatype="html">
-        <source>Summit to Summit</source><target state="final">Summit to Summit</target>
+        <source>Summit to Summit</source><target state="final">S2S</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">78</context>
@@ -2197,19 +2201,19 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
           <context context-type="linenumber">25</context>
         </context-group>
       </trans-unit><trans-unit id="S2SContacts" datatype="html">
-        <source>Summit to Summit Contacts</source><target state="final">Summit to Summit Contacts</target>
+        <source>Summit to Summit Contacts</source><target state="final">S2S 교신수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">81</context>
         </context-group>
       </trans-unit><trans-unit id="S2SPoints" datatype="html">
-        <source>Summit to Summit Points</source><target state="final">Summit to Summit Points</target>
+        <source>Summit to Summit Points</source><target state="final">S2S 점수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">84</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatorCallsign" datatype="html">
-        <source> Activator Callsign </source><target state="final"> Activator Callsign </target>
+        <source> Activator Callsign </source><target state="final"> 활동자 콜싸인 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
           <context context-type="linenumber">53</context>
@@ -2259,7 +2263,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
           <context context-type="linenumber">53</context>
         </context-group>
       </trans-unit><trans-unit id="MySummitDetails" datatype="html">
-        <source>My summit details</source><target state="final">My summit details</target>
+        <source>My summit details</source><target state="final">나의 산정상 세부사항</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
           <context context-type="linenumber">106</context>
@@ -2268,7 +2272,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         <source>
 Thank you for participating in SOTA
 </source><target state="final">
-Thank you for participating in SOTA
+SOTA프로그램에 참여해 주셔서 감사합니다.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
@@ -2281,13 +2285,13 @@ Thank you for participating in SOTA
           <context context-type="linenumber">166</context>
         </context-group>
       </trans-unit><trans-unit id="AddAnother" datatype="html">
-        <source>Add another</source><target state="final">Add another</target>
+        <source>Add another</source><target state="final">다른 것도 추가</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
           <context context-type="linenumber">167</context>
         </context-group>
       </trans-unit><trans-unit id="Last6Months" datatype="html">
-        <source>Last 6 Months</source><target state="final">Last 6 Months</target>
+        <source>Last 6 Months</source><target state="final">지난 6개월</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">13</context>
@@ -2337,7 +2341,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit><trans-unit id="Last12Months" datatype="html">
-        <source>Last 12 Months</source><target state="final">Last 12 Months</target>
+        <source>Last 12 Months</source><target state="final">지난 12개월</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">15</context>
@@ -2543,7 +2547,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit><trans-unit id="Order" datatype="html">
-        <source>Order</source><target state="final">Order</target>
+        <source>Order</source><target state="final">표시순서</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">20</context>
@@ -2585,7 +2589,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">18</context>
         </context-group>
       </trans-unit><trans-unit id="OwnCallsign" datatype="html">
-        <source> Own Callsign </source><target state="final"> Own Callsign </target>
+        <source> Own Callsign </source><target state="final"> 자국 콜싸인 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">41</context>
@@ -2635,7 +2639,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">46</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatorWorked" datatype="html">
-        <source> Activator Worked </source><target state="final"> Activator Worked </target>
+        <source> Activator Worked </source><target state="final"> 활동자 작업됨 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">45</context>
@@ -2661,7 +2665,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">42</context>
         </context-group>
       </trans-unit><trans-unit id="Total" datatype="html">
-        <source> Total </source><target state="final"> Total </target>
+        <source> Total </source><target state="final"> 총계 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">65</context>
@@ -2711,7 +2715,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">61</context>
         </context-group>
       </trans-unit><trans-unit id="SummitName" datatype="html">
-        <source> Summit Name </source><target state="final"> Summit Name </target>
+        <source> Summit Name </source><target state="final"> 산이름 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">73</context>
@@ -2789,7 +2793,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">70</context>
         </context-group>
       </trans-unit><trans-unit id="DeleteEntry" datatype="html">
-        <source> Delete Entry </source><target state="final"> Delete Entry </target>
+        <source> Delete Entry </source><target state="final"> 삭제 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">77</context>
@@ -2823,7 +2827,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">73</context>
         </context-group>
       </trans-unit><trans-unit id="ShowLog" datatype="html">
-        <source> Show Log </source><target state="final"> Show Log </target>
+        <source> Show Log </source><target state="final"> 로그보기 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context>
           <context context-type="linenumber">64</context>
@@ -2857,7 +2861,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">163</context>
         </context-group>
       </trans-unit><trans-unit id="Download" datatype="html">
-        <source> Download </source><target state="final"> Download </target>
+        <source> Download </source><target state="final"> 다운로드 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context>
           <context context-type="linenumber">68</context>
@@ -2915,7 +2919,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">34</context>
         </context-group>
       </trans-unit><trans-unit id="Navigation" datatype="html">
-        <source>Navigation</source><target state="final">Navigation</target>
+        <source>Navigation</source><target state="final">네비게이션</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">7</context>
@@ -2933,7 +2937,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit><trans-unit id="Summary" datatype="html">
-        <source>Summary</source><target state="final">Summary</target>
+        <source>Summary</source><target state="final">요약</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">8</context>
@@ -2951,7 +2955,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit><trans-unit id="Previous500" datatype="html">
-        <source>Previous 500</source><target state="final">Previous 500</target>
+        <source>Previous 500</source><target state="final">이전의 500</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">9</context>
@@ -2969,7 +2973,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit><trans-unit id="Next500" datatype="html">
-        <source>Next 500</source><target state="final">Next 500</target>
+        <source>Next 500</source><target state="final">다음의 500</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">10</context>
@@ -2987,7 +2991,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit><trans-unit id="Sort" datatype="html">
-        <source>Sort</source><target state="final">Sort</target>
+        <source>Sort</source><target state="final">정렬</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">13</context>
@@ -3005,7 +3009,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit><trans-unit id="Number" datatype="html">
-        <source> Number </source><target state="final"> Number </target>
+        <source> Number </source><target state="final"> 번호 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">22</context>
@@ -3023,7 +3027,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">21</context>
         </context-group>
       </trans-unit><trans-unit id="Contacts" datatype="html">
-        <source> Contacts </source><target state="final"> Contacts </target>
+        <source> Contacts </source><target state="final"> 교신수 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">30</context>
@@ -3045,7 +3049,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">29</context>
         </context-group>
       </trans-unit><trans-unit id="Count" datatype="html">
-        <source> Count </source><target state="final"> Count </target>
+        <source> Count </source><target state="final"> 카운트 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-sota-complete/my-sota-complete.component.html</context>
           <context context-type="linenumber">14</context>
@@ -3103,7 +3107,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit><trans-unit id="SummitCode" datatype="html">
-        <source> Summit Code </source><target state="final"> Summit Code </target>
+        <source> Summit Code </source><target state="final"> 산정상 코드 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-sota-complete/my-sota-complete.component.html</context>
           <context context-type="linenumber">18</context>
@@ -3141,7 +3145,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">35</context>
         </context-group>
       </trans-unit><trans-unit id="ChasedDate" datatype="html">
-        <source> Chased Date </source><target state="final"> Chased Date </target>
+        <source> Chased Date </source><target state="final"> 추적된 날짜 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-sota-complete/my-sota-complete.component.html</context>
           <context context-type="linenumber">30</context>
@@ -3151,7 +3155,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">30</context>
         </context-group>
       </trans-unit><trans-unit id="CompletedDate" datatype="html">
-        <source> Completed Date </source><target state="final"> Completed Date </target>
+        <source> Completed Date </source><target state="final"> 완료된 날짜 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-sota-complete/my-sota-complete.component.html</context>
           <context context-type="linenumber">34</context>
@@ -3161,7 +3165,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">34</context>
         </context-group>
       </trans-unit><trans-unit id="Activations" datatype="html">
-        <source> Activations </source><target state="final"> Activations </target>
+        <source> Activations </source><target state="final"> 활성화 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-uniques/my-activator-uniques.component.html</context>
           <context context-type="linenumber">30</context>
@@ -3177,14 +3181,14 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="MySummit" datatype="html">
         <source>My Summit</source>
-        <target>My Summit</target>
+        <target>자국 산정상</target>
         
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context><context context-type="linenumber">40</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">71</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog-delete/my-s2-slog-delete.component.html</context><context context-type="linenumber">40</context></context-group></trans-unit>
       <trans-unit id="chaserDeleteResult" datatype="html">
         <source>Operation complete.  The response from the server was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
-        <target>Operation complete.  The response from the server was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
+        <target>작업완료. 서버로부터의 응답 <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">53</context>
@@ -3204,7 +3208,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="SOTAActivatorTSV/CSVfileformat" datatype="html">
         <source>SOTA Activator and Chaser TSV/CSV file format</source>
-        <target state="final">SOTA Activator and Chaser TSV/CSV file format</target>
+        <target state="final">SOTA 활동 및 추적 로그 TSV/CSV 파일포맷</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">2</context>
@@ -3224,16 +3228,8 @@ Thank you for participating in SOTA
 
                  </source>
 
-        <target state="final">This facility lets you upload a large number of QSOs in one bulk
-        transaction. You need to create a Comma Separated Variable (CSV) or Tab
-        Separated Variable (TSV) file with the fields laid out as shown in the example
-        below. You then submit this file, which is checked for errors before presenting
-        you with the option to save the QSOs to your database. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>You can mix activation records,
-        chaser records and S2S (summit to summit) records all in the same file.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
-        You can include multiple activations in this file but all records for each activation must be together.
-        Each activation is deemed to end when the [My Summit] reference changes. If you
-        activate the same summit on several days you must upload each activation in a separate file<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/> otherwise
-        the file will be assumed to only contain a single activation.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+        <target state="final">이 기능을 통해 대량의 QSO 데이터를 한 번에 업로드 할 수 있습니다. 이를 위해서는 QSO 로그테이터를 아래에 나타내듯이 CSV파일(쉼표로 데이터 항목이 구분된 데이터) 혹은 TSV파일(Tab 혹은 공간에서 데이터 항목이 구분된 데이터)로 작성해야 합니다.이 파일을 업로드 한 후 에러체크를 하여 그대로 데이터베이스를 저장할 수 있는지 여부를 확인할 수 있습니다. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>로그데이터는 활성화, 추적, S2S(산 대 산)의 레코드를 하나의 파일에 혼재시키는 것이 가능합니다.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+        복수의 활성화 로그를 하나의 파일에 포함하는 것도 가능합니다만, 하나의 활성화 로그를 복수의 파일에 걸쳐 넣을 수는 없습니다. 각각의 활성화 로그는 [자국 산정상]란에 기재되는 산정상 코드번호가 바뀌었을 때에 그 활성화가 종료되는 것으로 간주됩니다.<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/> 그렇지 않으면 파일은 단일 활성화만 포함하는 것으로 간주됩니다.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
 
                  </target>
         <context-group purpose="location">
@@ -3243,7 +3239,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="csv2" datatype="html">
         <source>The new prefered Version 2 (V2) format consists of upto ten fields as follows</source>
-        <target state="final">The new prefered Version 2 (V2) format consists of upto ten fields as follows</target>
+        <target state="final">권장되는 CSV 데이터의 버전 2(V2) 포맷은 다음과 같이 10개의 개별 데이터 필드로 구성됩니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">18</context>
@@ -3252,8 +3248,8 @@ Thank you for participating in SOTA
       <trans-unit id="csv3" datatype="html">
         <source>[V2] [My Callsign][My Summit] [Date] [Time]
                 [Band] [Mode] [His Callsign] </source>
-        <target state="final">[V2] [My Callsign][My Summit] [Date] [Time]
-                [Band] [Mode] [His Callsign] </target>
+        <target state="final">[V2] [자국 콜싸인][자국 산정상] [날짜] [시간]
+                [주파수밴드] [모드] [상대국 콜싸인] </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">20</context>
@@ -3264,7 +3260,7 @@ Thank you for participating in SOTA
       or
     </source>
         <target state="final">
-      or
+      혹은
     </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
@@ -3278,8 +3274,8 @@ Thank you for participating in SOTA
       <trans-unit id="csv4" datatype="html">
         <source>[V2] [My Callsign][My Summit] [Date] [Time]
                 [Band] [Mode] [His Callsign][His Summit] </source>
-        <target state="final">[V2] [My Callsign][My Summit] [Date] [Time]
-                [Band] [Mode] [His Callsign][His Summit] </target>
+        <target state="final">[V2] [자국 콜싸인][자국 산정상] [날짜] [시간]
+                [주파수 밴드] [모드] [상대국 콜싸인][상대국 산정상] </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">25</context>
@@ -3288,8 +3284,8 @@ Thank you for participating in SOTA
       <trans-unit id="csv5" datatype="html">
         <source>[V2] [My Callsign][My Summit] [Date] [Time]
                 [Band] [Mode] [His Callsign][His Summit] [Notes or Comments]</source>
-        <target state="final">[V2] [My Callsign][My Summit] [Date] [Time]
-                [Band] [Mode] [His Callsign][His Summit] [Notes or Comments]</target>
+        <target state="final">[V2] [자국 콜싸인][자국 산정상] [날짜] [시간]
+                [주파수 밴드] [모드] [상대국 콜싸인][상대국 산정상] [코멘트 또는 비고]</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">30</context>
@@ -3299,9 +3295,7 @@ Thank you for participating in SOTA
         <source>Each field is separated by either a Comma (CSV) or Tab (TSV).
         Each QSO is a single record and there is one record to a line, terminated in
         [CR][LF].</source>
-        <target state="final">Each field is separated by either a Comma (CSV) or Tab (TSV).
-        Each QSO is a single record and there is one record to a line, terminated in
-        [CR][LF].</target>
+        <target state="final">각각의 개별 데이터 필드는 콤마(CSV) 혹은 Tab 또는 스페이스(TSV)로 구분되어 있어야 합니다.각각의 QSO는 하나의 레코드이며 한 줄로 나타나 [CR][LF]에서 줄 바꿈이 되어 있어야 합니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">33</context>
@@ -3309,7 +3303,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="csv7" datatype="html">
         <source>Here is an example:</source>
-        <target>Here is an example:</target>
+        <target>참고 예:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">38</context>
@@ -3317,7 +3311,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="csv8" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u>"/>Field notes<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u>"/></source>
-        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u>"/>Field notes<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u>"/></target>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u>"/>비고<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u>"/></target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">50</context></context-group></trans-unit>
       <trans-unit id="csvField" datatype="html">
@@ -3327,11 +3321,11 @@ Thank you for participating in SOTA
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">54</context></context-group></trans-unit>
       <trans-unit id="Comments" datatype="html">
         <source> Comments </source>
-        <target state="final"> Comments </target>
+        <target state="final"> 코멘트 </target>
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">119</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">57</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">251</context></context-group></trans-unit><trans-unit id="Delete" datatype="html">
-        <source> Delete </source><target state="final"> Delete </target>
+        <source> Delete </source><target state="final"> 삭제 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">123</context>
@@ -3417,7 +3411,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">62</context>
         </context-group>
       </trans-unit><trans-unit id="SubmitLog" datatype="html">
-        <source>Submit Log</source><target state="final">Submit Log</target>
+        <source>Submit Log</source><target state="final">로그제출</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">131</context>
@@ -3427,43 +3421,43 @@ Thank you for participating in SOTA
           <context context-type="linenumber">141</context>
         </context-group>
       </trans-unit><trans-unit id="UploadAnother" datatype="html">
-        <source>Upload another log</source><target state="final">Upload another log</target>
+        <source>Upload another log</source><target state="final">다른 로그 업로드</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">153</context>
         </context-group>
       </trans-unit><trans-unit id="FindSummit" datatype="html">
-        <source>Find a summit</source><target state="final">Find a summit</target>
+        <source>Find a summit</source><target state="final">산정상 찾기</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">1</context>
         </context-group>
       </trans-unit><trans-unit id="EnterSummitCode" datatype="html">
-        <source>Enter the name or code of a summit and press the "Find" button.</source><target state="final">Enter the name or code of a summit and press the "Find" button.</target>
+        <source>Enter the name or code of a summit and press the "Find" button.</source><target state="final">산정상의 이름 또는 코드를 입력하고 “찾기” 버튼을 누르십시오. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
       </trans-unit><trans-unit id="Search" datatype="html">
-        <source>Search</source><target state="final">Search</target>
+        <source>Search</source><target state="final">검색</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit><trans-unit id="Find" datatype="html">
-        <source>Find</source><target state="final">Find</target>
+        <source>Find</source><target state="final">찾기</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit><trans-unit id="FindSummitsFound" datatype="html">
-        <source>The following summits were found.  Select the one you wish to view</source><target state="final">The following summits were found.  Select the one you wish to view</target>
+        <source>The following summits were found.  Select the one you wish to view</source><target state="final">다음의 산정상들이 발견되었다. 보려는 항목을 선택하십시오.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit><trans-unit id="SummitReference" datatype="html">
-        <source> Summit Reference </source><target state="final"> Summit Reference </target>
+        <source> Summit Reference </source><target state="final"> 산정상 코드 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">18</context>
@@ -3481,7 +3475,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit><trans-unit id="Name" datatype="html">
-        <source> Name </source><target state="final"> Name </target>
+        <source> Name </source><target state="final"> 이름 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">22</context>
@@ -3519,7 +3513,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">39</context>
         </context-group>
       </trans-unit><trans-unit id="Info" datatype="html">
-        <source> Info </source><target state="final"> Info </target>
+        <source> Info </source><target state="final"> 정보 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">26</context>
@@ -3541,7 +3535,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">92</context>
         </context-group>
       </trans-unit><trans-unit id="SummitInfo" datatype="html">
-        <source>Summit Info</source><target state="final">Summit Info</target>
+        <source>Summit Info</source><target state="final">산정상 정보</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">27</context>
@@ -3555,7 +3549,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">38</context>
         </context-group>
       </trans-unit><trans-unit id="AltM" datatype="html">
-        <source> Alt (m) </source><target state="final"> Alt (m) </target>
+        <source> Alt (m) </source><target state="final"> 해발높이 (m) </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
           <context context-type="linenumber">13</context>
@@ -3569,7 +3563,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">51</context>
         </context-group>
       </trans-unit><trans-unit id="AltFt" datatype="html">
-        <source> Alt (ft) </source><target state="final"> Alt (ft) </target>
+        <source> Alt (ft) </source><target state="final"> 해발높이 (ft) </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3583,7 +3577,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">55</context>
         </context-group>
       </trans-unit><trans-unit id="ActivationCount" datatype="html">
-        <source> Activation Count </source><target state="final"> Activation Count </target>
+        <source> Activation Count </source><target state="final"> 활성화 횟수 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
           <context context-type="linenumber">25</context>
@@ -3613,7 +3607,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">15</context>
         </context-group>
       </trans-unit><trans-unit id="LastActivation" datatype="html">
-        <source> Last Activation </source><target state="final"> Last Activation </target>
+        <source> Last Activation </source><target state="final"> 최근 활동일 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
           <context context-type="linenumber">29</context>
@@ -3627,7 +3621,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">79</context>
         </context-group>
       </trans-unit><trans-unit id="LastActivator" datatype="html">
-        <source> Last Activator </source><target state="final"> Last Activator </target>
+        <source> Last Activator </source><target state="final"> 최근 활동자 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
           <context context-type="linenumber">33</context>
@@ -3641,49 +3635,49 @@ Thank you for participating in SOTA
           <context context-type="linenumber">83</context>
         </context-group>
       </trans-unit><trans-unit id="SummitDetails" datatype="html">
-        <source>Summit Details</source><target state="final">Summit Details</target>
+        <source>Summit Details</source><target state="final">산정상 상세</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">1</context>
         </context-group>
       </trans-unit><trans-unit id="BySummitRef" datatype="html">
-        <source>by Summit Ref</source><target state="final">by Summit Ref</target>
+        <source>by Summit Ref</source><target state="final">산정상 번호순</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">16</context>
         </context-group>
       </trans-unit><trans-unit id="ByOldestActivation" datatype="html">
-        <source>by Oldest Activation</source><target state="final">by Oldest Activation</target>
+        <source>by Oldest Activation</source><target state="final">가장 오래된 활성순서</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit><trans-unit id="ByNewestActivation" datatype="html">
-        <source>by Newest Activation</source><target state="final">by Newest Activation</target>
+        <source>by Newest Activation</source><target state="final">최신 활성순서</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">18</context>
         </context-group>
       </trans-unit><trans-unit id="DisplayOrder" datatype="html">
-        <source>Display Order</source><target state="final">Display Order</target>
+        <source>Display Order</source><target state="final">순서 표시</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">15</context>
         </context-group>
       </trans-unit><trans-unit id="Details" datatype="html">
-        <source>Details</source><target state="final">Details</target>
+        <source>Details</source><target state="final">상세</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">24</context>
         </context-group>
       </trans-unit><trans-unit id="RegionName" datatype="html">
-        <source>Region Name: </source><target state="final">Region Name: </target>
+        <source>Region Name: </source><target state="final">지역명: </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">27</context>
         </context-group>
       </trans-unit><trans-unit id="RegionCode" datatype="html">
-        <source>Region Code: </source><target state="final">Region Code: </target>
+        <source>Region Code: </source><target state="final">지역코드: </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">28</context>
@@ -3697,25 +3691,25 @@ Thank you for participating in SOTA
           <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit><trans-unit id="RegionManager" datatype="html">
-        <source>Region Manager:</source><target state="final">Region Manager:</target>
+        <source>Region Manager:</source><target state="final">지역관리자:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">31</context>
         </context-group>
       </trans-unit><trans-unit id="Contact" datatype="html">
-        <source>Contact:</source><target state="final">Contact:</target>
+        <source>Contact:</source><target state="final">연락처:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">32</context>
         </context-group>
       </trans-unit><trans-unit id="RegionMap" datatype="html">
-        <source>Region Map</source><target state="final">Region Map</target>
+        <source>Region Map</source><target state="final">지역지도</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">36</context>
         </context-group>
       </trans-unit><trans-unit id="Latitude" datatype="html">
-        <source> Latitude </source><target state="final"> Latitude </target>
+        <source> Latitude </source><target state="final"> 위도 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3725,7 +3719,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">22</context>
         </context-group>
       </trans-unit><trans-unit id="Longitude" datatype="html">
-        <source> Longitude </source><target state="final"> Longitude </target>
+        <source> Longitude </source><target state="final"> 경도 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">63</context>
@@ -3735,7 +3729,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">22</context>
         </context-group>
       </trans-unit><trans-unit id="Locator" datatype="html">
-        <source> Locator </source><target state="final"> Locator </target>
+        <source> Locator </source><target state="final"> 그리드 로케이터 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">67</context>
@@ -3745,7 +3739,7 @@ Thank you for participating in SOTA
           <context context-type="linenumber">30</context>
         </context-group>
       </trans-unit><trans-unit id="History" datatype="html">
-        <source> History </source><target state="final"> History </target>
+        <source> History </source><target state="final"> 이력 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">87</context>
@@ -3756,723 +3750,5 @@ Thank you for participating in SOTA
         </context-group>
       </trans-unit><trans-unit id="SummitsListCSV" datatype="html">
         <source>NOTE : You can download a CSV file containing a list of all summits by clicking <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
-    </source><target state="final">NOTE : You can download a CSV file containing a list of all summits by clicking <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+    </source><target state="final">비고:  <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>여기<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>를 클릭하면 모든 산정상 목록이 담긴 CSV 파일을 다운받을 수 있습니다.
     </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
-          <context context-type="linenumber">99</context>
-        </context-group>
-      </trans-unit><trans-unit id="Percentage&lt;br/>Unique" datatype="html">
-        <source> Percentage<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Unique </source><target state="final"> Percentage<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Unique </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
-          <context context-type="linenumber">65</context>
-        </context-group>
-      </trans-unit><trans-unit id="YourCallsign" datatype="html">
-        <source>Callsign/SWL YOU used</source><target state="final">Callsign/SWL YOU used</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
-          <context context-type="linenumber">60</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="MyCallsign" datatype="html">
-        <source>My Callsign</source>
-        <target>My Callsign</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">62</context></context-group></trans-unit>
-      <trans-unit id="csvCallsign" datatype="html">
-        <source>This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
-              used for the QSO. No spaces in the callsign please</source>
-        <target state="final">This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
-              used for the QSO. No spaces in the callsign please</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">65</context></context-group></trans-unit>
-      <trans-unit id="csvSummit" datatype="html">
-        <source>This MUST be the full
-              SOTA reference of the summit you where activating, as shown in the above example.</source>
-        <target state="final">This MUST be the full
-              SOTA reference of the summit you where activating, as shown in the above example.</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">74</context></context-group></trans-unit><trans-unit id="csvSummitChaser" datatype="html">
-        <source>If you are entering a chaser log, this field will be blank.  See last entry in the example.
-          </source><target state="final">If you are entering a chaser log, this field will be blank.  See last entry in the example.
-          </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
-          <context context-type="linenumber">76</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="csvDate" datatype="html">
-        <source>The date of the QSO.
-              Most date formats are accepted but be careful about USA vs. International date
-              format.  Use of International date format (DD/MM/YY) is recommended</source>
-        <target state="final">The date of the QSO.
-              Most date formats are accepted but be careful about USA vs. International date
-              format.  Use of International date format (DD/MM/YY) is recommended</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">86</context></context-group></trans-unit>
-      <trans-unit id="csvTime" datatype="html">
-        <source>The time in UTC.
-              Either HHMM or HH:MM will work. Use the 24 hour clock!</source>
-        <target state="final">The time in UTC.
-              Either HHMM or HH:MM will work. Use the 24 hour clock!</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">96</context></context-group></trans-unit>
-      <trans-unit id="csvBand" datatype="html">
-        <source>You can enter the frequency in MHz (14.285MHz) or pick from the following:</source>
-        <target>You can enter the frequency in MHz (14.285MHz) or pick from the following:</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">105</context></context-group></trans-unit>
-      <trans-unit id="csvOtherCall" datatype="html">
-        <source>The callsign of the <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
-                station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</source>
-        <target state="final">The callsign of the <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
-                station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">234</context></context-group></trans-unit>
-      <trans-unit id="csvOtherSummit" datatype="html">
-        <source>This field is only needed if the station
-              was also activating a SOTA summit. This is the full SOTA reference of the summit the chasing station was activating, as shown in the above example.
-                            If there is no [Other Summit] you can leave this blank. If there is a comment then you must insert a TAB or comma to mark the field as being blank.
-                            See entries for G3NOH or GW4GTE</source>
-        <target state="final">This field is only needed if the station
-              was also activating a SOTA summit. This is the full SOTA reference of the summit the chasing station was activating, as shown in the above example.
-                            If there is no [Other Summit] you can leave this blank. If there is a comment then you must insert a TAB or comma to mark the field as being blank.
-                            See entries for G3NOH or GW4GTE</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">243</context></context-group></trans-unit>
-      <trans-unit id="csvComments" datatype="html">
-        <source>An optional field for
-              recording short notes about the QSO. This could include the Operator's name and
-              location, Signal Report, QSL information, or almost anything else. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
-                            <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>You can embed a TAB or comma in this field. If you do you must enclose the entire Notes field in double-quotes. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
-
-
-          </source>
-          <target state="final">An optional field for
-              recording short notes about the QSO. This could include the Operator's name and
-              location, Signal Report, QSL information, or almost anything else. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
-                            <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>You can embed a TAB or comma in this field. If you do you must enclose the entire Notes field in double-quotes. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
-
-
-          </target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">254</context></context-group></trans-unit>
-      <trans-unit id="csv9" datatype="html">
-        <source>The easiest way to
-        create your TSV/CSV file is using Excel.  This allows you to arrange your
-        log data in columns then save it as either a TSV or CSV file.  Either is
-        accepted by the SOTA program.</source>
-        <target state="final">The easiest way to
-        create your TSV/CSV file is using Excel.  This allows you to arrange your
-        log data in columns then save it as either a TSV or CSV file.  Either is
-        accepted by the SOTA program.</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">265</context></context-group></trans-unit>
-      <trans-unit id="CommonErrors" datatype="html">
-        <source>Common errors</source>
-        <target>Common errors</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">270</context></context-group></trans-unit>
-      <trans-unit id="csv10" datatype="html">
-        <source>Spaces in the
-            callsigns.  Our callsigns do not have spaces in them!</source>
-        <target state="final">Spaces in the
-            callsigns.  Our callsigns do not have spaces in them!</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">273</context></context-group></trans-unit>
-      <trans-unit id="csv11" datatype="html">
-        <source>Date or time out of
-            order.  The input parser will show an error if the log is not in
-            sequential order</source>
-        <target state="final">Date or time out of
-            order.  The input parser will show an error if the log is not in
-            sequential order</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">276</context></context-group></trans-unit>
-      <trans-unit id="csv12" datatype="html">
-        <source>Errors in the SOTA
-            reference number.  Spaces in the reference, leaving off the ITU prefix, or
-            specifying a reference that does not exist will all result in an error being
-            reported.</source>
-        <target state="final">Errors in the SOTA
-            reference number.  Spaces in the reference, leaving off the ITU prefix, or
-            specifying a reference that does not exist will all result in an error being
-            reported.</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">280</context></context-group></trans-unit>
-      <trans-unit id="csv13" datatype="html">
-        <source>If an error is
-        detected then it is shown in Red and you should then modify the file to correct
-        the error and resubmit it. Once you get an error free report, you should
-        carefully check that everything is correct before saving it. As soon as you
-        have saved the data you will be able to see the effect in the various Activator
-        tables.</source>
-        <target state="final">If an error is
-        detected then it is shown in Red and you should then modify the file to correct
-        the error and resubmit it. Once you get an error free report, you should
-        carefully check that everything is correct before saving it. As soon as you
-        have saved the data you will be able to see the effect in the various Activator
-        tables.</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">286</context></context-group></trans-unit><trans-unit id="MySWL" datatype="html">
-        <source> My SWL </source><target state="final"> My SWL </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context>
-          <context context-type="linenumber">38</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context>
-          <context context-type="linenumber">37</context>
-        </context-group>
-      </trans-unit><trans-unit id="StationHeard" datatype="html">
-        <source> Station Heard </source><target state="final"> Station Heard </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context>
-          <context context-type="linenumber">42</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context>
-          <context context-type="linenumber">41</context>
-        </context-group>
-      </trans-unit><trans-unit id="Height" datatype="html">
-        <source>Height:</source><target state="final">Height:</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">34</context>
-        </context-group>
-      </trans-unit><trans-unit id="ExtraInfo" datatype="html">
-        <source>Extra Info:</source><target state="final">Extra Info:</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">42</context>
-        </context-group>
-      </trans-unit><trans-unit id="SummitMap" datatype="html">
-        <source>Summit Map:</source><target state="final">Summit Map:</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">47</context>
-        </context-group>
-      </trans-unit><trans-unit id="Map" datatype="html">
-        <source>Map</source><target state="final">Map</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">48</context>
-        </context-group>
-      </trans-unit><trans-unit id="PointsHistory" datatype="html">
-        <source>Points history</source><target state="final">Points history</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">52</context>
-        </context-group>
-      </trans-unit><trans-unit id="From" datatype="html">
-        <source> From </source><target state="final"> From </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">56</context>
-        </context-group>
-      </trans-unit><trans-unit id="To" datatype="html">
-        <source> To </source><target state="final"> To </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">60</context>
-        </context-group>
-      </trans-unit><trans-unit id="Bonus" datatype="html">
-        <source> Bonus </source><target state="final"> Bonus </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">68</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context>
-          <context context-type="linenumber">11</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
-          <context context-type="linenumber">15</context>
-        </context-group>
-      </trans-unit><trans-unit id="FirstActivation" datatype="html">
-        <source>First Activation</source><target state="final">First Activation</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">75</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="deleteActivatorQSO" datatype="html">
-        <source>
-You are about to permanently delete the record of the activation QSO below. This cannot be undone.
-</source>
-        <target state="final">
-You are about to permanently delete the record of the activation QSO below. This cannot be undone.
-</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context>
-          <context context-type="linenumber">6</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="Notes" datatype="html">
-        <source>Notes</source>
-        <target>Notes</target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">87</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/list-summits/list-summits.component.html</context><context context-type="linenumber">35</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">88</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">57</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">159</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context><context context-type="linenumber">56</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context><context context-type="linenumber">54</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/summit-report/summit-report.component.html</context><context context-type="linenumber">38</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">35</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">56</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">158</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context><context context-type="linenumber">54</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context><context context-type="linenumber">53</context></context-group></trans-unit><trans-unit id="AddQSO" datatype="html">
-        <source>Add QSO</source><target state="final">Add QSO</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
-          <context context-type="linenumber">94</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="activatorDeleteResult2" datatype="html">
-        <source>You cannot delete this Activation.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
-        <target>You cannot delete this Activation.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
-          <context context-type="linenumber">2</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="deleteActivator" datatype="html">
-        <source>
-You are about to permanently delete the record of the activation below. This cannot be undone.
-</source>
-        <target state="final">
-You are about to permanently delete the record of the activation below. This cannot be undone.
-</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
-          <context context-type="linenumber">6</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="ownCallsign" datatype="html">
-        <source>Own Callsign:</source>
-        <target>Own Callsign:</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
-          <context context-type="linenumber">19</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="BonusPoints" datatype="html">
-        <source> Bonus Points </source>
-        <target state="final"> Bonus Points </target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context><context context-type="linenumber">65</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context><context context-type="linenumber">52</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context><context context-type="linenumber">5</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context><context context-type="linenumber">25</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-log/activator-log.component.html</context><context context-type="linenumber">52</context></context-group></trans-unit><trans-unit id="TotalPoints" datatype="html">
-        <source> Total Points </source><target state="final"> Total Points </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
-          <context context-type="linenumber">69</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
-          <context context-type="linenumber">5</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
-          <context context-type="linenumber">93</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/award-check/award-check.component.html</context>
-          <context context-type="linenumber">47</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/award-check-activator/award-check-activator.component.html</context>
-          <context context-type="linenumber">47</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="QSOs" datatype="html">
-        <source> QSOs </source>
-        <target state="final"> QSOs </target>
-        
-      <context-group purpose="location"><context context-type="sourcefile">app/summit-report/summit-report.component.html</context><context context-type="linenumber">102</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context><context context-type="linenumber">28</context></context-group></trans-unit><trans-unit id="160m" datatype="html">
-        <source> 160m </source><target state="final"> 160m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">106</context>
-        </context-group>
-      </trans-unit><trans-unit id="80m" datatype="html">
-        <source> 80m </source><target state="final"> 80m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">110</context>
-        </context-group>
-      </trans-unit><trans-unit id="60m" datatype="html">
-        <source> 60m </source><target state="final"> 60m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">114</context>
-        </context-group>
-      </trans-unit><trans-unit id="40m" datatype="html">
-        <source> 40m </source><target state="final"> 40m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">118</context>
-        </context-group>
-      </trans-unit><trans-unit id="30m" datatype="html">
-        <source> 30m </source><target state="final"> 30m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">122</context>
-        </context-group>
-      </trans-unit><trans-unit id="20m" datatype="html">
-        <source> 20m </source><target state="final"> 20m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">126</context>
-        </context-group>
-      </trans-unit><trans-unit id="17m" datatype="html">
-        <source> 17m </source><target state="final"> 17m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">130</context>
-        </context-group>
-      </trans-unit><trans-unit id="15m" datatype="html">
-        <source> 15m </source><target state="final"> 15m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">134</context>
-        </context-group>
-      </trans-unit><trans-unit id="12m" datatype="html">
-        <source> 12m </source><target state="final"> 12m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">138</context>
-        </context-group>
-      </trans-unit><trans-unit id="10m" datatype="html">
-        <source> 10m </source><target state="final"> 10m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">142</context>
-        </context-group>
-      </trans-unit><trans-unit id="6m" datatype="html">
-        <source> 6m </source><target state="final"> 6m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">146</context>
-        </context-group>
-      </trans-unit><trans-unit id="4m" datatype="html">
-        <source> 4m </source><target state="final"> 4m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">150</context>
-        </context-group>
-      </trans-unit><trans-unit id="2m" datatype="html">
-        <source> 2m </source><target state="final"> 2m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">154</context>
-        </context-group>
-      </trans-unit><trans-unit id="70cm" datatype="html">
-        <source> 70 cm </source><target state="final"> 70 cm </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">158</context>
-        </context-group>
-      </trans-unit><trans-unit id="23cm" datatype="html">
-        <source> 23 cm </source><target state="final"> 23 cm </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">162</context>
-        </context-group>
-      </trans-unit><trans-unit id="FM" datatype="html">
-        <source> FM </source><target state="final"> FM </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">166</context>
-        </context-group>
-      </trans-unit><trans-unit id="SSB" datatype="html">
-        <source> SSB </source><target state="final"> SSB </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">170</context>
-        </context-group>
-      </trans-unit><trans-unit id="CW" datatype="html">
-        <source> CW </source><target state="final"> CW </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
-          <context context-type="linenumber">174</context>
-        </context-group>
-      </trans-unit><trans-unit id="ShowSummary" datatype="html">
-        <source>Show Summary</source><target state="final">Show Summary</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context>
-          <context context-type="linenumber">4</context>
-        </context-group>
-      </trans-unit><trans-unit id="ShowWhoChased" datatype="html">
-        <source>Show Who Chased Me</source><target state="final">Show Who Chased Me</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
-          <context context-type="linenumber">4</context>
-        </context-group>
-      </trans-unit><trans-unit id="ReturnToActivatorLog" datatype="html">
-        <source>Return to activator log</source><target state="final">Return to activator log</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
-          <context context-type="linenumber">7</context>
-        </context-group>
-      </trans-unit><trans-unit id="FollowingQSOs" datatype="html">
-        <source>The following QSOs were logged for</source><target state="final">The following QSOs were logged for</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
-          <context context-type="linenumber">53</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
-          <context context-type="linenumber">90</context>
-        </context-group>
-      </trans-unit><trans-unit id="On" datatype="html">
-        <source>on</source><target state="final">on</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
-          <context context-type="linenumber">53</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
-          <context context-type="linenumber">90</context>
-        </context-group>
-      </trans-unit><trans-unit id="SummitRef" datatype="html">
-        <source> Summit Ref </source><target state="final"> Summit Ref </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
-          <context context-type="linenumber">81</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
-          <context context-type="linenumber">118</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="Welcome" datatype="html">
-        <source>Welcome</source>
-        <target>Welcome</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/login-display/login-display.component.html</context>
-          <context context-type="linenumber">1</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="Logout" datatype="html">
-        <source>Logout</source>
-        <target>Logout</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/login-display/login-display.component.html</context>
-          <context context-type="linenumber">1</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="Register" datatype="html">
-        <source>Register</source>
-        <target>Register</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/login-display/login-display.component.html</context>
-          <context context-type="linenumber">2</context>
-        </context-group>
-      </trans-unit><trans-unit id="StationsHeard" datatype="html">
-        <source> Stations Heard </source><target state="final"> Stations Heard </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/swlroll/swlroll.component.html</context>
-          <context context-type="linenumber">57</context>
-        </context-group>
-      </trans-unit><trans-unit id="Multipliers" datatype="html">
-        <source> Multipliers </source><target state="final"> Multipliers </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/first12m-activator/first12m-activator.component.html</context>
-          <context context-type="linenumber">36</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/first12m-chaser/first12m-chaser.component.html</context>
-          <context context-type="linenumber">36</context>
-        </context-group>
-      </trans-unit><trans-unit id="1st610mChaser" datatype="html">
-        <source>First 6/10m Challenge Chaser Results</source><target state="final">First 6/10m Challenge Chaser Results</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
-          <context context-type="linenumber">1</context>
-        </context-group>
-      </trans-unit><trans-unit id="610ChallengeDates" datatype="html">
-        <source>
-Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13th February 2016
-</source><target state="final">
-Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13th February 2016
-</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
-          <context context-type="linenumber">4</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/first610m-activator/first610m-activator.component.html</context>
-          <context context-type="linenumber">4</context>
-        </context-group>
-      </trans-unit><trans-unit id="AssociationCode" datatype="html">
-        <source> Association Code </source><target state="final"> Association Code </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
-          <context context-type="linenumber">12</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/first610m-activator/first610m-activator.component.html</context>
-          <context context-type="linenumber">12</context>
-        </context-group>
-      </trans-unit><trans-unit id="610Multipliers" datatype="html">
-        <source> 6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Multipliers </source><target state="final"> 6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Multipliers </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
-          <context context-type="linenumber">24</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/first610m-activator/first610m-activator.component.html</context>
-          <context context-type="linenumber">24</context>
-        </context-group>
-      </trans-unit><trans-unit id="DateFirstChase" datatype="html">
-        <source> Date of First Chase </source><target state="final"> Date of First Chase </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/chaser-uniques-show/chaser-uniques-show.component.html</context>
-          <context context-type="linenumber">33</context>
-        </context-group>
-      </trans-unit><trans-unit id="Choose" datatype="html">
-        <source> Choose </source><target state="final"> Choose </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/generate-awards/generate-awards.component.html</context>
-          <context context-type="linenumber">20</context>
-        </context-group>
-      </trans-unit><trans-unit id="Distance(km)" datatype="html">
-        <source> Distance (km) </source><target state="final"> Distance (km) </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context>
-          <context context-type="linenumber">66</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context>
-          <context context-type="linenumber">66</context>
-        </context-group>
-      </trans-unit><trans-unit id="DownloadCompleteLog" datatype="html">
-        <source>Download complete log</source><target state="final">Download complete log</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context>
-          <context context-type="linenumber">82</context>
-        </context-group>
-      </trans-unit><trans-unit id="adifUpInst1" datatype="html">
-        <source>
-	Export an ADIF file from your log program containing all your entries you would like to upload. These can be for any number of activations, but DO NOT upload your entire log - only export the entries for SOTA.</source><target state="final">
-	Export an ADIF file from your log program containing all your entries you would like to upload. These can be for any number of activations, but DO NOT upload your entire log - only export the entries for SOTA.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
-          <context context-type="linenumber">20</context>
-        </context-group>
-      </trans-unit><trans-unit id="adifUpInst2" datatype="html">
-        <source>
-	If you are unsure what an ADIF file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source><target state="final">
-	If you are unsure what an ADIF file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
-          <context context-type="linenumber">22</context>
-        </context-group>
-      </trans-unit><trans-unit id="adifUpInst3" datatype="html">
-        <source>
-	Press the Browse button below and select the ADIF file on your hard drive
-   </source><target state="final">
-	Press the Browse button below and select the ADIF file on your hard drive
-   </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
-          <context context-type="linenumber">24</context>
-        </context-group>
-      </trans-unit><trans-unit id="selectADIF" datatype="html">
-        <source>Select ADIF File:</source><target state="final">Select ADIF File:</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
-          <context context-type="linenumber">32</context>
-        </context-group>
-      </trans-unit><trans-unit id="2020ChallengeChaserRoll" datatype="html">
-        <source>2020 Challenge Chaser Roll</source><target state="final">2020 Challenge Chaser Roll</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context>
-          <context context-type="linenumber">1</context>
-        </context-group>
-      </trans-unit><trans-unit id="LF" datatype="html">
-        <source> 160m / 80m </source><target state="final"> 160m / 80m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context>
-          <context context-type="linenumber">40</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
-          <context context-type="linenumber">40</context>
-        </context-group>
-      </trans-unit><trans-unit id="Datamodes" datatype="html">
-        <source> Datamodes </source><target state="final"> Datamodes </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context>
-          <context context-type="linenumber">44</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
-          <context context-type="linenumber">44</context>
-        </context-group>
-      </trans-unit><trans-unit id="DV" datatype="html">
-        <source> DV </source><target state="final"> DV </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context>
-          <context context-type="linenumber">48</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
-          <context context-type="linenumber">48</context>
-        </context-group>
-      </trans-unit><trans-unit id="Twelve" datatype="html">
-        <source> 12m / 10m / 6m </source><target state="final"> 12m / 10m / 6m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context>
-          <context context-type="linenumber">52</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
-          <context context-type="linenumber">52</context>
-        </context-group>
-      </trans-unit><trans-unit id="Seventeen" datatype="html">
-        <source> 17m </source><target state="final"> 17m </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context>
-          <context context-type="linenumber">56</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
-          <context context-type="linenumber">56</context>
-        </context-group>
-      </trans-unit><trans-unit id="UHF" datatype="html">
-        <source> 70cm </source><target state="final"> 70cm </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context>
-          <context context-type="linenumber">60</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
-          <context context-type="linenumber">60</context>
-        </context-group>
-      </trans-unit><trans-unit id="2020ChallengeActivatorRoll" datatype="html">
-        <source>2020 Challenge Activator Roll</source><target state="final">2020 Challenge Activator Roll</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
-          <context context-type="linenumber">1</context>
-        </context-group>
-      </trans-unit><trans-unit id="ChasersWorked" datatype="html">
-        <source> Chasers Worked </source><target state="final"> Chasers Worked </target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
-          <context context-type="linenumber">32</context>
-        </context-group>
-      </trans-unit><trans-unit id="ManageUploadsIntro" datatype="html">
-        <source>This page will enable you to delete any upload you have made via CSV or ADIF after May 30, 2020.  By clicking on delete, all S2S, Chaser and Activator records for that upload will be deleted and can be reuploaded</source><target state="final">This page will enable you to delete any upload you have made via CSV or ADIF after May 30, 2020.  By clicking on delete, all S2S, Chaser and Activator records for that upload will be deleted and can be reuploaded</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
-          <context context-type="linenumber">3</context>
-        </context-group>
-      </trans-unit><trans-unit id="Chases" datatype="html">
-        <source>Chases</source><target state="final">Chases</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
-          <context context-type="linenumber">29</context>
-        </context-group>
-      </trans-unit><trans-unit id="UploadDeleteAYS" datatype="html">
-        <source>Are you sure you want to delete the following upload?</source><target state="final">Are you sure you want to delete the following upload?</target>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
-          <context context-type="linenumber">47</context>
-        </context-group>
-      </trans-unit>
-    </body>
-  </file>
-</xliff>
