@@ -1734,7 +1734,7 @@ administrators.
           <context context-type="linenumber">45</context>
         </context-group>
       </trans-unit><trans-unit id="MyTopActivationChasers" datatype="html">
-        <source>My top activation chasers</source><target state="final">내가  활성화한 상위 체이서</target>
+        <source>My top activation chasers</source><target state="final">내가 엑티베이터 운용시 나를 추적한 상위 체이서</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">69</context>
