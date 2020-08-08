@@ -72,37 +72,37 @@
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">41</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="ActivatorRollOfHonour" datatype="html">
         <source>Activator Roll of Honour</source>
-        <target>활동자 명예의 전당</target>
+        <target>엑티베이터 득점 현황</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">45</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="ActivatorUniques" datatype="html">
         <source>Activator Uniques</source>
-        <target>유일한 활동자</target>
+        <target>한번이상 운용한 활동자</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">49</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="ChaserRollOfHonour" datatype="html">
         <source>Chaser Roll of Honour</source>
-        <target>추적자 명예의 전당</target>
+        <target>체이서 득점 현황</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">53</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="ChaserUniques" datatype="html">
         <source>Chaser Uniques</source>
-        <target>유일한 추적자</target>
+        <target>유일한 체이서</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">57</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="S2SRollOfHonour" datatype="html">
         <source>Summit to Summit Roll of Honour</source>
-        <target>산대산 명예의 전당</target>
+        <target>산정상 대 산정상 득점 현황</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">61</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/s2-sroll/s2-sroll.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="SOTACompleteRoll" datatype="html">
         <source>SOTA Complete Roll of Honour</source>
-        <target>SOTA 활동 및 추적 완성 명예의 전당</target>
+        <target>SOTA 완료 득점 현황</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">65</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="SWLRoll" datatype="html">
         <source>SWL Roll of Honour</source>
-        <target>SWL 명예의 전당</target>
+        <target>SWL 득점 현황</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">69</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/swlroll/swlroll.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="Challenges" datatype="html">
@@ -117,31 +117,31 @@
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">77</context></context-group></trans-unit>
       <trans-unit id="1st12mActivator" datatype="html">
         <source>1st 12m Challenge Activator Roll of Honour</source>
-        <target>1st 12m 도전 활동자 명예의 전당</target>
+        <target>1st 12m 도전 엑티베이터 득점 현황</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">83</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first12m-activator/first12m-activator.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="1st12mChaser" datatype="html">
         <source>1st 12m Challenge Chaser Roll of Honour</source>
-        <target>1st 12m 도전 추적자 명예의 전당</target>
+        <target>1st 12m 도전 체이서 명예의 전당</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">86</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first12m-chaser/first12m-chaser.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="1st610Activator" datatype="html">
         <source>1st 6m/10m Challenge Activator Roll of Honour</source>
-        <target>1st 6m/10m 도전 활동자 명예의 전당</target>
+        <target>1st 6m/10m 도전 엑티베이터 득점 현황</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">89</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first610m-activator/first610m-activator.component.html</context><context context-type="linenumber">1</context></context-group><당trans-unit>
       <trans-unit id="1st610Chaser" datatype="html">
         <source>1st 6m/10m Challenge Chaser Roll of Honour</source>
-        <target>1st 6m/10m 도전 추적자 명예의 전당</target>
+        <target>1st 6m/10m 도전 체이서 명예의 전당</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">92</context></context-group></trans-unit><trans-unit id="2020SOTAChallengeActivator" datatype="html">
-        <source>2020 SOTA Challenge Activator Roll of Honour</source><target state="final">2020 SOTA 도전 활동자 명예의 전당</target>
+        <source>2020 SOTA Challenge Activator Roll of Honour</source><target state="final">2020 SOTA 도전 엑티베이터 득점 현황</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">95</context>
         </context-group>
       </trans-unit><trans-unit id="2020SOTAChallengeChaser" datatype="html">
-        <source>2020 SOTA Challenge Chaser Roll of Honour</source><target state="final">2020 SOTA 도전 추적자 명예의 전당</target>
+        <source>2020 SOTA Challenge Chaser Roll of Honour</source><target state="final">2020 SOTA 도전 체이서 명예의 전당</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">98</context>
@@ -154,12 +154,12 @@
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">104</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyActivatorUniques" datatype="html">
         <source>My Activator Uniques</source>
-        <target>나의 유일한 활동</target>
+        <target>내 첫 엑티베이터 산정상 숫자</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">108</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-uniques/my-activator-uniques.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyActivatorRegions" datatype="html">
         <source>My Activator Regions</source>
-        <target>나의 활동 지역</target>
+        <target>내 엑티베이터 지역들</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">112</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-regions/my-activator-regions.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyChaserLog" datatype="html">
@@ -179,12 +179,12 @@
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">124</context></context-group></trans-unit>
       <trans-unit id="MyS2SLog" datatype="html">
         <source>My S2S Log</source>
-        <target>나의 산대산 로그</target>
+        <target>나의 S2S 로그</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">128</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context><context context-type="linenumber">2</context></context-group></trans-unit>
       <trans-unit id="MySOTAComplete" datatype="html">
         <source>My SOTA Complete Log</source>
-        <target>나의 SOTA 완성 로그</target>
+        <target>나의 SOTA 완료 로그</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">132</context></context-group></trans-unit>
       <trans-unit id="MyMicrowaveActivator" datatype="html">
@@ -199,7 +199,7 @@
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">140</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyMicrowaveS2S" datatype="html">
         <source>My Microwave S2S Log</source>
-        <target>나의 마이크로파 산대산 로그</target>
+        <target>나의 마이크로파 S2S 로그</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">144</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MySWLLog" datatype="html">
@@ -209,7 +209,7 @@
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">148</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyAwards" datatype="html">
         <source>My Awards</source>
-        <target>나의 상장</target>
+        <target>나의 어워드</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">152</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-awards/my-awards.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="MyStatistics" datatype="html">
@@ -239,12 +239,12 @@
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">175</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/recent-summits/recent-summits.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="SubmitActivator" datatype="html">
         <source>Submit Activator Entry</source>
-        <target>활동항목 제출</target>
+        <target>활성화 로그등록</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">184</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="SubmitChaserS2S" datatype="html">
         <source>Submit Chaser/S2S Entry</source>
-        <target>산대산 추적항목 제출</target>
+        <target>추적/S2S 로그등록</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">188</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="UploadCSV" datatype="html">
@@ -290,7 +290,7 @@ SOTA 데이터베이스에 오신 것을 환영합니다.
 Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
 </source>
         <target state="final">
-SOTA (Summits on the Air)는 언덕길 도보여행과 야외 활동을 즐기는 아마추어무선사들이 무전기를 들고 산정상에서 무선활동할 수 있도록 장려하는 프로그램이다.
+SOTA (Summits on the Air)는 야외 활동을 즐기는 아마추어무선사들이 무선기기를 들고 산정상에서 무선활동 등 이동운용할 수 있도록 장려하는 프로그램입니다.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -302,7 +302,7 @@ SOTA (Summits on the Air)는 언덕길 도보여행과 야외 활동을 즐기�
 An award scheme recognises those who activate the summits and also those that make QSOs with the activators. The programme can be operated anywhere in the world.
 </source>
         <target state="final">
-이 수상제도는, 온 세상의 산에 올라 산악 이동 운용하는 활동자와 그 산악 이동국과 QSO 하는 추적자 분들을 칭찬하는 것입니다.
+이 어워드는, 산정상에 올라 이동운용하는 엑티베이터 그리고 그 산정상의 엑티베이터와 상호 교신하는 체이서 및 수신하는 SWL분들을 칭찬하는 것입니다.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -323,7 +323,7 @@ SOTA에 대한 자세한 설명은 SOTA 웹사이트를 참고해주세요. <x i
       </trans-unit>
       <trans-unit id="SOTACompetition" datatype="html">
         <source>SOTA is not inherently a competitive activity, it's about individual aspirations and working towards a goal at your own pace. However, it can be fun to see how your progress compares with that of others, hence we publish our Honour Roll on the internet.</source>
-        <target>SOTA는 본래 점수획득 경쟁을 목적으로 하는 것이 아니고, 자신의 페이스로 즐기면서 목표로 향하는 것입니다.그러나, 자신의 점수나 달성도를 다른 사람과 비교하거나 인터넷상에 공개해 나가는 것은, 자신의 목표달성에 격려가 되는 것이겠지요.</target>
+        <target>SOTA는 본래 점수획득 경쟁을 목적으로 하는 것이 아니고, 자신의 페이스로 즐기면서 목표로 향하는 것입니다. 그러나, 자신의 점수나 달성도를 다른 사람과 비교하거나 인터넷상에 공개해 나가는 것은, 자신의 목표달성에 격려가 되는 것이겠지요.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">3</context>
@@ -401,7 +401,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
           <context context-type="linenumber">3</context>
         </context-group>
       </trans-unit><trans-unit id="AllAssociations" datatype="html">
-        <source>All Associations</source><target state="final">모든지역협회</target>
+        <source>All Associations</source><target state="final">모든 연합</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">11</context>
@@ -1076,7 +1076,7 @@ once. This page is intended for more experienced users only.
       <trans-unit id="csvUp2" datatype="html">
         <source>If you have a large number of log entries you want to claim, this may be the fastest way of recording them
 </source>
-        <target state="final">등록하고 싶은 QSO 로그가 대량의 경우, 이 페이지에서 업로드하면 편리합니다.
+        <target state="final">등록하고 싶은 교신 로그가 대량의 경우, 이 페이지에서 업로드하면 편리합니다.
 </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">10</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">10</context></context-group></trans-unit>
@@ -1086,7 +1086,7 @@ If however you only have a dozen or less entries, it will probably be easier
 to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
 </source>
         <target state="final">
-등록하는 로그가 적은 경우는 통상의 로그 등록 페이지로부터의 등록이 간단합니다.
+등록하는 로그가 적은 경우는 통상의 로그등록 페이지에서 등록하는 것이 간단합니다.
 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
 </target>
         
@@ -1102,9 +1102,9 @@ to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activa
 NOTEPAD, or can be exported from many other programs, such as Microsoft Excel. 
 The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> for details of the format of the CSV file that we require.</source>
         <target state="final">
-	모든 항목이 포함된 CSV 또는 TSV 파일을 생성하십시오. 이것들은 어느 정도의 활성화에나 해당될 수 있습니다. 다음과 같은 텍스트 편집기를 사용하여 파일을 생성할 수 있습니다. 
+	모든 항목이 포함된 CSV 또는 TSV 파일을 생성하십시오. 이러한 설정은 임의 개수의 활성화에 사용할 수 있습니다. 다음과 같은 텍스트 편집기를 사용하여 파일을 생성할 수 있습니다. 
 NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서 내보낼 수 있습니다. 
-이 파일의 형식은 정확한 로그 항목이 기록되도록 하는 데 매우 중요합니다. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> for details of the format of the CSV file that we require.</target>
+이 파일의 형식은 정확한 로그 항목이 기록되도록 하는 데 매우 중요합니다. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>여기를 클릭하면<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> 필요한 CSV 파일 형식에 대한 자세한 정보를 제공합니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">20</context>
@@ -1114,7 +1114,7 @@ NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서 내보
         <source>
 	If you are unsure what a CSV or TSV file is, please use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>chaser<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source>
         <target state="final">
-	CSV 또는 TSV 파일이 무엇인지 잘 모를 경우 일반 파일을 사용하십시오. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>chaser<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</target>
+	CSV 또는 TSV 파일이 무엇인지 잘 모를 경우는 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>엑티베이터<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> 혹은 <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>체이서/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> 를 통해 일반적인 등록 웹페이지를 이용하시기 바랍니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">24</context>
@@ -1125,7 +1125,7 @@ NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서 내보
 	Press the Browse button below and select the CSV or TSV file on your hard drive
    </source>
         <target state="final">
-	아래의 찾아보기 버튼을 누르고 하드 드라이브의 CSV 또는 TSV 파일을 선택하십시오.
+	아래의 파일선택 버튼을 누르고 하드 드라이브의 CSV 또는 TSV 파일을 선택하십시오.
    </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -1136,12 +1136,12 @@ NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서 내보
         <source>
 	Press the Upload File button on the bottom of this screen to transfer the file to our server and begin processing it. This may take a few seconds. Please be patient!</source>
         <target state="final">
-	이 화면 하단에 있는 파일 업로드 버튼을 눌러 파일을 서버로 전송하고 처리를 시작하십시오. 이 작업은 몇 초가 걸릴 수 있다. 조금만 기다려주세요!</target>
+	이 화면 하단에 있는 파일 업로드 버튼을 눌러 파일을 서버로 전송하고 처리를 시작하십시오. 이 작업은 몇 초가 걸릴 수 있습니다. 조금만 기다려주세요!</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">29</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">27</context></context-group></trans-unit>
       <trans-unit id="selectCSV" datatype="html">
         <source>Select CSV File:</source>
-        <target>CSV 파일 선택:</target>
+        <target>CSV 파일선택:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">34</context>
@@ -1392,7 +1392,7 @@ NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서 내보
           <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit><trans-unit id="ChaserCallsign" datatype="html">
-        <source> Chaser Callsign </source><target state="final"> 추적자 콜싸인 </target>
+        <source> Chaser Callsign </source><target state="final"> 체이서 콜사인 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">53</context>
@@ -1434,7 +1434,7 @@ NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서 내보
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">57</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">82</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">115</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">81</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">53</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context><context context-type="linenumber">52</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">222</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context><context context-type="linenumber">50</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context><context context-type="linenumber">19</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">23</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">61</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">98</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog-delete/my-s2-slog-delete.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context><context context-type="linenumber">28</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">52</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context><context context-type="linenumber">50</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context><context context-type="linenumber">49</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context><context context-type="linenumber">62</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-microwave-chaser-log/my-microwave-chaser-log.component.html</context><context context-type="linenumber">62</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">55</context></context-group></trans-unit>
       <trans-unit id="Summit" datatype="html">
         <source> Summit </source>
-        <target> 나의 산정상 </target>
+        <target> 산정상 </target>
         
         
         
@@ -1448,7 +1448,7 @@ NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서 내보
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">65</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">240</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">63</context></context-group></trans-unit>
       <trans-unit id="OtherCallsign" datatype="html">
         <source> Other Callsign </source>
-        <target> 상대국 콜싸인 </target>
+        <target> 상대국 콜사인 </target>
         
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">69</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">67</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">231</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">67</context></context-group></trans-unit>
@@ -1459,7 +1459,7 @@ NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서 내보
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">73</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">71</context></context-group></trans-unit>
       <trans-unit id="Callsign" datatype="html">
         <source> Callsign </source>
-        <target> 콜싸인 </target>
+        <target> 콜사인 </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context><context context-type="linenumber">53</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">77</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">42</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context><context context-type="linenumber">9</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context><context context-type="linenumber">27</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">13</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/completes-roll/completes-roll.component.html</context><context context-type="linenumber">54</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first12m-chaser/first12m-chaser.component.html</context><context context-type="linenumber">24</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context><context context-type="linenumber">20</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first610m-activator/first610m-activator.component.html</context><context context-type="linenumber">20</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/generate-awards/generate-awards.component.html</context><context context-type="linenumber">12</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/award-check/award-check.component.html</context><context context-type="linenumber">2</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/award-check-activator/award-check-activator.component.html</context><context context-type="linenumber">2</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">75</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context><context context-type="linenumber">28</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context><context context-type="linenumber">28</context></context-group></trans-unit><trans-unit id="UniqueSummits" datatype="html">
         <source> Unique Summits </source><target state="final"> 첫교신한 산정상 </target>
@@ -1472,7 +1472,7 @@ NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서 내보
           <context context-type="linenumber">57</context>
         </context-group>
       </trans-unit><trans-unit id="TotalSummits" datatype="html">
-        <source> Total Summits </source><target state="final"> 총 산정상 수 </target>
+        <source> Total Summits </source><target state="final"> 총 산정상 운용 횟수 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">61</context>
@@ -1498,7 +1498,7 @@ NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서 내보
       </trans-unit>
       <trans-unit id="Comment" datatype="html">
         <source> Comment </source>
-        <target> 논평 </target>
+        <target> 코멘트 </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">81</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">79</context></context-group></trans-unit>
       <trans-unit id="IsS2S" datatype="html">
@@ -1508,12 +1508,12 @@ NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서 내보
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">85</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">83</context></context-group></trans-unit>
       <trans-unit id="IsI18N" datatype="html">
         <source> Is Chaser Entry? </source>
-        <target> 추적자 로그 등록입니까? </target>
+        <target> 체이서 로그등록입니까? </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">89</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">87</context></context-group></trans-unit>
       <trans-unit id="uploadError" datatype="html">
         <source>There are errors in your file - please correct them and try again</source>
-        <target>파일에 오류가 있습니다.수정해서 재발송해주세요.</target>
+        <target>파일에 오류가 있습니다. 수정해서 재발송해주세요.</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">96</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">94</context></context-group></trans-unit>
       <trans-unit id="Cancel" datatype="html">
@@ -1525,7 +1525,7 @@ NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서 내보
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">97</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">102</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">119</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">148</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">95</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">100</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">117</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context><context context-type="linenumber">63</context></context-group></trans-unit>
       <trans-unit id="uploadVerify" datatype="html">
         <source>Please verify the uploaded details and click Submit when ready</source>
-        <target>업로드 내용을 확인한 후 제출 버튼을 클릭하세요</target>
+        <target>업로드 내용을 확인한 후 제출 버튼을 클릭하세요.</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context><context context-type="linenumber">100</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context><context context-type="linenumber">98</context></context-group></trans-unit>
       <trans-unit id="Submit" datatype="html">
@@ -1622,7 +1622,7 @@ administrators.
           <context context-type="linenumber">34</context>
         </context-group>
       </trans-unit><trans-unit id="ActivationDate" datatype="html">
-        <source>Date of activation</source><target state="final">활동한 날짜</target>
+        <source>Date of activation</source><target state="final">엑티베이터한 날짜</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">50</context>
@@ -1642,7 +1642,7 @@ administrators.
           <context context-type="linenumber">53</context>
         </context-group>
       </trans-unit><trans-unit id="TimeUTC" datatype="html">
-        <source>Time (UTC)</source><target state="final">시각 (UTC)</target>
+        <source>Time (UTC)</source><target state="final">시간 (UTC)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">67</context>
@@ -1668,7 +1668,7 @@ administrators.
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit><trans-unit id="Association(s)Activated" datatype="html">
-        <source> Association(s) Activated </source><target state="final"> 활동한 지부 </target>
+        <source> Association(s) Activated </source><target state="final"> 활동한 연합 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
           <context context-type="linenumber">26</context>
@@ -1682,7 +1682,7 @@ administrators.
           <context context-type="linenumber">27</context>
         </context-group>
       </trans-unit><trans-unit id="ActivationStatistics" datatype="html">
-        <source>Activation Statistics</source><target state="final">활동통계</target>
+        <source>Activation Statistics</source><target state="final">엑티베이터 운용 통계</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">2</context>
@@ -1698,31 +1698,31 @@ administrators.
           <context context-type="linenumber">64</context>
         </context-group>
       </trans-unit><trans-unit id="TotalSummitsActivated" datatype="html">
-        <source>Total summits activated</source><target state="final">활성화된 총 산정상 수</target>
+        <source>Total summits activated</source><target state="final">엑티베이터 운용한 총 산정상 수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit><trans-unit id="UniqueSummitsActivated" datatype="html">
-        <source>Unique summits activated</source><target state="final">첫활성화된 산정상</target>
+        <source>Unique summits activated</source><target state="final">한번이상 엑티베이터 운용한 산정상</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatorCallsignsUsed" datatype="html">
-        <source> Activator Callsigns Used </source><target state="final"> 활동자의 콜싸인 </target>
+        <source> Activator Callsigns Used </source><target state="final"> 엑티베이터 콜사인 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatedAssocsRegions" datatype="html">
-        <source>Activated associations and regions</source><target state="final”>활성화된 지부 및 지역</target>
+        <source>Activated associations and regions</source><target state="final”>활성화된 연합 및 지역</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">25</context>
         </context-group>
       </trans-unit><trans-unit id="TotalDiffChasers" datatype="html">
-        <source>Total different chaser callsigns worked as activator</source><target state="final"> 활성화에 응한 다른 추적자 콜싸인 총수</target>
+        <source>Total different chaser callsigns worked as activator</source><target state="final"> 활성화에 응한 다른 체이서 콜사인 총수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">42</context>
@@ -1734,37 +1734,37 @@ administrators.
           <context context-type="linenumber">45</context>
         </context-group>
       </trans-unit><trans-unit id="MyTopActivationChasers" datatype="html">
-        <source>My top activation chasers</source><target state="final">내가  활성화한 상위 추적자들</target>
+        <source>My top activation chasers</source><target state="final">내가  활성화한 상위 체이서들</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">69</context>
         </context-group>
       </trans-unit><trans-unit id="ChaserStatistics" datatype="html">
-        <source>Chaser Statistics</source><target state="final">추적자 통계</target>
+        <source>Chaser Statistics</source><target state="final">체이서 통계</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">90</context>
         </context-group>
       </trans-unit><trans-unit id="ChaserScore" datatype="html">
-        <source>Chaser Score</source><target state="final">추적자 점수</target>
+        <source>Chaser Score</source><target state="final">체이서 점수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">93</context>
         </context-group>
       </trans-unit><trans-unit id="ChaserCallsignsUsed" datatype="html">
-        <source> Chaser Callsigns Used </source><target state="final"> 추적자로 사용한 콜싸인 </target>
+        <source> Chaser Callsigns Used </source><target state="final"> 체이서로 사용한 콜사인 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">99</context>
         </context-group>
       </trans-unit><trans-unit id="ChasedAssocsRegions" datatype="html">
-        <source>Chased associations and regions</source><target state="final">추적한 지역 및 지부</target>
+        <source>Chased associations and regions</source><target state="final">추적한 연합 및 지역</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">106</context>
         </context-group>
       </trans-unit><trans-unit id="TotalDiffActivators" datatype="html">
-        <source>Total different activator callsigns worked as chaser</source><target state="final">추적한 다른 활동자 콜싸인 총수</target>
+        <source>Total different activator callsigns worked as chaser</source><target state="final">추적한 다른 엑티베이터 콜사인 총수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">121</context>
@@ -1776,7 +1776,7 @@ administrators.
           <context context-type="linenumber">122</context>
         </context-group>
       </trans-unit><trans-unit id="MyTopChasedActivators" datatype="html">
-        <source>My top chased activators</source><target state="final">내가 추적한 상위 활동자들</target>
+        <source>My top chased activators</source><target state="final">내가 추적한 상위 엑티베이터</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">146</context>
@@ -1788,7 +1788,7 @@ administrators.
           <context context-type="linenumber">1</context>
         </context-group>
       </trans-unit><trans-unit id="%ageComplete" datatype="html">
-        <source> %age Complete </source><target state="final"> 완전제패율 </target>
+        <source> %age Complete </source><target state="final"> SOTA 완성률 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-regions/my-chaser-regions.component.html</context>
           <context context-type="linenumber">21</context>
@@ -1798,13 +1798,13 @@ administrators.
           <context context-type="linenumber">21</context>
         </context-group>
       </trans-unit><trans-unit id="MyActivatedSummits" datatype="html">
-        <source> My Activated Summits </source><target state="final"> 나의 활성화된 산정상들 </target>
+        <source> My Activated Summits </source><target state="final"> 나의 활성화한 산정상 숫자 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-regions/my-activator-regions.component.html</context>
           <context context-type="linenumber">13</context>
         </context-group>
       </trans-unit><trans-unit id="Distance" datatype="html">
-        <source> Distance </source><target state="final"> 거리 </target>
+        <source> Distance </source><target state="final"> 거리(km) </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">60</context>
@@ -1814,7 +1814,7 @@ administrators.
           <context context-type="linenumber">58</context>
         </context-group>
       </trans-unit><trans-unit id="ChaserPoints" datatype="html">
-        <source> ChaserPoints </source><target state="final"> 추적자 점수 </target>
+        <source> ChaserPoints </source><target state="final"> 체이서 점수 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">64</context>
@@ -1824,7 +1824,7 @@ administrators.
           <context context-type="linenumber">62</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatorPoints" datatype="html">
-        <source> Activator Points </source><target state="final"> 활동자 점수 </target>
+        <source> Activator Points </source><target state="final"> 엑티베이터 점수 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">68</context>
@@ -1834,7 +1834,7 @@ administrators.
           <context context-type="linenumber">66</context>
         </context-group>
       </trans-unit><trans-unit id="ChasedSummit" datatype="html">
-        <source> Chased Summit </source><target state="final"> 추적한 산정상 </target>
+        <source> Chased Summit </source><target state="final"> 체이서한 산정상 이름 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">80</context>
@@ -1844,7 +1844,7 @@ administrators.
           <context context-type="linenumber">78</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatedSummit" datatype="html">
-        <source> Activated Summit </source><target state="final"> 활동한 산정상 </target>
+        <source> Activated Summit </source><target state="final"> 엑티베이터한 산정상 코드 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">84</context>
@@ -1856,7 +1856,7 @@ administrators.
       </trans-unit>
       <trans-unit id="chaserDeleteResult2" datatype="html">
         <source>You cannot delete this QSO.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
-        <target>귀하께서는 이 QSO 데이터를 삭제할 수 없습니다. 에러코드: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
+        <target>귀하께서는 이 교신기록을 삭제할 수 없습니다. 에러코드: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">2</context>
@@ -1875,7 +1875,7 @@ administrators.
 You are about to permanently delete the record of the chaser contact below. This cannot be undone.
 </source>
         <target state="final">
-당신은 추적자 로그를 삭제하려고 합니다. 이 조작은 원래대로 되돌릴 수 없습니다.
+당신은 체이서 로그를 삭제하려고 합니다. 이 조작은 원래대로 되돌릴 수 없습니다.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
@@ -1891,7 +1891,7 @@ You are about to permanently delete the record of the chaser contact below. This
 If you wish to proceed, press the DELETE button at the bottom of this screen, otherwise press CANCEL.
 </source>
         <target state="final">
-계속하려면 이 화면 아래쪽에 있는 DELETE 버튼을 누르고, 그렇지 않으면 CAMCEL 버튼을 누르십시오</target>
+계속하려면 이 화면 아래쪽에 있는 Delete 버튼을 누르고, 그렇지 않으면 Cancel 버튼을 누르십시오.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">9</context>
@@ -1947,7 +1947,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="otherCallsign" datatype="html">
         <source>Callsign</source>
-        <target state="final">콜싸인</target>
+        <target state="final">콜사인</target>
         
         
         
@@ -2095,7 +2095,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit><trans-unit id="Associations" datatype="html">
-        <source>Associations</source><target state="final">협회</target>
+        <source>Associations</source><target state="final">연합</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">11</context>
@@ -2113,79 +2113,79 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
           <context context-type="linenumber">20</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatorStatistics" datatype="html">
-        <source>Activator statistics</source><target state="final">활동자 통계</target>
+        <source>Activator statistics</source><target state="final">엑티베이터 통계</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">25</context>
         </context-group>
       </trans-unit><trans-unit id="NumberActivators" datatype="html">
-        <source>Number of Activators</source><target state="final">활동자 수</target>
+        <source>Number of Activators</source><target state="final">엑티베이터 숫자</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatedSummits" datatype="html">
-        <source>Activated Summits</source><target state="final">활성화된 산정상</target>
+        <source>Activated Summits</source><target state="final">엑티베이터한 산정상 개소수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">31</context>
         </context-group>
       </trans-unit><trans-unit id="NumberActivations" datatype="html">
-        <source>Number of Activations</source><target state="final">활성화 수</target>
+        <source>Number of Activations</source><target state="final">엑티베이터한 건수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">34</context>
         </context-group>
       </trans-unit><trans-unit id="NumberQSOs" datatype="html">
-        <source>Number of QSOs</source><target state="final">QSO 수</target>
+        <source>Number of QSOs</source><target state="final">교신 건수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">37</context>
         </context-group>
       </trans-unit><trans-unit id="TotalActivatorPoints" datatype="html">
-        <source>Total Activator Points</source><target state="final">총 활동자 점수</target>
+        <source>Total Activator Points</source><target state="final">총 엑티베이터 점수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">40</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatorQSOsByMode" datatype="html">
-        <source>Activator QSOs by Mode</source><target state="final">모드별 활성화 QSO</target>
+        <source>Activator QSOs by Mode</source><target state="final">모드별 엑티베이터 교신 건수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">44</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatorQSOsByBand" datatype="html">
-        <source>Activator QSOs by Band</source><target state="final">주파수 밴드별 활성화 QSO</target>
+        <source>Activator QSOs by Band</source><target state="final">주파수 밴드별 엑티베이터 교신 건수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">52</context>
         </context-group>
       </trans-unit><trans-unit id="Chasers" datatype="html">
-        <source>Chasers</source><target state="final">추적자들</target>
+        <source>Chasers</source><target state="final">체이서 통계</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">61</context>
         </context-group>
       </trans-unit><trans-unit id="NumberOfChasers" datatype="html">
-        <source>Number of Chasers</source><target state="final">추적자들 수</target>
+        <source>Number of Chasers</source><target state="final">체이서 숫자</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">64</context>
         </context-group>
       </trans-unit><trans-unit id="ChaserActivators" datatype="html">
-        <source>Chasers who are also activators</source><target state="final">활동자이기도 한 추적자</target>
+        <source>Chasers who are also activators</source><target state="final">엑티베이터이기도 한 체이서</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">67</context>
         </context-group>
       </trans-unit><trans-unit id="NumberChaserContacts" datatype="html">
-        <source>Number of Chaser Contacts</source><target state="final">추적자와 교신한 수</target>
+        <source>Number of Chaser Contacts</source><target state="final">체이서 운용한 건수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">70</context>
         </context-group>
       </trans-unit><trans-unit id="TotalChaserPoints" datatype="html">
-        <source>Total Chaser Points</source><target state="final">총 추적자 점수</target>
+        <source>Total Chaser Points</source><target state="final">총 체이서 점수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">73</context>
@@ -2201,7 +2201,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
           <context context-type="linenumber">25</context>
         </context-group>
       </trans-unit><trans-unit id="S2SContacts" datatype="html">
-        <source>Summit to Summit Contacts</source><target state="final">S2S 교신수</target>
+        <source>Summit to Summit Contacts</source><target state="final">S2S 운용한 수</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">81</context>
@@ -2213,7 +2213,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
           <context context-type="linenumber">84</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatorCallsign" datatype="html">
-        <source> Activator Callsign </source><target state="final"> 활동자 콜싸인 </target>
+        <source> Activator Callsign </source><target state="final"> 엑티베이터 콜사인 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
           <context context-type="linenumber">53</context>
@@ -2589,7 +2589,7 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
           <context context-type="linenumber">18</context>
         </context-group>
       </trans-unit><trans-unit id="OwnCallsign" datatype="html">
-        <source> Own Callsign </source><target state="final"> 자국 콜싸인 </target>
+        <source> Own Callsign </source><target state="final"> 자국 콜사인 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">41</context>
@@ -2639,7 +2639,7 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
           <context context-type="linenumber">46</context>
         </context-group>
       </trans-unit><trans-unit id="ActivatorWorked" datatype="html">
-        <source> Activator Worked </source><target state="final"> 활동자 작업됨 </target>
+        <source> Activator Worked </source><target state="final"> 운용한 엑티베이터 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">45</context>
@@ -3027,7 +3027,7 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
           <context context-type="linenumber">21</context>
         </context-group>
       </trans-unit><trans-unit id="Contacts" datatype="html">
-        <source> Contacts </source><target state="final"> 교신수 </target>
+        <source> Contacts </source><target state="final"> 운용회수 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">30</context>
@@ -3208,7 +3208,7 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
       </trans-unit>
       <trans-unit id="SOTAActivatorTSV/CSVfileformat" datatype="html">
         <source>SOTA Activator and Chaser TSV/CSV file format</source>
-        <target state="final">SOTA 활동 및 추적 로그 TSV/CSV 파일포맷</target>
+        <target state="final">SOTA 엑티베이터 및 체이서 로그 CSV/TSV 파일포맷</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">2</context>
@@ -3228,8 +3228,7 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
 
                  </source>
 
-        <target state="final">이 기능을 통해 대량의 QSO 데이터를 한 번에 업로드 할 수 있습니다. 이를 위해서는 QSO 로그테이터를 아래에 나타내듯이 CSV파일(쉼표로 데이터 항목이 구분된 데이터) 혹은 TSV파일(Tab 혹은 공간에서 데이터 항목이 구분된 데이터)로 작성해야 합니다.이 파일을 업로드 한 후 에러체크를 하여 그대로 데이터베이스를 저장할 수 있는지 여부를 확인할 수 있습니다. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>로그데이터는 활성화, 추적, S2S(산 대 산)의 레코드를 하나의 파일에 혼재시키는 것이 가능합니다.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
-        복수의 활성화 로그를 하나의 파일에 포함하는 것도 가능합니다만, 하나의 활성화 로그를 복수의 파일에 걸쳐 넣을 수는 없습니다. 각각의 활성화 로그는 [자국 산정상]란에 기재되는 산정상 코드번호가 바뀌었을 때에 그 활성화가 종료되는 것으로 간주됩니다.<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/> 그렇지 않으면 파일은 단일 활성화만 포함하는 것으로 간주됩니다.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+        <target state="final">이 기능을 통해 대량의 교신기록을 한 번에 업로드 할 수 있습니다. 이를 위해서는 교신기록을 아래에 나타 내듯이 CSV파일(쉼표로 데이터 항목이 구분된 데이터) 혹은 TSV파일(Tab 혹은 공간으로 데이터 항목이 구분된 데이터)로 작성해야 합니다. 이 파일을 업로드 한 후 오류를 점검하여 그대로 데이터베이스를 저장할 수 있는지 여부를 확인할 수 있습니다. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>로그 데이터는 활성화, 추적, S2S(산정상 대 산정상)의 레코드를 하나의 파일에 혼재시키는 것이 가능합니다.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/> 복수의 활성화 로그를 하나의 파일에 포함하는 것도 가능합니다만, 하나의 활성화 로그를 복수의 파일에 걸쳐 넣을 수는 없습니다. 각각의 활성화 로그는 [자국 산정상]란에 기재되는 산정상 코드번호가 바뀌었을 때에 그 활성화가 종료되는 것으로 간주됩니다.<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/> 그렇지 않으면 파일은 단일 활성화만 포함하는 것으로 간주됩니다.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
 
                  </target>
         <context-group purpose="location">
@@ -3248,8 +3247,8 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
       <trans-unit id="csv3" datatype="html">
         <source>[V2] [My Callsign][My Summit] [Date] [Time]
                 [Band] [Mode] [His Callsign] </source>
-        <target state="final">[V2] [자국 콜싸인][자국 산정상] [날짜] [시간]
-                [주파수밴드] [모드] [상대국 콜싸인] </target>
+        <target state="final">[V2] [자국 콜사인][자국 산정상] [날짜] [시간]
+                [주파수밴드] [모드] [상대국 콜사인] </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">20</context>
@@ -3274,8 +3273,8 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
       <trans-unit id="csv4" datatype="html">
         <source>[V2] [My Callsign][My Summit] [Date] [Time]
                 [Band] [Mode] [His Callsign][His Summit] </source>
-        <target state="final">[V2] [자국 콜싸인][자국 산정상] [날짜] [시간]
-                [주파수 밴드] [모드] [상대국 콜싸인][상대국 산정상] </target>
+        <target state="final">[V2] [자국 콜사인][자국 산정상] [날짜] [시간]
+                [주파수 밴드] [모드] [상대국 콜사인][상대국 산정상] </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">25</context>
@@ -3284,8 +3283,8 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
       <trans-unit id="csv5" datatype="html">
         <source>[V2] [My Callsign][My Summit] [Date] [Time]
                 [Band] [Mode] [His Callsign][His Summit] [Notes or Comments]</source>
-        <target state="final">[V2] [자국 콜싸인][자국 산정상] [날짜] [시간]
-                [주파수 밴드] [모드] [상대국 콜싸인][상대국 산정상] [코멘트 또는 비고]</target>
+        <target state="final">[V2] [자국 콜사인][자국 산정상] [날짜] [시간]
+                [주파수 밴드] [모드] [상대국 콜사인][상대국 산정상] [코멘트 또는 비고]</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">30</context>
@@ -3295,7 +3294,7 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
         <source>Each field is separated by either a Comma (CSV) or Tab (TSV).
         Each QSO is a single record and there is one record to a line, terminated in
         [CR][LF].</source>
-        <target state="final">각각의 개별 데이터 필드는 콤마(CSV) 혹은 Tab 또는 스페이스(TSV)로 구분되어 있어야 합니다.각각의 QSO는 하나의 레코드이며 한 줄로 나타나 [CR][LF]에서 줄 바꿈이 되어 있어야 합니다.</target>
+        <target state="final">각각의 개별 데이터 필드는 콤마(CSV) 혹은 Tab 또는 스페이스(TSV)로 구분되어 있어야 합니다.각각의 교신은 하나의 레코드이며 한 줄로 나타나 [CR][LF]에서 줄 바꿈이 되어 있어야 합니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">33</context>
@@ -3303,7 +3302,7 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
       </trans-unit>
       <trans-unit id="csv7" datatype="html">
         <source>Here is an example:</source>
-        <target>참고 예:</target>
+        <target>참고예문:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">38</context>
@@ -3457,7 +3456,7 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
           <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit><trans-unit id="SummitReference" datatype="html">
-        <source> Summit Reference </source><target state="final"> 산정상 코드 </target>
+        <source> Summit Reference </source><target state="final"> 산정상 참조번호 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">18</context>
@@ -3621,7 +3620,7 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
           <context context-type="linenumber">79</context>
         </context-group>
       </trans-unit><trans-unit id="LastActivator" datatype="html">
-        <source> Last Activator </source><target state="final"> 최근 활동자 </target>
+        <source> Last Activator </source><target state="final"> 최근 엑티베이터 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
           <context context-type="linenumber">33</context>
@@ -3765,7 +3764,7 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
           <context context-type="linenumber">65</context>
         </context-group>
       </trans-unit><trans-unit id="YourCallsign" datatype="html">
-        <source>Callsign/SWL YOU used</source><target state="final">당신의 콜싸인/SWL</target>
+        <source>Callsign/SWL YOU used</source><target state="final">당신의 콜사인/SWL</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
           <context context-type="linenumber">60</context>
@@ -3773,14 +3772,14 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
       </trans-unit>
       <trans-unit id="MyCallsign" datatype="html">
         <source>My Callsign</source>
-        <target>자국 콜싸인</target>
+        <target>자국 콜사인</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">62</context></context-group></trans-unit>
       <trans-unit id="csvCallsign" datatype="html">
         <source>This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
               used for the QSO. No spaces in the callsign please</source>
-        <target state="final">운용에 사용했던 <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>자국 콜싸인<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
-              입니다. 콜싸인 안에 스페이스 기호를 넣지 않아야 합니다.</target>
+        <target state="final">운용에 사용했던 <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>자국 콜사인<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
+              입니다. 콜사인 안에 스페이스 기호를 넣지 않아야 합니다.</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">65</context></context-group></trans-unit>
       <trans-unit id="csvSummit" datatype="html">
@@ -3790,7 +3789,7 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">74</context></context-group></trans-unit><trans-unit id="csvSummitChaser" datatype="html">
         <source>If you are entering a chaser log, this field will be blank.  See last entry in the example.
-          </source><target state="final">추적자 로그를 입력하는 경우 이 필드는 공백이 된다. 예제의 마지막 항목을 참조하십시오.          </target>
+          </source><target state="final">체이서 로그를 입력하는 경우 이 필드는 공백이 된다. 참고예문의 마지막 항목을 참조하십시오.          </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">76</context>
@@ -3800,13 +3799,13 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
         <source>The date of the QSO.
               Most date formats are accepted but be careful about USA vs. International date
               format.  Use of International date format (DD/MM/YY) is recommended</source>
-        <target state="final">QSO 날짜. 다양한 날짜의 포맷을 지원하나 미국식 월일순서와 국제표시형 월일순서에 주의. 국제표시형 월일순서(DD/MM/YY, 일/월/년)를 사용하세요.</target>
+        <target state="final">교신날짜. 다양한 날짜의 형식을 지원하나 미국식 과 국제표시형 월일순서에 주의. 국제표시형 월일순서(DD/MM/YY, 일/월/년)를 사용하세요.</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">86</context></context-group></trans-unit>
       <trans-unit id="csvTime" datatype="html">
         <source>The time in UTC.
               Either HHMM or HH:MM will work. Use the 24 hour clock!</source>
-        <target state="final">시간은 UTC 시간입니다.HHMM 혹은 HH:MM을 사용할 수 있습니다.24시간 표시를 사용해 주세요.</target>
+        <target state="final">시간은 UTC 시간입니다. HHMM 혹은 HH:MM을 사용할 수 있습니다. 24시간 표시를 사용해 주세요.</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">96</context></context-group></trans-unit>
       <trans-unit id="csvBand" datatype="html">
@@ -3817,8 +3816,8 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
       <trans-unit id="csvOtherCall" datatype="html">
         <source>The callsign of the <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
                 station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</source>
-        <target state="final">QSO를 했다 <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
-                상대국 콜싸인<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>. 콜싸인 안에 스페이스 기호를 넣지 않아야 합니다.</target>
+        <target state="final">교신을 했다 <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
+                상대국 콜사인<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>. 콜사인 안에 스페이스 기호를 넣지 않아야 합니다.</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">234</context></context-group></trans-unit>
       <trans-unit id="csvOtherSummit" datatype="html">
@@ -3826,9 +3825,8 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
               was also activating a SOTA summit. This is the full SOTA reference of the summit the chasing station was activating, as shown in the above example.
                             If there is no [Other Summit] you can leave this blank. If there is a comment then you must insert a TAB or comma to mark the field as being blank.
                             See entries for G3NOH or GW4GTE</source>
-        <target state="final">이 데이터 필드는 상대국이 SOTA 산정상 이동인 경우 위와 같이 SOTA 산정상 코드를 넣는 것입니다.
-[상대국 산정상 코드]가 없는 경우는 공백으로 해 둘 것.코멘트가 있는 경우 TAB 혹은 콤마를 계속 입력하고 이 필드를 공백으로 두는 것입니다.
-G3NOH와 GW4GTE의 입력 예를 참고하시기 바랍니다.</target>
+        <target state="final">이 데이터 필드는 상대국이 SOTA 산정상 이동인 경우 위와 같이 상대국의 SOTA 산정상 코드를 넣는 것입니다.
+[상대국 산정상 코드]가 없는 경우는 공백으로 해 두어야 합니다. 코멘트가 있는 경우 TAB 혹은 콤마를 계속 입력하고 이 필드를 공백으로 두는 것입니다. 참고예문의 두번째 및 세번째 항목 G3NOH와 GW4GTE의 입력 예를 참고하시기 바랍니다.</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">243</context></context-group></trans-unit>
       <trans-unit id="csvComments" datatype="html">
@@ -3851,7 +3849,7 @@ G3NOH와 GW4GTE의 입력 예를 참고하시기 바랍니다.</target>
         create your TSV/CSV file is using Excel.  This allows you to arrange your
         log data in columns then save it as either a TSV or CSV file.  Either is
         accepted by the SOTA program.</source>
-        <target state="final">마이크로소프트 Excel을 사용하면 TSV/CSV 파일을 쉽게 만들 수 있습니다.각 칼럼에 QSO 데이터를 입력하고 저장할 때 CSV 형식 혹은 TSV 형식으로 저장합니다.두 가지 형식 모두 SOTA 프로그램에 적용 가능합니다.</target>
+        <target state="final">마이크로소프트 Excel을 사용하면 TSV/CSV 파일을 쉽게 만들 수 있습니다.각 칼럼에 교신 데이터를 입력하고 저장할 때 CSV 형식 혹은 TSV 형식으로 저장합니다.두 가지 형식 모두 SOTA 프로그램에 적용 가능합니다.</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context><context context-type="linenumber">265</context></context-group></trans-unit>
       <trans-unit id="CommonErrors" datatype="html">
@@ -3940,13 +3938,13 @@ G3NOH와 GW4GTE의 입력 예를 참고하시기 바랍니다.</target>
           <context context-type="linenumber">52</context>
         </context-group>
       </trans-unit><trans-unit id="From" datatype="html">
-        <source> From </source><target state="final"> 로 부터 </target>
+        <source> From </source><target state="final"> 부터 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
           <context context-type="linenumber">56</context>
         </context-group>
       </trans-unit><trans-unit id="To" datatype="html">
-        <source> To </source><target state="final"> 에게 </target>
+        <source> To </source><target state="final"> 까지 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
           <context context-type="linenumber">60</context>
@@ -3977,7 +3975,7 @@ G3NOH와 GW4GTE의 입력 예를 참고하시기 바랍니다.</target>
 You are about to permanently delete the record of the activation QSO below. This cannot be undone.
 </source>
         <target state=“final”>
-당신은 아래의 QSO 데이터를 삭제하려고 합니다.삭제 후에는 원래대로 되돌릴 수 없습니다.
+당신은 아래의 교신 기록을 삭제하려고 합니다.삭제 후에는 원래대로 되돌릴 수 없습니다.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context>
@@ -3989,7 +3987,7 @@ You are about to permanently delete the record of the activation QSO below. This
         <target>비고란</target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/add-activator/add-activator.component.html</context><context context-type="linenumber">87</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/list-summits/list-summits.component.html</context><context context-type="linenumber">35</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context><context context-type="linenumber">88</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">57</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context><context context-type="linenumber">159</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context><context context-type="linenumber">56</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context><context context-type="linenumber">54</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/summit-report/summit-report.component.html</context><context context-type="linenumber">38</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context><context context-type="linenumber">35</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context><context context-type="linenumber">31</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">56</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/chaser-log-show/chaser-log-show.component.html</context><context context-type="linenumber">158</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/s2-sshow/s2-sshow.component.html</context><context context-type="linenumber">54</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/swllog-show/swllog-show.component.html</context><context context-type="linenumber">53</context></context-group></trans-unit><trans-unit id="AddQSO" datatype="html">
-        <source>Add QSO</source><target state="final">QSO를 추가</target>
+        <source>Add QSO</source><target state="final">교신 추가</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">94</context>
@@ -3997,7 +3995,7 @@ You are about to permanently delete the record of the activation QSO below. This
       </trans-unit>
       <trans-unit id="activatorDeleteResult2" datatype="html">
         <source>You cannot delete this Activation.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
-        <target>귀하는 활성화 데이터를 삭제할 수 없습니다.에러 코드는: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
+        <target>귀하는 활성화 데이터를 삭제할 수 없습니다. 에러 코드는: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">2</context>
@@ -4008,7 +4006,7 @@ You are about to permanently delete the record of the activation QSO below. This
 You are about to permanently delete the record of the activation below. This cannot be undone.
 </source>
         <target state="final">
-당신은 아래의 QSO 데이터를 삭제하려고 합니다.삭제 후에는 원래대로 되돌릴 수 없습니다.
+당신은 아래의 교신기록을 삭제하려고 합니다.삭제 후에는 원래대로 되돌릴 수 없습니다.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
@@ -4017,7 +4015,7 @@ You are about to permanently delete the record of the activation below. This can
       </trans-unit>
       <trans-unit id="ownCallsign" datatype="html">
         <source>Own Callsign:</source>
-        <target>자국 콜싸인:</target>
+        <target>자국 콜사인:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">19</context>
@@ -4028,7 +4026,7 @@ You are about to permanently delete the record of the activation below. This can
         <target state="final"> 보너스 점수 </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context><context context-type="linenumber">65</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context><context context-type="linenumber">52</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context><context context-type="linenumber">5</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context><context context-type="linenumber">25</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/activator-log/activator-log.component.html</context><context context-type="linenumber">52</context></context-group></trans-unit><trans-unit id="TotalPoints" datatype="html">
-        <source> Total Points </source><target state="final"> 점수 총계 </target>
+        <source> Total Points </source><target state="final"> 점수합계 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
           <context context-type="linenumber">69</context>
@@ -4052,7 +4050,7 @@ You are about to permanently delete the record of the activation below. This can
       </trans-unit>
       <trans-unit id="QSOs" datatype="html">
         <source> QSOs </source>
-        <target state="final"> 교신수 </target>
+        <target state="final"> 교신 건수 </target>
         
       <context-group purpose="location"><context context-type="sourcefile">app/summit-report/summit-report.component.html</context><context context-type="linenumber">102</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context><context context-type="linenumber">28</context></context-group></trans-unit><trans-unit id="160m" datatype="html">
         <source> 160m </source><target state="final"> 160m </target>
@@ -4163,25 +4161,25 @@ You are about to permanently delete the record of the activation below. This can
           <context context-type="linenumber">174</context>
         </context-group>
       </trans-unit><trans-unit id="ShowSummary" datatype="html">
-        <source>Show Summary</source><target state="final">Show Summary</target>
+        <source>Show Summary</source><target state="final">요약 보기</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context>
           <context context-type="linenumber">4</context>
         </context-group>
       </trans-unit><trans-unit id="ShowWhoChased" datatype="html">
-        <source>Show Who Chased Me</source><target state="final">나를 추적한자 표시</target>
+        <source>Show Who Chased Me</source><target state="final">누가 나를 추적했나 보기</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
           <context context-type="linenumber">4</context>
         </context-group>
       </trans-unit><trans-unit id="ReturnToActivatorLog" datatype="html">
-        <source>Return to activator log</source><target state="final">활성화 로그로 되돌아가다</target>
+        <source>Return to activator log</source><target state="final">활성화 로그로 돌아가기</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit><trans-unit id="FollowingQSOs" datatype="html">
-        <source>The following QSOs were logged for</source><target state="final">이 QSO들이 기록되었습니다.</target>
+        <source>The following QSOs were logged for</source><target state="final">아래와 같이 교신내용들이 기록되었습니다..</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
           <context context-type="linenumber">53</context>
@@ -4251,7 +4249,7 @@ You are about to permanently delete the record of the activation below. This can
           <context context-type="linenumber">36</context>
         </context-group>
       </trans-unit><trans-unit id="1st610mChaser" datatype="html">
-        <source>First 6/10m Challenge Chaser Results</source><target state="final">첫번째 6/10m 추적자 도전 결과</target>
+        <source>First 6/10m Challenge Chaser Results</source><target state="final">첫번째 6/10m 체이서 도전 결과</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
           <context context-type="linenumber">1</context>
@@ -4270,7 +4268,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
           <context context-type="linenumber">4</context>
         </context-group>
       </trans-unit><trans-unit id="AssociationCode" datatype="html">
-        <source> Association Code </source><target state="final"> 지부 코드 </target>
+        <source> Association Code </source><target state="final"> 연합 코드 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
           <context context-type="linenumber">12</context>
@@ -4350,7 +4348,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
           <context context-type="linenumber">32</context>
         </context-group>
       </trans-unit><trans-unit id="2020ChallengeChaserRoll" datatype="html">
-        <source>2020 Challenge Chaser Roll</source><target state="final">2020 도전 추적자 롤</target>
+        <source>2020 Challenge Chaser Roll</source><target state="final">2020 도전 체이서 롤</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context>
           <context context-type="linenumber">1</context>
@@ -4416,13 +4414,13 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
           <context context-type="linenumber">60</context>
         </context-group>
       </trans-unit><trans-unit id="2020ChallengeActivatorRoll" datatype="html">
-        <source>2020 Challenge Activator Roll</source><target state="final">2020 활동자 도전 롤</target>
+        <source>2020 Challenge Activator Roll</source><target state="final">2020 엑티베이터 도전 롤</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
           <context context-type="linenumber">1</context>
         </context-group>
       </trans-unit><trans-unit id="ChasersWorked" datatype="html">
-        <source> Chasers Worked </source><target state="final"> 완료 추적자들 </target>
+        <source> Chasers Worked </source><target state="final"> 완료 체이서들 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
           <context context-type="linenumber">32</context>
