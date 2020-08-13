@@ -131,7 +131,7 @@
         <source>1st 6m/10m Challenge Activator Roll of Honour</source>
         <target>1st 6m/10m 도전 활동자 득점 현황</target>
         
-      <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">89</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first610m-activator/first610m-activator.component.html</context><context context-type="linenumber">1</context></context-group><당trans-unit>
+      <context-group purpose="location"><context context-type="sourcefile">app/menu/menu.component.html</context><context context-type="linenumber">89</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/first610m-activator/first610m-activator.component.html</context><context context-type="linenumber">1</context></context-group></trans-unit>
       <trans-unit id="1st610Chaser" datatype="html">
         <source>1st 6m/10m Challenge Chaser Roll of Honour</source>
         <target>1st 6m/10m 도전 추적자 득점 현황</target>
