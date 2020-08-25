@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="MainTitle" datatype="html">
         <source>SOTA Results and Summits Database</source>
-        <source>Resultados SOTA e Banco de Dados de Picos</source>
+        <target>Resultados SOTA e Banco de Dados de Picos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">9</context>
@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="Menu" datatype="html">
         <source>Menu</source>
-        <source>Menu</source>
+        <target>Menu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">3</context>
@@ -20,7 +20,7 @@
       </trans-unit>
       <trans-unit id="Home" datatype="html">
         <source>Home</source>
-        <source>Home</source>
+        <target>Home</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">9</context>
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="Login" datatype="html">
         <source>Login</source>
-        <source>Entrar</source>
+        <target>Entrar</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">13</context>
@@ -40,7 +40,7 @@
       </trans-unit>
       <trans-unit id="ViewResults" datatype="html">
         <source>View Results</source>
-        <source>Ver Resultados</source>
+        <target>Ver Resultados</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">17</context>
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="Summits" datatype="html">
         <source>Summits</source>
-        <source>Picos</source>
+        <target>Picos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">21</context>
@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="SubmitLogs" datatype="html">
         <source>Submit Logs</source>
-        <source>Enviar Logs</source>
+        <target>Enviar Logs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">25</context>
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="FactsAndFigures" datatype="html">
         <source>Facts and Figures</source>
-        <source>Estatísticas</source>
+        <target>Estatísticas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">32</context>
@@ -72,7 +72,7 @@
       </trans-unit>
       <trans-unit id="ActivatorRollOfHonour" datatype="html">
         <source>Activator Roll of Honour</source>
-        <source>Quadro de Honra dos Ativadores</source>
+        <target>Quadro de Honra dos Ativadores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">36</context>
@@ -80,7 +80,7 @@
       </trans-unit>
       <trans-unit id="ActivatorUniques" datatype="html">
         <source>Activator Uniques</source>
-        <source>Picos Únicos (Ativadores)</source>
+        <target>Picos Únicos (Ativadores)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">40</context>
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="ChaserRollOfHonour" datatype="html">
         <source>Chaser Roll of Honour</source>
-        <source>Quadro de Honra dos Caçadores</source>
+        <target>Quadro de Honra dos Caçadores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">44</context>
@@ -96,7 +96,7 @@
       </trans-unit>
       <trans-unit id="ChaserUniques" datatype="html">
         <source>Chaser Uniques</source>
-        <source>Picos Únicos (Caçadores)</source>
+        <target>Picos Únicos (Caçadores)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">48</context>
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="S2SRollOfHonour" datatype="html">
         <source>Summit to Summit Roll of Honour</source>
-        <source>Quadro de Honra de Pico a Pico</source>
+        <target>Quadro de Honra de Pico a Pico</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">52</context>
@@ -112,7 +112,7 @@
       </trans-unit>
       <trans-unit id="SOTACompleteRoll" datatype="html">
         <source>SOTA Complete Roll of Honour</source>
-        <source>Quadro de Honra do SOTA Total</source>
+        <target>Quadro de Honra do SOTA Total</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">56</context>
@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="SWLRoll" datatype="html">
         <source>SWL Roll of Honour</source>
-        <source>Quadro de Honra dos Radioescutas</source>
+        <target>Quadro de Honra dos Radioescutas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">60</context>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="Challenges" datatype="html">
         <source>Challenges</source>
-        <source>Desafios</source>
+        <target>Desafios</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">64</context>
@@ -136,7 +136,7 @@
       </trans-unit>
       <trans-unit id="MyResults" datatype="html">
         <source>My Results</source>
-        <source>Meus Resultados</source>
+        <target>Meus Resultados</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">68</context>
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="1st12mActivator" datatype="html">
         <source>1st 12m Challenge Activator Roll of Honour</source>
-        <source>Quadro de Honra do 1º Desafio dos Ativadores em 12m</source>
+        <target>Quadro de Honra do 1º Desafio dos Ativadores em 12m</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">74</context>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="1st12mChaser" datatype="html">
         <source>1st 12m Challenge Chaser Roll of Honour</source>
-        <source>Quadro de Honra do 1º Desafio dos Caçadores em 12m</source>
+        <target>Quadro de Honra do 1º Desafio dos Caçadores em 12m</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">77</context>
@@ -160,7 +160,7 @@
       </trans-unit>
       <trans-unit id="1st610Activator" datatype="html">
         <source>1st 6m/10m Challenge Activator Roll of Honour</source>
-        <source>Quadro de Honra do 1º Desafio dos Ativadores em 6m e 10m</source>
+        <target>Quadro de Honra do 1º Desafio dos Ativadores em 6m e 10m</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">80</context>
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="1st610Chaser" datatype="html">
         <source>1st 6m/10m Challenge Chaser Roll of Honour</source>
-        <source>Quadro de Honra do 1º Desafio dos Caçadores em 6m e 10m</source>
+        <target>Quadro de Honra do 1º Desafio dos Caçadores em 6m e 10m</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">83</context>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="SubmitActivator" datatype="html">
         <source>Submit Activator Entry</source>
-        <source>Enviar Log de Ativação</source>
+        <target>Enviar Log de Ativação</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">169</context>
@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id="SubmitChaserS2S" datatype="html">
         <source>Submit Chaser/S2S Entry</source>
-        <source>Enviar Log de Caçador ou de Pico a Pico</source>
+        <target>Enviar Log de Caçador ou de Pico a Pico</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">173</context>
@@ -192,7 +192,7 @@
       </trans-unit>
       <trans-unit id="UploadCSV" datatype="html">
         <source>Upload CSV/TSV log file</source>
-        <source>Enviar Arquivo de Log no Formato CSV/TSV</source>
+        <target>Enviar Arquivo de Log no Formato CSV/TSV</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">177</context>
@@ -204,7 +204,7 @@
       </trans-unit>
       <trans-unit id="TitlePageWelcome" datatype="html">
         <source>Welcome to the Worldwide Summits On The Air database service.</source>
-        <source>Bem-vindo ao Banco de Dados Mundial do SOTA.</source>
+        <target>Bem-vindo ao Banco de Dados Mundial do SOTA.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">2</context>
@@ -214,9 +214,9 @@
         <source>
         Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
         </source>
-        <source>
+        <target>
         SOTA é uma atividade que une montanhismo e radioamadorismo e incentiva a operação de estações portáteis de rádio no topo de morros, serras e montanhas.
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">5</context>
@@ -226,9 +226,9 @@
         <source>
         An award scheme recognises those who activate the summits and also those that make QSOs with the activators. The programme can be operated anywhere in the world.
         </source>
-        <source>
+        <target>
         Um esquema de premiação que reconhece aqueles que ativam os picos e também aqueles que fazem QSOs com os ativadores. O programa pode ser realizado em qualquer lugar do mundo.
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">8</context>
@@ -238,8 +238,9 @@
         <source>
         For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>http://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
         </source>
+        <target>
         Para mais informações sobre o programa SOTA na sua região, acesse o site oficial: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>http://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">11</context>
@@ -247,7 +248,7 @@
       </trans-unit>
       <trans-unit id="SOTACompetition" datatype="html">
         <source>SOTA is not inherently a competitive activity, it&apos;s about individual aspirations and working towards a goal at your own pace. However, it can be fun to see how your progress compares with that of others, hence we publish our Honour Roll on the internet.</source>
-        <source>O SOTA não é uma atividade competitiva em si mesma, mas relaciona-se com aspirações pessoais em direção a um objetivo individual galgado em seu ritmo particular. Entretanto, pode ser divertido ver o próprio progresso em comparação com outros colegas. Por isso publicamos nossos Quadros de Honra aqui em nossas páginas.</source>
+        <target>O SOTA não é uma atividade competitiva em si mesma, mas relaciona-se com aspirações pessoais em direção a um objetivo individual galgado em seu ritmo particular. Entretanto, pode ser divertido ver o próprio progresso em comparação com outros colegas. Por isso publicamos nossos Quadros de Honra aqui em nossas páginas.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">3</context>
@@ -298,10 +299,10 @@
         You can use this page to perform a bulk upload of many Activator Entries at once.
         This page is intended for more experienced users only.
         </source>
-        <source>
+        <target>
         Você pode usar essa página para realizar um envio em massa de vários Logs de Ativadores de uma só vez.
         Essa página é voltada para usuários mais experientes.
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">5</context>
@@ -311,9 +312,9 @@
         <source>
         If you have a large number of log entries you want to claim, this may be the fastest way of recording them
         </source>
-        <source>
+        <target>
         Se você tem um grande número de registros a reinvindicar, talvez esse seja o método mais fácil de enviá-los.
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">10</context>
@@ -323,9 +324,9 @@
         <source>
         If however you only have a dozen or less entries, it will probably be easier to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> web page.
         </source>
-        <source>
+        <target>
         Entretanto, se você tem apenas alguns poucos registros para enviar, provavelmente será mais fácil utilizar a <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>forma normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> de envio.
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">13</context>
@@ -333,7 +334,7 @@
       </trans-unit>
       <trans-unit id="Instructions" datatype="html">
         <source>Instructions</source>
-        <source>Instruções</source>
+        <target>Instruções</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">18</context>
@@ -343,11 +344,11 @@
         <source>
         Create a CSV or TSV file containing all your entries. These can be for any number of activations. The file can be generated using a text editor such as NOTEPAD, or can be exported from many other programs, such as Microsoft Excel.
         The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> for details of the format of the CSV file that we require.</source>
-        <source>
+        <target>
         Crie um arquivo CSV ou TSV contento todos os seus contatos. Essa forma pode ser usada para qualquer número de ativações.
         O arquivo pode ser gerado usando um editor de texto como o Bloco de Notas ou pode ser exportado de outros programas como o Microsoft Excel.
         O formato desse arqivo é imprescindível para garantir que o Log seja gravado corretamente. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Clique aqui<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> para mais detalhes sobre o formato do arquivo CSV necessário.
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">20</context>
@@ -356,9 +357,9 @@
       <trans-unit id="csvUpInst2" datatype="html">
         <source>
     	If you are unsure what a CSV or TSV file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> data entry page instead.</source>
-        <source>
+        <target>
         Se você não tem certeza sobre o que é um arquivo CSV ou TSV, por favor use a <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>página normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> para o envio de dados.
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">24</context>
@@ -368,9 +369,9 @@
         <source>
 	    Press the Browse button below and select the CSV or TSV file on your hard drive
        </source>
-        <source>
+        <target>
         Pressione o botão abaixo e selecione o arquivo CSV ou TSV do seu disco rígido.
-       </source>
+       </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">26</context>
@@ -379,9 +380,9 @@
       <trans-unit id="csvUpInst4" datatype="html">
         <source>
 	    Press the Upload File button on the bottom of this screen to transfer the file to our server and begin processing it. This may take a few seconds. Please be patient!</source>
-        <source>
+        <target>
         Pressione o botão Enviar Aquivo na parte inferior da tela para tranferir o arquivo para nosso servido e começar a processá-lo. Isso pode demorar alguns segundos. Por favor seja paciente!
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">29</context>
@@ -389,7 +390,7 @@
       </trans-unit>
       <trans-unit id="selectCSV" datatype="html">
         <source>Select CSV File:</source>
-        <source>Selecione o arquivo CSV:</source>
+        <target>Selecione o arquivo CSV:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">34</context>
@@ -397,7 +398,7 @@
       </trans-unit>
       <trans-unit id="Date" datatype="html">
         <source> Date </source>
-        <source> Data </source>
+        <target> Data </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">45</context>
@@ -409,7 +410,7 @@
       </trans-unit>
       <trans-unit id="Time" datatype="html">
         <source> Time </source>
-        <source> Hora </source>
+        <target> Hora </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">49</context>
@@ -421,7 +422,7 @@
       </trans-unit>
       <trans-unit id="Band" datatype="html">
         <source> Band </source>
-        <source> Banda </source>
+        <target> Banda </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">53</context>
@@ -445,7 +446,7 @@
       </trans-unit>
       <trans-unit id="Mode" datatype="html">
         <source> Mode </source>
-        <source> Modo </source>
+        <target> Modo </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">57</context>
@@ -465,7 +466,7 @@
       </trans-unit>
       <trans-unit id="Summit" datatype="html">
         <source> Summit </source>
-        <source> Pico </source>
+        <target> Pico </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">61</context>
@@ -485,7 +486,7 @@
       </trans-unit>
       <trans-unit id="OtherSummit" datatype="html">
         <source> Other Summit </source>
-        <source> Outro Pico </source>
+        <target> Outro Pico </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">65</context>
@@ -497,7 +498,7 @@
       </trans-unit>
       <trans-unit id="OtherCallsign" datatype="html">
         <source> Other Callsign </source>
-        <source> Outro Indicativo </source>
+        <target> Outro Indicativo </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">69</context>
@@ -509,7 +510,7 @@
       </trans-unit>
       <trans-unit id="Duplicate" datatype="html">
         <source> Duplicate? </source>
-        <source> Dupicado? </source>
+        <target> Dupicado? </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">73</context>
@@ -517,7 +518,7 @@
       </trans-unit>
       <trans-unit id="Callsign" datatype="html">
         <source> Callsign </source>
-        <source> Indicativo </source>
+        <target> Indicativo </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">77</context>
@@ -525,7 +526,7 @@
       </trans-unit>
       <trans-unit id="Comment" datatype="html">
         <source> Comment </source>
-        <source> Comentário </source>
+        <target> Comentário </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">81</context>
@@ -533,7 +534,7 @@
       </trans-unit>
       <trans-unit id="IsS2S" datatype="html">
         <source> Is S2S? </source>
-        <source> Pico a Pico? </source>
+        <target> Pico a Pico? </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">85</context>
@@ -541,7 +542,7 @@
       </trans-unit>
       <trans-unit id="IsI18N" datatype="html">
         <source> Is Chaser Entry? </source>
-        <source> É uma entrada de Caçador? </source>
+        <target> É uma entrada de Caçador? </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">89</context>
@@ -549,7 +550,7 @@
       </trans-unit>
       <trans-unit id="uploadError" datatype="html">
         <source>There are errors in your file - please correct them and try again</source>
-        <source>Existem erros em seu arquivo - por favor corrija-os e tente novamente.</source>
+        <target>Existem erros em seu arquivo - por favor corrija-os e tente novamente.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">96</context>
@@ -557,7 +558,7 @@
       </trans-unit>
       <trans-unit id="Cancel" datatype="html">
         <source>Cancel</source>
-        <source>Cancelar</source>
+        <target>Cancelar</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">97</context>
@@ -573,7 +574,7 @@
       </trans-unit>
       <trans-unit id="uploadVerify" datatype="html">
         <source>Please verify the uploaded details and click Submit when ready</source>
-        <source>Por favor verifique os detalhes do envio e clique em Enviar.</source>
+        <target>Por favor verifique os detalhes do envio e clique em Enviar.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">100</context>
@@ -581,7 +582,7 @@
       </trans-unit>
       <trans-unit id="Submit" datatype="html">
         <source>Submit</source>
-        <source>Enviar</source>
+        <target>Enviar</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">101</context>
@@ -597,11 +598,11 @@
         and spirit of the SOTA Programme. I agree that the decision of the
         Management Team will be final in any case of dispute.
         </source>
-        <source>
+        <target>
         Ao enviar o Log, declaro que operei dentro das regras e do espírito do
         programa SOTA. Aceito que a decisão final do Time Administrativo será
         sempre soberana em qualquer caso de disputa.
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">107</context>
@@ -613,11 +614,11 @@
         and that entries may be subject to verification and adjustment by the award
         administrators.
         </source>
-        <source>
+        <target>
         Entendo que as pontuações mostradas nesse site são apenas para
         orientação e que os todos os registros estão sujeitos a verificação e possível
         correção pelos Gerentes do setor de Troféus e Diplomas.
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">112</context>
@@ -625,7 +626,7 @@
       </trans-unit>
       <trans-unit id="IAgree" datatype="html">
         <source>I agree</source>
-        <source>Aceito</source>
+        <target>Aceito</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">117</context>
@@ -633,7 +634,7 @@
       </trans-unit>
       <trans-unit id="uploadAnother" datatype="html">
         <source>Upload another log</source>
-        <source>Enviar outro Log</source>
+        <target>Enviar outro Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">124</context>
@@ -641,7 +642,7 @@
       </trans-unit>
       <trans-unit id="awardsMG" datatype="html">
         <source>You are a Mountain Goat with <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> points.</source>
-        <source>Você é uma Cabra Montesa com <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> pontos.</source>
+        <target>Você é uma Cabra Montesa com <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> pontos.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
           <context context-type="linenumber">6</context>
@@ -649,7 +650,7 @@
       </trans-unit>
       <trans-unit id="achievedon" datatype="html">
         <source>achieved on</source>
-        <source>conquistado em</source>
+        <target>conquistado em</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
           <context context-type="linenumber">7</context>
@@ -657,7 +658,7 @@
       </trans-unit>
       <trans-unit id="chaserDeleteResult2" datatype="html">
         <source>You cannot delete this QSO.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
-        <source>Você não pode deletar esse QSO. O erro recebido foi: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
+        <target>Você não pode deletar esse QSO. O erro recebido foi: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">2</context>
@@ -675,9 +676,9 @@
         <source>
         You are about to permanently delete the record of the chaser contact below. This cannot be undone.
         </source>
-        <source>
+        <target>
         Você está prestes a deletar permanentemente esse registro. Isso não pode ser desfeito.
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">6</context>
@@ -691,9 +692,9 @@
         <source>
         If you wish to proceed, press the DELETE button at the bottom of this screen, otherwise press CANCEL.
         </source>
-        <source>
+        <target>
         Se você deseja continuar, pressione o botão DELETAR no canto inferior da tela. Caso contrário pressione CANCELAR.
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">9</context>
@@ -713,7 +714,7 @@
       </trans-unit>
       <trans-unit id="date" datatype="html">
         <source>Date:</source>
-        <source>Data:</source>
+        <target>Data:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">16</context>
@@ -733,7 +734,7 @@
       </trans-unit>
       <trans-unit id="time" datatype="html">
         <source>Time:</source>
-        <source>Hora:</source>
+        <target>Hora:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">19</context>
@@ -749,7 +750,7 @@
       </trans-unit>
       <trans-unit id="otherCallsign" datatype="html">
         <source>Other Callsign:</source>
-        <source>Outro Indicativo:</source>
+        <target>Outro Indicativo:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">22</context>
@@ -765,7 +766,7 @@
       </trans-unit>
       <trans-unit id="Points" datatype="html">
         <source>Points</source>
-        <source>Pontos</source>
+        <target>Pontos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">34</context>
@@ -781,7 +782,7 @@
       </trans-unit>
       <trans-unit id="S2SQSO" datatype="html">
         <source>S2S QSO</source>
-        <source>QSO Pico a Pico</source>
+        <target>QSO Pico a Pico</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">37</context>
@@ -793,7 +794,7 @@
       </trans-unit>
       <trans-unit id="MySummit" datatype="html">
         <source>My Summit</source>
-        <source>Meu Pico</source>
+        <target>Meu Pico</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">40</context>
@@ -809,7 +810,7 @@
       </trans-unit>
       <trans-unit id="chaserDeleteResult" datatype="html">
         <source>Operation complete.  The response from the server was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
-        <source>Operação realizada. A resposta do servidor foi: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
+        <target>Operação realizada. A resposta do servidor foi: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">53</context>
@@ -829,7 +830,7 @@
       </trans-unit>
       <trans-unit id="SOTAActivatorTSV/CSVfileformat" datatype="html">
         <source>SOTA Activator TSV/CSV file format</source>
-        <source>Ativador SOTA: Formato de Arquivo CSV/TSV</source>
+        <target>Ativador SOTA: Formato de Arquivo CSV/TSV</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">2</context>
@@ -847,13 +848,13 @@
         activate the same summit on several days you must upload each activation in a separate file<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/> otherwise
         the file will be assumed to only contain a single activation.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
         </source>
-        <source>Nessa área você pode enviar um grande número de QSOs de uma só vez.
+        <target>Nessa área você pode enviar um grande número de QSOs de uma só vez.
         Você precisa criar um arquivo CSV (Valores Separados por Vírgulas) ou TSV (Valores Separados Por Tabulações) com os campos colocados como no exemplo abaixo.
         Ao enviar o arquivo, eles será analisado em busca de erros antes de mostrar a você as opções de registro dos QSOs no banco de dados.
         Você pode misturar registro de ativação, de caçadores e de pico a pico no mesmo arquivo.
         Você pode incluir múltiplas ativações nesse arquivo, mas os registros de cada ativação devem estar juntos.
         Cada ativação é lida até quando a referência [Meu Pico] mudar. Se você ativar o mesmo pico em dias diferentes você deve enviar cada ativação em arquivos separados<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/> senão o arquivo será considerado como se tudo fosse uma única ativação.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">4</context>
@@ -861,7 +862,7 @@
       </trans-unit>
       <trans-unit id="csv2" datatype="html">
         <source>The new prefered Version 2 (V2) format consists of upto ten fields as follows</source>
-        <source>O formato recomendado da nova versão 2 (V2) consiste em até dez campos na seguinte forma</source>
+        <target>O formato recomendado da nova versão 2 (V2) consiste em até dez campos na seguinte forma</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">18</context>
@@ -870,8 +871,8 @@
       <trans-unit id="csv3" datatype="html">
         <source>[V2] [My Callsign][My Summit] [Date] [Time]
                 [Band] [Mode] [His Callsign] </source>
-        <source>[V2] [Meu Indicativo][Meu Pico] [Data] [Hora]
-                [Banda] [Modo] [Outro Indicativo] </source>
+        <target>[V2] [Meu Indicativo][Meu Pico] [Data] [Hora]
+                [Banda] [Modo] [Outro Indicativo] </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">20</context>
@@ -881,9 +882,9 @@
         <source>
         or
         </source>
-        <source>
+        <target>
         ou
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">22</context>
@@ -896,8 +897,8 @@
       <trans-unit id="csv4" datatype="html">
         <source>[V2] [My Callsign][My Summit] [Date] [Time]
                 [Band] [Mode] [His Callsign][His Summit] </source>
-        <source>[V2] [Meu Indicativo][Meu Pico] [Data] [Hora]
-                [Banda] [Modo] [Outro Indicativo][Outro Pico] </source>
+        <target>[V2] [Meu Indicativo][Meu Pico] [Data] [Hora]
+                [Banda] [Modo] [Outro Indicativo][Outro Pico] </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">25</context>
@@ -906,8 +907,8 @@
       <trans-unit id="csv5" datatype="html">
         <source>[V2] [My Callsign][My Summit] [Date] [Time]
                 [Band] [Mode] [His Callsign][His Summit] [Notes or Comments]</source>
-        <source>[V2] [Meu Indicativo][Meu Pico] [Data] [Hora]
-                [Banda] [Modo] [Outro Indicativo][Outro Pico] [Notas ou Comentários]</source>
+        <target>[V2] [Meu Indicativo][Meu Pico] [Data] [Hora]
+                [Banda] [Modo] [Outro Indicativo][Outro Pico] [Notas ou Comentários]</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">30</context>
@@ -917,9 +918,9 @@
         <source>Each field is separated by either a Comma (CSV) or Tab (TSV).
         Each QSO is a single record and there is one record to a line, terminated in
         [CR][LF].</source>
-        <source>Cada campo é separado por uma Vírgula (CSV) ou Tabulação (TSV).
+        <target>Cada campo é separado por uma Vírgula (CSV) ou Tabulação (TSV).
         Cada QSO é um registro único e há apenas um registro por linha, terminada em
-        [CR][LF].</source>
+        [CR][LF].</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">33</context>
@@ -927,7 +928,7 @@
       </trans-unit>
       <trans-unit id="csv7" datatype="html">
         <source>Here is an example:</source>
-        <source>Exemplo:</source>
+        <target>Exemplo:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">38</context>
@@ -935,6 +936,7 @@
       </trans-unit>
       <trans-unit id="csv8" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Field notes<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Notas de Campo<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">47</context>
@@ -942,6 +944,7 @@
       </trans-unit>
       <trans-unit id="csvField" datatype="html">
         <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Field<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/></source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Campo<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">51</context>
@@ -949,6 +952,7 @@
       </trans-unit>
       <trans-unit id="Comments" datatype="html">
         <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Comments<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/></source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>Comentários<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">54</context>
@@ -960,7 +964,7 @@
       </trans-unit>
       <trans-unit id="MyCallsign" datatype="html">
         <source>My Callsign</source>
-        <source>Meu Indicativo</source>
+        <target>Meu Indicativo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">59</context>
@@ -969,8 +973,8 @@
       <trans-unit id="csvCallsign" datatype="html">
         <source>This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
               used for the QSO. No spaces in the callsign please</source>
-        <source>Esse é o Indicativo de Chamada que <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>você<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
-              usou para o QSO. Por favor, SEM ESPAÇOS no Indicativo de Chamada!</source>
+        <target>Esse é o Indicativo de Chamada que <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>você<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>
+              usou para o QSO. Por favor, SEM ESPAÇOS no Indicativo de Chamada!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">62</context>
@@ -978,7 +982,7 @@
       </trans-unit>
       <trans-unit id="csvSummit" datatype="html">
         <source>This MUST be the full SOTA reference of the summit you where activating, as shown in the above example</source>
-        <source>Esse DEVE ser a referência completa SOTA do pico que você está ativando como mostrado no exemplo acima. </source>
+        <target>Esse DEVE ser a referência completa SOTA do pico que você está ativando como mostrado no exemplo acima. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">71</context>
@@ -988,9 +992,9 @@
         <source>The date of the QSO.
               Most date formats are accepted but be careful about USA vs. International date
               format.  Use of International date format (DD/MM/YY) is recommended</source>
-        <source>A data do QSO.
+        <target>A data do QSO.
               A maioria dos formatos de data são aceitos, mas seja cuidadoso com o formato de data americano em relação ao formato internacional.
-              O uso do formato de data internacional (DD/MM/YY) é recomendado.</source>
+              O uso do formato de data internacional (DD/MM/YY) é recomendado.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">81</context>
@@ -999,8 +1003,8 @@
       <trans-unit id="csvTime" datatype="html">
         <source>The time in UTC.
               Either HHMM or HH:MM will work. Use the 24 hour clock!</source>
-        <source>A hora UTC (Tempo Universal Coordenado).
-              Tanto HHMM como HH:MM vão funcionar. Use as horas no formato de 24 horas!</source>
+        <target>A hora UTC (Tempo Universal Coordenado).
+              Tanto HHMM como HH:MM vão funcionar. Use as horas no formato de 24 horas!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">91</context>
@@ -1008,7 +1012,7 @@
       </trans-unit>
       <trans-unit id="csvBand" datatype="html">
         <source>You can enter the frequency in MHz (14.285MHz) or pick from the following:</source>
-        <source>Você pode inserir a frequência em MHz (14.285MHz) ou escolher uma das seguintes:</source>
+        <target>Você pode inserir a frequência em MHz (14.285MHz) ou escolher uma das seguintes:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">100</context>
@@ -1017,8 +1021,8 @@
       <trans-unit id="csvOtherCall" datatype="html">
         <source>The callsign of the <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG&gt;"/>
                 station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG&gt;"/>.  No spaces in the callsign please</source>
-        <source>O Indicativo de Chamada da <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG&gt;"/>
-                estação trabalhada<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG&gt;"/>.  Por favor, sem espaços no Indicativo de Chamada!</source>
+        <target>O Indicativo de Chamada da <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG&gt;"/>
+                estação trabalhada<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG&gt;"/>.  Por favor, sem espaços no Indicativo de Chamada!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">229</context>
@@ -1028,9 +1032,9 @@
         <source>This field is only needed if the station was also activating a SOTA summit. This is the full SOTA reference of the summit the chasing station was activating, as shown in the above example.
         If there is no [Other Summit] you can leave this blank. If there is a comment then you must insert a TAB or comma to mark the field as being blank.
         See entries for G3NOH or GW4GTE</source>
-        <source>Esse campo só é necessário se a outra estação também estiver ativando um pico SOTA.
+        <target>Esse campo só é necessário se a outra estação também estiver ativando um pico SOTA.
         Essa é a referência SOTA completa do pico que o caçador estava ativando, como mostrado no exemplo acima.
-        Se não houver [Outro Pico] você pode deixar isso em branco. Se houver um comentário você precisa inserir uma vírugla ou tabulação para marcar o campo como branco.</source>
+        Se não houver [Outro Pico] você pode deixar isso em branco. Se houver um comentário você precisa inserir uma vírugla ou tabulação para marcar o campo como branco.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">238</context>
@@ -1042,11 +1046,11 @@
         location, Signal Report, QSL information, or almost anything else. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
         <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>You can embed a TAB or comma in this field. If you do you must enclose the entire Notes field in double-quotes. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
         </source>
-        <source>Um campo opcional para
+        <target>Um campo opcional para
         inserir notas curtas sobre o QSO. Isso pode incluir o nome e localização,
         reportagem do sinal, informação de QSL ou praticamente qualquer outra coisa,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
         <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Você pode embutir uma vírgula ou tabulação nesse campo. Se você o fizer deverá utilizar aspas duplas no início e no final do campo de notas. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">249</context>
@@ -1057,9 +1061,9 @@
         create your TSV/CSV file is using Excel.  This allows you to arrange your
         log data in columns then save it as either a TSV or CSV file.  Either is
         accepted by the SOTA program.</source>
-        <source>O modo mais fácil de criar o seu arquivo CSV/TSV é utilizando um programa de planilhas como o Excel.
+        <target>O modo mais fácil de criar o seu arquivo CSV/TSV é utilizando um programa de planilhas como o Excel.
           Isso permite organizar seu log em colunas e então gravar o arquivo em formato CSV ou TSV.
-          Ambos são aceitos pelo programa SOTA.</source>
+          Ambos são aceitos pelo programa SOTA.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">260</context>
@@ -1067,7 +1071,7 @@
       </trans-unit>
       <trans-unit id="CommonErrors" datatype="html">
         <source>Common errors</source>
-        <source>Erros comuns</source>
+        <target>Erros comuns</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">265</context>
@@ -1075,7 +1079,7 @@
       </trans-unit>
       <trans-unit id="csv10" datatype="html">
         <source>Spaces in the callsigns. Our callsigns do not have spaces in them!</source>
-        <source>Espaços nos indicativos de chamada. Os indicativos não possuem espaços!</source>
+        <target>Espaços nos indicativos de chamada. Os indicativos não possuem espaços!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">268</context>
@@ -1084,8 +1088,8 @@
       <trans-unit id="csv11" datatype="html">
         <source>Date or time out of order.
         The input parser will show an error if the log is not in sequential order</source>
-        <source>Data ou hora fora de ordem.
-        O analisador de entrada mostrará um erro se o log não estiver em ordem sequencial.</source>
+        <target>Data ou hora fora de ordem.
+        O analisador de entrada mostrará um erro se o log não estiver em ordem sequencial.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">271</context>
@@ -1094,8 +1098,8 @@
       <trans-unit id="csv12" datatype="html">
         <source>Errors in the SOTA reference number. Spaces in the reference, leaving off the ITU prefix, or
         specifying a reference that does not exist will all result in an error being reported.</source>
-        <source>Erros no número de referência SOTA. Espaços na referência, não adicionar o prefixo ITU ou
-        especificar uma referência que não existe vai fazer com que um erro seja reportado.</source>
+        <target>Erros no número de referência SOTA. Espaços na referência, não adicionar o prefixo ITU ou
+        especificar uma referência que não existe vai fazer com que um erro seja reportado.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">275</context>
@@ -1108,12 +1112,12 @@
         carefully check that everything is correct before saving it. As soon as you
         have saved the data you will be able to see the effect in the various Activator
         tables.</source>
-        <source>Se um erro for
+        <target>Se um erro for
         detectado ele aparecerá em vermelho e você deve modificar o arquivo para corrigir
         o erro e então reenviá-lo. Assim que receber um aviso de erro, você deve,
         cuidadosamente, checar se está tudo correto antes de gravá-lo. Assim que
         tiver gravado os dados, será possível ver o resultado nas diversas tabelas de
-        Ativadores.</source>
+        Ativadores.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">281</context>
@@ -1123,9 +1127,9 @@
         <source>
         You are about to permanently delete the record of the activation QSO below. This cannot be undone.
         </source>
-        <source>
+        <target>
         Você está prestes a deletar permanentemente o registro abaixo. Isso não pode ser desfeito.
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context>
           <context context-type="linenumber">6</context>
@@ -1133,7 +1137,7 @@
       </trans-unit>
       <trans-unit id="Notes" datatype="html">
         <source>Notes</source>
-        <source>Notas</source>
+        <target>Notas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context>
           <context context-type="linenumber">31</context>
@@ -1141,7 +1145,7 @@
       </trans-unit>
       <trans-unit id="activatorDeleteResult2" datatype="html">
         <source>You cannot delete this Activation.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
-        <source>Você não pode deletar essa Ativação. Erro recebido foi: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
+        <target>Você não pode deletar essa Ativação. Erro recebido foi: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">2</context>
@@ -1151,9 +1155,9 @@
         <source>
         You are about to permanently delete the record of the activation below. This cannot be undone.
         </source>
-        <source>
+        <target>
         Você está prestes a apagar permanentemente o registro da ativação abaixo. Isso não pode ser desfeito.
-        </source>
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">6</context>
@@ -1161,7 +1165,7 @@
       </trans-unit>
       <trans-unit id="ownCallsign" datatype="html">
         <source>Own Callsign:</source>
-        <source>Indicativo Próprio:</source>
+        <target>Indicativo Próprio:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">19</context>
@@ -1169,7 +1173,7 @@
       </trans-unit>
       <trans-unit id="BonusPoints" datatype="html">
         <source>Bonus Points:</source>
-        <source>Pontos de Bônus:</source>
+        <target>Pontos de Bônus:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">25</context>
@@ -1177,7 +1181,7 @@
       </trans-unit>
       <trans-unit id="QSOs" datatype="html">
         <source>QSOs:</source>
-        <source>QSOs:</source>
+        <target>QSOs:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">28</context>
@@ -1185,7 +1189,7 @@
       </trans-unit>
       <trans-unit id="Welcome" datatype="html">
         <source>Welcome</source>
-        <source>Saudações</source>
+        <target>Saudações</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/login-display/login-display.component.html</context>
           <context context-type="linenumber">1</context>
@@ -1193,7 +1197,7 @@
       </trans-unit>
       <trans-unit id="Logout" datatype="html">
         <source>Logout</source>
-        <source>Sair</source>
+        <target>Sair</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/login-display/login-display.component.html</context>
           <context context-type="linenumber">1</context>
@@ -1201,7 +1205,7 @@
       </trans-unit>
       <trans-unit id="Register" datatype="html">
         <source>Register</source>
-        <source>Registro</source>
+        <target>Registro</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/login-display/login-display.component.html</context>
           <context context-type="linenumber">2</context>
