@@ -3684,7 +3684,7 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
           <context context-type="linenumber">15</context>
         </context-group>
       </trans-unit><trans-unit id="LastActivation" datatype="html">
-        <source> Last Activation </source><target state="final"> 최근 활성화 일자 </target>
+        <source> Last Activation </source><target state="final"> 마지막 활성화 </target>
 
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
@@ -3699,7 +3699,7 @@ SOTA프로그램에 참여해 주셔서 감사합니다.
           <context context-type="linenumber">79</context>
         </context-group>
       </trans-unit><trans-unit id="LastActivator" datatype="html">
-        <source> Last Activator </source><target state="final"> 최근 활동자 </target>
+        <source> Last Activator </source><target state="final"> 마지막 활동자 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
           <context context-type="linenumber">33</context>
