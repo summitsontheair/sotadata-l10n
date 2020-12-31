@@ -2,12 +2,276 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="en" datatype="plaintext" original="ng2.template" target-language="nl">
     <body>
+      <trans-unit id="ngb.alert.close" datatype="html">
+        <source>Close</source>
+        <target state="new">Close</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/alert/alert.d.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.previous" datatype="html">
+        <source>Previous</source>
+        <target state="new">Previous</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.d.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.next" datatype="html">
+        <source>Next</source>
+        <target state="new">Next</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.d.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.previous-month" datatype="html">
+        <source>Previous month</source>
+        <target state="new">Previous month</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.d.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.d.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.next-month" datatype="html">
+        <source>Next month</source>
+        <target state="new">Next month</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.d.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.d.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.select-month" datatype="html">
+        <source>Select month</source>
+        <target state="new">Select month</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.d.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.d.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.select-year" datatype="html">
+        <source>Select year</source>
+        <target state="new">Select year</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.d.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.d.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.first" datatype="html">
+        <source>««</source>
+        <target state="new">««</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.previous" datatype="html">
+        <source>«</source>
+        <target state="new">«</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.next" datatype="html">
+        <source>»</source>
+        <target state="new">»</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.last" datatype="html">
+        <source>»»</source>
+        <target state="new">»»</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.first-aria" datatype="html">
+        <source>First</source>
+        <target state="new">First</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.previous-aria" datatype="html">
+        <source>Previous</source>
+        <target state="new">Previous</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.next-aria" datatype="html">
+        <source>Next</source>
+        <target state="new">Next</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.last-aria" datatype="html">
+        <source>Last</source>
+        <target state="new">Last</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.progressbar.value" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{getValue() / max | percent}}"/></source>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{getValue() / max | percent}}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar.d.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-hours" datatype="html">
+        <source>Increment hours</source>
+        <target state="new">Increment hours</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.HH" datatype="html">
+        <source>HH</source>
+        <target state="new">HH</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.hours" datatype="html">
+        <source>Hours</source>
+        <target state="new">Hours</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-hours" datatype="html">
+        <source>Decrement hours</source>
+        <target state="new">Decrement hours</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-minutes" datatype="html">
+        <source>Increment minutes</source>
+        <target state="new">Increment minutes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.MM" datatype="html">
+        <source>MM</source>
+        <target state="new">MM</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.minutes" datatype="html">
+        <source>Minutes</source>
+        <target state="new">Minutes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-minutes" datatype="html">
+        <source>Decrement minutes</source>
+        <target state="new">Decrement minutes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-seconds" datatype="html">
+        <source>Increment seconds</source>
+        <target state="new">Increment seconds</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.SS" datatype="html">
+        <source>SS</source>
+        <target state="new">SS</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.seconds" datatype="html">
+        <source>Seconds</source>
+        <target state="new">Seconds</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-seconds" datatype="html">
+        <source>Decrement seconds</source>
+        <target state="new">Decrement seconds</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.PM" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ i18n.getAfternoonPeriod() }}"/></source>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{ i18n.getAfternoonPeriod() }}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.AM" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ i18n.getMorningPeriod() }}"/></source>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{ i18n.getMorningPeriod() }}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.toast.close-aria" datatype="html">
+        <source>Close</source>
+        <target state="new">Close</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/toast/toast.d.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="MainTitle" datatype="html">
         <source>SOTA Results and Summits Database</source>
         <target state="new">SOTA Resultaten en Toppen Databank</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
-          <context context-type="linenumber">9</context>
+          <context context-type="linenumber">2</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Menu" datatype="html">
@@ -215,7 +479,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="1st12mActivator" datatype="html">
-        <source>1ste 12m Challenge Activator Roll of Honour</source>
+        <source>1st 12m Challenge Activator Roll of Honour</source>
         <target state="new">1ste 12m Challenge Erelijst</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
@@ -572,9 +836,10 @@ Een beloningsprogramma dat degenen erkent die toppen activeren en ook degenen di
       </trans-unit>
       <trans-unit id="TitlePageInfo" datatype="html">
         <source>
-For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></source>
+For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+</source>
         <target state="new">
-Zie de hoofdwebsite voor meer informatie over het SOTA-programma in uw regio, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></target>
+Zie de hoofdwebsite voor meer informatie over het SOTA-programma in uw regio, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">11</context>
@@ -1457,6 +1722,10 @@ Help ons deze pagina up-to-date te houden door regelmatig uw SOTA-logboeken in t
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">51</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="AllModes" datatype="html">
         <source>All Modes</source>
@@ -1727,8 +1996,8 @@ Help ons deze pagina up-to-date te houden door regelmatig uw SOTA-logboeken in t
         </context-group>
       </trans-unit>
       <trans-unit id="Points" datatype="html">
-        <source> Punten </source>
-        <target state="new"> Points </target>
+        <source> Points </source>
+        <target state="new"> Punten </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">61</context>
@@ -2019,7 +2288,7 @@ Help ons deze pagina up-to-date te houden door regelmatig uw SOTA-logboeken in t
         </context-group>
       </trans-unit>
       <trans-unit id="Associations" datatype="html">
-        <source>Associaties</source>
+        <source>Associations</source>
         <target state="new">Associations</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
@@ -2027,7 +2296,7 @@ Help ons deze pagina up-to-date te houden door regelmatig uw SOTA-logboeken in t
         </context-group>
       </trans-unit>
       <trans-unit id="Regions" datatype="html">
-        <source>Regio's</source>
+        <source>Regions</source>
         <target state="new">Regions</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
@@ -2405,11 +2674,11 @@ een keer. Deze pagina is alleen bedoeld voor meer ervaren gebruikers.
       <trans-unit id="csvUp3" datatype="html">
         <source>
 If however you only have a dozen or less entries, it will probably be easier 
-to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a&gt;" />Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> web pages.
+to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
 </source>
         <target state="new">
 Als je echter maar een dozijn of minder vermeldingen hebt, is het waarschijnlijk gemakkelijker om de normale manier te gebruiken 
-<x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />Activatie toevoegen<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a&gt;" />Jager Toegvoegen/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> web pagina's.
+<x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Activatie toevoegen<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> of <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Jager Toegvoegen/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pagina's.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -2436,11 +2705,11 @@ Als je echter maar een dozijn of minder vermeldingen hebt, is het waarschijnlijk
         <source>
 	Create a CSV or TSV file containing all your entries. These can be for any number of activations. The file can be generated using a text editor such as 
 NOTEPAD, or can be exported from many other programs, such as Microsoft Excel. 
-The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> for details of the format of the CSV file that we require.</source>
+The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> for details of the format of the CSV file that we require.</source>
         <target state="new">
 Maak een CSV- of TSV-bestand met al jouw vermeldingen. Deze kunnen voor een willekeurig aantal activeringen zijn. Het bestand kan worden gegenereerd met een teksteditor zoals
 NOTEPAD, of kan worden geëxporteerd vanuit vele andere programma's, zoals Microsoft Excel.
-De indeling van dit bestand is van cruciaal belang om ervoor te zorgen dat de juiste logboekvermeldingen worden geregistreerd. Klik <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> voor details over het formaat van het CSV-bestand dat we nodig hebben.</target>
+De indeling van dit bestand is van cruciaal belang om ervoor te zorgen dat de juiste logboekvermeldingen worden geregistreerd. Klik <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>hier<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> voor details over het formaat van het CSV-bestand dat we nodig hebben.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">20</context>
@@ -2448,9 +2717,9 @@ De indeling van dit bestand is van cruciaal belang om ervoor te zorgen dat de ju
       </trans-unit>
       <trans-unit id="csvUpInst2" datatype="html">
         <source>
-	If you are unsure what a CSV or TSV file is, please use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a&gt;" />chaser<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> data entry page instead.</source>
+	If you are unsure what a CSV or TSV file is, please use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>chaser<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source>
         <target state="new">
-	Als u niet zeker weet wat een CSV- of TSV-bestand is, gebruik dan het normale manier <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a&gt;" />jager<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> gegevensinvoerpagina.</target>
+	Als je niet zeker weet wat een CSV- of TSV-bestand is, gebruik dan de normale manier <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> of <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>jager<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> gegevensinvoerpagina.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">24</context>
@@ -2793,6 +3062,10 @@ De indeling van dit bestand is van cruciaal belang om ervoor te zorgen dat de ju
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">55</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="Summit" datatype="html">
         <source> Summit </source>
@@ -2892,6 +3165,10 @@ De indeling van dit bestand is van cruciaal belang om ervoor te zorgen dat de ju
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit>
       <trans-unit id="OtherSummit" datatype="html">
@@ -3024,6 +3301,10 @@ De indeling van dit bestand is van cruciaal belang om ervoor te zorgen dat de ju
         <context-group purpose="location">
           <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">63</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">39</context>
         </context-group>
       </trans-unit>
       <trans-unit id="uploadVerify" datatype="html">
@@ -3275,6 +3556,10 @@ en dat inzendingen kunnen worden onderworpen aan verificatie en aanpassing door 
           <context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context>
           <context context-type="linenumber">22</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="Notes" datatype="html">
         <source>Notes</source>
@@ -3451,6 +3736,10 @@ en dat inzendingen kunnen worden onderworpen aan verificatie en aanpassing door 
           <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">62</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="SubmitLog" datatype="html">
         <source>Submit Log</source>
@@ -3498,7 +3787,7 @@ en dat inzendingen kunnen worden onderworpen aan verificatie en aanpassing door 
       </trans-unit>
       <trans-unit id="Find" datatype="html">
         <source>Find</source>
-        <target state="new">Vind</target>
+        <target state="new">Zoeken</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">7</context>
@@ -3853,16 +4142,17 @@ en dat inzendingen kunnen worden onderworpen aan verificatie en aanpassing door 
         </context-group>
       </trans-unit>
       <trans-unit id="SummitsListCSV" datatype="html">
-        <source>NOTE : You can download a CSV file containing a list of all summits by clicking <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></source>
-        <target state="new">OPMERKING: u kunt een CSV-bestand met een lijst van alle toppen downloaden door te klikken <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />hier<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></target>
+        <source>NOTE : You can download a CSV file containing a list of all summits by clicking <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+    </source>
+        <target state="new">OPMERKING: u kunt een CSV-bestand met een lijst van alle toppen downloaden door te klikken <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>hier<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">99</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="Percentage&lt;br/&gt;Unique" datatype="html">
-        <source> Percentage<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />Unique </source>
-        <target state="new"> Percentage<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />Unique </target>
+      <trans-unit id="Percentage&lt;br/>Unique" datatype="html">
+        <source> Percentage<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Unique </source>
+        <target state="new"> Percentage<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Unique </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
           <context context-type="linenumber">65</context>
@@ -3993,8 +4283,8 @@ Bedankt voor je deelname aan SOTA
         </context-group>
       </trans-unit>
       <trans-unit id="Last12Months" datatype="html">
-        <source>Laatste 12 Maanden</source>
-        <target state="new">Last 12 Months</target>
+        <source>Last 12 Months</source>
+        <target state="new">Laatste 12 Maanden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">15</context>
@@ -4877,8 +5167,8 @@ Bedankt voor je deelname aan SOTA
         </context-group>
       </trans-unit>
       <trans-unit id="awardsMG" datatype="html">
-        <source>You are a Mountain Goat with <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}" /> points.</source>
-        <target state="new">Jij bent een Mountain Goat met <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}" /> punten.</target>
+        <source>You are a Mountain Goat with <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> points.</source>
+        <target state="new">Jij bent een Mountain Goat met <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> punten.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
           <context context-type="linenumber">6</context>
@@ -4929,8 +5219,8 @@ Bedankt voor je deelname aan SOTA
         </context-group>
       </trans-unit>
       <trans-unit id="TotalSummitsActivated" datatype="html">
-        <source>Totaal toppen geactiveerd</source>
-        <target state="new">Total summits activated</target>
+        <source>Total summits activated</source>
+        <target state="new">Totaal toppen geactiveerd</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">8</context>
@@ -5129,8 +5419,8 @@ Bedankt voor je deelname aan SOTA
         </context-group>
       </trans-unit>
       <trans-unit id="chaserDeleteResult2" datatype="html">
-        <source>You cannot delete this QSO.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}" /></source>
-        <target state="new">U kunt dit QSO niet verwijderen. De ontvangen fout was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}" /></target>
+        <source>You cannot delete this QSO.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
+        <target state="new">U kunt dit QSO niet verwijderen. De ontvangen fout was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">2</context>
@@ -5141,6 +5431,10 @@ Bedankt voor je deelname aan SOTA
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
       </trans-unit>
@@ -5183,6 +5477,10 @@ Als u verder wilt gaan, drukt u op de WISSEN-knop onder aan dit scherm, anders d
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="date" datatype="html">
         <source>Date:</source>
@@ -5203,6 +5501,10 @@ Als u verder wilt gaan, drukt u op de WISSEN-knop onder aan dit scherm, anders d
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">16</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="time" datatype="html">
         <source>Time:</source>
@@ -5217,6 +5519,10 @@ Als u verder wilt gaan, drukt u op de WISSEN-knop onder aan dit scherm, anders d
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
@@ -5237,8 +5543,8 @@ Als u verder wilt gaan, drukt u op de WISSEN-knop onder aan dit scherm, anders d
         </context-group>
       </trans-unit>
       <trans-unit id="chaserDeleteResult" datatype="html">
-        <source>Operation complete.  The response from the server was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}" /></source>
-        <target state="new">Operatie voltooid. Het antwoord van de server was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}" /></target>
+        <source>Operation complete.  The response from the server was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
+        <target state="new">Operatie voltooid. Het antwoord van de server was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">53</context>
@@ -5255,6 +5561,10 @@ Als u verder wilt gaan, drukt u op de WISSEN-knop onder aan dit scherm, anders d
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">44</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="SOTAActivatorTSV/CSVfileformat" datatype="html">
         <source>SOTA Activator and Chaser TSV/CSV file format</source>
@@ -5269,20 +5579,22 @@ Als u verder wilt gaan, drukt u op de WISSEN-knop onder aan dit scherm, anders d
         transaction. You need to create a Comma Separated Variable (CSV) or Tab
         Separated Variable (TSV) file with the fields laid out as shown in the example
         below. You then submit this file, which is checked for errors before presenting
-        you with the option to save the QSOs to your database. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" />You can mix activation records,
-        chaser records and S2S (summit to summit) records all in the same file.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" />
+        you with the option to save the QSOs to your database. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>You can mix activation records,
+        chaser records and S2S (summit to summit) records all in the same file.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
         You can include multiple activations in this file but all records for each activation must be together.
         Each activation is deemed to end when the [My Summit] reference changes. If you
-        activate the same summit on several days you must upload each activation in a separate file<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" /> otherwise
-        the file will be assumed to only contain a single activation.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" /></source>
+        activate the same summit on several days you must upload each activation in a separate file<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/> otherwise
+        the file will be assumed to only contain a single activation.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+
+                 </source>
         <target state="new">Met deze functie kunt u een groot aantal QSO's in één keer uploaden. 
 		Je moet een door komma's gescheiden variabele (CSV) of Tab Separated Variable (TSV) -bestand maken met de velden die zijn ingedeeld zoals in het voorbeeld
-         hieronder. Vervolgens upload je dit bestand, dat op fouten wordt gecontroleerd en dan de optie geeft om de QSO's in uw database op te slaan. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" />You can mix activation records,
-        jager records en S2S (summit to summit) records allemaal in hetzelfde bestand.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" />
+         hieronder. Vervolgens upload je dit bestand, dat op fouten wordt gecontroleerd en dan de optie geeft om de QSO's in uw database op te slaan. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>You can mix activation records,
+        jager records en S2S (summit to summit) records allemaal in hetzelfde bestand.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
         Je kan meerdere activaties in dit bestand opnemen, maar alle records voor elke activatie moeten bij elkaar zitten.
          Elke activatie wordt geacht te zijn beëindigd wanneer de [My Summit] -referentie verandert. als jij
-         dezelfde summit op meerdere dagen activeert moet u elke activatie in een apart bestand upgeload worden<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" /> anders wordt 
-         aangenomen dat het bestand slechts één activatie bevat.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" /></target>
+         dezelfde summit op meerdere dagen activeert moet u elke activatie in een apart bestand upgeload worden<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/> anders wordt 
+         aangenomen dat het bestand slechts één activatie bevat.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">4</context>
@@ -5363,20 +5675,18 @@ Als u verder wilt gaan, drukt u op de WISSEN-knop onder aan dit scherm, anders d
         </context-group>
       </trans-unit>
       <trans-unit id="csv8" datatype="html">
-        <source>
-          <x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;" />Field notes<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;" /></source>
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u>"/>Field notes<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u>"/></source>
         <target state="new">
-          <x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;" />Veld nota's<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;" /></target>
+          <x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u>"/>Veld nota's<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u>"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">50</context>
         </context-group>
       </trans-unit>
       <trans-unit id="csvField" datatype="html">
-        <source>
-          <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Field<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /></source>
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>Field<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/></source>
         <target state="new">
-          <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Veld<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /></target>
+          <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>Veld<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">54</context>
@@ -5391,9 +5701,9 @@ Als u verder wilt gaan, drukt u op de WISSEN-knop onder aan dit scherm, anders d
         </context-group>
       </trans-unit>
       <trans-unit id="csvCallsign" datatype="html">
-        <source>This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />
+        <source>This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
               used for the QSO. No spaces in the callsign please</source>
-        <target state="new">Dit is de roepnaam die <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />jij<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />
+        <target state="new">Dit is de roepnaam die <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>jij<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
               gebruikte voor het QSO. Geen spaties in de roepnaam aub</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
@@ -5450,10 +5760,10 @@ Als u verder wilt gaan, drukt u op de WISSEN-knop onder aan dit scherm, anders d
         </context-group>
       </trans-unit>
       <trans-unit id="csvOtherCall" datatype="html">
-        <source>The callsign of the <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG&gt;" />
-                station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG&gt;" />.  No spaces in the callsign please</source>
-        <target state="new">De roepnaam van het <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG&gt;" />
-                gewerkte station<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG&gt;" />.  Geen spaties in de roepnaam aub</target>
+        <source>The callsign of the <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
+                station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</source>
+        <target state="new">De roepnaam van het <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
+                gewerkte station<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  Geen spaties in de roepnaam aub</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">234</context>
@@ -5475,9 +5785,13 @@ Als u verder wilt gaan, drukt u op de WISSEN-knop onder aan dit scherm, anders d
       <trans-unit id="csvComments" datatype="html">
         <source>An optional field for
               recording short notes about the QSO. This could include the Operator's name and
-              location, Signal Report, QSL information, or almost anything else. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" /><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" />You can embed a TAB or comma in this field. If you do you must enclose the entire Notes field in double-quotes. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" /></source>
+              location, Signal Report, QSL information, or almost anything else. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+                            <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>You can embed a TAB or comma in this field. If you do you must enclose the entire Notes field in double-quotes. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+
+
+          </source>
         <target state="new">Een optioneel veld om korte aantekeningen te maken over het QSO. Dit kan de naam van de operator zijn en
-               locatie, signaalrapport, QSL-informatie of bijna alles anders. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" /><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" />You can embed a TAB or comma in this field. If you do you must enclose the entire Notes field in double-quotes. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" /></target>
+               locatie, signaalrapport, QSL-informatie of bijna alles anders. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>You can embed a TAB or comma in this field. If you do you must enclose the entire Notes field in double-quotes. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">254</context>
@@ -5884,8 +6198,8 @@ Je staat op het punt het record van de onderstaande activerings-QSO permanent te
         </context-group>
       </trans-unit>
       <trans-unit id="activatorDeleteResult2" datatype="html">
-        <source>You cannot delete this Activation.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}" /></source>
-        <target state="new">Je kan deze activatie niet verwijderen. De ontvangen fout was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}" /></target>
+        <source>You cannot delete this Activation.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
+        <target state="new">Je kan deze activatie niet verwijderen. De ontvangen fout was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">2</context>
@@ -5909,6 +6223,10 @@ Je staat op het punt het record van de onderstaande activerings-QSO permanent te
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">22</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Welcome" datatype="html">
@@ -5992,8 +6310,8 @@ Challenge Data: 15 mei 2015 tot 14 augustus 2015 en 14 november 2015 tot 13 febr
         </context-group>
       </trans-unit>
       <trans-unit id="610Multipliers" datatype="html">
-        <source> 6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />Multipliers </source>
-        <target state="new"> 6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />Multipliers </target>
+        <source> 6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Multipliers </source>
+        <target state="new"> 6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Multipliers </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
           <context context-type="linenumber">24</context>
@@ -6051,9 +6369,9 @@ Challenge Data: 15 mei 2015 tot 14 augustus 2015 en 14 november 2015 tot 13 febr
       </trans-unit>
       <trans-unit id="adifUpInst2" datatype="html">
         <source>
-	If you are unsure what an ADIF file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> data entry page instead.</source>
+	If you are unsure what an ADIF file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source>
         <target state="new">
-	Als je niet zeker weet wat een ADIF-bestand is, gebruik dan de <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />normale <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> gegevensinvoerpagina.</target>
+	Als je niet zeker weet wat een ADIF-bestand is, gebruik dan de <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normale <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> gegevensinvoerpagina.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">22</context>
@@ -6197,6 +6515,38 @@ Challenge Data: 15 mei 2015 tot 14 augustus 2015 en 14 november 2015 tot 13 febr
         <context-group purpose="location">
           <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="BackToSWLLog" datatype="html">
+        <source>Back to SWL Log</source>
+        <target state="new">Back to SWL Log</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deleteSWL" datatype="html">
+        <source>
+You are about to permanently delete the record of the SWL contact below. This cannot be undone.
+</source>
+        <target state="new">
+You are about to permanently delete the record of the SWL contact below. This cannot be undone.
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="NoSuchActivation" datatype="html">
+        <source>There is no such activation with that ID, or you are not permitted to edit it as it is not your activation</source>
+        <target state="new">There is no such activation with that ID, or you are not permitted to edit it as it is not your activation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/edit-activation/edit-activation.component.html</context>
+          <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit>
     </body>

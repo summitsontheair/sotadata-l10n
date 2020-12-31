@@ -2,12 +2,276 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="en" datatype="plaintext" original="ng2.template" target-language="fr">
     <body>
+      <trans-unit id="ngb.alert.close" datatype="html">
+        <source>Close</source>
+        <target state="new">Close</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/alert/alert.d.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.previous" datatype="html">
+        <source>Previous</source>
+        <target state="new">Previous</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.d.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.carousel.next" datatype="html">
+        <source>Next</source>
+        <target state="new">Next</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.d.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.previous-month" datatype="html">
+        <source>Previous month</source>
+        <target state="new">Previous month</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.d.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.d.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.next-month" datatype="html">
+        <source>Next month</source>
+        <target state="new">Next month</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.d.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.d.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.select-month" datatype="html">
+        <source>Select month</source>
+        <target state="new">Select month</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.d.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.d.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.datepicker.select-year" datatype="html">
+        <source>Select year</source>
+        <target state="new">Select year</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.d.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.d.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.first" datatype="html">
+        <source>««</source>
+        <target state="new">««</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.previous" datatype="html">
+        <source>«</source>
+        <target state="new">«</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.next" datatype="html">
+        <source>»</source>
+        <target state="new">»</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.last" datatype="html">
+        <source>»»</source>
+        <target state="new">»»</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.first-aria" datatype="html">
+        <source>First</source>
+        <target state="new">First</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.previous-aria" datatype="html">
+        <source>Previous</source>
+        <target state="new">Previous</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.next-aria" datatype="html">
+        <source>Next</source>
+        <target state="new">Next</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.pagination.last-aria" datatype="html">
+        <source>Last</source>
+        <target state="new">Last</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.progressbar.value" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{getValue() / max | percent}}"/></source>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{getValue() / max | percent}}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar.d.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-hours" datatype="html">
+        <source>Increment hours</source>
+        <target state="new">Increment hours</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.HH" datatype="html">
+        <source>HH</source>
+        <target state="new">HH</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.hours" datatype="html">
+        <source>Hours</source>
+        <target state="new">Hours</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-hours" datatype="html">
+        <source>Decrement hours</source>
+        <target state="new">Decrement hours</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-minutes" datatype="html">
+        <source>Increment minutes</source>
+        <target state="new">Increment minutes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.MM" datatype="html">
+        <source>MM</source>
+        <target state="new">MM</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.minutes" datatype="html">
+        <source>Minutes</source>
+        <target state="new">Minutes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-minutes" datatype="html">
+        <source>Decrement minutes</source>
+        <target state="new">Decrement minutes</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.increment-seconds" datatype="html">
+        <source>Increment seconds</source>
+        <target state="new">Increment seconds</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.SS" datatype="html">
+        <source>SS</source>
+        <target state="new">SS</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.seconds" datatype="html">
+        <source>Seconds</source>
+        <target state="new">Seconds</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.decrement-seconds" datatype="html">
+        <source>Decrement seconds</source>
+        <target state="new">Decrement seconds</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.PM" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ i18n.getAfternoonPeriod() }}"/></source>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{ i18n.getAfternoonPeriod() }}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.timepicker.AM" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ i18n.getMorningPeriod() }}"/></source>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{ i18n.getMorningPeriod() }}"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ngb.toast.close-aria" datatype="html">
+        <source>Close</source>
+        <target state="new">Close</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/toast/toast.d.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="MainTitle" datatype="html">
         <source>SOTA Results and Summits Database</source>
         <target state="new">SOTA Base de données Resultats et Sommets</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
-          <context context-type="linenumber">9</context>
+          <context context-type="linenumber">2</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Menu" datatype="html">
@@ -551,7 +815,7 @@ Bienvenue dans base de données SOTA.
 Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
 </source>
         <target state="new">
-Summits on the Air  (SOTA) est un programme qui encourage les radioamateurs qui aiment la marche en montagne et le grand air à emporter avec eux leur radio et à opérer depuis les sommets des montagnes.
+Summits on the Air  (SOTA) est un programme qui encourage les radioamateurs qui aiment la marche en montagne et le grand air, à emporter avec eux leur radio et à opérer depuis les sommets des montagnes.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -1458,6 +1722,10 @@ Aidez-nous à maintenir cette page à jour en nous envoyant régulièrement vos 
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">51</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">31</context>
         </context-group>
       </trans-unit>
       <trans-unit id="AllModes" datatype="html">
@@ -2392,7 +2660,7 @@ Vous pouvez utiliser cette page pour effectuer un téléchargement groupé de pl
       <trans-unit id="csvUp2" datatype="html">
         <source>If you have a large number of log entries you want to claim, this may be the fastest way of recording them
 </source>
-        <target state="new">Si vous avez un grand nombre d'entrées de journal que vous souhaitez réclamer, c'est peut-être le moyen le plus rapide de les enregistrer
+        <target state="new">Si vous souhaitez télécharger un grand nombre de lignes dans votre log, c'est peut-être le moyen le plus rapide de les enregistrer.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -2409,7 +2677,7 @@ If however you only have a dozen or less entries, it will probably be easier
 to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
 </source>
         <target state="new">
-Cependant, si vous n'avez qu'une douzaine d'entrées ou moins, il sera probablement plus facile d'utiliser le système normal de <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
+Cependant, si vous n'avez qu'une douzaine d'entrées ou moins, il sera probablement plus facile d'utiliser le système normal  <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -2793,6 +3061,10 @@ Le format de ce fichier est essentiel pour garantir l'enregistrement d'entrées 
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">55</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="Summit" datatype="html">
         <source> Summit </source>
@@ -2892,6 +3164,10 @@ Le format de ce fichier est essentiel pour garantir l'enregistrement d'entrées 
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit>
       <trans-unit id="OtherSummit" datatype="html">
@@ -3024,6 +3300,10 @@ Le format de ce fichier est essentiel pour garantir l'enregistrement d'entrées 
         <context-group purpose="location">
           <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">63</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">39</context>
         </context-group>
       </trans-unit>
       <trans-unit id="uploadVerify" datatype="html">
@@ -3275,6 +3555,10 @@ et d'un ajustement par les administrateurs des diplômes.
           <context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context>
           <context context-type="linenumber">22</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="Notes" datatype="html">
         <source>Notes</source>
@@ -3450,6 +3734,10 @@ et d'un ajustement par les administrateurs des diplômes.
         <context-group purpose="location">
           <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">62</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">38</context>
         </context-group>
       </trans-unit>
       <trans-unit id="SubmitLog" datatype="html">
@@ -5145,6 +5433,10 @@ Merci pour votre participation au programme SOTA
           <context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="deleteChaser" datatype="html">
         <source>
@@ -5185,6 +5477,10 @@ Si vous souhaitez continuer, appuyez sur le bouton DELETE en bas de cet écran, 
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="date" datatype="html">
         <source>Date:</source>
@@ -5205,6 +5501,10 @@ Si vous souhaitez continuer, appuyez sur le bouton DELETE en bas de cet écran, 
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">16</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="time" datatype="html">
         <source>Time:</source>
@@ -5219,6 +5519,10 @@ Si vous souhaitez continuer, appuyez sur le bouton DELETE en bas de cet écran, 
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
@@ -5257,6 +5561,10 @@ Si vous souhaitez continuer, appuyez sur le bouton DELETE en bas de cet écran, 
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">44</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="SOTAActivatorTSV/CSVfileformat" datatype="html">
         <source>SOTA Activator and Chaser TSV/CSV file format</source>
@@ -5275,7 +5583,8 @@ Si vous souhaitez continuer, appuyez sur le bouton DELETE en bas de cet écran, 
         chaser records and S2S (summit to summit) records all in the same file.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
         You can include multiple activations in this file but all records for each activation must be together.
         Each activation is deemed to end when the [My Summit] reference changes. If you
-        activate the same summit on several days you must upload each activation in a separate file<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/> 		otherwise the file will be assumed to only contain a single activation.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+        activate the same summit on several days you must upload each activation in a separate file<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/> otherwise
+        the file will be assumed to only contain a single activation.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
 
                  </source>
         <target state="new">Cette fonction vous permet de télécharger un grand nombre de QSO en une seule fois. Vous devez créer un fichier avec des variables séparées
@@ -5338,7 +5647,7 @@ Si vous souhaitez continuer, appuyez sur le bouton DELETE en bas de cet écran, 
       </trans-unit>
       <trans-unit id="csv5" datatype="html">
         <source>[V2] [My Callsign][My Summit] [Date] [Time]
-                [Band] [Mode] [HisEa Callsign][His Summit] [Notes or Comments]</source>
+                [Band] [Mode] [His Callsign][His Summit] [Notes or Comments]</source>
         <target state="new">[V2] [Mon indicatif] [Mon sommet] [Date] [Heure]
                 [Bande] [Mode] [Son indicatif] [Son sommet] [Notes ou commentaires]</target>
         <context-group purpose="location">
@@ -5920,6 +6229,10 @@ Vous êtes sur le point de supprimer définitivement l'enregistrement de l'activ
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
       </trans-unit>
       <trans-unit id="Welcome" datatype="html">
         <source>Welcome</source>
@@ -6065,7 +6378,7 @@ Dates hallenge : du 15 Mai 2015 tau 14 Août 2015 et du 14 Novembre 2015 au 13 F
         <source>
 	If you are unsure what an ADIF file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source>
         <target state="new">
-	Si vous ne savez pas ce qu'est un fichier ADIF, veuillez utiliser<x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> la page de saisie de données à la place.</target>
+	Si vous ne savez pas ce qu'est un fichier ADIF, veuillez utiliser la page de saisie de données à la place.<x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> la page de saisie de données à la place.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">22</context>
@@ -6209,6 +6522,38 @@ Dates hallenge : du 15 Mai 2015 tau 14 Août 2015 et du 14 Novembre 2015 au 13 F
         <context-group purpose="location">
           <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="BackToSWLLog" datatype="html">
+        <source>Back to SWL Log</source>
+        <target state="new">Back to SWL Log</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deleteSWL" datatype="html">
+        <source>
+You are about to permanently delete the record of the SWL contact below. This cannot be undone.
+</source>
+        <target state="new">
+You are about to permanently delete the record of the SWL contact below. This cannot be undone.
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="NoSuchActivation" datatype="html">
+        <source>There is no such activation with that ID, or you are not permitted to edit it as it is not your activation</source>
+        <target state="new">There is no such activation with that ID, or you are not permitted to edit it as it is not your activation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/edit-activation/edit-activation.component.html</context>
+          <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit>
     </body>
