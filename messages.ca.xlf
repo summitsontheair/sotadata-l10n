@@ -5848,7 +5848,7 @@ You are about to permanently delete the record of the activation below. This can
       </trans-unit>
       <trans-unit id="1st610mChaser" datatype="html">
         <source>First 6/10m Challenge Chaser Results</source>
-        <target state="new">First 6/10m Challenge Chaser Results</target>
+        <target state="new">Resultats del 1r Repte 6/10m</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
           <context context-type="linenumber">1</context>
@@ -5961,7 +5961,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="2020ChallengeChaserRoll" datatype="html">
         <source>2020 Challenge Chaser Roll</source>
-        <target state="new">2020 Challenge Chaser Roll</target>
+        <target state="new">2020 Llista de caçadors de Reptes</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context>
           <context context-type="linenumber">1</context>
@@ -6041,7 +6041,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="2020ChallengeActivatorRoll" datatype="html">
         <source>2020 Challenge Activator Roll</source>
-        <target state="new">2020 Challenge Activator Roll</target>
+        <target state="new">2020 Llista d'activadors de Reptes</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
           <context context-type="linenumber">1</context>
