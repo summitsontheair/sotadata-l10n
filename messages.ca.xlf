@@ -2219,7 +2219,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="NoResultsFound" datatype="html">
         <source>No results found</source>
-        <target state="new">No 'han trobat resultats</target>
+        <target state="new">No s'han trobat resultats</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">83</context>
