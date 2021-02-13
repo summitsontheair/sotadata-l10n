@@ -922,7 +922,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="AllAssociations" datatype="html">
         <source>All Associations</source>
-        <target state="new">All Associations</target>
+        <target state="new">Todas las Asociaciones</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">11</context>
@@ -1382,7 +1382,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Association" datatype="html">
         <source>Association</source>
-        <target state="new">Association</target>
+        <target state="new">Asociación</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">10</context>
@@ -2710,7 +2710,7 @@ del programa.
       </trans-unit>
       <trans-unit id="SelectAssociation" datatype="html">
         <source>Select Association</source>
-        <target state="new">Select Association</target>
+        <target state="new">Seleccione Asociación</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">11</context>
@@ -2746,7 +2746,7 @@ del programa.
       </trans-unit>
       <trans-unit id="Association(s)Activated" datatype="html">
         <source> Association(s) Activated </source>
-        <target state="new"> Association(s) Activated </target>
+        <target state="new"> Asociación(s) Activada(s) </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
           <context context-type="linenumber">26</context>
@@ -2806,7 +2806,7 @@ del programa.
       </trans-unit>
       <trans-unit id="ActivatedAssocsRegions" datatype="html">
         <source>Activated associations and regions</source>
-        <target state="new">Activated associations and regions</target>
+        <target state="new">Asociaciones y Regiones Activadas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">25</context>
@@ -2862,7 +2862,7 @@ del programa.
       </trans-unit>
       <trans-unit id="ChasedAssocsRegions" datatype="html">
         <source>Chased associations and regions</source>
-        <target state="new">Chased associations and regions</target>
+        <target state="new">Asociaciones y Regiones Cazadas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">106</context>
@@ -2894,7 +2894,7 @@ del programa.
       </trans-unit>
       <trans-unit id="MyChaserRegoins" datatype="html">
         <source>My Chased Regions</source>
-        <target state="new">My Chased Regions</target>
+        <target state="new">Mis Regiones Cazadas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-regions/my-chaser-regions.component.html</context>
           <context context-type="linenumber">1</context>
@@ -2914,7 +2914,7 @@ del programa.
       </trans-unit>
       <trans-unit id="MyActivatedSummits" datatype="html">
         <source> My Activated Summits </source>
-        <target state="new"> My Activated Summits </target>
+        <target state="new"> Mis Cimas Activadas </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-regions/my-activator-regions.component.html</context>
           <context context-type="linenumber">13</context>
@@ -2922,7 +2922,7 @@ del programa.
       </trans-unit>
       <trans-unit id="Distance" datatype="html">
         <source> Distance </source>
-        <target state="new"> Distance </target>
+        <target state="new"> Distancia </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">60</context>
@@ -2934,7 +2934,7 @@ del programa.
       </trans-unit>
       <trans-unit id="ChaserPoints" datatype="html">
         <source> ChaserPoints </source>
-        <target state="new"> ChaserPoints </target>
+        <target state="new"> Puntos de Cazador </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">64</context>
@@ -2946,7 +2946,7 @@ del programa.
       </trans-unit>
       <trans-unit id="ActivatorPoints" datatype="html">
         <source> Activator Points </source>
-        <target state="new"> Activator Points </target>
+        <target state="new"> Puntos de Activador </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">68</context>
@@ -2958,7 +2958,7 @@ del programa.
       </trans-unit>
       <trans-unit id="ChasedSummit" datatype="html">
         <source> Chased Summit </source>
-        <target state="new"> Chased Summit </target>
+        <target state="new"> Cima Cazada </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">80</context>
@@ -2970,7 +2970,7 @@ del programa.
       </trans-unit>
       <trans-unit id="ActivatedSummit" datatype="html">
         <source> Activated Summit </source>
-        <target state="new"> Activated Summit </target>
+        <target state="new"> Cima Activada </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">84</context>
@@ -3262,7 +3262,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="Average" datatype="html">
         <source> Average </source>
-        <target state="new"> Average </target>
+        <target state="new"> Promedio </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">65</context>
@@ -3274,7 +3274,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="ViewLog" datatype="html">
         <source> View Log </source>
-        <target state="new"> View Log </target>
+        <target state="new"> Ver Log </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">69</context>
@@ -3306,7 +3306,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="View" datatype="html">
         <source>View</source>
-        <target state="new">View</target>
+        <target state="new">Ver</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">70</context>
@@ -3342,7 +3342,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="NoResultsFound" datatype="html">
         <source>No results found</source>
-        <target state="new">No results found</target>
+        <target state="new">Sin resultados encontrados</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">83</context>
@@ -3390,7 +3390,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="DatabaseStatistics" datatype="html">
         <source>Database statistics</source>
-        <target state="new">Database statistics</target>
+        <target state="new">Estadísticas de Datos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">5</context>
@@ -3398,7 +3398,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="RegisteredUsers" datatype="html">
         <source>Registered Users</source>
-        <target state="new">Registered Users</target>
+        <target state="new">Usuarios Registrados</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">8</context>
@@ -3406,7 +3406,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="Associations" datatype="html">
         <source>Associations</source>
-        <target state="new">Associations</target>
+        <target state="new">Asociaciones</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">11</context>
@@ -3414,7 +3414,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="Regions" datatype="html">
         <source>Regions</source>
-        <target state="new">Regions</target>
+        <target state="new">Regiones</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">14</context>
@@ -3422,7 +3422,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="WebpageHits" datatype="html">
         <source>Webpage Hits since 10 Jan 2004</source>
-        <target state="new">Webpage Hits since 10 Jan 2004</target>
+        <target state="new">Visitas a la Web desde el 10 de enero de 2004</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">20</context>
@@ -3430,7 +3430,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="ActivatorStatistics" datatype="html">
         <source>Activator statistics</source>
-        <target state="new">Activator statistics</target>
+        <target state="new">Estadísticas de Activador</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">25</context>
@@ -3438,7 +3438,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="NumberActivators" datatype="html">
         <source>Number of Activators</source>
-        <target state="new">Number of Activators</target>
+        <target state="new">Número de Activatores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">28</context>
@@ -3446,7 +3446,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="ActivatedSummits" datatype="html">
         <source>Activated Summits</source>
-        <target state="new">Activated Summits</target>
+        <target state="new">Cimas Activadas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">31</context>
@@ -3454,7 +3454,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="NumberActivations" datatype="html">
         <source>Number of Activations</source>
-        <target state="new">Number of Activations</target>
+        <target state="new">Número de Activaciones</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">34</context>
@@ -3462,7 +3462,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="NumberQSOs" datatype="html">
         <source>Number of QSOs</source>
-        <target state="new">Number of QSOs</target>
+        <target state="new">Número de QSOs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">37</context>
@@ -3470,7 +3470,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="TotalActivatorPoints" datatype="html">
         <source>Total Activator Points</source>
-        <target state="new">Total Activator Points</target>
+        <target state="new">Puntos Totales de Activador</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">40</context>
@@ -3478,7 +3478,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="ActivatorQSOsByMode" datatype="html">
         <source>Activator QSOs by Mode</source>
-        <target state="new">Activator QSOs by Mode</target>
+        <target state="new">QSOs de Activador por Modo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">44</context>
@@ -3486,7 +3486,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="ActivatorQSOsByBand" datatype="html">
         <source>Activator QSOs by Band</source>
-        <target state="new">Activator QSOs by Band</target>
+        <target state="new">QSOs de Activador por Banda</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">52</context>
@@ -3494,7 +3494,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="Chasers" datatype="html">
         <source>Chasers</source>
-        <target state="new">Chasers</target>
+        <target state="new">Cazadores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">61</context>
@@ -3502,7 +3502,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="NumberOfChasers" datatype="html">
         <source>Number of Chasers</source>
-        <target state="new">Number of Chasers</target>
+        <target state="new">Número de Cazadores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">64</context>
@@ -3510,7 +3510,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="ChaserActivators" datatype="html">
         <source>Chasers who are also activators</source>
-        <target state="new">Chasers who are also activators</target>
+        <target state="new">Cazadores que también son Activadores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">67</context>
@@ -3518,7 +3518,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="NumberChaserContacts" datatype="html">
         <source>Number of Chaser Contacts</source>
-        <target state="new">Number of Chaser Contacts</target>
+        <target state="new">Número de Contactos de Cazador</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">70</context>
@@ -3526,7 +3526,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="TotalChaserPoints" datatype="html">
         <source>Total Chaser Points</source>
-        <target state="new">Total Chaser Points</target>
+        <target state="new">Puntos Totales de Cazador</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">73</context>
@@ -3534,7 +3534,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="S2S" datatype="html">
         <source>Summit to Summit</source>
-        <target state="new">Summit to Summit</target>
+        <target state="new">Cima a Cima</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">78</context>
@@ -3546,7 +3546,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="S2SContacts" datatype="html">
         <source>Summit to Summit Contacts</source>
-        <target state="new">Summit to Summit Contacts</target>
+        <target state="new">Contactos Cima a Cima</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">81</context>
@@ -3554,7 +3554,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="S2SPoints" datatype="html">
         <source>Summit to Summit Points</source>
-        <target state="new">Summit to Summit Points</target>
+        <target state="new">Puntos Cima a Cima</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">84</context>
@@ -3562,7 +3562,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="ActivatorCallsign" datatype="html">
         <source> Activator Callsign </source>
-        <target state="new"> Activator Callsign </target>
+        <target state="new"> Indicativo de Activador </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
           <context context-type="linenumber">53</context>
@@ -3626,7 +3626,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="MySummitDetails" datatype="html">
         <source>My summit details</source>
-        <target state="new">My summit details</target>
+        <target state="new">Detalles de mi Cima</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
           <context context-type="linenumber">106</context>
@@ -3637,7 +3637,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
 Thank you for participating in SOTA
 </source>
         <target state="new">
-Thank you for participating in SOTA
+Gracias por participar en SOTA
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
@@ -3654,7 +3654,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="AddAnother" datatype="html">
         <source>Add another</source>
-        <target state="new">Add another</target>
+        <target state="new">Agregar otro</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
           <context context-type="linenumber">167</context>
@@ -3662,7 +3662,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Last6Months" datatype="html">
         <source>Last 6 Months</source>
-        <target state="new">Last 6 Months</target>
+        <target state="new">Últimos 6 Meses</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">13</context>
@@ -3714,7 +3714,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Last12Months" datatype="html">
         <source>Last 12 Months</source>
-        <target state="new">Last 12 Months</target>
+        <target state="new">Últimos 12 Meses</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">15</context>
@@ -5146,7 +5146,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Region" datatype="html">
         <source>Region</source>
-        <target state="new">Region</target>
+        <target state="new">Región</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">18</context>
@@ -5186,7 +5186,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="SelectRegion" datatype="html">
         <source>Select Region</source>
-        <target state="new">Select Region</target>
+        <target state="new">Seleccione la Región</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">22</context>
@@ -5242,7 +5242,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="RegionName" datatype="html">
         <source>Region Name: </source>
-        <target state="new">Region Name: </target>
+        <target state="new">Nombre de Región: </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">27</context>
@@ -5250,7 +5250,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="RegionCode" datatype="html">
         <source>Region Code: </source>
-        <target state="new">Region Code: </target>
+        <target state="new">Código de Región: </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">28</context>
@@ -5266,7 +5266,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="RegionManager" datatype="html">
         <source>Region Manager:</source>
-        <target state="new">Region Manager:</target>
+        <target state="new">Manager de Región:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">31</context>
@@ -5282,7 +5282,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="RegionMap" datatype="html">
         <source>Region Map</source>
-        <target state="new">Region Map</target>
+        <target state="new">Mapa de Region</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">36</context>
@@ -6253,7 +6253,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="AssociationCode" datatype="html">
         <source> Association Code </source>
-        <target state="new"> Association Code </target>
+        <target state="new"> Código de Asociación </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
           <context context-type="linenumber">12</context>
