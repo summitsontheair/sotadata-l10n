@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="ngb.alert.close" datatype="html">
         <source>Close</source>
-        <target state="new">Close</target>
+        <target state="new">Cerrar</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/alert/alert.d.ts</context>
           <context context-type="linenumber">3</context>
@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="ngb.carousel.previous" datatype="html">
         <source>Previous</source>
-        <target state="new">Previous</target>
+        <target state="new">Previo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.d.ts</context>
           <context context-type="linenumber">13</context>
@@ -20,7 +20,7 @@
       </trans-unit>
       <trans-unit id="ngb.carousel.next" datatype="html">
         <source>Next</source>
-        <target state="new">Next</target>
+        <target state="new">Siguiente</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.d.ts</context>
           <context context-type="linenumber">17</context>
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="ngb.datepicker.previous-month" datatype="html">
         <source>Previous month</source>
-        <target state="new">Previous month</target>
+        <target state="new">Mes previo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.d.ts</context>
           <context context-type="linenumber">4</context>
@@ -40,7 +40,7 @@
       </trans-unit>
       <trans-unit id="ngb.datepicker.next-month" datatype="html">
         <source>Next month</source>
-        <target state="new">Next month</target>
+        <target state="new">Mes siguiente</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.d.ts</context>
           <context context-type="linenumber">26</context>
@@ -52,7 +52,7 @@
       </trans-unit>
       <trans-unit id="ngb.datepicker.select-month" datatype="html">
         <source>Select month</source>
-        <target state="new">Select month</target>
+        <target state="new">Seleccione mes</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.d.ts</context>
           <context context-type="linenumber">5</context>
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="ngb.datepicker.select-year" datatype="html">
         <source>Select year</source>
-        <target state="new">Select year</target>
+        <target state="new">Seleccione año</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.d.ts</context>
           <context context-type="linenumber">13</context>
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="ngb.pagination.first-aria" datatype="html">
         <source>First</source>
-        <target state="new">First</target>
+        <target state="new">Primer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
           <context context-type="linenumber">14</context>
@@ -116,7 +116,7 @@
       </trans-unit>
       <trans-unit id="ngb.pagination.previous-aria" datatype="html">
         <source>Previous</source>
-        <target state="new">Previous</target>
+        <target state="new">Previo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
           <context context-type="linenumber">24</context>
@@ -124,7 +124,7 @@
       </trans-unit>
       <trans-unit id="ngb.pagination.next-aria" datatype="html">
         <source>Next</source>
-        <target state="new">Next</target>
+        <target state="new">Siguiente</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
           <context context-type="linenumber">44</context>
@@ -132,7 +132,7 @@
       </trans-unit>
       <trans-unit id="ngb.pagination.last-aria" datatype="html">
         <source>Last</source>
-        <target state="new">Last</target>
+        <target state="new">Último</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts</context>
           <context context-type="linenumber">53</context>
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.increment-hours" datatype="html">
         <source>Increment hours</source>
-        <target state="new">Increment hours</target>
+        <target state="new">Aumentar horas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
           <context context-type="linenumber">9</context>
@@ -164,7 +164,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.hours" datatype="html">
         <source>Hours</source>
-        <target state="new">Hours</target>
+        <target state="new">Horas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
           <context context-type="linenumber">15</context>
@@ -172,7 +172,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.decrement-hours" datatype="html">
         <source>Decrement hours</source>
-        <target state="new">Decrement hours</target>
+        <target state="new">Disminuir horas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
           <context context-type="linenumber">23</context>
@@ -180,7 +180,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.increment-minutes" datatype="html">
         <source>Increment minutes</source>
-        <target state="new">Increment minutes</target>
+        <target state="new">Aumentar minutos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
           <context context-type="linenumber">32</context>
@@ -196,7 +196,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.minutes" datatype="html">
         <source>Minutes</source>
-        <target state="new">Minutes</target>
+        <target state="new">Minutos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
           <context context-type="linenumber">37</context>
@@ -204,7 +204,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.decrement-minutes" datatype="html">
         <source>Decrement minutes</source>
-        <target state="new">Decrement minutes</target>
+        <target state="new">Disminuir minutos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
           <context context-type="linenumber">45</context>
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.increment-seconds" datatype="html">
         <source>Increment seconds</source>
-        <target state="new">Increment seconds</target>
+        <target state="new">Aumentar segundos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
           <context context-type="linenumber">54</context>
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.seconds" datatype="html">
         <source>Seconds</source>
-        <target state="new">Seconds</target>
+        <target state="new">Segundos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
           <context context-type="linenumber">59</context>
@@ -236,7 +236,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.decrement-seconds" datatype="html">
         <source>Decrement seconds</source>
-        <target state="new">Decrement seconds</target>
+        <target state="new">Disminuir segundos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts</context>
           <context context-type="linenumber">67</context>
@@ -260,7 +260,7 @@
       </trans-unit>
       <trans-unit id="ngb.toast.close-aria" datatype="html">
         <source>Close</source>
-        <target state="new">Close</target>
+        <target state="new">Cerrar</target>
         <context-group purpose="location">
           <context context-type="sourcefile">../node_modules/@ng-bootstrap/ng-bootstrap/toast/toast.d.ts</context>
           <context context-type="linenumber">8</context>
@@ -292,7 +292,7 @@
       </trans-unit>
       <trans-unit id="UserAccount" datatype="html">
         <source>User Account</source>
-        <target state="new">User Account</target>
+        <target state="new">Cuenta de Usuario</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">13</context>
@@ -300,7 +300,7 @@
       </trans-unit>
       <trans-unit id="Login" datatype="html">
         <source>Login</source>
-        <target>Login</target>
+        <target>Ingresar</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">32</context>
@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="UpdateProfile" datatype="html">
         <source>Update Profile</source>
-        <target state="new">Update Profile</target>
+        <target state="new">Actualizar Perfil</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">36</context>
@@ -416,7 +416,7 @@
       </trans-unit>
       <trans-unit id="ChaserUniques" datatype="html">
         <source>Chaser Uniques</source>
-        <target>Cazador Unicos</target>
+        <target>Cazador Únicos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">57</context>
@@ -524,7 +524,7 @@
       </trans-unit>
       <trans-unit id="2020SOTAChallengeActivator" datatype="html">
         <source>2020 SOTA Challenge Activator Roll of Honour</source>
-        <target state="new">2020 SOTA Challenge Activator Roll of Honour</target>
+        <target state="new">Cuadro de Honor Activador SOTA 2020</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">95</context>
@@ -532,7 +532,7 @@
       </trans-unit>
       <trans-unit id="2020SOTAChallengeChaser" datatype="html">
         <source>2020 SOTA Challenge Chaser Roll of Honour</source>
-        <target state="new">2020 SOTA Challenge Chaser Roll of Honour</target>
+        <target state="new">Cuadro de Honor Cazador SOTA 2020</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">98</context>
@@ -552,7 +552,7 @@
       </trans-unit>
       <trans-unit id="MyActivatorUniques" datatype="html">
         <source>My Activator Uniques</source>
-        <target>Mis Unicos Activados</target>
+        <target>Mis Únicos Activados</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">108</context>
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="MyChaserUniques" datatype="html">
         <source>My Chaser Uniques</source>
-        <target>Mis Unicos Cazados</target>
+        <target>Mis Únicos Cazados</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">120</context>
@@ -708,7 +708,7 @@
       </trans-unit>
       <trans-unit id="FindSummits" datatype="html">
         <source>Find summits</source>
-        <target>Buscar cimas</target>
+        <target>Buscar Cimas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">167</context>
@@ -728,7 +728,7 @@
       </trans-unit>
       <trans-unit id="RecentSummits" datatype="html">
         <source>Recently activated summits</source>
-        <target>Cimas Recientemente activadas</target>
+        <target>Cimas Recientemente Activadas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">175</context>
@@ -776,7 +776,7 @@
       </trans-unit>
       <trans-unit id="UploadADIF" datatype="html">
         <source>Upload ADIF log file</source>
-        <target state="new">Upload ADIF log file</target>
+        <target state="new">Subir Archivo Log ADIF</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">196</context>
@@ -788,7 +788,7 @@
       </trans-unit>
       <trans-unit id="ManageUploads" datatype="html">
         <source>Manage Uploads</source>
-        <target state="new">Manage Uploads</target>
+        <target state="new">Administrar Subidas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">200</context>
@@ -802,7 +802,7 @@
         <source>
 Welcome to the Worldwide Summits On The Air database service.
 </source>
-        <target>Bienvenido a la base de datos Mundial de Cimas en el Aire.</target>
+        <target>Bienvenido a la base de datos Mundial de Cimas en el Aire (SOTA).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">2</context>
@@ -812,7 +812,7 @@ Welcome to the Worldwide Summits On The Air database service.
         <source>
 Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
 </source>
-        <target>Cimas en el Aire es un programa que anima a los radio aficionados que disfrutan de la montaña y la naturaleza y operan la radio desde las cimas.</target>
+        <target>Cimas en el Aire (SOTA) es un programa que anima a los radioaficionados que disfrutan de la montaña y la naturaleza y operan la radio desde las cimas.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">5</context>
@@ -840,7 +840,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SOTACompetition" datatype="html">
         <source>SOTA is not inherently a competitive activity, it's about individual aspirations and working towards a goal at your own pace. However, it can be fun to see how your progress compares with that of others, hence we publish our Honour Roll on the internet.</source>
-        <target>SOTA no es en sí misma una actividad competitiva, se basa en fijarse aspiraciones y objetivos personales que se desean alcanzar conforme a su propio ritmo. Sin embargo, es divertido comparar sus progresos con los de otros, por ello se publican los Cuadros de Honor en internet.</target>
+        <target>SOTA no es en sí misma una actividad competitiva, se basa en fijarse aspiraciones y objetivos personales que se desean alcanzar conforme a su propio ritmo. Sin embargo, es divertido comparar sus progresos con los de otros, por ello se publican los Cuadros de Honor en la internet.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">3</context>
@@ -890,7 +890,7 @@ For more information about the SOTA program in your area, please see the main we
         <source>
 Please help us to keep this page up-to-date by regularly submitting your SOTA logs.</source>
         <target state="new">
-Please help us to keep this page up-to-date by regularly submitting your SOTA logs.</target>
+Por favor, ayúdenos a mantener esta página actualizada enviando regularmente sus registros SOTA. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">4</context>
@@ -970,7 +970,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="All" datatype="html">
         <source>All</source>
-        <target state="new">All</target>
+        <target state="new">Todas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">12</context>
@@ -1482,7 +1482,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Year" datatype="html">
         <source>Year</source>
-        <target state="new">Year</target>
+        <target state="new">Año</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">27</context>
@@ -1557,7 +1557,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
 You can use this page to perform a bulk upload of many Activator, Chaser and S2S Entries at
 once. This page is intended for more experienced users only.
 </source>
-        <target>Puede usar esta página para enviar un lote de varias entradas de Activador de golpe. Esta página es para usuarios avanzados.</target>
+        <target>Puede usar esta página para enviar un lote de varias entradas de Activador de una vez. Esta página es para usuarios avanzados.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">5</context>
@@ -1570,7 +1570,7 @@ once. This page is intended for more experienced users only.
       <trans-unit id="csvUp2" datatype="html">
         <source>If you have a large number of log entries you want to claim, this may be the fastest way of recording them
 </source>
-        <target>Si tiene un gran número de entradas de log que quiere compilar, esta puede ser la manera más rápida de grabarlas</target>
+        <target>Si tiene un gran número de entradas de log que quiere compilar, esta puede ser la manera más rápida de grabarlas.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">10</context>
@@ -1583,9 +1583,9 @@ once. This page is intended for more experienced users only.
       <trans-unit id="csvUp3" datatype="html">
         <source>
 If however you only have a dozen or less entries, it will probably be easier 
-to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
+to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/> Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
 </source>
-        <target>Pero si solo tiene una docena o menos de entradas, probablemente será más sencillo  usar la entrada normal<x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web page.</target>
+        <target>Pero si solo tiene una docena o menos de entradas, probablemente será más sencillo usar la entrada normal en la página <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Agregar Activación<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">13</context>
@@ -1615,7 +1615,7 @@ The format of this file is critical to ensure that correct log entries are recor
         <target>
 	Cree un fichero CSV o TSV que contenga todas sus entradas. Éstas pueden ser para cualquier número de activaciones. El fichero se puede generar usando un editor de textos como el
 Bloc de Notas, o se puede exportar de muchos otros programas, como el Microsoft Excel.
-El formato de este fichero es crítico para asegurar que se graben entradas de log correctas. Clic <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>aqui<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> para detalles del formato del fichero CSV que se requiere.</target>
+El formato de este fichero es crítico para asegurar que se graben entradas de log correctas. Clic <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>aquí<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> para detalles del formato del fichero CSV que se requiere.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">20</context>
@@ -1624,7 +1624,7 @@ El formato de este fichero es crítico para asegurar que se graben entradas de l
       <trans-unit id="csvUpInst2" datatype="html">
         <source>
 	If you are unsure what a CSV or TSV file is, please use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>chaser<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source>
-        <target>Si no sabe que es un fichero CSV o TSV, por favor use el <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> entrada de datos en su lugar.</target>
+        <target>Si no sabe que es un fichero CSV o TSV, por favor use la entrada de datos <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> en su lugar.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">24</context>
@@ -1634,7 +1634,7 @@ El formato de este fichero es crítico para asegurar que se graben entradas de l
         <source>
 	Press the Browse button below and select the CSV or TSV file on your hard drive
    </source>
-        <target>Pulse el botón de Navegación debajo y seleccione el fichero CSV o TSV de su disco duro</target>
+        <target>Pulse el botón de Seleccionar Archivo debajo y seleccione el fichero CSV o TSV de su disco duro</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">26</context>
@@ -1643,7 +1643,7 @@ El formato de este fichero es crítico para asegurar que se graben entradas de l
       <trans-unit id="csvUpInst4" datatype="html">
         <source>
 	Press the Upload File button on the bottom of this screen to transfer the file to our server and begin processing it. This may take a few seconds. Please be patient!</source>
-        <target>Pulse el botón de Subir fichero al final de esta pantalla para transferir el fichero a nuestro servidor y comenzar a procesarlo. La operación puede llevar varios segundos. ¡Sea paciente!</target>
+        <target>Pulse el botón de Subir Archivo al final de esta pantalla para transferir el fichero a nuestro servidor y comenzar a procesarlo. La operación puede llevar varios segundos. ¡Sea paciente!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">29</context>
@@ -1655,7 +1655,7 @@ El formato de este fichero es crítico para asegurar que se graben entradas de l
       </trans-unit>
       <trans-unit id="selectCSV" datatype="html">
         <source>Select CSV File:</source>
-        <target>Seleccione el fichero CSV:</target>
+        <target>Seleccione el Archivo CSV:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">34</context>
@@ -2007,7 +2007,7 @@ El formato de este fichero es crítico para asegurar que se graben entradas de l
       </trans-unit>
       <trans-unit id="Modes" datatype="html">
         <source>Modes</source>
-        <target state="new">Modes</target>
+        <target state="new">Modos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">38</context>
@@ -2047,7 +2047,7 @@ El formato de este fichero es crítico para asegurar que se graben entradas de l
       </trans-unit>
       <trans-unit id="Position" datatype="html">
         <source> Position </source>
-        <target state="new"> Position </target>
+        <target state="new"> Posición </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">49</context>
@@ -2103,7 +2103,7 @@ El formato de este fichero es crítico para asegurar que se graben entradas de l
       </trans-unit>
       <trans-unit id="ChaserCallsign" datatype="html">
         <source> Chaser Callsign </source>
-        <target state="new"> Chaser Callsign </target>
+        <target state="new"> Indicativo de Cazador </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">53</context>
@@ -2127,7 +2127,7 @@ El formato de este fichero es crítico para asegurar que se graben entradas de l
       </trans-unit>
       <trans-unit id="ActivatorsWorked" datatype="html">
         <source> Activators Worked </source>
-        <target state="new"> Activators Worked </target>
+        <target state="new"> Activatores Trabajados </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">57</context>
@@ -2455,7 +2455,7 @@ El formato de este fichero es crítico para asegurar que se graben entradas de l
       </trans-unit>
       <trans-unit id="UniqueSummits" datatype="html">
         <source> Unique Summits </source>
-        <target state="new"> Unique Summits </target>
+        <target state="new"> Cimas Únicas </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">57</context>
@@ -2467,7 +2467,7 @@ El formato de este fichero es crítico para asegurar que se graben entradas de l
       </trans-unit>
       <trans-unit id="TotalSummits" datatype="html">
         <source> Total Summits </source>
-        <target state="new"> Total Summits </target>
+        <target state="new"> Cimas Totales </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">61</context>
@@ -2487,7 +2487,7 @@ El formato de este fichero es crítico para asegurar que se graben entradas de l
       </trans-unit>
       <trans-unit id="PercentUnique" datatype="html">
         <source> Percent Unique </source>
-        <target state="new"> Percent Unique </target>
+        <target state="new"> Porcentaje Único </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">65</context>
@@ -2531,7 +2531,7 @@ El formato de este fichero es crítico para asegurar que se graben entradas de l
       </trans-unit>
       <trans-unit id="uploadError" datatype="html">
         <source>There are errors in your file - please correct them and try again</source>
-        <target>Hay errores en su fichero - por favor, corrija e intente de nuevo</target>
+        <target>Hay errores en su fichero - por favor, corrija e intente de nuevo.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">96</context>
@@ -2583,7 +2583,7 @@ El formato de este fichero es crítico para asegurar que se graben entradas de l
       </trans-unit>
       <trans-unit id="uploadVerify" datatype="html">
         <source>Please verify the uploaded details and click Submit when ready</source>
-        <target>Por favor, verifique los detalles y pulse Enviar cuando esté correcto</target>
+        <target>Por favor, verifique los detalles y pulse Enviar cuando esté correcto.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">100</context>
@@ -2762,7 +2762,7 @@ del programa.
       </trans-unit>
       <trans-unit id="ActivationStatistics" datatype="html">
         <source>Activation Statistics</source>
-        <target state="new">Activation Statistics</target>
+        <target state="new">Estadísticas de Activación</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">2</context>
@@ -2770,7 +2770,7 @@ del programa.
       </trans-unit>
       <trans-unit id="Score" datatype="html">
         <source>Score</source>
-        <target state="new">Score</target>
+        <target state="new">Puntaje</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">5</context>
@@ -2782,7 +2782,7 @@ del programa.
       </trans-unit>
       <trans-unit id="TotalSummitsActivated" datatype="html">
         <source>Total summits activated</source>
-        <target state="new">Total summits activated</target>
+        <target state="new">Cimas Totales Activadas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">8</context>
@@ -2790,7 +2790,7 @@ del programa.
       </trans-unit>
       <trans-unit id="UniqueSummitsActivated" datatype="html">
         <source>Unique summits activated</source>
-        <target state="new">Unique summits activated</target>
+        <target state="new">Cimas Únicas Activadas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">11</context>
@@ -2798,7 +2798,7 @@ del programa.
       </trans-unit>
       <trans-unit id="ActivatorCallsignsUsed" datatype="html">
         <source> Activator Callsigns Used </source>
-        <target state="new"> Activator Callsigns Used </target>
+        <target state="new"> Indicativo de Activador Usado </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">17</context>
@@ -2814,7 +2814,7 @@ del programa.
       </trans-unit>
       <trans-unit id="TotalDiffChasers" datatype="html">
         <source>Total different chaser callsigns worked as activator</source>
-        <target state="new">Total different chaser callsigns worked as activator</target>
+        <target state="new">Total de indicativos de diferentes cazadores trabajados como activador</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">42</context>
@@ -2822,7 +2822,7 @@ del programa.
       </trans-unit>
       <trans-unit id="MyTopActivatedSummits" datatype="html">
         <source>My top activated summits</source>
-        <target state="new">My top activated summits</target>
+        <target state="new">Mis cimas principales activadas </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">45</context>
@@ -2830,7 +2830,7 @@ del programa.
       </trans-unit>
       <trans-unit id="MyTopActivationChasers" datatype="html">
         <source>My top activation chasers</source>
-        <target state="new">My top activation chasers</target>
+        <target state="new">Mis principales cazadores de activación </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">69</context>
@@ -2838,7 +2838,7 @@ del programa.
       </trans-unit>
       <trans-unit id="ChaserStatistics" datatype="html">
         <source>Chaser Statistics</source>
-        <target state="new">Chaser Statistics</target>
+        <target state="new">Estadísticas de cazador</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">90</context>
@@ -2846,7 +2846,7 @@ del programa.
       </trans-unit>
       <trans-unit id="ChaserScore" datatype="html">
         <source>Chaser Score</source>
-        <target state="new">Chaser Score</target>
+        <target state="new">Puntaje de cazador</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">93</context>
@@ -2854,7 +2854,7 @@ del programa.
       </trans-unit>
       <trans-unit id="ChaserCallsignsUsed" datatype="html">
         <source> Chaser Callsigns Used </source>
-        <target state="new"> Chaser Callsigns Used </target>
+        <target state="new"> Indicativos usados de cazador </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">99</context>
@@ -2870,7 +2870,7 @@ del programa.
       </trans-unit>
       <trans-unit id="TotalDiffActivators" datatype="html">
         <source>Total different activator callsigns worked as chaser</source>
-        <target state="new">Total different activator callsigns worked as chaser</target>
+        <target state="new">Total de indicativos de diferentes activadores trabajados como cazador</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">121</context>
@@ -2878,7 +2878,7 @@ del programa.
       </trans-unit>
       <trans-unit id="MyTopChasedSummits" datatype="html">
         <source>My top chased summits</source>
-        <target state="new">My top chased summits</target>
+        <target state="new">Mis principales cimas cazadas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">122</context>
@@ -2886,7 +2886,7 @@ del programa.
       </trans-unit>
       <trans-unit id="MyTopChasedActivators" datatype="html">
         <source>My top chased activators</source>
-        <target state="new">My top chased activators</target>
+        <target state="new">Mis principales activadores cazados</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">146</context>
@@ -2902,7 +2902,7 @@ del programa.
       </trans-unit>
       <trans-unit id="%ageComplete" datatype="html">
         <source> %age Complete </source>
-        <target state="new"> %age Complete </target>
+        <target state="new"> Porcentaje Completo </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-regions/my-chaser-regions.component.html</context>
           <context context-type="linenumber">21</context>
@@ -4574,7 +4574,7 @@ Gracias por participar en SOTA
       </trans-unit>
       <trans-unit id="ChooseADate" datatype="html">
         <source>Choose a date</source>
-        <target state="new">Choose a date</target>
+        <target state="new">Elija una fecha</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">53</context>
@@ -6277,7 +6277,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="DateFirstChase" datatype="html">
         <source> Date of First Chase </source>
-        <target state="new"> Date of First Chase </target>
+        <target state="new"> Fecha de Primer Caza </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-uniques-show/chaser-uniques-show.component.html</context>
           <context context-type="linenumber">33</context>
@@ -6285,7 +6285,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="Choose" datatype="html">
         <source> Choose </source>
-        <target state="new"> Choose </target>
+        <target state="new"> Elija </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/generate-awards/generate-awards.component.html</context>
           <context context-type="linenumber">20</context>
@@ -6293,7 +6293,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="Distance(km)" datatype="html">
         <source> Distance (km) </source>
-        <target state="new"> Distance (km) </target>
+        <target state="new"> Distancia (km) </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context>
           <context context-type="linenumber">66</context>
@@ -6305,7 +6305,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="DownloadCompleteLog" datatype="html">
         <source>Download complete log</source>
-        <target state="new">Download complete log</target>
+        <target state="new">Descargue log completo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context>
           <context context-type="linenumber">82</context>
@@ -6315,7 +6315,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
         <source>
 	Export an ADIF file from your log program containing all your entries you would like to upload. These can be for any number of activations, but DO NOT upload your entire log - only export the entries for SOTA.</source>
         <target state="new">
-	Export an ADIF file from your log program containing all your entries you would like to upload. These can be for any number of activations, but DO NOT upload your entire log - only export the entries for SOTA.</target>
+	Exporte un archivo ADIF de su programa de registro que contenga todas las entradas que le gustaría cargar. Estos pueden ser para cualquier cantidad de activaciones, pero NO cargue su registro completo, solo exporte las entradas para SOTA. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">20</context>
@@ -6325,7 +6325,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
         <source>
 	If you are unsure what an ADIF file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source>
         <target state="new">
-	If you are unsure what an ADIF file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</target>
+	Si no está seguro de qué es un archivo ADIF, utilice la página de entrada de datos <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">22</context>
@@ -6336,7 +6336,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
 	Press the Browse button below and select the ADIF file on your hard drive
    </source>
         <target state="new">
-	Press the Browse button below and select the ADIF file on your hard drive
+	Si no está seguro de qué es un archivo ADIF, utilice el botón "Seleccionar archivo" a continuación y seleccione el archivo ADIF en su disco duro.
    </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
@@ -6345,7 +6345,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="selectADIF" datatype="html">
         <source>Select ADIF File:</source>
-        <target state="new">Select ADIF File:</target>
+        <target state="new">Seleccione Archivo ADIF:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">32</context>
@@ -6353,7 +6353,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="2020ChallengeChaserRoll" datatype="html">
         <source>2020 Challenge Chaser Roll</source>
-        <target state="new">2020 Challenge Chaser Roll</target>
+        <target state="new">Cuadro de Reto Cazador 2020</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context>
           <context context-type="linenumber">1</context>
@@ -6373,7 +6373,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="Datamodes" datatype="html">
         <source> Datamodes </source>
-        <target state="new"> Datamodes </target>
+        <target state="new"> Modo Datos </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context>
           <context context-type="linenumber">44</context>
@@ -6433,7 +6433,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="2020ChallengeActivatorRoll" datatype="html">
         <source>2020 Challenge Activator Roll</source>
-        <target state="new">2020 Challenge Activator Roll</target>
+        <target state="new">Cuadro de Reto Activador 2020</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
           <context context-type="linenumber">1</context>
@@ -6441,7 +6441,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="ChasersWorked" datatype="html">
         <source> Chasers Worked </source>
-        <target state="new"> Chasers Worked </target>
+        <target state="new"> Cazadores trabajados </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
           <context context-type="linenumber">32</context>
@@ -6449,7 +6449,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="ManageUploadsIntro" datatype="html">
         <source>This page will enable you to delete any upload you have made via CSV or ADIF after May 30, 2020.  By clicking on delete, all S2S, Chaser and Activator records for that upload will be deleted and can be reuploaded</source>
-        <target state="new">This page will enable you to delete any upload you have made via CSV or ADIF after May 30, 2020.  By clicking on delete, all S2S, Chaser and Activator records for that upload will be deleted and can be reuploaded</target>
+        <target state="new">Esta página le permitirá eliminar cualquier carga que haya realizado a través de CSV o ADIF después del 30 de mayo de 2020. Al hacer clic en eliminar, todos los registros de S2S, Cazador y Activador para esa carga se eliminarán y se podrán volver a cargar. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">3</context>
@@ -6457,7 +6457,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="Chases" datatype="html">
         <source>Chases</source>
-        <target state="new">Chases</target>
+        <target state="new">Cacerías</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">29</context>
@@ -6465,7 +6465,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="UploadDeleteAYS" datatype="html">
         <source>Are you sure you want to delete the following upload?</source>
-        <target state="new">Are you sure you want to delete the following upload?</target>
+        <target state="new">¿Está seguro de que desea eliminar la siguiente carga?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">47</context>
@@ -6473,7 +6473,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="BackToSWLLog" datatype="html">
         <source>Back to SWL Log</source>
-        <target state="new">Back to SWL Log</target>
+        <target state="new">Volver a Log SWL</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
           <context context-type="linenumber">3</context>
@@ -6488,7 +6488,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
 You are about to permanently delete the record of the SWL contact below. This cannot be undone.
 </source>
         <target state="new">
-You are about to permanently delete the record of the SWL contact below. This cannot be undone.
+Está a punto de eliminar permanentemente el registro del contacto SWL a continuación. Esto no se puede deshacer.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-swllog-delete/my-swllog-delete.component.html</context>
@@ -6497,7 +6497,7 @@ You are about to permanently delete the record of the SWL contact below. This ca
       </trans-unit>
       <trans-unit id="NoSuchActivation" datatype="html">
         <source>There is no such activation with that ID, or you are not permitted to edit it as it is not your activation</source>
-        <target state="new">There is no such activation with that ID, or you are not permitted to edit it as it is not your activation</target>
+        <target state="new">No existe tal activación con ese ID, o no se le permite editarlo ya que no es su activación.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/edit-activation/edit-activation.component.html</context>
           <context context-type="linenumber">9</context>
