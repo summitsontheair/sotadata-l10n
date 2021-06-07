@@ -3970,7 +3970,7 @@ Gracias por participar en SOTA
       </trans-unit>
       <trans-unit id="OwnCallsign" datatype="html">
         <source> Own Callsign </source>
-        <target state="new"> Own Callsign </target>
+        <target state="new"> Su Indicativo </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">41</context>
@@ -4022,7 +4022,7 @@ Gracias por participar en SOTA
       </trans-unit>
       <trans-unit id="ActivatorWorked" datatype="html">
         <source> Activator Worked </source>
-        <target state="new"> Activator Worked </target>
+        <target state="new"> Activador Trabajado </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">45</context>
@@ -4102,7 +4102,7 @@ Gracias por participar en SOTA
       </trans-unit>
       <trans-unit id="SummitName" datatype="html">
         <source> Summit Name </source>
-        <target state="new"> Summit Name </target>
+        <target state="new"> Nombre de cima </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">73</context>
@@ -4182,7 +4182,7 @@ Gracias por participar en SOTA
       </trans-unit>
       <trans-unit id="DeleteEntry" datatype="html">
         <source> Delete Entry </source>
-        <target state="new"> Delete Entry </target>
+        <target state="new"> Borrar Entrada </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">77</context>
@@ -5733,7 +5733,7 @@ You are about to permanently delete the record of the activation below. This can
       </trans-unit>
       <trans-unit id="ownCallsign" datatype="html">
         <source>Own Callsign:</source>
-        <target>Su propio Indicativo:</target>
+        <target state="new">Su Indicativo:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">19</context>
