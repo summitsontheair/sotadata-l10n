@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="MainTitle" datatype="html">
         <source>SOTA Results and Summits Database</source>
-        <target>SOTA Results and Summits Database</target>
+        <target>SOTA Rezultati i baze podataka vrhova</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">9</context>
@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="Menu" datatype="html">
         <source>Menu</source>
-        <target>Menu</target>
+        <target>Meni</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">3</context>
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="UserAccount" datatype="html">
         <source>User Account</source>
-        <target>User Account</target>
+        <target>Korisnički nalog</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">13</context>
@@ -36,7 +36,7 @@
       </trans-unit>
       <trans-unit id="ViewResults" datatype="html">
         <source>View Results</source>
-        <target>View Results</target>
+        <target>Rezultati</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">17</context>
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="Summits" datatype="html">
         <source>Summits</source>
-        <target>Summits</target>
+        <target>Vrhovi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">21</context>
@@ -76,7 +76,7 @@
       </trans-unit>
       <trans-unit id="SubmitLogs" datatype="html">
         <source>Submit Logs</source>
-        <target>Submit Logs</target>
+        <target>Pošalji dnevnik veza</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">25</context>
@@ -96,7 +96,7 @@
       </trans-unit>
       <trans-unit id="UpdateProfile" datatype="html">
         <source>Update Profile</source>
-        <target>Update Profile</target>
+        <target>Ažuriraj profil</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">36</context>
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="FactsAndFigures" datatype="html">
         <source>Facts and Figures</source>
-        <target>Facts and Figures</target>
+        <target>Činjenice i brojke</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">41</context>
@@ -116,7 +116,7 @@
       </trans-unit>
       <trans-unit id="ActivatorRollOfHonour" datatype="html">
         <source>Activator Roll of Honour</source>
-        <target>Activator Roll of Honour</target>
+        <target>Aktivatori - Rang lista</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">45</context>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="ActivatorUniques" datatype="html">
         <source>Activator Uniques</source>
-        <target>Activator Uniques</target>
+        <target>Aktivator - unique vrhovi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">49</context>
@@ -140,7 +140,7 @@
       </trans-unit>
       <trans-unit id="ChaserRollOfHonour" datatype="html">
         <source>Chaser Roll of Honour</source>
-        <target>Chaser Roll of Honour</target>
+        <target>Chaser - Rang lista</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">53</context>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="ChaserUniques" datatype="html">
         <source>Chaser Uniques</source>
-        <target>Chaser Uniques</target>
+        <target>Chaser - unique vrhovi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">57</context>
@@ -164,7 +164,7 @@
       </trans-unit>
       <trans-unit id="S2SRollOfHonour" datatype="html">
         <source>Summit to Summit Roll of Honour</source>
-        <target>Summit to Summit Roll of Honour</target>
+        <target>S2S Rang lista</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">61</context>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="SOTACompleteRoll" datatype="html">
         <source>SOTA Complete Roll of Honour</source>
-        <target>SOTA Complete Roll of Honour</target>
+        <target>SOTA - kompletna rang lista</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">65</context>
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="SWLRoll" datatype="html">
         <source>SWL Roll of Honour</source>
-        <target>SWL Roll of Honour</target>
+        <target>SWL Rang lista</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">69</context>
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="MyResults" datatype="html">
         <source>My Results</source>
-        <target>My Results</target>
+        <target>Moji Rezultati</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">77</context>
@@ -216,7 +216,7 @@
       </trans-unit>
       <trans-unit id="1st12mActivator" datatype="html">
         <source>1st 12m Challenge Activator Roll of Honour</source>
-        <target>1st 12m Challenge Activator Roll of Honour</target>
+        <target>1st 12m Challenge Rang lista</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">83</context>
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="1st12mChaser" datatype="html">
         <source>1st 12m Challenge Chaser Roll of Honour</source>
-        <target>1st 12m Challenge Chaser Roll of Honour</target>
+        <target>1st 12m Challenge Rang lista lovaca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">86</context>
@@ -240,7 +240,7 @@
       </trans-unit>
       <trans-unit id="1st610Activator" datatype="html">
         <source>1st 6m/10m Challenge Activator Roll of Honour</source>
-        <target>1st 6m/10m Challenge Activator Roll of Honour</target>
+        <target>1st 6m/10m Challenge Rang lista Aktivatora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">89</context>
@@ -252,7 +252,7 @@
       </trans-unit>
       <trans-unit id="1st610Chaser" datatype="html">
         <source>1st 6m/10m Challenge Chaser Roll of Honour</source>
-        <target>1st 6m/10m Challenge Chaser Roll of Honour</target>
+        <target>1st 6m/10m Challenge Rang lista Chasera</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">92</context>
@@ -260,7 +260,7 @@
       </trans-unit>
       <trans-unit id="2020SOTAChallengeActivator" datatype="html">
         <source>2020 SOTA Challenge Activator Roll of Honour</source>
-        <target>2020 SOTA Challenge Activator Roll of Honour</target>
+        <target>2020 SOTA Challenge Rang lista Aktivatora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">95</context>
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="2020SOTAChallengeChaser" datatype="html">
         <source>2020 SOTA Challenge Chaser Roll of Honour</source>
-        <target>2020 SOTA Challenge Chaser Roll of Honour</target>
+        <target>2020 SOTA Challenge Rang lista Chasera</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">98</context>
@@ -276,7 +276,7 @@
       </trans-unit>
       <trans-unit id="MyActivatorLog" datatype="html">
         <source>My Activator Log</source>
-        <target>My Activator Log</target>
+        <target>Moj aktivatorski Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">104</context>
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="MyActivatorUniques" datatype="html">
         <source>My Activator Uniques</source>
-        <target>My Activator Uniques</target>
+        <target>Moje unique aktivacije</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">108</context>
@@ -300,7 +300,7 @@
       </trans-unit>
       <trans-unit id="MyActivatorRegions" datatype="html">
         <source>My Activator Regions</source>
-        <target>My Activator Regions</target>
+        <target>Moji aktivirani regioni</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">112</context>
@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="MyChaserLog" datatype="html">
         <source>My Chaser Log</source>
-        <target>My Chaser Log</target>
+        <target>Moj Chaser Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">116</context>
@@ -324,7 +324,7 @@
       </trans-unit>
       <trans-unit id="MyChaserUniques" datatype="html">
         <source>My Chaser Uniques</source>
-        <target>My Chaser Uniques</target>
+        <target>Moj Chaser log ' unique vrhovi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">120</context>
@@ -336,7 +336,7 @@
       </trans-unit>
       <trans-unit id="MyChaserRegions" datatype="html">
         <source>My Chaser Regions</source>
-        <target>My Chaser Regions</target>
+        <target>Moje Chaser oblasti</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">124</context>
@@ -344,7 +344,7 @@
       </trans-unit>
       <trans-unit id="MyS2SLog" datatype="html">
         <source>My S2S Log</source>
-        <target>My S2S Log</target>
+        <target>Moj S2S Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">128</context>
@@ -356,7 +356,7 @@
       </trans-unit>
       <trans-unit id="MySOTAComplete" datatype="html">
         <source>My SOTA Complete Log</source>
-        <target>My SOTA Complete Log</target>
+        <target>Moj SOTA Completan Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">132</context>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="MyMicrowaveActivator" datatype="html">
         <source>My Microwave Activator Log</source>
-        <target>My Microwave Activator Log</target>
+        <target>Moj Mikrotalasni Aktivatorski Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">136</context>
@@ -376,7 +376,7 @@
       </trans-unit>
       <trans-unit id="MyMicrowaveChaser" datatype="html">
         <source>My Microwave Chaser Log</source>
-        <target>My Microwave Chaser Log</target>
+        <target>Moj Mikrotalasni Chaser Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">140</context>
@@ -388,7 +388,7 @@
       </trans-unit>
       <trans-unit id="MyMicrowaveS2S" datatype="html">
         <source>My Microwave S2S Log</source>
-        <target>My Microwave S2S Log</target>
+        <target>Moj Mikrotalasni S2S Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">144</context>
@@ -400,7 +400,7 @@
       </trans-unit>
       <trans-unit id="MySWLLog" datatype="html">
         <source>My SWL Log</source>
-        <target>My SWL Log</target>
+        <target>Moj SWL Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">148</context>
@@ -412,7 +412,7 @@
       </trans-unit>
       <trans-unit id="MyAwards" datatype="html">
         <source>My Awards</source>
-        <target>My Awards</target>
+        <target>Moje diplome</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">152</context>
@@ -424,7 +424,7 @@
       </trans-unit>
       <trans-unit id="MyStatistics" datatype="html">
         <source>My Statistics</source>
-        <target>My Statistics</target>
+        <target>Moja Statistika</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">156</context>
@@ -436,7 +436,7 @@
       </trans-unit>
       <trans-unit id="SummitList" datatype="html">
         <source>List of all summits</source>
-        <target>List of all summits</target>
+        <target>Lista svih vrhova</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">163</context>
@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="FindSummits" datatype="html">
         <source>Find summits</source>
-        <target>Find summits</target>
+        <target>Pronađi vrh</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">167</context>
@@ -452,7 +452,7 @@
       </trans-unit>
       <trans-unit id="PopularSummits" datatype="html">
         <source>Popular summits</source>
-        <target>Popular summits</target>
+        <target>Popularni vrhovi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">171</context>
@@ -464,7 +464,7 @@
       </trans-unit>
       <trans-unit id="RecentSummits" datatype="html">
         <source>Recently activated summits</source>
-        <target>Recently activated summits</target>
+        <target>Najčešće aktivirani vrhovi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">175</context>
@@ -476,7 +476,7 @@
       </trans-unit>
       <trans-unit id="SubmitActivator" datatype="html">
         <source>Submit Activator Entry</source>
-        <target>Submit Activator Entry</target>
+        <target>Dodaj nove veze kao aktivator</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">184</context>
@@ -488,7 +488,7 @@
       </trans-unit>
       <trans-unit id="SubmitChaserS2S" datatype="html">
         <source>Submit Chaser/S2S Entry</source>
-        <target>Submit Chaser/S2S Entry</target>
+        <target>Dodaj Chaser/S2S veze</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">188</context>
@@ -500,7 +500,7 @@
       </trans-unit>
       <trans-unit id="UploadCSV" datatype="html">
         <source>Upload CSV/TSV log file</source>
-        <target>Upload CSV/TSV log file</target>
+        <target>Pošalji CSV/TSV log fajl</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">192</context>
@@ -512,7 +512,7 @@
       </trans-unit>
       <trans-unit id="UploadADIF" datatype="html">
         <source>Upload ADIF log file</source>
-        <target>Upload ADIF log file</target>
+        <target>Pošalji ADIF log fajl</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">196</context>
@@ -524,7 +524,7 @@
       </trans-unit>
       <trans-unit id="ManageUploads" datatype="html">
         <source>Manage Uploads</source>
-        <target>Manage Uploads</target>
+        <target>Upravljaj svojim poslatim fajlovima</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">200</context>
@@ -572,7 +572,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SOTACompetition" datatype="html">
         <source>SOTA is not inherently a competitive activity, it's about individual aspirations and working towards a goal at your own pace. However, it can be fun to see how your progress compares with that of others, hence we publish our Honour Roll on the internet.</source>
-        <target>SOTA is not inherently a competitive activity, it's about individual aspirations and working towards a goal at your own pace. However, it can be fun to see how your progress compares with that of others, hence we publish our Honour Roll on the internet.</target>
+        <target>SOTA nije suštinski takmičarska aktivnost, već se odnosi na individualnu aktivnost i rad na ostvarivanju cilja svojim tempom. Međutim, može biti zabavno videti kako se vaš napredak upoređuje sa napretkom drugih, stoga objavljujemo našu rang listu na Internetu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">3</context>
@@ -652,7 +652,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="AllAssociations" datatype="html">
         <source>All Associations</source>
-        <target>All Associations</target>
+        <target>Sve nacionalne organizacije</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">11</context>
@@ -700,7 +700,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="All" datatype="html">
         <source>All</source>
-        <target>All</target>
+        <target>Sve</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">12</context>
@@ -1112,7 +1112,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Association" datatype="html">
         <source>Association</source>
-        <target>Association</target>
+        <target>Nacionalne organizacije</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">10</context>
@@ -1212,7 +1212,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Year" datatype="html">
         <source>Year</source>
-        <target>Year</target>
+        <target>Godina</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">27</context>
@@ -1284,7 +1284,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="AllBands" datatype="html">
         <source>All Bands</source>
-        <target>All Bands</target>
+        <target>Svi bandovi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">33</context>
@@ -1448,7 +1448,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="AllModes" datatype="html">
         <source>All Modes</source>
-        <target>All Modes</target>
+        <target>Sve vrste rada</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">39</context>
@@ -1488,7 +1488,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Modes" datatype="html">
         <source>Modes</source>
-        <target>Modes</target>
+        <target>Vrste rada</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">38</context>
@@ -1528,7 +1528,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Show" datatype="html">
         <source>Show</source>
-        <target>Show</target>
+        <target>Prikaži</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">43</context>
@@ -1624,7 +1624,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Position" datatype="html">
         <source> Position </source>
-        <target> Position </target>
+        <target> Pozicija </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">49</context>
@@ -1680,7 +1680,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ChaserCallsign" datatype="html">
         <source> Chaser Callsign </source>
-        <target> Chaser Callsign </target>
+        <target> Pozivni znak chasera </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">53</context>
@@ -1704,7 +1704,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ActivatorsWorked" datatype="html">
         <source> Activators Worked </source>
-        <target> Activators Worked </target>
+        <target> Rađeni aktivatori</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">57</context>
@@ -1716,7 +1716,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Points" datatype="html">
         <source> Points </source>
-        <target> Points </target>
+        <target> Bodovi </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">61</context>
@@ -1864,7 +1864,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Average" datatype="html">
         <source> Average </source>
-        <target> Average </target>
+        <target> Prosek </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">65</context>
@@ -1876,7 +1876,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ViewLog" datatype="html">
         <source> View Log </source>
-        <target> View Log </target>
+        <target> Pogledaj log </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">69</context>
@@ -1908,7 +1908,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="View" datatype="html">
         <source>View</source>
-        <target>View</target>
+        <target>Pregled</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">70</context>
@@ -1944,7 +1944,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="NoResultsFound" datatype="html">
         <source>No results found</source>
-        <target>No results found</target>
+        <target>Nema rezultata pretrage</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">83</context>
@@ -1992,7 +1992,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="DatabaseStatistics" datatype="html">
         <source>Database statistics</source>
-        <target>Database statistics</target>
+        <target>Statistika baze podataka</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">5</context>
@@ -2000,7 +2000,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="RegisteredUsers" datatype="html">
         <source>Registered Users</source>
-        <target>Registered Users</target>
+        <target>Registrovani korisnik</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">8</context>
@@ -2008,7 +2008,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Associations" datatype="html">
         <source>Associations</source>
-        <target>Associations</target>
+        <target>Nacionalne organizacije</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">11</context>
@@ -2016,7 +2016,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Regions" datatype="html">
         <source>Regions</source>
-        <target>Regions</target>
+        <target>Oblasti</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">14</context>
@@ -2024,7 +2024,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="WebpageHits" datatype="html">
         <source>Webpage Hits since 10 Jan 2004</source>
-        <target>Webpage Hits since 10 Jan 2004</target>
+        <target>Broj pregleda Web stranice od 10 Jan 2004</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">20</context>
@@ -2032,7 +2032,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ActivatorStatistics" datatype="html">
         <source>Activator statistics</source>
-        <target>Activator statistics</target>
+        <target>Statistika aktivatora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">25</context>
@@ -2040,7 +2040,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="NumberActivators" datatype="html">
         <source>Number of Activators</source>
-        <target>Number of Activators</target>
+        <target>Broj aktivatora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">28</context>
@@ -2048,7 +2048,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ActivatedSummits" datatype="html">
         <source>Activated Summits</source>
-        <target>Activated Summits</target>
+        <target>Aktivirani vrhovi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">31</context>
@@ -2056,7 +2056,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="NumberActivations" datatype="html">
         <source>Number of Activations</source>
-        <target>Number of Activations</target>
+        <target>Broj aktivacija</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">34</context>
@@ -2064,7 +2064,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="NumberQSOs" datatype="html">
         <source>Number of QSOs</source>
-        <target>Number of QSOs</target>
+        <target>Broj QSO-a</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">37</context>
@@ -2072,7 +2072,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="TotalActivatorPoints" datatype="html">
         <source>Total Activator Points</source>
-        <target>Total Activator Points</target>
+        <target>Ukupno aktivatorskih bodova</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">40</context>
@@ -2080,7 +2080,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ActivatorQSOsByMode" datatype="html">
         <source>Activator QSOs by Mode</source>
-        <target>Activator QSOs by Mode</target>
+        <target>Aktivator QSO-a po vrsti rada</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">44</context>
@@ -2088,7 +2088,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ActivatorQSOsByBand" datatype="html">
         <source>Activator QSOs by Band</source>
-        <target>Activator QSOs by Band</target>
+        <target>Aktivator QS-a po Bandu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">52</context>
@@ -2104,7 +2104,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="NumberOfChasers" datatype="html">
         <source>Number of Chasers</source>
-        <target>Number of Chasers</target>
+        <target>Broj Chasera</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">64</context>
@@ -2112,7 +2112,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ChaserActivators" datatype="html">
         <source>Chasers who are also activators</source>
-        <target>Chasers who are also activators</target>
+        <target>Chaseri koji su ujedno i aktivatori</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">67</context>
@@ -2120,7 +2120,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="NumberChaserContacts" datatype="html">
         <source>Number of Chaser Contacts</source>
-        <target>Number of Chaser Contacts</target>
+        <target>Broj QSO-a chasera</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">70</context>
@@ -2128,7 +2128,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="TotalChaserPoints" datatype="html">
         <source>Total Chaser Points</source>
-        <target>Total Chaser Points</target>
+        <target>Ukupan broj bodova chasera</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">73</context>
@@ -2136,7 +2136,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="S2S" datatype="html">
         <source>Summit to Summit</source>
-        <target>Summit to Summit</target>
+        <target>S2S</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">78</context>
@@ -2148,7 +2148,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="S2SContacts" datatype="html">
         <source>Summit to Summit Contacts</source>
-        <target>Summit to Summit Contacts</target>
+        <target>S2S QSO-a</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">81</context>
@@ -2156,7 +2156,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="S2SPoints" datatype="html">
         <source>Summit to Summit Points</source>
-        <target>Summit to Summit Points</target>
+        <target>S2S bodova</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">84</context>
@@ -2164,7 +2164,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ActivatorCallsign" datatype="html">
         <source> Activator Callsign </source>
-        <target> Activator Callsign </target>
+        <target> Pozivni znak aktivatora </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
           <context context-type="linenumber">53</context>
@@ -2200,7 +2200,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="BonusPoints" datatype="html">
         <source> Bonus Points </source>
-        <target> Bonus Points </target>
+        <target> Bonus bodovi </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
           <context context-type="linenumber">65</context>
@@ -2224,7 +2224,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="TotalPoints" datatype="html">
         <source> Total Points </source>
-        <target> Total Points </target>
+        <target> Ukupno bodova </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
           <context context-type="linenumber">69</context>
@@ -2248,7 +2248,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Callsign" datatype="html">
         <source> Callsign </source>
-        <target> Callsign </target>
+        <target> Pozivni znak </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">53</context>
@@ -2320,7 +2320,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="UniqueSummits" datatype="html">
         <source> Unique Summits </source>
-        <target> Unique Summits </target>
+        <target> Unique vrhovi </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">57</context>
@@ -2332,7 +2332,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="TotalSummits" datatype="html">
         <source> Total Summits </source>
-        <target> Total Summits </target>
+        <target> Ukupno vrhova </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">61</context>
@@ -2352,7 +2352,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="PercentUnique" datatype="html">
         <source> Percent Unique </source>
-        <target> Percent Unique </target>
+        <target> Procenat Unique </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-uniques/activator-uniques.component.html</context>
           <context context-type="linenumber">65</context>
@@ -2400,7 +2400,7 @@ to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activa
       </trans-unit>
       <trans-unit id="Instructions" datatype="html">
         <source>Instructions</source>
-        <target>Instructions</target>
+        <target>Uputstva</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">18</context>
@@ -2451,7 +2451,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="selectCSV" datatype="html">
         <source>Select CSV File:</source>
-        <target>Select CSV File:</target>
+        <target>Označi CSV fajl:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">34</context>
@@ -2459,7 +2459,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="Date" datatype="html">
         <source> Date </source>
-        <target> Date </target>
+        <target> Datum </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">45</context>
@@ -2583,7 +2583,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="Time" datatype="html">
         <source> Time </source>
-        <target> Time </target>
+        <target> Vreme </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">49</context>
@@ -2675,7 +2675,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="Mode" datatype="html">
         <source> Mode </source>
-        <target> Mode </target>
+        <target> Vrsta rada </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">57</context>
@@ -2763,7 +2763,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="Summit" datatype="html">
         <source> Summit </source>
-        <target> Summit </target>
+        <target> Vrh </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">61</context>
@@ -2863,7 +2863,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="OtherSummit" datatype="html">
         <source> Other Summit </source>
-        <target> Other Summit </target>
+        <target> Drugi vrh </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">65</context>
@@ -2879,7 +2879,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="OtherCallsign" datatype="html">
         <source> Other Callsign </source>
-        <target> Other Callsign </target>
+        <target> Drugi pozivni znak </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">69</context>
@@ -2899,7 +2899,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="Duplicate" datatype="html">
         <source> Duplicate? </source>
-        <target> Duplicate? </target>
+        <target> Duplikat? </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">73</context>
@@ -2911,7 +2911,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="Comment" datatype="html">
         <source> Comment </source>
-        <target> Comment </target>
+        <target> Komentar </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">81</context>
@@ -2923,7 +2923,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="IsS2S" datatype="html">
         <source> Is S2S? </source>
-        <target> Is S2S? </target>
+        <target> Da li je S2S? </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">85</context>
@@ -2935,7 +2935,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="IsI18N" datatype="html">
         <source> Is Chaser Entry? </source>
-        <target> Is Chaser Entry? </target>
+        <target> Da li je unos chasera? </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">89</context>
@@ -2947,7 +2947,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="uploadError" datatype="html">
         <source>There are errors in your file - please correct them and try again</source>
-        <target>There are errors in your file - please correct them and try again</target>
+        <target>U vašem logu postoje greške - ispravite ih i pokušajte ponovo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">96</context>
@@ -2959,7 +2959,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="Cancel" datatype="html">
         <source>Cancel</source>
-        <target>Cancel</target>
+        <target>Poništi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">97</context>
@@ -2995,7 +2995,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="uploadVerify" datatype="html">
         <source>Please verify the uploaded details and click Submit when ready</source>
-        <target>Please verify the uploaded details and click Submit when ready</target>
+        <target>Potvrdite poslate detalje i kliknite na "Pošalji" kada budete spremni</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">100</context>
@@ -3007,7 +3007,7 @@ The format of this file is critical to ensure that correct log entries are recor
       </trans-unit>
       <trans-unit id="Submit" datatype="html">
         <source>Submit</source>
-        <target>Submit</target>
+        <target>Pošalji</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">101</context>
@@ -3081,7 +3081,7 @@ administrators.
       </trans-unit>
       <trans-unit id="IAgree" datatype="html">
         <source>I agree</source>
-        <target>I agree</target>
+        <target>Slažem se</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">117</context>
@@ -3101,7 +3101,7 @@ administrators.
       </trans-unit>
       <trans-unit id="uploadAnother" datatype="html">
         <source>Upload another log</source>
-        <target>Upload another log</target>
+        <target>Pošalji drugi log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">124</context>
@@ -3113,7 +3113,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SelectAssociation" datatype="html">
         <source>Select Association</source>
-        <target>Select Association</target>
+        <target>Odaberi nacionalnu organizaciju</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">11</context>
@@ -3121,7 +3121,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Region" datatype="html">
         <source>Region</source>
-        <target>Region</target>
+        <target>Oblast</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">18</context>
@@ -3161,7 +3161,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SelectRegion" datatype="html">
         <source>Select Region</source>
-        <target>Select Region</target>
+        <target>Odaberi Oblast</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">22</context>
@@ -3169,7 +3169,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SelectSummit" datatype="html">
         <source>Select Summit</source>
-        <target>Select Summit</target>
+        <target>Odaberi vrh</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">34</context>
@@ -3177,7 +3177,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivationDate" datatype="html">
         <source>Date of activation</source>
-        <target>Date of activation</target>
+        <target>Datum aktivacije</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">50</context>
@@ -3193,7 +3193,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ChooseADate" datatype="html">
         <source>Choose a date</source>
-        <target>Choose a date</target>
+        <target>Odaberi datum</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">53</context>
@@ -3201,7 +3201,7 @@ administrators.
       </trans-unit>
       <trans-unit id="TimeUTC" datatype="html">
         <source>Time (UTC)</source>
-        <target>Time (UTC)</target>
+        <target>Vreme (UTC)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">67</context>
@@ -3213,7 +3213,7 @@ administrators.
       </trans-unit>
       <trans-unit id="otherCallsign" datatype="html">
         <source>Callsign</source>
-        <target>Callsign</target>
+        <target>Pozivni znak</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">72</context>
@@ -3237,7 +3237,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Notes" datatype="html">
         <source>Notes</source>
-        <target>Notes</target>
+        <target>Beleške</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">87</context>
@@ -3301,7 +3301,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AddQSO" datatype="html">
         <source>Add QSO</source>
-        <target>Add QSO</target>
+        <target>Dodaj QSO</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">94</context>
@@ -3309,7 +3309,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Comments" datatype="html">
         <source> Comments </source>
-        <target> Comments </target>
+        <target> Komentar </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">119</context>
@@ -3325,7 +3325,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Delete" datatype="html">
         <source> Delete </source>
-        <target> Delete </target>
+        <target> Obriši </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">123</context>
@@ -3413,7 +3413,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SubmitLog" datatype="html">
         <source>Submit Log</source>
-        <target>Submit Log</target>
+        <target>Pošalji Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">131</context>
@@ -3425,7 +3425,7 @@ administrators.
       </trans-unit>
       <trans-unit id="UploadAnother" datatype="html">
         <source>Upload another log</source>
-        <target>Upload another log</target>
+        <target>Pošalji drugi log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">153</context>
@@ -3433,7 +3433,7 @@ administrators.
       </trans-unit>
       <trans-unit id="FindSummit" datatype="html">
         <source>Find a summit</source>
-        <target>Find a summit</target>
+        <target>Pronađi vrh</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">1</context>
@@ -3441,7 +3441,7 @@ administrators.
       </trans-unit>
       <trans-unit id="EnterSummitCode" datatype="html">
         <source>Enter the name or code of a summit and press the "Find" button.</source>
-        <target>Enter the name or code of a summit and press the "Find" button.</target>
+        <target>Unesite ime ili kod vrha i pritisnite dugme „Pronađi“.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">2</context>
@@ -3449,7 +3449,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Search" datatype="html">
         <source>Search</source>
-        <target>Search</target>
+        <target>Pronađi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">5</context>
@@ -3457,7 +3457,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Find" datatype="html">
         <source>Find</source>
-        <target>Find</target>
+        <target>Pronađi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">7</context>
@@ -3465,7 +3465,7 @@ administrators.
       </trans-unit>
       <trans-unit id="FindSummitsFound" datatype="html">
         <source>The following summits were found.  Select the one you wish to view</source>
-        <target>The following summits were found.  Select the one you wish to view</target>
+        <target>Pronađeni su sledeći vrhovi. Izaberite onaj koji želite da pogledate</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">14</context>
@@ -3473,7 +3473,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SummitReference" datatype="html">
         <source> Summit Reference </source>
-        <target> Summit Reference </target>
+        <target> Referenca vrha </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">18</context>
@@ -3493,7 +3493,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Name" datatype="html">
         <source> Name </source>
-        <target> Name </target>
+        <target> Ime </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">22</context>
@@ -3557,7 +3557,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SummitInfo" datatype="html">
         <source>Summit Info</source>
-        <target>Summit Info</target>
+        <target>Informacije o vrhu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">27</context>
@@ -3573,7 +3573,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AltM" datatype="html">
         <source> Alt (m) </source>
-        <target> Alt (m) </target>
+        <target> Nadmorska visina (m) </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
           <context context-type="linenumber">13</context>
@@ -3589,7 +3589,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AltFt" datatype="html">
         <source> Alt (ft) </source>
-        <target> Alt (ft) </target>
+        <target> Nadmorska Visina (ft) </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3605,7 +3605,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivationCount" datatype="html">
         <source> Activation Count </source>
-        <target> Activation Count </target>
+        <target> Broj aktivacija </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
           <context context-type="linenumber">25</context>
@@ -3637,7 +3637,7 @@ administrators.
       </trans-unit>
       <trans-unit id="LastActivation" datatype="html">
         <source> Last Activation </source>
-        <target> Last Activation </target>
+        <target> Poslednja aktivacija </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
           <context context-type="linenumber">29</context>
@@ -3653,7 +3653,7 @@ administrators.
       </trans-unit>
       <trans-unit id="LastActivator" datatype="html">
         <source> Last Activator </source>
-        <target> Last Activator </target>
+        <target> Poslednji aktivator </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/top-summits/top-summits.component.html</context>
           <context context-type="linenumber">33</context>
@@ -3669,7 +3669,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SummitDetails" datatype="html">
         <source>Summit Details</source>
-        <target>Summit Details</target>
+        <target>Detalji o vrhu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">1</context>
@@ -3677,7 +3677,7 @@ administrators.
       </trans-unit>
       <trans-unit id="BySummitRef" datatype="html">
         <source>by Summit Ref</source>
-        <target>by Summit Ref</target>
+        <target>po referenci vrha</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">16</context>
@@ -3685,7 +3685,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ByOldestActivation" datatype="html">
         <source>by Oldest Activation</source>
-        <target>by Oldest Activation</target>
+        <target>po najstarijoj aktivaciji</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3693,7 +3693,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ByNewestActivation" datatype="html">
         <source>by Newest Activation</source>
-        <target>by Newest Activation</target>
+        <target>po najnovijoj aktivaciji</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">18</context>
@@ -3701,7 +3701,7 @@ administrators.
       </trans-unit>
       <trans-unit id="DisplayOrder" datatype="html">
         <source>Display Order</source>
-        <target>Display Order</target>
+        <target>Redosled prikaza</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">15</context>
@@ -3709,7 +3709,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Details" datatype="html">
         <source>Details</source>
-        <target>Details</target>
+        <target>Detalji</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">24</context>
@@ -3717,7 +3717,7 @@ administrators.
       </trans-unit>
       <trans-unit id="RegionName" datatype="html">
         <source>Region Name: </source>
-        <target>Region Name: </target>
+        <target>Ime oblasti: </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">27</context>
@@ -3725,7 +3725,7 @@ administrators.
       </trans-unit>
       <trans-unit id="RegionCode" datatype="html">
         <source>Region Code: </source>
-        <target>Region Code: </target>
+        <target>Kod oblasti: </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">28</context>
@@ -3741,7 +3741,7 @@ administrators.
       </trans-unit>
       <trans-unit id="RegionManager" datatype="html">
         <source>Region Manager:</source>
-        <target>Region Manager:</target>
+        <target>Oblast Manager:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">31</context>
@@ -3749,7 +3749,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Contact" datatype="html">
         <source>Contact:</source>
-        <target>Contact:</target>
+        <target>Kontakt:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">32</context>
@@ -3757,7 +3757,7 @@ administrators.
       </trans-unit>
       <trans-unit id="RegionMap" datatype="html">
         <source>Region Map</source>
-        <target>Region Map</target>
+        <target>Mapa oblasti</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">36</context>
@@ -3821,7 +3821,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Percentage&lt;br/>Unique" datatype="html">
         <source> Percentage<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Unique </source>
-        <target> Percentage<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Unique </target>
+        <target> Procenat<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Unique </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-uniques/chaser-uniques.component.html</context>
           <context context-type="linenumber">65</context>
@@ -3865,7 +3865,7 @@ administrators.
       </trans-unit>
       <trans-unit id="MySummitDetails" datatype="html">
         <source>My summit details</source>
-        <target>My summit details</target>
+        <target>Detalji o mojim vrhovima</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
           <context context-type="linenumber">106</context>
@@ -3890,7 +3890,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="AddAnother" datatype="html">
         <source>Add another</source>
-        <target>Add another</target>
+        <target>Dodaj drugo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
           <context context-type="linenumber">167</context>
@@ -3898,7 +3898,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Last6Months" datatype="html">
         <source>Last 6 Months</source>
-        <target>Last 6 Months</target>
+        <target>Poslednjih 6 meseci</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">13</context>
@@ -3950,7 +3950,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Last12Months" datatype="html">
         <source>Last 12 Months</source>
-        <target>Last 12 Months</target>
+        <target>Poslednjih 12 meseci</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">15</context>
@@ -4162,7 +4162,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Order" datatype="html">
         <source>Order</source>
-        <target>Order</target>
+        <target>Redosled</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">20</context>
@@ -4206,7 +4206,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="OwnCallsign" datatype="html">
         <source> Own Callsign </source>
-        <target> Own Callsign </target>
+        <target> Lični pozivni znak </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">41</context>
@@ -4258,7 +4258,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ActivatorWorked" datatype="html">
         <source> Activator Worked </source>
-        <target> Activator Worked </target>
+        <target> Rađen aktivator </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">45</context>
@@ -4286,7 +4286,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Total" datatype="html">
         <source> Total </source>
-        <target> Total </target>
+        <target> Ukupno </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">65</context>
@@ -4338,7 +4338,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="SummitName" datatype="html">
         <source> Summit Name </source>
-        <target> Summit Name </target>
+        <target> Ime vrha </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">73</context>
@@ -4418,7 +4418,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="DeleteEntry" datatype="html">
         <source> Delete Entry </source>
-        <target> Delete Entry </target>
+        <target> Brisanje unosa </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log/my-chaser-log.component.html</context>
           <context context-type="linenumber">77</context>
@@ -4454,7 +4454,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ShowLog" datatype="html">
         <source> Show Log </source>
-        <target> Show Log </target>
+        <target> Prikaži Log </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context>
           <context context-type="linenumber">64</context>
@@ -4490,7 +4490,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Download" datatype="html">
         <source> Download </source>
-        <target> Download </target>
+        <target> Preuzmi </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context>
           <context context-type="linenumber">68</context>
@@ -4550,7 +4550,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Navigation" datatype="html">
         <source>Navigation</source>
-        <target>Navigation</target>
+        <target>Navigacija</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">7</context>
@@ -4570,7 +4570,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Summary" datatype="html">
         <source>Summary</source>
-        <target>Summary</target>
+        <target>Rezime</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">8</context>
@@ -4590,7 +4590,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Previous500" datatype="html">
         <source>Previous 500</source>
-        <target>Previous 500</target>
+        <target>Prethodnih 500</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">9</context>
@@ -4610,7 +4610,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Next500" datatype="html">
         <source>Next 500</source>
-        <target>Next 500</target>
+        <target>Sledećih 500</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">10</context>
@@ -4630,7 +4630,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Sort" datatype="html">
         <source>Sort</source>
-        <target>Sort</target>
+        <target>Sortiraj</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">13</context>
@@ -4650,7 +4650,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Number" datatype="html">
         <source> Number </source>
-        <target> Number </target>
+        <target> Broj </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">22</context>
@@ -4670,7 +4670,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Contacts" datatype="html">
         <source> Contacts </source>
-        <target> Contacts </target>
+        <target> Kontakti </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-uniques/my-chaser-uniques.component.html</context>
           <context context-type="linenumber">30</context>
@@ -4694,7 +4694,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Count" datatype="html">
         <source> Count </source>
-        <target> Count </target>
+        <target> Izračunaj </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-sota-complete/my-sota-complete.component.html</context>
           <context context-type="linenumber">14</context>
@@ -4754,7 +4754,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="SummitCode" datatype="html">
         <source> Summit Code </source>
-        <target> Summit Code </target>
+        <target> Kod vrha </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-sota-complete/my-sota-complete.component.html</context>
           <context context-type="linenumber">18</context>
@@ -4818,7 +4818,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Activations" datatype="html">
         <source> Activations </source>
-        <target> Activations </target>
+        <target> Aktivacije </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-uniques/my-activator-uniques.component.html</context>
           <context context-type="linenumber">30</context>
@@ -4834,7 +4834,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="awardsMG" datatype="html">
         <source>You are a Mountain Goat with <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> points.</source>
-        <target>You are a Mountain Goat with <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> points.</target>
+        <target>Vi ste Mountain goat sa <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> bodova.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
           <context context-type="linenumber">6</context>
@@ -4842,7 +4842,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="achievedon" datatype="html">
         <source>achieved on</source>
-        <target>achieved on</target>
+        <target>postignuto na</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
           <context context-type="linenumber">7</context>
@@ -4850,7 +4850,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Association(s)Activated" datatype="html">
         <source> Association(s) Activated </source>
-        <target> Association(s) Activated </target>
+        <target> Aktivirane nacionalne organizacije </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-awards/my-awards.component.html</context>
           <context context-type="linenumber">26</context>
@@ -4866,7 +4866,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ActivationStatistics" datatype="html">
         <source>Activation Statistics</source>
-        <target>Activation Statistics</target>
+        <target>Statistika aktivacije</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">2</context>
@@ -4874,7 +4874,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Score" datatype="html">
         <source>Score</source>
-        <target>Score</target>
+        <target>Rezultat</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">5</context>
@@ -4886,7 +4886,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="TotalSummitsActivated" datatype="html">
         <source>Total summits activated</source>
-        <target>Total summits activated</target>
+        <target>Ukupno vrhova aktivirano</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">8</context>
@@ -4894,7 +4894,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="UniqueSummitsActivated" datatype="html">
         <source>Unique summits activated</source>
-        <target>Unique summits activated</target>
+        <target>Aktivirano unique vrhova</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">11</context>
@@ -4902,7 +4902,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ActivatorCallsignsUsed" datatype="html">
         <source> Activator Callsigns Used </source>
-        <target> Activator Callsigns Used </target>
+        <target> Korišćen pozivni znak aktivatora </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">17</context>
@@ -4910,7 +4910,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ActivatedAssocsRegions" datatype="html">
         <source>Activated associations and regions</source>
-        <target>Activated associations and regions</target>
+        <target>Aktivirane nacionalne organizacije i oblasti</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">25</context>
@@ -4918,7 +4918,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="TotalDiffChasers" datatype="html">
         <source>Total different chaser callsigns worked as activator</source>
-        <target>Total different chaser callsigns worked as activator</target>
+        <target>Ukupno različitih pozivnih znakova chasera koji su bili aktivatori</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">42</context>
@@ -4926,7 +4926,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="MyTopActivatedSummits" datatype="html">
         <source>My top activated summits</source>
-        <target>My top activated summits</target>
+        <target>Moji najbolje aktivirani vrhovi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">45</context>
@@ -4934,7 +4934,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="MyTopActivationChasers" datatype="html">
         <source>My top activation chasers</source>
-        <target>My top activation chasers</target>
+        <target>Moje najbolje aktivacije kao chasera</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">69</context>
@@ -4942,7 +4942,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ChaserStatistics" datatype="html">
         <source>Chaser Statistics</source>
-        <target>Chaser Statistics</target>
+        <target>Statistika chasera</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">90</context>
@@ -4950,7 +4950,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ChaserScore" datatype="html">
         <source>Chaser Score</source>
-        <target>Chaser Score</target>
+        <target>Rezultat chasera</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">93</context>
@@ -4958,7 +4958,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ChaserCallsignsUsed" datatype="html">
         <source> Chaser Callsigns Used </source>
-        <target> Chaser Callsigns Used </target>
+        <target> Korišćeni pozivni znak chasera </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">99</context>
@@ -4966,7 +4966,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ChasedAssocsRegions" datatype="html">
         <source>Chased associations and regions</source>
-        <target>Chased associations and regions</target>
+        <target>Nacionalne organizacije i oblasti chasera</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">106</context>
@@ -4974,7 +4974,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="TotalDiffActivators" datatype="html">
         <source>Total different activator callsigns worked as chaser</source>
-        <target>Total different activator callsigns worked as chaser</target>
+        <target>Ukupno različitih pozivnih znakova aktivatora koji su radili kao chaseri</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">121</context>
@@ -4982,7 +4982,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="MyTopChasedSummits" datatype="html">
         <source>My top chased summits</source>
-        <target>My top chased summits</target>
+        <target>Moji najbolje ulovljeni vrhovi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">122</context>
@@ -4990,7 +4990,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="MyTopChasedActivators" datatype="html">
         <source>My top chased activators</source>
-        <target>My top chased activators</target>
+        <target>Moji najbolje urađeni aktivatori</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">146</context>
@@ -4998,7 +4998,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="MyChaserRegoins" datatype="html">
         <source>My Chased Regions</source>
-        <target>My Chased Regions</target>
+        <target>Moje ulovljene oblasti</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-regions/my-chaser-regions.component.html</context>
           <context context-type="linenumber">1</context>
@@ -5018,7 +5018,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="MyActivatedSummits" datatype="html">
         <source> My Activated Summits </source>
-        <target> My Activated Summits </target>
+        <target> Moji aktivirani vrhovi </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-regions/my-activator-regions.component.html</context>
           <context context-type="linenumber">13</context>
@@ -5026,7 +5026,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="Distance" datatype="html">
         <source> Distance </source>
-        <target> Distance </target>
+        <target> Rastojanje </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">60</context>
@@ -5038,7 +5038,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ChaserPoints" datatype="html">
         <source> ChaserPoints </source>
-        <target> ChaserPoints </target>
+        <target> Chaser Bodova </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">64</context>
@@ -5050,7 +5050,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ActivatorPoints" datatype="html">
         <source> Activator Points </source>
-        <target> Activator Points </target>
+        <target> Aktivator Bodova </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">68</context>
@@ -5062,7 +5062,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ChasedSummit" datatype="html">
         <source> Chased Summit </source>
-        <target> Chased Summit </target>
+        <target> Chaser vrh </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">80</context>
@@ -5074,7 +5074,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ActivatedSummit" datatype="html">
         <source> Activated Summit </source>
-        <target> Activated Summit </target>
+        <target> Aktivirani vrh </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">84</context>
@@ -5086,7 +5086,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="chaserDeleteResult2" datatype="html">
         <source>You cannot delete this QSO.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
-        <target>You cannot delete this QSO.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
+        <target>Ne možete obrisati ovaj QSO.  Primljena greška je: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">2</context>
@@ -5136,7 +5136,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="date" datatype="html">
         <source>Date:</source>
-        <target>Date:</target>
+        <target>Datum:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">16</context>
@@ -5156,7 +5156,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="time" datatype="html">
         <source>Time:</source>
-        <target>Time:</target>
+        <target>Vreme:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">19</context>
@@ -5172,7 +5172,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="MySummit" datatype="html">
         <source>My Summit</source>
-        <target>My Summit</target>
+        <target>Moj vrh</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">40</context>
@@ -5188,7 +5188,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="chaserDeleteResult" datatype="html">
         <source>Operation complete.  The response from the server was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
-        <target>Operation complete.  The response from the server was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
+        <target>Operacija završena. Odgovor servera je bio: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">53</context>
@@ -5208,7 +5208,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="SOTAActivatorTSV/CSVfileformat" datatype="html">
         <source>SOTA Activator and Chaser TSV/CSV file format</source>
-        <target>SOTA Activator and Chaser TSV/CSV file format</target>
+        <target>SOTA Aktivator i Chaser TSV/CSV fajl format</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">2</context>
@@ -5234,7 +5234,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="csv2" datatype="html">
         <source>The new prefered Version 2 (V2) format consists of upto ten fields as follows</source>
-        <target>The new prefered Version 2 (V2) format consists of upto ten fields as follows</target>
+        <target>Novi preporučeni format verzije 2 (V2) sastoji se od deset polja kako sledi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">18</context>
@@ -5288,7 +5288,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="csv7" datatype="html">
         <source>Here is an example:</source>
-        <target>Here is an example:</target>
+        <target>Evo primera:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">38</context>
@@ -5312,7 +5312,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="MyCallsign" datatype="html">
         <source>My Callsign</source>
-        <target>My Callsign</target>
+        <target>Moj pozivni znak</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">62</context>
@@ -5361,7 +5361,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="csvBand" datatype="html">
         <source>You can enter the frequency in MHz (14.285MHz) or pick from the following:</source>
-        <target>You can enter the frequency in MHz (14.285MHz) or pick from the following:</target>
+        <target>Frekvenciju možete uneti u MHz (14.285MHz) ili odabrati nešto od sledećeg:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">105</context>
@@ -5410,7 +5410,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="CommonErrors" datatype="html">
         <source>Common errors</source>
-        <target>Common errors</target>
+        <target>Uobičajene greške</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">270</context>
@@ -5457,7 +5457,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="MySWL" datatype="html">
         <source> My SWL </source>
-        <target> My SWL </target>
+        <target> Moj SWL </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-swllog/my-swllog.component.html</context>
           <context context-type="linenumber">38</context>
@@ -5481,7 +5481,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="Height" datatype="html">
         <source>Height:</source>
-        <target>Height:</target>
+        <target>Visina:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
           <context context-type="linenumber">34</context>
@@ -5497,7 +5497,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="SummitMap" datatype="html">
         <source>Summit Map:</source>
-        <target>Summit Map:</target>
+        <target>Mapa vrha:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
           <context context-type="linenumber">47</context>
@@ -5505,7 +5505,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="Map" datatype="html">
         <source>Map</source>
-        <target>Map</target>
+        <target>Mapa</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
           <context context-type="linenumber">48</context>
@@ -5521,7 +5521,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="From" datatype="html">
         <source> From </source>
-        <target> From </target>
+        <target> Od </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
           <context context-type="linenumber">56</context>
@@ -5529,7 +5529,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="To" datatype="html">
         <source> To </source>
-        <target> To </target>
+        <target> Za </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
           <context context-type="linenumber">60</context>
@@ -5553,7 +5553,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="FirstActivation" datatype="html">
         <source>First Activation</source>
-        <target>First Activation</target>
+        <target>Prva aktivacija</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
           <context context-type="linenumber">75</context>
@@ -5717,7 +5717,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="ShowSummary" datatype="html">
         <source>Show Summary</source>
-        <target>Show Summary</target>
+        <target>Prikaži rezultat</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-detailed/my-activator-log-detailed.component.html</context>
           <context context-type="linenumber">4</context>
@@ -5725,7 +5725,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="ShowWhoChased" datatype="html">
         <source>Show Who Chased Me</source>
-        <target>Show Who Chased Me</target>
+        <target>Prikaži ko me je jurio</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
           <context context-type="linenumber">4</context>
@@ -5733,7 +5733,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="ReturnToActivatorLog" datatype="html">
         <source>Return to activator log</source>
-        <target>Return to activator log</target>
+        <target>Povratak na aktivatorov log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
           <context context-type="linenumber">7</context>
@@ -5741,7 +5741,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="FollowingQSOs" datatype="html">
         <source>The following QSOs were logged for</source>
-        <target>The following QSOs were logged for</target>
+        <target>Zabeležene su sledeće veze</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
           <context context-type="linenumber">53</context>
@@ -5753,7 +5753,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="On" datatype="html">
         <source>on</source>
-        <target>on</target>
+        <target>na</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
           <context context-type="linenumber">53</context>
@@ -5765,7 +5765,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="SummitRef" datatype="html">
         <source> Summit Ref </source>
-        <target> Summit Ref </target>
+        <target> Referenca vrha </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-show/my-activator-log-show.component.html</context>
           <context context-type="linenumber">81</context>
@@ -5786,7 +5786,7 @@ You are about to permanently delete the record of the activation QSO below. This
       </trans-unit>
       <trans-unit id="activatorDeleteResult2" datatype="html">
         <source>You cannot delete this Activation.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
-        <target>You cannot delete this Activation.  The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
+        <target>Ne možete obrisati ovu aktivaciju.  Primljena greška je bila: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">2</context>
@@ -5803,7 +5803,7 @@ You are about to permanently delete the record of the activation below. This can
       </trans-unit>
       <trans-unit id="ownCallsign" datatype="html">
         <source>Own Callsign:</source>
-        <target>Own Callsign:</target>
+        <target>Lični pozivni znak:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">19</context>
@@ -5811,7 +5811,7 @@ You are about to permanently delete the record of the activation below. This can
       </trans-unit>
       <trans-unit id="Welcome" datatype="html">
         <source>Welcome</source>
-        <target>Welcome</target>
+        <target>Dobrodošli</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/login-display/login-display.component.html</context>
           <context context-type="linenumber">1</context>
@@ -5819,7 +5819,7 @@ You are about to permanently delete the record of the activation below. This can
       </trans-unit>
       <trans-unit id="Logout" datatype="html">
         <source>Logout</source>
-        <target>Logout</target>
+        <target>Odjava</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/login-display/login-display.component.html</context>
           <context context-type="linenumber">1</context>
@@ -5827,7 +5827,7 @@ You are about to permanently delete the record of the activation below. This can
       </trans-unit>
       <trans-unit id="Register" datatype="html">
         <source>Register</source>
-        <target>Register</target>
+        <target>Registracija</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/login-display/login-display.component.html</context>
           <context context-type="linenumber">2</context>
@@ -5843,7 +5843,7 @@ You are about to permanently delete the record of the activation below. This can
       </trans-unit>
       <trans-unit id="Multipliers" datatype="html">
         <source> Multipliers </source>
-        <target> Multipliers </target>
+        <target> Multiplajeri </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/first12m-activator/first12m-activator.component.html</context>
           <context context-type="linenumber">36</context>
@@ -5855,7 +5855,7 @@ You are about to permanently delete the record of the activation below. This can
       </trans-unit>
       <trans-unit id="1st610mChaser" datatype="html">
         <source>First 6/10m Challenge Chaser Results</source>
-        <target>First 6/10m Challenge Chaser Results</target>
+        <target>Prvi 6/10m Challenge Chaser Rezultati</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
           <context context-type="linenumber">1</context>
@@ -5876,7 +5876,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="AssociationCode" datatype="html">
         <source> Association Code </source>
-        <target> Association Code </target>
+        <target> Kod nacionalne organizacije </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
           <context context-type="linenumber">12</context>
@@ -5888,7 +5888,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="610Multipliers" datatype="html">
         <source> 6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Multipliers </source>
-        <target> 6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Multipliers </target>
+        <target> 6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Multiplajeri </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
           <context context-type="linenumber">24</context>
@@ -5900,7 +5900,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="DateFirstChase" datatype="html">
         <source> Date of First Chase </source>
-        <target> Date of First Chase </target>
+        <target> Datum prvog lova </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-uniques-show/chaser-uniques-show.component.html</context>
           <context context-type="linenumber">33</context>
@@ -5908,7 +5908,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="Choose" datatype="html">
         <source> Choose </source>
-        <target> Choose </target>
+        <target> Odaberi </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/generate-awards/generate-awards.component.html</context>
           <context context-type="linenumber">20</context>
@@ -5916,7 +5916,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="Distance(km)" datatype="html">
         <source> Distance (km) </source>
-        <target> Distance (km) </target>
+        <target> Distanca (km) </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context>
           <context context-type="linenumber">66</context>
@@ -5928,7 +5928,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="DownloadCompleteLog" datatype="html">
         <source>Download complete log</source>
-        <target>Download complete log</target>
+        <target>Preuzmi kompletan log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-microwave-activator-log/my-microwave-activator-log.component.html</context>
           <context context-type="linenumber">82</context>
@@ -5961,7 +5961,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="selectADIF" datatype="html">
         <source>Select ADIF File:</source>
-        <target>Select ADIF File:</target>
+        <target>Odaberi ADIF fajl:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">32</context>
@@ -6057,7 +6057,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="ChasersWorked" datatype="html">
         <source> Chasers Worked </source>
-        <target> Chasers Worked </target>
+        <target> Rađeni Chaseri </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
           <context context-type="linenumber">32</context>
@@ -6065,7 +6065,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="ManageUploadsIntro" datatype="html">
         <source>This page will enable you to delete any upload you have made via CSV or ADIF after May 30, 2020.  By clicking on delete, all S2S, Chaser and Activator records for that upload will be deleted and can be reuploaded</source>
-        <target>This page will enable you to delete any upload you have made via CSV or ADIF after May 30, 2020.  By clicking on delete, all S2S, Chaser and Activator records for that upload will be deleted and can be reuploaded</target>
+        <target>Ova stranica će vam omogućiti da izbrišete bilo koji prenos koji ste izvršili putem CSV-a ili ADIF-a nakon 30. maja 2020. Klikom na Delete, svi S2S, Chaser i Aktivator zapisi za to otpremanje biće izbrisani i mogu se ponovo učitati</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">3</context>
@@ -6081,7 +6081,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="UploadDeleteAYS" datatype="html">
         <source>Are you sure you want to delete the following upload?</source>
-        <target>Are you sure you want to delete the following upload?</target>
+        <target>Da li ste sigurni da želite da izbrišete sledeće otpremanje?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">47</context>
