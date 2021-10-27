@@ -538,6 +538,9 @@
         <source>
 Welcome to the Worldwide Summits On The Air database service.
 </source>
+        <target>
+Welcome to the Worldwide Summits On The Air database service.
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">2</context>
@@ -547,6 +550,9 @@ Welcome to the Worldwide Summits On The Air database service.
         <source>
 Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
 </source>
+        <target>
+Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">5</context>
@@ -556,6 +562,9 @@ Summits on the Air is a programme that encourages radio amateurs who enjoy hill 
         <source>
 An award scheme recognises those who activate the summits and also those that make QSOs with the activators. The programme can be operated anywhere in the world.
 </source>
+        <target>
+An award scheme recognises those who activate the summits and also those that make QSOs with the activators. The programme can be operated anywhere in the world.
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">8</context>
@@ -565,6 +574,9 @@ An award scheme recognises those who activate the summits and also those that ma
         <source>
 For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
 </source>
+        <target>
+For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">11</context>
@@ -621,6 +633,8 @@ For more information about the SOTA program in your area, please see the main we
       <trans-unit id="SOTAPleaseSubmit" datatype="html">
         <source>
 Please help us to keep this page up-to-date by regularly submitting your SOTA logs.</source>
+        <target>
+Please help us to keep this page up-to-date by regularly submitting your SOTA logs.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">4</context>
@@ -2363,6 +2377,10 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
 You can use this page to perform a bulk upload of many Activator, Chaser and S2S Entries at
 once. This page is intended for more experienced users only.
 </source>
+        <target>
+You can use this page to perform a bulk upload of many Activator, Chaser and S2S Entries at
+once. This page is intended for more experienced users only.
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">5</context>
@@ -2375,6 +2393,8 @@ once. This page is intended for more experienced users only.
       <trans-unit id="csvUp2" datatype="html">
         <source>If you have a large number of log entries you want to claim, this may be the fastest way of recording them
 </source>
+        <target>If you have a large number of log entries you want to claim, this may be the fastest way of recording them
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">10</context>
@@ -2389,6 +2409,10 @@ once. This page is intended for more experienced users only.
 If however you only have a dozen or less entries, it will probably be easier 
 to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
 </source>
+        <target>
+If however you only have a dozen or less entries, it will probably be easier 
+to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">13</context>
@@ -2415,6 +2439,10 @@ to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activa
 	Create a CSV or TSV file containing all your entries. These can be for any number of activations. The file can be generated using a text editor such as 
 NOTEPAD, or can be exported from many other programs, such as Microsoft Excel. 
 The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> for details of the format of the CSV file that we require.</source>
+        <target>
+	Create a CSV or TSV file containing all your entries. These can be for any number of activations. The file can be generated using a text editor such as 
+NOTEPAD, or can be exported from many other programs, such as Microsoft Excel. 
+The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> for details of the format of the CSV file that we require.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">20</context>
@@ -2423,6 +2451,8 @@ The format of this file is critical to ensure that correct log entries are recor
       <trans-unit id="csvUpInst2" datatype="html">
         <source>
 	If you are unsure what a CSV or TSV file is, please use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>chaser<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source>
+        <target>
+	If you are unsure what a CSV or TSV file is, please use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>chaser<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">24</context>
@@ -2432,6 +2462,9 @@ The format of this file is critical to ensure that correct log entries are recor
         <source>
 	Press the Browse button below and select the CSV or TSV file on your hard drive
    </source>
+        <target>
+	Press the Browse button below and select the CSV or TSV file on your hard drive
+   </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">26</context>
@@ -2440,6 +2473,8 @@ The format of this file is critical to ensure that correct log entries are recor
       <trans-unit id="csvUpInst4" datatype="html">
         <source>
 	Press the Upload File button on the bottom of this screen to transfer the file to our server and begin processing it. This may take a few seconds. Please be patient!</source>
+        <target>
+	Press the Upload File button on the bottom of this screen to transfer the file to our server and begin processing it. This may take a few seconds. Please be patient!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">29</context>
@@ -3039,6 +3074,11 @@ By submitting this log, I certify that I have operated within the rules
 and spirit of the SOTA Programme. I agree that the decision of the
 Management Team will be final in any case of dispute.
 </source>
+        <target>
+By submitting this log, I certify that I have operated within the rules
+and spirit of the SOTA Programme. I agree that the decision of the
+Management Team will be final in any case of dispute.
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">107</context>
@@ -3062,6 +3102,11 @@ I understand that the scores shown on this website are for guidance only
 and that entries may be subject to verification and adjustment by the award
 administrators.
 </source>
+        <target>
+I understand that the scores shown on this website are for guidance only
+and that entries may be subject to verification and adjustment by the award
+administrators.
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">112</context>
@@ -3814,6 +3859,8 @@ administrators.
       <trans-unit id="SummitsListCSV" datatype="html">
         <source>NOTE : You can download a CSV file containing a list of all summits by clicking <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
     </source>
+        <target>NOTE : You can download a CSV file containing a list of all summits by clicking <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+    </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">99</context>
@@ -3875,6 +3922,9 @@ administrators.
         <source>
 Thank you for participating in SOTA
 </source>
+        <target>
+Thank you for participating in SOTA
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
           <context context-type="linenumber">163</context>
@@ -5104,6 +5154,9 @@ Thank you for participating in SOTA
         <source>
 You are about to permanently delete the record of the chaser contact below. This cannot be undone.
 </source>
+        <target>
+You are about to permanently delete the record of the chaser contact below. This cannot be undone.
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">6</context>
@@ -5117,6 +5170,9 @@ You are about to permanently delete the record of the chaser contact below. This
         <source>
 If you wish to proceed, press the DELETE button at the bottom of this screen, otherwise press CANCEL.
 </source>
+        <target>
+If you wish to proceed, press the DELETE button at the bottom of this screen, otherwise press CANCEL.
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
           <context context-type="linenumber">9</context>
@@ -5227,6 +5283,18 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         the file will be assumed to only contain a single activation.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
 
                  </source>
+        <target>This facility lets you upload a large number of QSOs in one bulk
+        transaction. You need to create a Comma Separated Variable (CSV) or Tab
+        Separated Variable (TSV) file with the fields laid out as shown in the example
+        below. You then submit this file, which is checked for errors before presenting
+        you with the option to save the QSOs to your database. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>You can mix activation records,
+        chaser records and S2S (summit to summit) records all in the same file.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+        You can include multiple activations in this file but all records for each activation must be together.
+        Each activation is deemed to end when the [My Summit] reference changes. If you
+        activate the same summit on several days you must upload each activation in a separate file<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/> otherwise
+        the file will be assumed to only contain a single activation.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+
+                 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">4</context>
@@ -5243,6 +5311,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csv3" datatype="html">
         <source>[V2] [My Callsign][My Summit] [Date] [Time]
                 [Band] [Mode] [His Callsign] </source>
+        <target>[V2] [My Callsign][My Summit] [Date] [Time]
+                [Band] [Mode] [His Callsign] </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">20</context>
@@ -5252,6 +5322,9 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         <source>
       or
     </source>
+        <target>
+      or
+    </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">22</context>
@@ -5264,6 +5337,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csv4" datatype="html">
         <source>[V2] [My Callsign][My Summit] [Date] [Time]
                 [Band] [Mode] [His Callsign][His Summit] </source>
+        <target>[V2] [My Callsign][My Summit] [Date] [Time]
+                [Band] [Mode] [His Callsign][His Summit] </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">25</context>
@@ -5272,6 +5347,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csv5" datatype="html">
         <source>[V2] [My Callsign][My Summit] [Date] [Time]
                 [Band] [Mode] [His Callsign][His Summit] [Notes or Comments]</source>
+        <target>[V2] [My Callsign][My Summit] [Date] [Time]
+                [Band] [Mode] [His Callsign][His Summit] [Notes or Comments]</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">30</context>
@@ -5281,6 +5358,9 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         <source>Each field is separated by either a Comma (CSV) or Tab (TSV).
         Each QSO is a single record and there is one record to a line, terminated in
         [CR][LF].</source>
+        <target>Each field is separated by either a Comma (CSV) or Tab (TSV).
+        Each QSO is a single record and there is one record to a line, terminated in
+        [CR][LF].</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">33</context>
@@ -5321,6 +5401,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csvCallsign" datatype="html">
         <source>This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
               used for the QSO. No spaces in the callsign please</source>
+        <target>This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
+              used for the QSO. No spaces in the callsign please</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">65</context>
@@ -5329,6 +5411,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csvSummit" datatype="html">
         <source>This MUST be the full
               SOTA reference of the summit you where activating, as shown in the above example.</source>
+        <target>This MUST be the full
+              SOTA reference of the summit you where activating, as shown in the above example.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">74</context>
@@ -5337,6 +5421,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csvSummitChaser" datatype="html">
         <source>If you are entering a chaser log, this field will be blank.  See last entry in the example.
           </source>
+        <target>If you are entering a chaser log, this field will be blank.  See last entry in the example.
+          </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">76</context>
@@ -5346,6 +5432,9 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         <source>The date of the QSO.
               Most date formats are accepted but be careful about USA vs. International date
               format.  Use of International date format (DD/MM/YY) is recommended</source>
+        <target>The date of the QSO.
+              Most date formats are accepted but be careful about USA vs. International date
+              format.  Use of International date format (DD/MM/YY) is recommended</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">86</context>
@@ -5354,6 +5443,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csvTime" datatype="html">
         <source>The time in UTC.
               Either HHMM or HH:MM will work. Use the 24 hour clock!</source>
+        <target>The time in UTC.
+              Either HHMM or HH:MM will work. Use the 24 hour clock!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">96</context>
@@ -5370,6 +5461,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csvOtherCall" datatype="html">
         <source>The callsign of the <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
                 station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</source>
+        <target>The callsign of the <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
+                station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">234</context>
@@ -5380,6 +5473,10 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
               was also activating a SOTA summit. This is the full SOTA reference of the summit the chasing station was activating, as shown in the above example.
                             If there is no [Other Summit] you can leave this blank. If there is a comment then you must insert a TAB or comma to mark the field as being blank.
                             See entries for G3NOH or GW4GTE</source>
+        <target>This field is only needed if the station
+              was also activating a SOTA summit. This is the full SOTA reference of the summit the chasing station was activating, as shown in the above example.
+                            If there is no [Other Summit] you can leave this blank. If there is a comment then you must insert a TAB or comma to mark the field as being blank.
+                            See entries for G3NOH or GW4GTE</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">243</context>
@@ -5393,6 +5490,14 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
 
 
           </source>
+        <target>An optional field for
+              recording short notes about the QSO. This could include the Operator's name and
+              location, Signal Report, QSL information, or almost anything else. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+                            <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>You can embed a TAB or comma in this field. If you do you must enclose the entire Notes field in double-quotes. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+
+
+          </target>
+        <context-group purpose="location">
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">254</context>
@@ -5403,6 +5508,10 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         create your TSV/CSV file is using Excel.  This allows you to arrange your
         log data in columns then save it as either a TSV or CSV file.  Either is
         accepted by the SOTA program.</source>
+        <target>The easiest way to
+        create your TSV/CSV file is using Excel.  This allows you to arrange your
+        log data in columns then save it as either a TSV or CSV file.  Either is
+        accepted by the SOTA program.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">265</context>
@@ -5419,6 +5528,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csv10" datatype="html">
         <source>Spaces in the
             callsigns.  Our callsigns do not have spaces in them!</source>
+        <target>Spaces in the
+            callsigns.  Our callsigns do not have spaces in them!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">273</context>
@@ -5428,6 +5539,9 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         <source>Date or time out of
             order.  The input parser will show an error if the log is not in
             sequential order</source>
+        <target>Date or time out of
+            order.  The input parser will show an error if the log is not in
+            sequential order</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">276</context>
@@ -5438,6 +5552,10 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
             reference number.  Spaces in the reference, leaving off the ITU prefix, or
             specifying a reference that does not exist will all result in an error being
             reported.</source>
+        <target>Errors in the SOTA
+            reference number.  Spaces in the reference, leaving off the ITU prefix, or
+            specifying a reference that does not exist will all result in an error being
+            reported.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">280</context>
@@ -5450,6 +5568,12 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         carefully check that everything is correct before saving it. As soon as you
         have saved the data you will be able to see the effect in the various Activator
         tables.</source>
+        <target>If an error is
+        detected then it is shown in Red and you should then modify the file to correct
+        the error and resubmit it. Once you get an error free report, you should
+        carefully check that everything is correct before saving it. As soon as you
+        have saved the data you will be able to see the effect in the various Activator
+        tables.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">286</context>
@@ -5779,6 +5903,9 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         <source>
 You are about to permanently delete the record of the activation QSO below. This cannot be undone.
 </source>
+        <target>
+You are about to permanently delete the record of the activation QSO below. This cannot be undone.
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context>
           <context context-type="linenumber">6</context>
@@ -5796,6 +5923,9 @@ You are about to permanently delete the record of the activation QSO below. This
         <source>
 You are about to permanently delete the record of the activation below. This cannot be undone.
 </source>
+        <target>
+You are about to permanently delete the record of the activation below. This cannot be undone.
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
           <context context-type="linenumber">6</context>
@@ -5865,6 +5995,9 @@ You are about to permanently delete the record of the activation below. This can
         <source>
 Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13th February 2016
 </source>
+        <target>
+Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13th February 2016
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/first610m-chaser/first610m-chaser.component.html</context>
           <context context-type="linenumber">4</context>
@@ -5937,6 +6070,8 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       <trans-unit id="adifUpInst1" datatype="html">
         <source>
 	Export an ADIF file from your log program containing all your entries you would like to upload. These can be for any number of activations, but DO NOT upload your entire log - only export the entries for SOTA.</source>
+        <target>
+	Export an ADIF file from your log program containing all your entries you would like to upload. These can be for any number of activations, but DO NOT upload your entire log - only export the entries for SOTA.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">20</context>
@@ -5945,6 +6080,8 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       <trans-unit id="adifUpInst2" datatype="html">
         <source>
 	If you are unsure what an ADIF file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source>
+        <target>
+	If you are unsure what an ADIF file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">22</context>
@@ -5954,6 +6091,9 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
         <source>
 	Press the Browse button below and select the ADIF file on your hard drive
    </source>
+        <target>
+	Press the Browse button below and select the ADIF file on your hard drive
+   </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">24</context>
