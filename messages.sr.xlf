@@ -140,7 +140,7 @@
       </trans-unit>
       <trans-unit id="ChaserRollOfHonour" datatype="html">
         <source>Chaser Roll of Honour</source>
-        <target>Chaser - Rang lista</target>
+        <target>Lovci - Rang lista</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">53</context>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="ChaserUniques" datatype="html">
         <source>Chaser Uniques</source>
-        <target>Chaser - unique vrhovi</target>
+        <target>Lovci - unique vrhovi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">57</context>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="SOTACompleteRoll" datatype="html">
         <source>SOTA Complete Roll of Honour</source>
-        <target>SOTA - kompletna rang lista</target>
+        <target>SOTA - Kompletna rang lista</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">65</context>
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="1st12mChaser" datatype="html">
         <source>1st 12m Challenge Chaser Roll of Honour</source>
-        <target>1st 12m Challenge Rang lista lovaca</target>
+        <target>1st 12m Challenge Rang lista Lovaca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">86</context>
@@ -252,7 +252,7 @@
       </trans-unit>
       <trans-unit id="1st610Chaser" datatype="html">
         <source>1st 6m/10m Challenge Chaser Roll of Honour</source>
-        <target>1st 6m/10m Challenge Rang lista Chasera</target>
+        <target>1st 6m/10m Challenge Rang lista Lovaca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">92</context>
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="2020SOTAChallengeChaser" datatype="html">
         <source>2020 SOTA Challenge Chaser Roll of Honour</source>
-        <target>2020 SOTA Challenge Rang lista Chasera</target>
+        <target>2020 SOTA Challenge Rang lista Lovaca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">98</context>
@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="MyChaserLog" datatype="html">
         <source>My Chaser Log</source>
-        <target>Moj Chaser Log</target>
+        <target>Moj dnevnik Lovca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">116</context>
@@ -324,7 +324,7 @@
       </trans-unit>
       <trans-unit id="MyChaserUniques" datatype="html">
         <source>My Chaser Uniques</source>
-        <target>Moj Chaser log ' unique vrhovi</target>
+        <target>Moj dnevnik Lovca' unique vrhovi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">120</context>
@@ -336,7 +336,7 @@
       </trans-unit>
       <trans-unit id="MyChaserRegions" datatype="html">
         <source>My Chaser Regions</source>
-        <target>Moje Chaser oblasti</target>
+        <target>Moje oblasti Lovca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">124</context>
@@ -344,7 +344,7 @@
       </trans-unit>
       <trans-unit id="MyS2SLog" datatype="html">
         <source>My S2S Log</source>
-        <target>Moj S2S Log</target>
+        <target>Moj S2S dnevnik</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">128</context>
@@ -356,7 +356,7 @@
       </trans-unit>
       <trans-unit id="MySOTAComplete" datatype="html">
         <source>My SOTA Complete Log</source>
-        <target>Moj SOTA Completan Log</target>
+        <target>Moj SOTA Completan dnevnik</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">132</context>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="MyMicrowaveActivator" datatype="html">
         <source>My Microwave Activator Log</source>
-        <target>Moj Mikrotalasni Aktivatorski Log</target>
+        <target>Moj Mikrotalasni Aktivatorski dnevnik</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">136</context>
@@ -376,7 +376,7 @@
       </trans-unit>
       <trans-unit id="MyMicrowaveChaser" datatype="html">
         <source>My Microwave Chaser Log</source>
-        <target>Moj Mikrotalasni Chaser Log</target>
+        <target>Moj Mikrotalasni dnevnik Lovca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">140</context>
@@ -388,7 +388,7 @@
       </trans-unit>
       <trans-unit id="MyMicrowaveS2S" datatype="html">
         <source>My Microwave S2S Log</source>
-        <target>Moj Mikrotalasni S2S Log</target>
+        <target>Moj Mikrotalasni S2S dnevnik</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">144</context>
@@ -400,7 +400,7 @@
       </trans-unit>
       <trans-unit id="MySWLLog" datatype="html">
         <source>My SWL Log</source>
-        <target>Moj SWL Log</target>
+        <target>Moj SWL dnevnik</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">148</context>
@@ -476,7 +476,7 @@
       </trans-unit>
       <trans-unit id="SubmitActivator" datatype="html">
         <source>Submit Activator Entry</source>
-        <target>Dodaj nove veze kao aktivator</target>
+        <target>Dodaj nove veze kao Aktivator</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">184</context>
@@ -488,7 +488,7 @@
       </trans-unit>
       <trans-unit id="SubmitChaserS2S" datatype="html">
         <source>Submit Chaser/S2S Entry</source>
-        <target>Dodaj Chaser/S2S veze</target>
+        <target>Dodaj Lovac/S2S veze</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">188</context>
@@ -500,7 +500,7 @@
       </trans-unit>
       <trans-unit id="UploadCSV" datatype="html">
         <source>Upload CSV/TSV log file</source>
-        <target>Pošalji CSV/TSV log fajl</target>
+        <target>Pošalji CSV/TSV dnevnik</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">192</context>
@@ -512,7 +512,7 @@
       </trans-unit>
       <trans-unit id="UploadADIF" datatype="html">
         <source>Upload ADIF log file</source>
-        <target>Pošalji ADIF log fajl</target>
+        <target>Pošalji ADIF dnevnik</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">196</context>
@@ -524,7 +524,7 @@
       </trans-unit>
       <trans-unit id="ManageUploads" datatype="html">
         <source>Manage Uploads</source>
-        <target>Upravljaj svojim poslatim fajlovima</target>
+        <target>Upravljaj svojim poslatim datotekama</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">200</context>
@@ -539,7 +539,7 @@
 Welcome to the Worldwide Summits On The Air database service.
 </source>
         <target>
-Welcome to the Worldwide Summits On The Air database service.
+Dobrodošli u svetsku kolekciju SOTA vrhova i podataka o radio vezama.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -551,7 +551,7 @@ Welcome to the Worldwide Summits On The Air database service.
 Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
 </source>
         <target>
-Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
+Program "Summits on the Air" podstiče radio amatere koji uživaju u planinarenju i kretanju u prirodi da ponesu radio sa sobom i ostvare veze sa vrhova brda i planina.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -563,7 +563,7 @@ Summits on the Air is a programme that encourages radio amateurs who enjoy hill 
 An award scheme recognises those who activate the summits and also those that make QSOs with the activators. The programme can be operated anywhere in the world.
 </source>
         <target>
-An award scheme recognises those who activate the summits and also those that make QSOs with the activators. The programme can be operated anywhere in the world.
+Sistem nagrađivanja prepoznaje aktivatore, koji ostvaruju radio veze sa vrhova kao i lovce koji se povezuju sa aktivatorima sa drugih mesta. Možete učestvovati u SOTA programu sa bilo kog mesta u svetu.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -575,7 +575,7 @@ An award scheme recognises those who activate the summits and also those that ma
 For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
 </source>
         <target>
-For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+Više informacija o SOTA programu u vašoj oblasti možete pronaći na glavnoj web stranici: http://www.sota.org.uk <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
@@ -634,7 +634,7 @@ For more information about the SOTA program in your area, please see the main we
         <source>
 Please help us to keep this page up-to-date by regularly submitting your SOTA logs.</source>
         <target>
-Please help us to keep this page up-to-date by regularly submitting your SOTA logs.</target>
+Pomozite nam da ovu stranicu održavamo ažurnom tako što ćete redovno slati vaše SOTA dnevnike</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">4</context>
@@ -1694,7 +1694,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ChaserCallsign" datatype="html">
         <source> Chaser Callsign </source>
-        <target> Pozivni znak chasera </target>
+        <target> Pozivni znak Lovca </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">53</context>
@@ -1718,7 +1718,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ActivatorsWorked" datatype="html">
         <source> Activators Worked </source>
-        <target> Rađeni aktivatori</target>
+        <target> Rađeni Aktivatori</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">57</context>
@@ -1890,7 +1890,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ViewLog" datatype="html">
         <source> View Log </source>
-        <target> Pogledaj log </target>
+        <target> Pogledaj dnevnik </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">69</context>
@@ -2014,7 +2014,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="RegisteredUsers" datatype="html">
         <source>Registered Users</source>
-        <target>Registrovani korisnik</target>
+        <target>Registrovani korisnici</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">8</context>
@@ -2046,7 +2046,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ActivatorStatistics" datatype="html">
         <source>Activator statistics</source>
-        <target>Statistika aktivatora</target>
+        <target>Statistika Aktivatora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">25</context>
@@ -2054,7 +2054,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="NumberActivators" datatype="html">
         <source>Number of Activators</source>
-        <target>Broj aktivatora</target>
+        <target>Broj Aktivatora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">28</context>
@@ -2110,7 +2110,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Chasers" datatype="html">
         <source>Chasers</source>
-        <target>Chasers</target>
+        <target>Lovci</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">61</context>
@@ -2118,7 +2118,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="NumberOfChasers" datatype="html">
         <source>Number of Chasers</source>
-        <target>Broj Chasera</target>
+        <target>Broj Lovaca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">64</context>
@@ -2126,7 +2126,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ChaserActivators" datatype="html">
         <source>Chasers who are also activators</source>
-        <target>Chaseri koji su ujedno i aktivatori</target>
+        <target>Lovci koji su ujedno i Aktivatori</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">67</context>
@@ -2134,7 +2134,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="NumberChaserContacts" datatype="html">
         <source>Number of Chaser Contacts</source>
-        <target>Broj QSO-a chasera</target>
+        <target>Broj QSO-a Lovaca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">70</context>
@@ -2142,7 +2142,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="TotalChaserPoints" datatype="html">
         <source>Total Chaser Points</source>
-        <target>Ukupan broj bodova chasera</target>
+        <target>Ukupan broj bodova Lovaca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/facts-and-figures/facts-and-figures.component.html</context>
           <context context-type="linenumber">73</context>
@@ -2178,7 +2178,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ActivatorCallsign" datatype="html">
         <source> Activator Callsign </source>
-        <target> Pozivni znak aktivatora </target>
+        <target> Pozivni znak Aktivatora </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-roll/activator-roll.component.html</context>
           <context context-type="linenumber">53</context>
@@ -2378,8 +2378,8 @@ You can use this page to perform a bulk upload of many Activator, Chaser and S2S
 once. This page is intended for more experienced users only.
 </source>
         <target>
-You can use this page to perform a bulk upload of many Activator, Chaser and S2S Entries at
-once. This page is intended for more experienced users only.
+Možete koristiti ovu stranicu za grupno otpremanje više Aktivatorskih, Lovačkih i S2S unosa 
+odjednom. Ova stranica je namenjena samo iskusnijim korisnicima.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -2393,7 +2393,7 @@ once. This page is intended for more experienced users only.
       <trans-unit id="csvUp2" datatype="html">
         <source>If you have a large number of log entries you want to claim, this may be the fastest way of recording them
 </source>
-        <target>If you have a large number of log entries you want to claim, this may be the fastest way of recording them
+        <target>Ako imate veliki broj dnevnika koje želite da pošaljete, ovo je možda najbrži način da to uradite
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -2410,8 +2410,8 @@ If however you only have a dozen or less entries, it will probably be easier
 to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
 </source>
         <target>
-If however you only have a dozen or less entries, it will probably be easier 
-to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web pages.
+Međutim ako imate samo desetak ili manje unosa, verovatno će biti lakše
+da koristite uobičajene <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>Add Chaser/S2S<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> web stranice.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -2440,9 +2440,9 @@ to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>Add Activa
 NOTEPAD, or can be exported from many other programs, such as Microsoft Excel. 
 The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> for details of the format of the CSV file that we require.</source>
         <target>
-	Create a CSV or TSV file containing all your entries. These can be for any number of activations. The file can be generated using a text editor such as 
-NOTEPAD, or can be exported from many other programs, such as Microsoft Excel. 
-The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> for details of the format of the CSV file that we require.</target>
+	Napravite CSV ili TSV datoteku koja sadrži sve vaše unose. Ovo može biti za bilo koji broj aktivacija. Datoteka se može generisati pomoću NOTEPAD-a, 
+ali se može izvesti i iz drugih programa, kao što je Microsoft Excel. 
+Format ove datoteke je kritičan da bi se osigurao ispravan unos podataka koji će biti snimljeni. Kliknite <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> za detalje o formatu CSV datoteke koji nam je potreban.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">20</context>
@@ -2452,7 +2452,7 @@ The format of this file is critical to ensure that correct log entries are recor
         <source>
 	If you are unsure what a CSV or TSV file is, please use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>chaser<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source>
         <target>
-	If you are unsure what a CSV or TSV file is, please use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>chaser<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</target>
+	Ako niste sigurni šta je CSV ili TSV datoteka, koristite uobičajenu <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>activator<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> or <x id="START_LINK_1" ctype="x-a" equiv-text="&lt;a>"/>chaser<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> stranicu za unos podataka.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">24</context>
@@ -2463,7 +2463,7 @@ The format of this file is critical to ensure that correct log entries are recor
 	Press the Browse button below and select the CSV or TSV file on your hard drive
    </source>
         <target>
-	Press the Browse button below and select the CSV or TSV file on your hard drive
+	Kliknite dugme za pretragu ispod i izaberite CSV ili TSV datoteku na vašem hard disku
    </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -2474,7 +2474,7 @@ The format of this file is critical to ensure that correct log entries are recor
         <source>
 	Press the Upload File button on the bottom of this screen to transfer the file to our server and begin processing it. This may take a few seconds. Please be patient!</source>
         <target>
-	Press the Upload File button on the bottom of this screen to transfer the file to our server and begin processing it. This may take a few seconds. Please be patient!</target>
+	Kliknite dugme "Upload File" na dnu ovog ekrana da prenesete datoteku na naš server i počnete da je obrađujete. Ovo može potrajati nekoliko sekundi. Budite strpljivi!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">29</context>
@@ -3075,9 +3075,9 @@ and spirit of the SOTA Programme. I agree that the decision of the
 Management Team will be final in any case of dispute.
 </source>
         <target>
-By submitting this log, I certify that I have operated within the rules
-and spirit of the SOTA Programme. I agree that the decision of the
-Management Team will be final in any case of dispute.
+Slanjem ovog dnevnika potvrđujem da sam radio u skladu sa pravilima 
+i u duhu SOTA programa. Slažem se da će u svim spornim slučajevima, 
+odluka komisije biti konačna.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -3103,9 +3103,8 @@ and that entries may be subject to verification and adjustment by the award
 administrators.
 </source>
         <target>
-I understand that the scores shown on this website are for guidance only
-and that entries may be subject to verification and adjustment by the award
-administrators.
+Razumem da su rezultati prikazani na ovoj veb stranici samo informativnog karaktera
+i da prijave mogu biti predmet provere od strane menadžera za diplome.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
@@ -3146,7 +3145,7 @@ administrators.
       </trans-unit>
       <trans-unit id="uploadAnother" datatype="html">
         <source>Upload another log</source>
-        <target>Pošalji drugi log</target>
+        <target>Pošalji drugi dnevnik</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">124</context>
@@ -3458,7 +3457,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SubmitLog" datatype="html">
         <source>Submit Log</source>
-        <target>Pošalji Log</target>
+        <target>Pošalji Dnevnik</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">131</context>
@@ -3470,7 +3469,7 @@ administrators.
       </trans-unit>
       <trans-unit id="UploadAnother" datatype="html">
         <source>Upload another log</source>
-        <target>Pošalji drugi log</target>
+        <target>Pošalji drugi Dnevnik</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-activator/add-activator.component.html</context>
           <context context-type="linenumber">153</context>
@@ -3502,7 +3501,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Find" datatype="html">
         <source>Find</source>
-        <target>Pronađi</target>
+        <target>Traži</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/find-summit/find-summit.component.html</context>
           <context context-type="linenumber">7</context>
@@ -3810,7 +3809,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Latitude" datatype="html">
         <source> Latitude </source>
-        <target> Latitude </target>
+        <target> Geografska širina </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3822,7 +3821,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Longitude" datatype="html">
         <source> Longitude </source>
-        <target> Longitude </target>
+        <target> Geografska dužina </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">63</context>
@@ -3834,7 +3833,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Locator" datatype="html">
         <source> Locator </source>
-        <target> Locator </target>
+        <target> Lokator </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">67</context>
@@ -3846,7 +3845,7 @@ administrators.
       </trans-unit>
       <trans-unit id="History" datatype="html">
         <source> History </source>
-        <target> History </target>
+        <target> Istorija </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
           <context context-type="linenumber">87</context>
@@ -3859,7 +3858,7 @@ administrators.
       <trans-unit id="SummitsListCSV" datatype="html">
         <source>NOTE : You can download a CSV file containing a list of all summits by clicking <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
     </source>
-        <target>NOTE : You can download a CSV file containing a list of all summits by clicking <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+        <target>NAPOMENA: Možete da preuzmete CSV datoteku koja sadrži listu svih SOTA vrhova klikom <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
     </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/list-summits/list-summits.component.html</context>
@@ -3876,7 +3875,7 @@ administrators.
       </trans-unit>
       <trans-unit id="YourCallsign" datatype="html">
         <source>Callsign/SWL YOU used</source>
-        <target>Callsign/SWL YOU used</target>
+        <target>Korišćen SWL pozivni znak</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
           <context context-type="linenumber">60</context>
@@ -3923,7 +3922,7 @@ administrators.
 Thank you for participating in SOTA
 </source>
         <target>
-Thank you for participating in SOTA
+Hvala Vam što podržavate SOTA program
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/add-chaser/add-chaser.component.html</context>
@@ -4504,7 +4503,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ShowLog" datatype="html">
         <source> Show Log </source>
-        <target> Prikaži Log </target>
+        <target> Prikaži Dnevnik </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log/my-activator-log.component.html</context>
           <context context-type="linenumber">64</context>
@@ -4844,7 +4843,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ChasedDate" datatype="html">
         <source> Chased Date </source>
-        <target> Chased Date </target>
+        <target> Datum početka rada Lovca </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-sota-complete/my-sota-complete.component.html</context>
           <context context-type="linenumber">30</context>
@@ -4856,7 +4855,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="CompletedDate" datatype="html">
         <source> Completed Date </source>
-        <target> Completed Date </target>
+        <target> Datum završetka </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-sota-complete/my-sota-complete.component.html</context>
           <context context-type="linenumber">34</context>
@@ -4968,7 +4967,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="TotalDiffChasers" datatype="html">
         <source>Total different chaser callsigns worked as activator</source>
-        <target>Ukupno različitih pozivnih znakova chasera koji su bili aktivatori</target>
+        <target>Ukupno različitih pozivnih znakova Lovaca koji su bili Aktivatori</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">42</context>
@@ -4984,7 +4983,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="MyTopActivationChasers" datatype="html">
         <source>My top activation chasers</source>
-        <target>Moje najbolje aktivacije kao chasera</target>
+        <target>Moje najbolje aktivacije kao Lovca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">69</context>
@@ -4992,7 +4991,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ChaserStatistics" datatype="html">
         <source>Chaser Statistics</source>
-        <target>Statistika chasera</target>
+        <target>Statistika Lovca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">90</context>
@@ -5000,7 +4999,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ChaserScore" datatype="html">
         <source>Chaser Score</source>
-        <target>Rezultat chasera</target>
+        <target>Rezultat Lovca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">93</context>
@@ -5008,7 +5007,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ChaserCallsignsUsed" datatype="html">
         <source> Chaser Callsigns Used </source>
-        <target> Korišćeni pozivni znak chasera </target>
+        <target> Korišćeni pozivni znak Lovca </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">99</context>
@@ -5016,7 +5015,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ChasedAssocsRegions" datatype="html">
         <source>Chased associations and regions</source>
-        <target>Nacionalne organizacije i oblasti chasera</target>
+        <target>Nacionalne organizacije i oblasti Lovca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">106</context>
@@ -5024,7 +5023,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="TotalDiffActivators" datatype="html">
         <source>Total different activator callsigns worked as chaser</source>
-        <target>Ukupno različitih pozivnih znakova aktivatora koji su radili kao chaseri</target>
+        <target>Ukupno različitih pozivnih znakova aktivatora koji su radili kao Lovci</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">121</context>
@@ -5032,7 +5031,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="MyTopChasedSummits" datatype="html">
         <source>My top chased summits</source>
-        <target>Moji najbolje ulovljeni vrhovi</target>
+        <target>Moji najbolje urađeni vrhovi kao Lovac</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-statistics/my-statistics.component.html</context>
           <context context-type="linenumber">122</context>
@@ -5048,7 +5047,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="MyChaserRegoins" datatype="html">
         <source>My Chased Regions</source>
-        <target>Moje ulovljene oblasti</target>
+        <target>Moje oblasti kao Lovac</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-regions/my-chaser-regions.component.html</context>
           <context context-type="linenumber">1</context>
@@ -5088,7 +5087,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ChaserPoints" datatype="html">
         <source> ChaserPoints </source>
-        <target> Chaser Bodova </target>
+        <target> LovacBodova </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">64</context>
@@ -5100,7 +5099,7 @@ Thank you for participating in SOTA
       </trans-unit>
       <trans-unit id="ActivatorPoints" datatype="html">
         <source> Activator Points </source>
-        <target> Aktivator Bodova </target>
+        <target> AktivatorBodova </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-s2-slog/my-s2-slog.component.html</context>
           <context context-type="linenumber">68</context>
@@ -5155,7 +5154,7 @@ Thank you for participating in SOTA
 You are about to permanently delete the record of the chaser contact below. This cannot be undone.
 </source>
         <target>
-You are about to permanently delete the record of the chaser contact below. This cannot be undone.
+Spremate se da trajno izbrišete zapis kontakta lovca ispod. Ovo se ne može poništiti.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
@@ -5171,7 +5170,7 @@ You are about to permanently delete the record of the chaser contact below. This
 If you wish to proceed, press the DELETE button at the bottom of this screen, otherwise press CANCEL.
 </source>
         <target>
-If you wish to proceed, press the DELETE button at the bottom of this screen, otherwise press CANCEL.
+Ako želite da nastavite, pritisnite dugme "Obriši" na dnu ovog ekrana, u suprotnom pritisnite "Poništi".
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-chaser-log-delete/my-chaser-log-delete.component.html</context>
@@ -5283,16 +5282,16 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         the file will be assumed to only contain a single activation.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
 
                  </source>
-        <target>This facility lets you upload a large number of QSOs in one bulk
-        transaction. You need to create a Comma Separated Variable (CSV) or Tab
-        Separated Variable (TSV) file with the fields laid out as shown in the example
-        below. You then submit this file, which is checked for errors before presenting
-        you with the option to save the QSOs to your database. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>You can mix activation records,
-        chaser records and S2S (summit to summit) records all in the same file.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
-        You can include multiple activations in this file but all records for each activation must be together.
-        Each activation is deemed to end when the [My Summit] reference changes. If you
-        activate the same summit on several days you must upload each activation in a separate file<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/> otherwise
-        the file will be assumed to only contain a single activation.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+        <target>Ova mogućnost vam omogućava da otpremite veliki broj QSO-ova u jednom skupu
+        transakcija. Morate da kreirate promenljivu odvojenu zarezima (CSV) ili karticu
+        Datoteka odvojene promenljive (TSV) sa poljima postavljenim kao što je prikazano u primeru
+        ispod. Zatim šaljete ovu datoteku, koja se proverava da li ima grešaka pre predstavljanja
+        imate opciju da sačuvate veze u vašoj bazi podataka. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>Možete mešati zapise o aktivaciji,
+        zapise lovaca i S2S zapisi svi u istoj datoteci.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+        Možete uključiti više aktivacija u ovu datoteku, ali svi zapisi za svaku aktivaciju moraju biti zajedno.
+        Smatra se da je svaka aktivacija završena kada se referenca [My Summit] promeni.
+        Ako aktivirate isti vrh nekoliko dana, morate da otpremite svaku aktivaciju u posebnu datoteku<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/> inače
+        će se pretpostaviti da datoteka sadrži samo jednu aktivaciju.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
 
                  </target>
         <context-group purpose="location">
@@ -5323,7 +5322,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       or
     </source>
         <target>
-      or
+      ili
     </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
@@ -5358,8 +5357,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         <source>Each field is separated by either a Comma (CSV) or Tab (TSV).
         Each QSO is a single record and there is one record to a line, terminated in
         [CR][LF].</source>
-        <target>Each field is separated by either a Comma (CSV) or Tab (TSV).
-        Each QSO is a single record and there is one record to a line, terminated in
+        <target>Svako polje je odvojeno ili zarezom (CSV) ili tabulatorom (TSV).
+        Svaki QSO je jedan zapis i postoji jedan zapis do linije, koja se završava
         [CR][LF].</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
@@ -5401,8 +5400,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csvCallsign" datatype="html">
         <source>This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
               used for the QSO. No spaces in the callsign please</source>
-        <target>This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
-              used for the QSO. No spaces in the callsign please</target>
+        <target>Ovo je pozivni znak <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
+              koji se koristi za vezu. Bez razmaka u pozivnom znaku</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">65</context>
@@ -5411,8 +5410,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csvSummit" datatype="html">
         <source>This MUST be the full
               SOTA reference of the summit you where activating, as shown in the above example.</source>
-        <target>This MUST be the full
-              SOTA reference of the summit you where activating, as shown in the above example.</target>
+        <target>Ovo MORA biti popunjeno
+               SOTA referenca vrha koji ste aktivirali, kao što je prikazano u gornjem primeru.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">74</context>
@@ -5421,7 +5420,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csvSummitChaser" datatype="html">
         <source>If you are entering a chaser log, this field will be blank.  See last entry in the example.
           </source>
-        <target>If you are entering a chaser log, this field will be blank.  See last entry in the example.
+        <target>Ako unosite dnevnik lovca, ovo polje će biti prazno. Pogledajte poslednji unos u primeru.
           </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
@@ -5432,9 +5431,9 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         <source>The date of the QSO.
               Most date formats are accepted but be careful about USA vs. International date
               format.  Use of International date format (DD/MM/YY) is recommended</source>
-        <target>The date of the QSO.
-              Most date formats are accepted but be careful about USA vs. International date
-              format.  Use of International date format (DD/MM/YY) is recommended</target>
+        <target>Datum QSO-a.
+              Većina formata datuma je prihvaćena, ali budite oprezni u odnosu na datum u SAD u odnosu na međunarodni datum
+              formatu. Preporučuje se upotreba međunarodnog formata datuma (DD/MM/GG).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">86</context>
@@ -5443,8 +5442,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csvTime" datatype="html">
         <source>The time in UTC.
               Either HHMM or HH:MM will work. Use the 24 hour clock!</source>
-        <target>The time in UTC.
-              Either HHMM or HH:MM will work. Use the 24 hour clock!</target>
+        <target>Vreme u UTC.
+               Ili HHMM ili HH:MM će raditi. Koristite 24 časovni format!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">96</context>
@@ -5452,7 +5451,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="csvBand" datatype="html">
         <source>You can enter the frequency in MHz (14.285MHz) or pick from the following:</source>
-        <target>Frekvenciju možete uneti u MHz (14.285MHz) ili odabrati nešto od sledećeg:</target>
+        <target>Frekvenciju možete uneti u MHz (14.285MHz) ili odabrati nešto od ponuđenog:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">105</context>
@@ -5461,8 +5460,8 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       <trans-unit id="csvOtherCall" datatype="html">
         <source>The callsign of the <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
                 station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</source>
-        <target>The callsign of the <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
-                station worked<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</target>
+        <target>Pozivni znak za<x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
+                rađenu stanicu<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>.  Bez razmaka u pozivnom znaku</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">234</context>
@@ -5473,10 +5472,10 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
               was also activating a SOTA summit. This is the full SOTA reference of the summit the chasing station was activating, as shown in the above example.
                             If there is no [Other Summit] you can leave this blank. If there is a comment then you must insert a TAB or comma to mark the field as being blank.
                             See entries for G3NOH or GW4GTE</source>
-        <target>This field is only needed if the station
-              was also activating a SOTA summit. This is the full SOTA reference of the summit the chasing station was activating, as shown in the above example.
-                            If there is no [Other Summit] you can leave this blank. If there is a comment then you must insert a TAB or comma to mark the field as being blank.
-                            See entries for G3NOH or GW4GTE</target>
+        <target>Ovo polje je potrebno samo ako je stanica koja je Lovac
+               takođe aktivirala SOTA vrh. Ovo je puna SOTA referenca vrha koji je stanica Lovca aktivirala, kao što je prikazano u gornjem primeru.
+                             Ako ne postoji [Drugi Vrh], ovo možete ostaviti praznim. Ako postoji komentar, morate umetnuti TAB ili zarez da biste označili polje kao prazno.
+                             Pogledajte unose za G3NOH ili GW4GTE</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">243</context>
@@ -5490,10 +5489,10 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
 
 
           </source>
-        <target>An optional field for
-              recording short notes about the QSO. This could include the Operator's name and
-              location, Signal Report, QSL information, or almost anything else. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
-                            <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>You can embed a TAB or comma in this field. If you do you must enclose the entire Notes field in double-quotes. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+        <target>Opciono polje za
+               snimanje kratkih beleški o QSO-u. Ovo može uključivati ime operatera i
+               lokacija, izveštaj o signalu, QSL informacije ili skoro bilo šta drugo. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+                            <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>U ovo polje možete da ugradite TAB ili zarez. Ako to uradite, morate da stavite celo polje Beleške u dvostruke navodnike. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
 
 
           </target>
@@ -5508,10 +5507,10 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         create your TSV/CSV file is using Excel.  This allows you to arrange your
         log data in columns then save it as either a TSV or CSV file.  Either is
         accepted by the SOTA program.</source>
-        <target>The easiest way to
-        create your TSV/CSV file is using Excel.  This allows you to arrange your
-        log data in columns then save it as either a TSV or CSV file.  Either is
-        accepted by the SOTA program.</target>
+        <target>Najlakši način da
+        kreirajte svoju TSV/CSV datoteku koristeći Excel. Ovo vam omogućava da uredite svoje
+        evidentirane podatke u kolonama, a zatim ih sačuvajte kao TSV ili CSV datoteku. Svakako je
+        prihvaćen programom SOTA.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">265</context>
@@ -5539,9 +5538,9 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         <source>Date or time out of
             order.  The input parser will show an error if the log is not in
             sequential order</source>
-        <target>Date or time out of
-            order.  The input parser will show an error if the log is not in
-            sequential order</target>
+        <target>Redosled Datuma ili vremena
+             nije dobar. Ulazni parser će pokazati grešku ako evidencija nije unutra
+             sekvencijalnog redosleda</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">276</context>
@@ -5552,10 +5551,10 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
             reference number.  Spaces in the reference, leaving off the ITU prefix, or
             specifying a reference that does not exist will all result in an error being
             reported.</source>
-        <target>Errors in the SOTA
-            reference number.  Spaces in the reference, leaving off the ITU prefix, or
-            specifying a reference that does not exist will all result in an error being
-            reported.</target>
+        <target>Greške u SOTA
+             referentnom broju. Razmaci u referenci, izostavljajući ITU prefiks, ili
+             navođenje reference koja ne postoji sve će rezultirati prijavom 
+			 greške.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">280</context>
@@ -5568,12 +5567,12 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
         carefully check that everything is correct before saving it. As soon as you
         have saved the data you will be able to see the effect in the various Activator
         tables.</source>
-        <target>If an error is
-        detected then it is shown in Red and you should then modify the file to correct
-        the error and resubmit it. Once you get an error free report, you should
-        carefully check that everything is correct before saving it. As soon as you
-        have saved the data you will be able to see the effect in the various Activator
-        tables.</target>
+        <target>Ako je greška
+        otkrivena, biće prikazana crvenom bojom i tada bi trebalo da izmenite datoteku da biste ispravili
+        grešku i ponovo je pošaljite. Kada dobijete izveštaj bez grešaka, trebalo bi
+        pažljivo proverite da li je sve ispravno pre nego što ga sačuvate.
+        Ako sačuvate podatke moći ćete da vidite efekat u različitim tabelama
+        aktivatora.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv-help/activator-csv-help.component.html</context>
           <context context-type="linenumber">286</context>
@@ -5637,7 +5636,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
       </trans-unit>
       <trans-unit id="PointsHistory" datatype="html">
         <source>Points history</source>
-        <target>Points history</target>
+        <target>Istorija bodova</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/summit-report/summit-report.component.html</context>
           <context context-type="linenumber">52</context>
@@ -5904,7 +5903,7 @@ If you wish to proceed, press the DELETE button at the bottom of this screen, ot
 You are about to permanently delete the record of the activation QSO below. This cannot be undone.
 </source>
         <target>
-You are about to permanently delete the record of the activation QSO below. This cannot be undone.
+Spremate se da trajno izbrišete zapis o aktivacionoj vezi ispod. Ovo se ne može poništiti.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/my-activator-log-qso-delete/my-activator-log-qso-delete.component.html</context>
@@ -5924,7 +5923,7 @@ You are about to permanently delete the record of the activation QSO below. This
 You are about to permanently delete the record of the activation below. This cannot be undone.
 </source>
         <target>
-You are about to permanently delete the record of the activation below. This cannot be undone.
+Spremate se da trajno izbrišete zapis o aktivaciji ispod. Ovo se ne može poništiti.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/delete-activation/delete-activation.component.html</context>
@@ -6071,7 +6070,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
         <source>
 	Export an ADIF file from your log program containing all your entries you would like to upload. These can be for any number of activations, but DO NOT upload your entire log - only export the entries for SOTA.</source>
         <target>
-	Export an ADIF file from your log program containing all your entries you would like to upload. These can be for any number of activations, but DO NOT upload your entire log - only export the entries for SOTA.</target>
+	Izvezite ADIF datoteku iz vašeg programa evidencije koja sadrži sve vaše unose koje želite da otpremite. Ovo može biti za bilo koji broj aktivacija, ali NEMOJTE otpremati ceo dnevnik - samo izvozite unose za SOTU.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">20</context>
@@ -6081,7 +6080,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
         <source>
 	If you are unsure what an ADIF file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</source>
         <target>
-	If you are unsure what an ADIF file is, please use the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> data entry page instead.</target>
+	Ako niste sigurni šta je ADIF datoteka, koristite <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>normal<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> umesto toga stranica za unos podataka.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">22</context>
@@ -6092,7 +6091,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
 	Press the Browse button below and select the ADIF file on your hard drive
    </source>
         <target>
-	Press the Browse button below and select the ADIF file on your hard drive
+	Pritisnite dugme za pretragu ispod i izaberite ADIF datoteku na vašem hard disku
    </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
@@ -6101,7 +6100,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="selectADIF" datatype="html">
         <source>Select ADIF File:</source>
-        <target>Odaberi ADIF fajl:</target>
+        <target>Odaberi ADIF datoteku:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-adif/activator-adif.component.html</context>
           <context context-type="linenumber">32</context>
@@ -6129,7 +6128,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="Datamodes" datatype="html">
         <source> Datamodes </source>
-        <target> Datamodes </target>
+        <target> Datamodovi </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/challenge2020-chaser/challenge2020-chaser.component.html</context>
           <context context-type="linenumber">44</context>
@@ -6197,7 +6196,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="ChasersWorked" datatype="html">
         <source> Chasers Worked </source>
-        <target> Rađeni Chaseri </target>
+        <target> Rađeni Lovci </target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/challenge2020-activator/challenge2020-activator.component.html</context>
           <context context-type="linenumber">32</context>
@@ -6205,7 +6204,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="ManageUploadsIntro" datatype="html">
         <source>This page will enable you to delete any upload you have made via CSV or ADIF after May 30, 2020.  By clicking on delete, all S2S, Chaser and Activator records for that upload will be deleted and can be reuploaded</source>
-        <target>Ova stranica će vam omogućiti da izbrišete bilo koji prenos koji ste izvršili putem CSV-a ili ADIF-a nakon 30. maja 2020. Klikom na Delete, svi S2S, Chaser i Aktivator zapisi za to otpremanje biće izbrisani i mogu se ponovo učitati</target>
+        <target>Ova stranica će vam omogućiti da izbrišete bilo koji unos koji ste izvršili putem CSV-a ili ADIF-a nakon 30. maja 2020. Klikom na Delete, svi S2S, Lovac i Aktivator zapisi za to otpremanje biće izbrisani i mogu se ponovo učitati</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">3</context>
@@ -6213,7 +6212,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="Chases" datatype="html">
         <source>Chases</source>
-        <target>Chases</target>
+        <target>Lov</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">29</context>
