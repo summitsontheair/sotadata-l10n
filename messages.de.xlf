@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="ngb.alert.close" datatype="html">
         <source>Close</source>
-        <target state="new">Close</target>
+        <target state="new">Schließen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/alert/alert.ts</context>
           <context context-type="linenumber">79</context>
@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="ngb.carousel.slide-number" datatype="html">
         <source> Slide <x id="INTERPOLATION" equiv-text="* If `true`,"/> of <x id="INTERPOLATION_1" equiv-text="h carousel usin"/> </source>
-        <target state="new"> Slide <x id="INTERPOLATION" equiv-text="* If `true`,"/> of <x id="INTERPOLATION_1" equiv-text="h carousel usin"/> </target>
+        <target state="new"> Seite <x id="INTERPOLATION" equiv-text="* If `true`,"/> aus <x id="INTERPOLATION_1" equiv-text="h carousel usin"/> </target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/carousel/carousel.ts</context>
           <context context-type="linenumber">150,157</context>
@@ -21,7 +21,7 @@
       </trans-unit>
       <trans-unit id="ngb.carousel.previous" datatype="html">
         <source>Previous</source>
-        <target state="new">Previous</target>
+        <target state="new">Vorher</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/carousel/carousel.ts</context>
           <context context-type="linenumber">178</context>
@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id="ngb.carousel.next" datatype="html">
         <source>Next</source>
-        <target state="new">Next</target>
+        <target state="new">Nächste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/carousel/carousel.ts</context>
           <context context-type="linenumber">200</context>
@@ -37,7 +37,7 @@
       </trans-unit>
       <trans-unit id="ngb.datepicker.previous-month" datatype="html">
         <source>Previous month</source>
-        <target state="new">Previous month</target>
+        <target state="new">Vorheriges Monat</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/datepicker/datepicker-navigation.ts</context>
           <context context-type="linenumber">69</context>
@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="ngb.datepicker.next-month" datatype="html">
         <source>Next month</source>
-        <target state="new">Next month</target>
+        <target state="new">Nächste Monat</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/datepicker/datepicker-navigation.ts</context>
           <context context-type="linenumber">69</context>
@@ -61,7 +61,7 @@
       </trans-unit>
       <trans-unit id="ngb.datepicker.select-month" datatype="html">
         <source>Select month</source>
-        <target state="new">Select month</target>
+        <target state="new">Wähle Monat</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/datepicker/datepicker-navigation-select.ts</context>
           <context context-type="linenumber">74</context>
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="ngb.datepicker.select-year" datatype="html">
         <source>Select year</source>
-        <target state="new">Select year</target>
+        <target state="new">Wähle Jahr</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/datepicker/datepicker-navigation-select.ts</context>
           <context context-type="linenumber">74</context>
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="ngb.pagination.first-aria" datatype="html">
         <source>First</source>
-        <target state="new">First</target>
+        <target state="new">Erste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">324</context>
@@ -125,7 +125,7 @@
       </trans-unit>
       <trans-unit id="ngb.pagination.previous-aria" datatype="html">
         <source>Previous</source>
-        <target state="new">Previous</target>
+        <target state="new">Vorherige</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">338</context>
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="ngb.pagination.next-aria" datatype="html">
         <source>Next</source>
-        <target state="new">Next</target>
+        <target state="new">Nächste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">350</context>
@@ -141,7 +141,7 @@
       </trans-unit>
       <trans-unit id="ngb.pagination.last-aria" datatype="html">
         <source>Last</source>
-        <target state="new">Last</target>
+        <target state="new">Letzte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">367</context>
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.increment-hours" datatype="html">
         <source>Increment hours</source>
-        <target state="new">Increment hours</target>
+        <target state="new">Stunde erhöhen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">208</context>
@@ -174,7 +174,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.hours" datatype="html">
         <source>Hours</source>
-        <target state="new">Hours</target>
+        <target state="new">Stunde</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">155</context>
@@ -182,7 +182,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.decrement-hours" datatype="html">
         <source>Decrement hours</source>
-        <target state="new">Decrement hours</target>
+        <target state="new">Stunde erniedrigen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">229</context>
@@ -190,7 +190,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.increment-minutes" datatype="html">
         <source>Increment minutes</source>
-        <target state="new">Increment minutes</target>
+        <target state="new">Minuten erhöhen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">252</context>
@@ -206,7 +206,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.minutes" datatype="html">
         <source>Minutes</source>
-        <target state="new">Minutes</target>
+        <target state="new">Minuten</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">190</context>
@@ -214,7 +214,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.decrement-minutes" datatype="html">
         <source>Decrement minutes</source>
-        <target state="new">Decrement minutes</target>
+        <target state="new">Minuten erniedrigen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">274</context>
@@ -222,7 +222,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.increment-seconds" datatype="html">
         <source>Increment seconds</source>
-        <target state="new">Increment seconds</target>
+        <target state="new">Sekunden erhöhen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">295</context>
@@ -246,7 +246,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.decrement-seconds" datatype="html">
         <source>Decrement seconds</source>
-        <target state="new">Decrement seconds</target>
+        <target state="new">Sekunden erniedrigen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">295</context>
@@ -270,7 +270,7 @@
       </trans-unit>
       <trans-unit id="ngb.toast.close-aria" datatype="html">
         <source>Close</source>
-        <target state="new">Close</target>
+        <target state="new">Schließen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/toast/toast.ts</context>
           <context context-type="linenumber">108</context>
@@ -287,7 +287,7 @@
       </trans-unit>
       <trans-unit id="Trademark" datatype="html">
         <source>© 2002-2023 Summits on the Air. Summits on the Air, SOTA and the SOTA Logo are trademarks of the Programme. Questions or comments about this site should be directed to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;http://www.sota.org.uk/Contact&quot; target=&quot;_blank&quot;>"/>webmaster<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. Participation in SOTA is at your own risk. The listing of a summit does NOT imply access is possible. Verify before accessing. See our <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Joining-In/Acceptable-Use-Policy&quot; target=&quot;_blank&quot;>"/>Acceptable Use Policy.<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></source>
-        <target state="new">© 2002-2022 Summits on the Air. Summits on the Air, SOTA and the SOTA Logo are trademarks of the Programme. Questions or comments about this site should be directed to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;http://www.sota.org.uk/Contact&quot; target=&quot;_blank&quot;>"/>webmaster<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. Participation in SOTA is at your own risk. The listing of a summit does NOT imply access is possible. Verify before accessing. See our <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Joining-In/Acceptable-Use-Policy&quot; target=&quot;_blank&quot;>"/>Acceptable Use Policy.<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></target>
+        <target state="new">© 2002-2023 Summits on the Air. Summits on the Air, SOTA und das SOTA Logo sind geschützt Gebrauchsmuster. Fragen und Kommentare an <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;http://www.sota.org.uk/Contact&quot; target=&quot;_blank&quot;>"/>webmaster<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. Die Teilnahme an SOTA erfolgt auf eigenes Risiko. Die Auflistung der Gipfel impliziert nicht die Erlaubnis diese zu betreten. Prüfe die Situation vor dem Betreten. Siehe auch <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Joining-In/Acceptable-Use-Policy&quot; target=&quot;_blank&quot;>"/>Acceptable Use Policy.<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">9,11</context>
@@ -323,7 +323,7 @@
       </trans-unit>
       <trans-unit id="Logs" datatype="html">
         <source>Logs</source>
-        <target state="new">Logs</target>
+        <target state="new">Dein SOTA-Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">3</context>
@@ -335,7 +335,7 @@
       </trans-unit>
       <trans-unit id="HonourRolls" datatype="html">
         <source>Honour Rolls</source>
-        <target state="new">Honour Rolls</target>
+        <target state="new">Bestenliste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/nav-menu/nav-menu.component.html</context>
           <context context-type="linenumber">17</context>
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="Uploads" datatype="html">
         <source>Uploads</source>
-        <target state="new">Uploads</target>
+        <target state="new">Hochladen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/nav-menu/nav-menu.component.html</context>
           <context context-type="linenumber">26</context>
@@ -351,7 +351,7 @@
       </trans-unit>
       <trans-unit id="Statistics" datatype="html">
         <source>Statistics</source>
-        <target state="new">Statistics</target>
+        <target state="new">Statistiken</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/nav-menu/nav-menu.component.html</context>
           <context context-type="linenumber">29</context>
@@ -367,7 +367,7 @@
       </trans-unit>
       <trans-unit id="UpdateAccount" datatype="html">
         <source>Update Account</source>
-        <target state="new">Update Account</target>
+        <target state="new">Profil aktualisieren</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/title-bar/title-bar.component.html</context>
           <context context-type="linenumber">16</context>
@@ -375,7 +375,7 @@
       </trans-unit>
       <trans-unit id="ManageArticles" datatype="html">
         <source>Manage Articles</source>
-        <target state="new">Manage Articles</target>
+        <target state="new">Summitartikel verwalten</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/title-bar/title-bar.component.html</context>
           <context context-type="linenumber">17</context>
@@ -427,7 +427,7 @@
       </trans-unit>
       <trans-unit id="ActivatorUniquesRollOfHonour" datatype="html">
         <source>Activator Uniques Roll of Honour</source>
-        <target state="new">Activator Uniques Roll of Honour</target>
+        <target state="new">Aktivierer Uniques - Ewige Bestenliste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">27</context>
@@ -435,7 +435,7 @@
       </trans-unit>
       <trans-unit id="ChaserUniquesRollOfHonour" datatype="html">
         <source>Chaser Uniques Roll of Honour</source>
-        <target state="new">Chaser Uniques Roll of Honour</target>
+        <target state="new">Jäger Uniques - Ewige Bestenliste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">28</context>
@@ -459,7 +459,7 @@
       </trans-unit>
       <trans-unit id="CompletesRollOfHonour" datatype="html">
         <source>SOTA Completes Roll of Honour</source>
-        <target state="new">SOTA Completes Roll of Honour</target>
+        <target state="new">SOTA Completes - Ewige Bestenliste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">31</context>
@@ -467,7 +467,7 @@
       </trans-unit>
       <trans-unit id="SWLRollOfHonour" datatype="html">
         <source>SWL Roll of Honour</source>
-        <target state="new">SWL Roll of Honour</target>
+        <target state="new">SWL - Ewige Bestenliste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">32</context>
@@ -523,7 +523,7 @@
       </trans-unit>
       <trans-unit id="AllEntries" datatype="html">
         <source>- All Entries -</source>
-        <target state="new">- All Entries -</target>
+        <target state="new">- Alle Einträge -</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">7</context>
@@ -539,7 +539,7 @@
       </trans-unit>
       <trans-unit id="SOTAResultsAndSummitsDatabase" datatype="html">
         <source>SOTA Results and Summits Database</source>
-        <target state="new">SOTA Results and Summits Database</target>
+        <target state="new">SOTA Ergebnis- und Gipfeldatenbank</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/title-bar/title-bar.component.html</context>
           <context context-type="linenumber">4</context>
@@ -555,7 +555,7 @@
       </trans-unit>
       <trans-unit id="BackToSummitsList" datatype="html">
         <source>&lt;&lt; Back to summits list</source>
-        <target state="new">&lt;&lt; Back to summits list</target>
+        <target state="new">&lt;&lt; Zurück zur Gipfelliste</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/recent-summits/recent-summits.component.html</context>
           <context context-type="linenumber">5</context>
@@ -567,7 +567,7 @@
       </trans-unit>
       <trans-unit id="UploadCSV" datatype="html">
         <source>Upload CSV File</source>
-        <target>CSV-/TSV-Logdatei hochladen</target>
+        <target>CSV-/TSV-Datei hochladen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvmodal/csvmodal.component.html</context>
           <context context-type="linenumber">3</context>
@@ -575,7 +575,7 @@
       </trans-unit>
       <trans-unit id="UploadADIF" datatype="html">
         <source>Upload ADIF File</source>
-        <target state="new">Upload ADIF log file</target>
+        <target state="new">ADIF Datei hochladen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
           <context context-type="linenumber">3</context>
@@ -583,7 +583,7 @@
       </trans-unit>
       <trans-unit id="ManageUploads" datatype="html">
         <source>Manage Uploads</source>
-        <target state="new">Manage Uploads</target>
+        <target state="new">Log-Datenverwaltung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">1</context>
@@ -785,7 +785,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="csvUpInst2" datatype="html">
         <source> If you are unsure what a CSV or TSV file is, please add entries normally, one QSO at a time.</source>
-        <target state="new"> If you are unsure what a CSV or TSV file is, please add entries normally, one QSO at a time.</target>
+        <target state="new"> Wenn dir CSV und TSV nicht sagen dann lade über die Formularliste hoch.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvmodal/csvmodal.component.html</context>
           <context context-type="linenumber">31</context>
@@ -794,7 +794,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       <trans-unit id="csvUpInst3" datatype="html">
         <source> Press the Browse button below and select the CSV or TSV file on your hard drive </source>
         <target>
-	"Durchsuchen" klicken, um die CSV- oder TSV-Datei auszuwählen.
+	"Durchsuchen" klicken und CSV- oder TSV-Datei auszuwählen.
    </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvmodal/csvmodal.component.html</context>
@@ -824,7 +824,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="d37104b3c46b8392494a6e80ed99e70d553b88bf" datatype="html">
         <source>Upload Logs</source>
-        <target state="new">Upload Logs</target>
+        <target state="new">Deine Logdateien hochladen und verwalten</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">2</context>
@@ -833,7 +833,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="AddChaser" datatype="html">
         <source>Add Chaser QSO</source>
-        <target state="new">Add Chaser QSO</target>
+        <target state="new">Jäger QSO eintragen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">4</context>
@@ -841,7 +841,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ImportCSV" datatype="html">
         <source>Import CSV</source>
-        <target state="new">Import CSV</target>
+        <target state="new">CSV hochladen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">7</context>
@@ -849,7 +849,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ImportADIF" datatype="html">
         <source>Import ADIF</source>
-        <target state="new">Import ADIF</target>
+        <target state="new">ADIF hochladen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">8</context>
@@ -857,7 +857,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="SessionIsAvailable" datatype="html">
         <source>A previously unsubmitted session exists. Would you like to restore?</source>
-        <target state="new">A previously unsubmitted session exists. Would you like to restore?</target>
+        <target state="new">Nicht abgeschlossene Sitzung wurde gefunden. Diese zur Bearbeitung wiederherstellen? </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">19</context>
@@ -865,7 +865,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Restore" datatype="html">
         <source>Restore</source>
-        <target state="new">Restore</target>
+        <target state="new">Wiederherstellen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">21</context>
@@ -873,7 +873,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="CancelEditing" datatype="html">
         <source>Cancel Editing</source>
-        <target state="new">Cancel Editing</target>
+        <target state="new">Verwerfen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">25</context>
@@ -881,7 +881,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Chase" datatype="html">
         <source>Chase</source>
-        <target state="new">Chase</target>
+        <target state="new">Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">30</context>
@@ -889,7 +889,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="InvalidSummit" datatype="html">
         <source>Invalid Summit</source>
-        <target state="new">Invalid Summit</target>
+        <target state="new">Ungültige Referenz</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">30</context>
@@ -905,7 +905,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Warning" datatype="html">
         <source>Warning</source>
-        <target state="new">Warning</target>
+        <target state="new">Warnung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">30</context>
@@ -917,7 +917,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="SWLChase" datatype="html">
         <source>SWL Chase</source>
-        <target state="new">SWL Chase</target>
+        <target state="new">SWL Eintrag</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">30</context>
@@ -925,7 +925,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ChaserDuplicate" datatype="html">
         <source> A record for this chase exists. This chase will be ignored. </source>
-        <target state="new"> A record for this chase exists. This chase will be ignored. </target>
+        <target state="new"> Ein Eintrag existiert bereits in der Datenbank und wird ignoriert. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">31</context>
@@ -933,7 +933,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="InvalidDateOrTime" datatype="html">
         <source>Invalid Date or Time</source>
-        <target state="new">Invalid Date or Time</target>
+        <target state="new">Datum oder Zeitformat ungültig</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">39</context>
@@ -941,7 +941,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="InvalidBand" datatype="html">
         <source>Invalid Band</source>
-        <target state="new">Invalid Band</target>
+        <target state="new">Band ungültig</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">40</context>
@@ -949,7 +949,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="InvalidMode" datatype="html">
         <source>Invalid Mode</source>
-        <target state="new">Invalid Mode</target>
+        <target state="new">Betriebsart ungültig</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">41</context>
@@ -957,7 +957,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="InvalidDate" datatype="html">
         <source>Invalid Date</source>
-        <target state="new">Invalid Date</target>
+        <target state="new">Datum ungültig</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">61</context>
@@ -965,7 +965,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ActivationUploadedAlready" datatype="html">
         <source>This activation has already been uploaded - try editing it!</source>
-        <target state="new">This activation has already been uploaded - try editing it!</target>
+        <target state="new">Diese Aktivierung wurde bereits hochgeladen. Bearbeitung nötig.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">62</context>
@@ -973,7 +973,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Duplicate" datatype="html">
         <source>DUPLICATE</source>
-        <target state="new">DUPLICATE</target>
+        <target state="new">DUPLIKAT</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">62</context>
@@ -981,7 +981,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Frequency" datatype="html">
         <source>Frequency</source>
-        <target state="new">Frequency</target>
+        <target state="new">Frequenz</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">87</context>
@@ -989,7 +989,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="S2SSummit" datatype="html">
         <source>S2S Summit</source>
-        <target state="new">S2S Summit</target>
+        <target state="new">S2S Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">89</context>
@@ -1105,7 +1105,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Time" datatype="html">
         <source>Time</source>
-        <target> Uhrzeit </target>
+        <target>Uhrzeit</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activation-show/activation-show.component.html</context>
           <context context-type="linenumber">22</context>
@@ -1473,7 +1473,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ActivatorUniques" datatype="html">
         <source>Activator Uniques</source>
-        <target state="new">Activator Uniques</target>
+        <target state="new">Aktivierer Uniques</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">9</context>
@@ -1481,7 +1481,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ChaserUniques" datatype="html">
         <source>Chaser Uniques</source>
-        <target state="new">Chaser Uniques</target>
+        <target state="new">Jäger Uniques</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">10</context>
@@ -1509,7 +1509,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Mode" datatype="html">
         <source>Mode</source>
-        <target> Betriebsart </target>
+        <target>Betriebsart</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activation-show/activation-show.component.html</context>
           <context context-type="linenumber">25</context>
@@ -1593,7 +1593,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Summit" datatype="html">
         <source>Summit</source>
-        <target> Gipfel </target>
+        <target>Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activation-show/activation-show.component.html</context>
           <context context-type="linenumber">13</context>
@@ -1681,7 +1681,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="OtherSummit" datatype="html">
         <source>Other Summit</source>
-        <target> Gipfel Gegenstation</target>
+        <target>Gipfel Gegenstation</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/activation-modal/activation-modal.component.html</context>
           <context context-type="linenumber">37</context>
@@ -1693,7 +1693,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="OtherCallsign" datatype="html">
         <source>Other Callsign</source>
-        <target> Rufzeichen Gegenstation</target>
+        <target>Rufzeichen Gegenstation</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">118</context>
@@ -1749,7 +1749,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="OtherLocation" datatype="html">
         <source>Other Location</source>
-        <target state="new">Other Location</target>
+        <target state="new">Standort Gegenstation</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">119</context>
@@ -1761,7 +1761,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Callsign" datatype="html">
         <source>Callsign</source>
-        <target> Rufzeichen </target>
+        <target>Rufzeichen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">29</context>
@@ -1809,7 +1809,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="AchievementDate" datatype="html">
         <source>Achievement Date</source>
-        <target state="new">Achievement Date</target>
+        <target state="new">Erreicht am:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">30</context>
@@ -1821,7 +1821,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Last25Awardees" datatype="html">
         <source>Last 25 Awardees</source>
-        <target state="new">Last 25 Awardees</target>
+        <target state="new">Letzten 25</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">41</context>
@@ -1829,7 +1829,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ActivatorBest20" datatype="html">
         <source>Best 20 Activator Days</source>
-        <target state="new">Best 20 Activator Days</target>
+        <target state="new">Besten 20 Aktivierer-Tage</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/challenge20/challenge20.component.html</context>
           <context context-type="linenumber">27</context>
@@ -1837,7 +1837,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ChaserBest20" datatype="html">
         <source>Best 20 Chaser Days</source>
-        <target state="new">Best 20 Chaser Days</target>
+        <target state="new">Besten 20 Jäger-Tage</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/challenge20/challenge20.component.html</context>
           <context context-type="linenumber">28</context>
@@ -1845,7 +1845,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="S2SBest20" datatype="html">
         <source>Best 20 S2S Days</source>
-        <target state="new">Best 20 S2S Days</target>
+        <target state="new">Besten 20 S2S Tage</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/challenge20/challenge20.component.html</context>
           <context context-type="linenumber">29</context>
@@ -1853,7 +1853,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="UniqueSummits" datatype="html">
         <source>Unique Summits</source>
-        <target state="new"> Uniques </target>
+        <target state="new">Unique Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">84</context>
@@ -1861,7 +1861,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="TotalSummits" datatype="html">
         <source>Total Summits</source>
-        <target state="new"> Anzahl Gipfel </target>
+        <target state="new">Anzahl Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">85</context>
@@ -1873,7 +1873,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="PercentUnique" datatype="html">
         <source>Percent Unique</source>
-        <target state="new"> Uniques % </target>
+        <target state="new">Uniques %</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">86</context>
@@ -1941,7 +1941,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="MultipleAccounts" datatype="html">
         <source>This callsign has multiple accounts associated with it. Please contact <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Contact&quot;>"/>the SOTA MT<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> to rectify</source>
-        <target state="new">This callsign has multiple accounts associated with it. Please contact <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Contact&quot;>"/>the SOTA MT<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> to rectify</target>
+        <target state="new">Mit diesem Rufzeichen ist mehr als ein Profil angelegt. Bitte kontaktiere <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Contact&quot;>"/>das SOTA Team<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> zur Behebung.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">1</context>
@@ -1953,7 +1953,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ActivatorLog" datatype="html">
         <source>Activator Log</source>
-        <target state="new">Activator Log</target>
+        <target state="new">Aktivierer Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">3</context>
@@ -1961,7 +1961,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="MyActivatedRegions" datatype="html">
         <source>My Activated Regions</source>
-        <target state="new">My Activated Regions</target>
+        <target state="new">Meine aktivierten Regionen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">9</context>
@@ -1969,7 +1969,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="ShowMicrowaveOnly" datatype="html">
         <source>Go to Microwave Log</source>
-        <target state="new">Go to Microwave Log</target>
+        <target state="new">Zum Mikrowellen Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">10</context>
@@ -1985,7 +1985,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="GoToActivatorLog" datatype="html">
         <source>Go to Activator Log</source>
-        <target state="new">Go to Activator Log</target>
+        <target state="new">Zum  Aktivierer Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">11</context>
@@ -2017,7 +2017,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="UpcomingActivations" datatype="html">
         <source>Upcoming Activations</source>
-        <target state="new">Upcoming Activations</target>
+        <target state="new">Angekündigte Aktivierung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">68</context>
@@ -2033,7 +2033,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="FeelFreeToAdd" datatype="html">
         <source>Feel free to add External Links<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;oi oi-external-link&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>and Articles<x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;oi oi-copywriting&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>relating to this summit that activators and chasers may find useful or interesting. Please read the disclaimer notice at the bottom of the page.</source>
-        <target state="new">Feel free to add External Links<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;oi oi-external-link&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>and Articles<x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;oi oi-copywriting&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>relating to this summit that activators and chasers may find useful or interesting. Please read the disclaimer notice at the bottom of the page.</target>
+        <target state="new">Ergänze externe Links<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;oi oi-external-link&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>und Artikel<x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;oi oi-copywriting&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>um Aktivierer nützliche und interessante Infomationen bereit zu stellen. Bitte den Nutzungshinweise am Seitenende beachten.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">79</context>
@@ -2041,7 +2041,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="NewExternalLink" datatype="html">
         <source>New External Link</source>
-        <target state="new">New External Link</target>
+        <target state="new">Externen Link hinzufügen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">100</context>
@@ -2049,7 +2049,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="NewArticle" datatype="html">
         <source>New Article</source>
-        <target state="new">New Article</target>
+        <target state="new">Artikel hinzufügen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">101</context>
@@ -2057,7 +2057,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="SummitDisclaimer" datatype="html">
         <source>DISCLAIMER: The SOTA programme and its Management Team is not responsible for the content of external internet sites or for information added by third parties to this website. Please contact the SOTA Management Team if you have concerns about submitted content. The existence of information relating to a particular location does not confer or imply any right of access. Participation in the SOTA Programme is at the risk of the participant.</source>
-        <target state="new">DISCLAIMER: The SOTA programme and its Management Team is not responsible for the content of external internet sites or for information added by third parties to this website. Please contact the SOTA Management Team if you have concerns about submitted content. The existence of information relating to a particular location does not confer or imply any right of access. Participation in the SOTA Programme is at the risk of the participant.</target>
+        <target state="new">NUTZUNGSHINWEIS: Das SOTA Programme und dessen Management Team ist nicht für Inhalte auf verlinkten Webseiten oder Inhalte welche hier von Dritten veröffentlicht wurden verantwortlich. Bitte kontaktiere das SOTA Management Team bei Bedenken zu veröffentlichten Inhalten. Das vorhandensein von Information suggeriert nicht die Erlaubnis diesen spezifischen Ort betreten zu dürfen. Teilnahme am SOTA Programme erfolgt auf eigenes Risiko.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">104</context>
@@ -2065,7 +2065,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="SummitNotFound" datatype="html">
         <source>Summit not found</source>
-        <target state="new">Summit not found</target>
+        <target state="new">Gipfel nicht gefunden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">112</context>
@@ -2109,7 +2109,7 @@ Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur inform
       </trans-unit>
       <trans-unit id="UploadComplete" datatype="html">
         <source>Upload completed</source>
-        <target state="new">Upload completed</target>
+        <target state="new">Hochladen erfolgreich</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">156</context>
@@ -2117,7 +2117,7 @@ Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur inform
       </trans-unit>
       <trans-unit id="UploadResult" datatype="html">
         <source>You have <x id="INTERPOLATION" equiv-text="{{ this.uploadResults.activator[2] }}"/> activator points, <x id="INTERPOLATION_1" equiv-text="{{ this.uploadResults.s2s }}"/> S2S points and <x id="INTERPOLATION_2" equiv-text="{{ this.uploadResults.chaser }}"/> chaser points.</source>
-        <target state="new">You have <x id="INTERPOLATION" equiv-text="{{ this.uploadResults.activator[2] }}"/> activator points, <x id="INTERPOLATION_1" equiv-text="{{ this.uploadResults.s2s }}"/> S2S points and <x id="INTERPOLATION_2" equiv-text="{{ this.uploadResults.chaser }}"/> chaser points.</target>
+        <target state="new">Du hast jetzt <x id="INTERPOLATION" equiv-text="{{ this.uploadResults.activator[2] }}"/> Aktivierer Punkte, <x id="INTERPOLATION_1" equiv-text="{{ this.uploadResults.s2s }}"/> S2S Punkte and <x id="INTERPOLATION_2" equiv-text="{{ this.uploadResults.chaser }}"/> Jäger Punkte.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">157</context>
@@ -2125,7 +2125,7 @@ Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur inform
       </trans-unit>
       <trans-unit id="NewUpload" datatype="html">
         <source>New Upload</source>
-        <target state="new">New Upload</target>
+        <target state="new">Weiteren Upload</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">160</context>
@@ -2133,7 +2133,7 @@ Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur inform
       </trans-unit>
       <trans-unit id="ReturnToLogs" datatype="html">
         <source>Return to Logs</source>
-        <target state="new">Return to Logs</target>
+        <target state="new">Zurück zur Log-Übersicht</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">162</context>
@@ -2141,7 +2141,7 @@ Ich habe verstanden, dass alle auf dieser Webseite angezeigten Punkte nur inform
       </trans-unit>
       <trans-unit id="ReturnToUpload" datatype="html">
         <source>Return to Upload</source>
-        <target state="new">Return to Upload</target>
+        <target state="new">Zurück zur Upload-Seite</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">161</context>
@@ -2225,7 +2225,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="OwnCall" datatype="html">
         <source>Own Callsign</source>
-        <target state="new">Own Callsign</target>
+        <target state="new">Dein Rufzeichen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activation-delete-modal/activation-delete-modal.component.html</context>
           <context context-type="linenumber">27</context>
@@ -2233,7 +2233,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="otherCallsign" datatype="html">
         <source>Other Callsign</source>
-        <target>Rufzeichen Gegenstation: </target>
+        <target>Rufzeichen Gegenstation</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-delete-modal/chaser-delete-modal.component.html</context>
           <context context-type="linenumber">30</context>
@@ -2325,7 +2325,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="Average" datatype="html">
         <source>Average</source>
-        <target state="new"> Durchschnitt </target>
+        <target state="new">Durchschnitt</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">91</context>
@@ -2333,7 +2333,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="ViewLog" datatype="html">
         <source>View Log</source>
-        <target state="new"> Log  anzeigen</target>
+        <target state="new">Log  anzeigen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">92</context>
@@ -2389,7 +2389,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="ActivationCount" datatype="html">
         <source>Activation Count</source>
-        <target state="new"> Anzahl Aktivierungen</target>
+        <target state="new">Anzahl Aktivierungen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">14</context>
@@ -2405,7 +2405,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="LastActivation" datatype="html">
         <source>Last Activation</source>
-        <target state="new"> Zuletzt aktiviert</target>
+        <target state="new">Zuletzt aktiviert</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/recent-summits/recent-summits.component.html</context>
           <context context-type="linenumber">15</context>
@@ -2417,7 +2417,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="LastActivator" datatype="html">
         <source>Last Activator</source>
-        <target state="new"> Letzter Aktivierer</target>
+        <target state="new">Letzter Aktivierer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/recent-summits/recent-summits.component.html</context>
           <context context-type="linenumber">16</context>
@@ -2429,7 +2429,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="RegionName" datatype="html">
         <source>Region</source>
-        <target state="new">Name Region: </target>
+        <target state="new">Region</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/association/association.component.html</context>
           <context context-type="linenumber">31</context>
@@ -2453,7 +2453,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="MyChasedSummits" datatype="html">
         <source>My Chased Summits</source>
-        <target state="new">My Chased Summits</target>
+        <target state="new">Deine gejagten Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">18</context>
@@ -2461,7 +2461,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="RegionManager" datatype="html">
         <source>Region Manager:</source>
-        <target state="new">Regionsmanager: </target>
+        <target state="new">Regionsmanager:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">6</context>
@@ -2477,7 +2477,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="LatitudeLongitude" datatype="html">
         <source> Latitude / Longitude </source>
-        <target state="new"> Latitude / Longitude </target>
+        <target state="new"> Geogr. Breite / Länge </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/features-control/features-control.component.html</context>
           <context context-type="linenumber">25,27</context>
@@ -2485,7 +2485,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="Reset" datatype="html">
         <source>Reset</source>
-        <target state="new">Reset</target>
+        <target state="new">Zurücksetzen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">10</context>
@@ -2493,7 +2493,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="AllQSOs" datatype="html">
         <source>All QSOs</source>
-        <target state="new">All QSOs</target>
+        <target state="new">Alle QSO</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">16</context>
@@ -2501,7 +2501,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="S2SOnly" datatype="html">
         <source>S2S only</source>
-        <target state="new">S2S only</target>
+        <target state="new">Nur Summit2Summit</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">17</context>
@@ -2509,7 +2509,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="NoS2S" datatype="html">
         <source>No S2S</source>
-        <target state="new">No S2S</target>
+        <target state="new">Keine Summit2Summit</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">18</context>
@@ -2541,7 +2541,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="YourSWLCallsign" datatype="html">
         <source>SWL Callsign YOU Used</source>
-        <target state="new">SWL Callsign YOU Used</target>
+        <target state="new">Deine SWL Kennung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/chaser-modal/chaser-modal.component.html</context>
           <context context-type="linenumber">26</context>
@@ -2585,7 +2585,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="VerifyLog" datatype="html">
         <source>Verify Log <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;spinner-border spinner-border-sm&quot; role=&quot;status&quot; aria-hidden=&quot;true&quot; *ngIf=&quot;this.verifying&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/></source>
-        <target state="new">Verify Log <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;spinner-border spinner-border-sm&quot; role=&quot;status&quot; aria-hidden=&quot;true&quot; *ngIf=&quot;this.verifying&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/></target>
+        <target state="new">Verifiziere Log <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;spinner-border spinner-border-sm&quot; role=&quot;status&quot; aria-hidden=&quot;true&quot; *ngIf=&quot;this.verifying&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">124</context>
@@ -2605,7 +2605,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="Previous6Months" datatype="html">
         <source>Previous 6 Months</source>
-        <target state="new">Previous 6 Months</target>
+        <target state="new">Letzten 6 Monate</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">19</context>
@@ -2617,7 +2617,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="ActivatorWorked" datatype="html">
         <source>Activator Worked</source>
-        <target state="new">Activator Worked</target>
+        <target state="new">Gearbeitete Aktivierer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">47</context>
@@ -2633,7 +2633,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="MyChaserRegions" datatype="html">
         <source>My Chased Regions</source>
-        <target state="new">My Chased Regions</target>
+        <target state="new">Deine gejagten Regionen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">1</context>
@@ -2733,7 +2733,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="ShowAnalysis" datatype="html">
         <source>Show Analysis</source>
-        <target state="new">Show Analysis</target>
+        <target state="new">Zeige Analyse</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">28</context>
@@ -2745,7 +2745,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="Loading" datatype="html">
         <source>Loading...</source>
-        <target state="new">Loading...</target>
+        <target state="new">Ladevorgang...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">33</context>
@@ -2817,7 +2817,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="ChaserLog" datatype="html">
         <source>Chaser Log</source>
-        <target state="new">Chaser Log</target>
+        <target state="new">Jäger Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">3</context>
@@ -2825,7 +2825,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="ShowAllQSOs" datatype="html">
         <source>Show All QSOs</source>
-        <target state="new">Show All QSOs</target>
+        <target state="new">Zeige alle QSO</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">6</context>
@@ -2833,7 +2833,7 @@ Klicke "Löschen" oder "Abbruch".
       </trans-unit>
       <trans-unit id="ShowAwards" datatype="html">
         <source>Show Awards</source>
-        <target state="new">Show Awards</target>
+        <target state="new">Zeige Awards</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">7</context>
@@ -2973,7 +2973,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Delete" datatype="html">
         <source>Delete</source>
-        <target state="new"> Löschen </target>
+        <target state="new">Löschen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activation-show/activation-show.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3065,7 +3065,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="SummitReference" datatype="html">
         <source>Summit Reference</source>
-        <target state="new"> SOTA-Referenz</target>
+        <target state="new">SOTA-Referenz</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/recent-summits/recent-summits.component.html</context>
           <context context-type="linenumber">9</context>
@@ -3101,7 +3101,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Info" datatype="html">
         <source>Info</source>
-        <target state="new"> Info </target>
+        <target state="new">Info</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/recent-summits/recent-summits.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3125,7 +3125,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ViewAllSummitActivity" datatype="html">
         <source>View ALL Summit Activity</source>
-        <target state="new">View ALL Summit Activity</target>
+        <target state="new">Zeige alle Gipfel Aktivitäten</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">1</context>
@@ -3133,7 +3133,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Activation" datatype="html">
         <source>Activation</source>
-        <target state="new">Activation</target>
+        <target state="new">Aktivierung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">5</context>
@@ -3141,7 +3141,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Latest" datatype="html">
         <source>Latest</source>
-        <target state="new">Latest</target>
+        <target state="new">Letzte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">7</context>
@@ -3149,7 +3149,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="FirstActivation" datatype="html">
         <source>First activation</source>
-        <target state="new">First activation</target>
+        <target state="new">Erstaktivierung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">13</context>
@@ -3157,7 +3157,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivatedByMe1Time" datatype="html">
         <source>Activated by me 1 time on</source>
-        <target state="new">Activated by me 1 time on</target>
+        <target state="new">Von mir ein Mal aktiviert am</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">19</context>
@@ -3165,7 +3165,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivatedByMeXTimes" datatype="html">
         <source>Activated by me <x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> times on</source>
-        <target state="new">Activated by me <x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> times on</target>
+        <target state="new">Von mir <x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> Mal aktiviert am</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">20</context>
@@ -3173,7 +3173,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ChasedByMe1Time" datatype="html">
         <source>Chased by me 1 time on</source>
-        <target state="new">Chased by me 1 time on</target>
+        <target state="new">Von mir ein Mal gejagt am</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">28</context>
@@ -3181,7 +3181,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ChasedByMeXTimes" datatype="html">
         <source>Chased by me <x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/> times on</source>
-        <target state="new">Chased by me <x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/> times on</target>
+        <target state="new">Von mir <x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/> Mal gejagt am</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">29</context>
@@ -3189,7 +3189,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="OftenActivatedWith" datatype="html">
         <source>Often activated with</source>
-        <target state="new">Often activated with</target>
+        <target state="new">Häufig aktiviert zusammen mit</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">37</context>
@@ -3197,7 +3197,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="NoActivationsYet" datatype="html">
         <source>No activations yet!</source>
-        <target state="new">No activations yet!</target>
+        <target state="new">Keine Aktivierungen gefunden!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">45</context>
@@ -3205,7 +3205,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="LoadingActivationData" datatype="html">
         <source>Loading activation data</source>
-        <target state="new">Loading activation data</target>
+        <target state="new">Ladevorgang Aktivierungsdaten</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">46</context>
@@ -3213,7 +3213,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="PostedByCallsign" datatype="html">
         <source> Posted by <x id="INTERPOLATION" equiv-text="{{ model.callsign }}"/> on <x id="INTERPOLATION_1" equiv-text="{{ model.dateSubmitted * 1000 | date }}"/> </source>
-        <target state="new"> Posted by <x id="INTERPOLATION" equiv-text="{{ model.callsign }}"/> on <x id="INTERPOLATION_1" equiv-text="{{ model.dateSubmitted * 1000 | date }}"/> </target>
+        <target state="new"> Erstellt von <x id="INTERPOLATION" equiv-text="{{ model.callsign }}"/> am <x id="INTERPOLATION_1" equiv-text="{{ model.dateSubmitted * 1000 | date }}"/> </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">4,6</context>
@@ -3221,7 +3221,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ReturnToSummitCode" datatype="html">
         <source>Return to <x id="INTERPOLATION" equiv-text="{{ model.summitCode }}"/></source>
-        <target state="new">Return to <x id="INTERPOLATION" equiv-text="{{ model.summitCode }}"/></target>
+        <target state="new">Zurück zu <x id="INTERPOLATION" equiv-text="{{ model.summitCode }}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">7</context>
@@ -3229,7 +3229,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="EditArticle" datatype="html">
         <source>Edit Article</source>
-        <target state="new">Edit Article</target>
+        <target state="new">Bearbeite Artikel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">13</context>
@@ -3237,7 +3237,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ArticleText" datatype="html">
         <source>Article text</source>
-        <target state="new">Article text</target>
+        <target state="new">Artikeltext</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">35</context>
@@ -3245,7 +3245,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ArticleTextIsRequired" datatype="html">
         <source> Article text is required </source>
-        <target state="new"> Article text is required </target>
+        <target state="new"> Artikeltext darf nicht leer sein </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">41,43</context>
@@ -3253,7 +3253,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="SaveArticle" datatype="html">
         <source>Save Article</source>
-        <target state="new">Save Article</target>
+        <target state="new">Speichere Artikel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3261,7 +3261,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="AddArticle" datatype="html">
         <source>Add Article</source>
-        <target state="new">Add Article</target>
+        <target state="new">Artikel hinzufügen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3269,7 +3269,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="DriveUp" datatype="html">
         <source>Drive Up Summit</source>
-        <target state="new">Drive Up Summit</target>
+        <target state="new">Drive Up Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">5</context>
@@ -3277,7 +3277,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReachedByVehicle" datatype="html">
         <source>Activation zone can be reached by vehicle</source>
-        <target state="new">Activation zone can be reached by vehicle</target>
+        <target state="new">Aktivierungszone kann mit Auto erreicht werden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">5</context>
@@ -3285,7 +3285,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="DriveUp4WD" datatype="html">
         <source>Drive Up Summit - 4WD only</source>
-        <target state="new">Drive Up Summit - 4WD only</target>
+        <target state="new">Drive Up Gipfel - Allrad nötig</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">11</context>
@@ -3293,7 +3293,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReachedByVehicle4WD" datatype="html">
         <source>Activation zone can be reached by vehicle with 4WD capability</source>
-        <target state="new">Activation zone can be reached by vehicle with 4WD capability</target>
+        <target state="new">Aktivierungszone kann mit Geländewagen erreicht werden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">11</context>
@@ -3301,7 +3301,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="PublicTransport" datatype="html">
         <source>Public Transport</source>
-        <target state="new">Public Transport</target>
+        <target state="new">Öffentlicher Verkehr</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3309,7 +3309,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReachedByPubTrans" datatype="html">
         <source>Trailhead or Activation Zone can be reached by public transport from nearby city</source>
-        <target state="new">Trailhead or Activation Zone can be reached by public transport from nearby city</target>
+        <target state="new">Wanderung oder Aktivierungszone kann mit öffentlichen Verkehsmitteln erreicht werden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3317,7 +3317,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="CycleFriendly" datatype="html">
         <source>Cycle Friendly</source>
-        <target state="new">Cycle Friendly</target>
+        <target state="new">Fahrrad tauglich</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">23</context>
@@ -3325,7 +3325,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeCycle" datatype="html">
         <source>Activation zone can be reached by bicycle</source>
-        <target state="new">Activation zone can be reached by bicycle</target>
+        <target state="new">Aktivierungszone kann bzw. darf mit dem Fahrrad erreicht werden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">23</context>
@@ -3333,7 +3333,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="DisabilityFriendly" datatype="html">
         <source>Disability Friendy</source>
-        <target state="new">Disability Friendy</target>
+        <target state="new">Handicap geeignet</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">29</context>
@@ -3341,7 +3341,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="SummitIsAccessible" datatype="html">
         <source>Sumit is accessible to all people, regardless of ability</source>
-        <target state="new">Sumit is accessible to all people, regardless of ability</target>
+        <target state="new">Gipfel ist zugänglich auch für Personen mit Handicap</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">29</context>
@@ -3349,7 +3349,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="EasyWalk" datatype="html">
         <source>Easy Walk (&lt;30 minutes)</source>
-        <target state="new">Easy Walk (&lt;30 minutes)</target>
+        <target state="new">Kurze und einfache Wanderung (&lt;30 minutes)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">35</context>
@@ -3357,7 +3357,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReached30mins" datatype="html">
         <source>Activation zone can be reached by walking less than 30 minutes from a trailhead</source>
-        <target state="new">Activation zone can be reached by walking less than 30 minutes from a trailhead</target>
+        <target state="new">Aktivierungszone kann in weniger als 30 Minuten auf einfachen Wegen erreicht werden.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">35</context>
