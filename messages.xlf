@@ -259,6 +259,74 @@
           <context context-type="linenumber">9,11</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="Association" datatype="html">
+        <source>Association</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/association/association.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/challenges/challenge20/challenge20.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/challenges/first12m/first12m.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/challenges/first610m/first610m.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="AssociationManager" datatype="html">
+        <source>Association Manager</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/association/association.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/association/association.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="BackToListOfAssociations" datatype="html">
+        <source>Back to list of Associations</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/association/association.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="50bc65303609976214244bac5ffa106e928d9134" datatype="html">
+        <source> The Association commenced on <x id="INTERPOLATION" equiv-text="{{ association.activeFrom | date: &apos;mediumDate&apos; }}"/> and currently has <x id="INTERPOLATION_1" equiv-text="{{ association.regionsCount }}"/> Regions (listed below) and <x id="INTERPOLATION_2" equiv-text="{{ association.summitsCount }}"/> qualifying summits. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/association/association.component.html</context>
+          <context context-type="linenumber">17,19</context>
+        </context-group>
+        <note priority="1" from="description">TheAssociationCommencedOn</note>
+      </trans-unit>
+      <trans-unit id="ClickOnARegionToViewSummits" datatype="html">
+        <source>Click on a Region to view a list of summits.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/association/association.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="Code" datatype="html">
         <source>Code</source>
         <context-group purpose="location">
@@ -283,13 +351,6 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/association/association.component.html</context>
           <context context-type="linenumber">31</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="AssociationManager" datatype="html">
-        <source>Manager</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/association/association.component.html</context>
-          <context context-type="linenumber">32</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Summits" datatype="html">
@@ -489,37 +550,6 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">36,37</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="Association" datatype="html">
-        <source>Association</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/challenges/challenge20/challenge20.component.html</context>
-          <context context-type="linenumber">11</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/challenges/first12m/first12m.component.html</context>
-          <context context-type="linenumber">13</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/challenges/first610m/first610m.component.html</context>
-          <context context-type="linenumber">15</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
-          <context context-type="linenumber">12</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
-          <context context-type="linenumber">42</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
-          <context context-type="linenumber">13</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
-          <context context-type="linenumber">29</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Show" datatype="html">
@@ -3956,6 +3986,57 @@ For more information about the SOTA program in your area, please see the main we
           <context context-type="linenumber">49</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="DistanceSearch" datatype="html">
+        <source>Distance Search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="DistanceSearchDesc" datatype="html">
+        <source> This searches for summits within a defined radius of the specified coordinates. Coordinates default to Home QTH if these details are available.
+</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
+          <context context-type="linenumber">4,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Latitude" datatype="html">
+        <source>Latitude</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Longitude" datatype="html">
+        <source>Longitude</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="DistanceKM" datatype="html">
+        <source>Distance(km)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Search" datatype="html">
+        <source>Search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="SummitSearch" datatype="html">
         <source>Summit Search</source>
         <context-group purpose="location">
@@ -3971,6 +4052,38 @@ For more information about the SOTA program in your area, please see the main we
           <context context-type="linenumber">3,5</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="BackToAssociationList" datatype="html">
+        <source>Back to Association List</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="DistanceResults" datatype="html">
+        <source>Distance Results</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Searching" datatype="html">
+        <source>Searching</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="km" datatype="html">
+        <source>km</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="KM" datatype="html">
         <source>km</source>
         <context-group purpose="location">
@@ -3983,6 +4096,10 @@ For more information about the SOTA program in your area, please see the main we
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
+          <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="TitleIsRequired" datatype="html">
@@ -4420,20 +4537,6 @@ For more information about the SOTA program in your area, please see the main we
           <context context-type="linenumber">30</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="Latitude" datatype="html">
-        <source>Latitude</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
-          <context context-type="linenumber">33</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="Longitude" datatype="html">
-        <source>Longitude</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
-          <context context-type="linenumber">34</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="UKGridRef" datatype="html">
         <source>UK Grid Ref</source>
         <context-group purpose="location">
@@ -4453,6 +4556,20 @@ For more information about the SOTA program in your area, please see the main we
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="RelativeToHomeQTH" datatype="html">
+        <source>Relative to home QTH</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mi" datatype="html">
+        <source>mi</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
+          <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivationsWontEarnPoints" datatype="html">
