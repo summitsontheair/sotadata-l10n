@@ -3349,7 +3349,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="EasyWalk" datatype="html">
         <source>Easy Walk (&lt;30 minutes)</source>
-        <target state="new">Kurze und einfache Wanderung (&lt;30 minutes)</target>
+        <target state="new">Kurze Wanderzeit (&lt;30 Minuten)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">35</context>
@@ -3357,7 +3357,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReached30mins" datatype="html">
         <source>Activation zone can be reached by walking less than 30 minutes from a trailhead</source>
-        <target state="new">Aktivierungszone kann in weniger als 30 Minuten auf einfachen Wegen erreicht werden.</target>
+        <target state="new">Aktivierungszone kann in weniger als 30 Minuten Wanderzeit erreicht werden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">35</context>
@@ -3365,7 +3365,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ModerateWalk" datatype="html">
         <source>Moderate Walk (30-90 minutes)</source>
-        <target state="new">Moderate Walk (30-90 minutes)</target>
+        <target state="new">Mittlere Wanderzeit (30-90 Minuten)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">41</context>
@@ -3373,7 +3373,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReached3090mins" datatype="html">
         <source>Activation zone can be reached by walking between 30 minutes and 90 minutes from a trailhead</source>
-        <target state="new">Activation zone can be reached by walking between 30 minutes and 90 minutes from a trailhead</target>
+        <target state="new">Aktivierungszone kann in 30 bis 90 Minuten Wanderzeit erreicht werden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">41</context>
@@ -3381,7 +3381,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="LongWalk" datatype="html">
         <source>Long Walk (1.5 hours - 6 hours)</source>
-        <target state="new">Long Walk (1.5 hours - 6 hours)</target>
+        <target state="new">Lange Wanderzeit (1,5 bis 6 Stunden)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">47</context>
@@ -3389,7 +3389,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReached16hours" datatype="html">
         <source>Activation zone can be reached by walking between 1.5 and 6 hours from a trailhead</source>
-        <target state="new">Activation zone can be reached by walking between 1.5 and 6 hours from a trailhead</target>
+        <target state="new">Aktivierungszone kann in 1,5 bis 6 Stunden Wanderzeit erreicht werden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">47</context>
@@ -3397,7 +3397,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="OvernightHike" datatype="html">
         <source>Overnight Hike</source>
-        <target state="new">Overnight Hike</target>
+        <target state="new">Wanderung mit Nächtigung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">53</context>
@@ -3405,7 +3405,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReachedOvernight" datatype="html">
         <source>Activation zone can be reached by overnight or multi-day walk</source>
-        <target state="new">Activation zone can be reached by overnight or multi-day walk</target>
+        <target state="new">Aktivierungszone kann typischerweise nur per Übernachtung (Hütte, Biwak, usw) und mehrtägiger Wanderung erreicht werden.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">53</context>
@@ -3413,7 +3413,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="RockClimbingRequired" datatype="html">
         <source>Rock Climbing Required</source>
-        <target state="new">Rock Climbing Required</target>
+        <target state="new">Felsklettern oder Klettersteig</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3421,7 +3421,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivationZoneRequiresRockClimbing" datatype="html">
         <source>Activation zone requires rock climbing to reach</source>
-        <target state="new">Activation zone requires rock climbing to reach</target>
+        <target state="new">Aktivierungszone kann über Felskletterei oder einen Klettersteig erreicht werden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3429,7 +3429,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="PotentialAccessIssuesAddNote" datatype="html">
         <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>Potential Access Issues<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> - Please add note to explain</source>
-        <target state="new"><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>Potential Access Issues<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> - Please add note to explain</target>
+        <target state="new"><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>Mögliche Betretungsbeschränkung<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> - Details hier beschreiben</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">65</context>
@@ -3437,7 +3437,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Point" datatype="html">
         <source>point</source>
-        <target state="new">point</target>
+        <target state="new">Punkt</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">5</context>
@@ -3445,7 +3445,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="AssociationList" datatype="html">
         <source>Association List</source>
-        <target state="new">Association List</target>
+        <target state="new">Liste der Assoziationen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3453,7 +3453,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="BackToAssociation" datatype="html">
         <source>Back to <x id="INTERPOLATION" equiv-text="{{ summit.associationCode }}"/> Association</source>
-        <target state="new">Back to <x id="INTERPOLATION" equiv-text="{{ summit.associationCode }}"/> Association</target>
+        <target state="new">Zurück zur <x id="INTERPOLATION" equiv-text="{{ summit.associationCode }}"/> Assoziation</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">18</context>
@@ -3461,7 +3461,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="BackToRegion" datatype="html">
         <source>Back to <x id="INTERPOLATION" equiv-text="{{ summit.regionCode }}"/> Region</source>
-        <target state="new">Back to <x id="INTERPOLATION" equiv-text="{{ summit.regionCode }}"/> Region</target>
+        <target state="new">Zurück zur <x id="INTERPOLATION" equiv-text="{{ summit.regionCode }}"/> Region</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">19</context>
@@ -3477,7 +3477,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Latitude" datatype="html">
         <source>Latitude</source>
-        <target state="new">Latitude</target>
+        <target state="new">Breitengrad</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">33</context>
@@ -3485,7 +3485,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Longitude" datatype="html">
         <source>Longitude</source>
-        <target state="new">Longitude</target>
+        <target state="new">Längengrad</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">34</context>
@@ -3509,7 +3509,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="BonusPeriod" datatype="html">
         <source>Bonus Period</source>
-        <target state="new">Bonus Period</target>
+        <target state="new">Bonus Zeitraum</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">41</context>
@@ -3517,7 +3517,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivationsWontEarnPoints" datatype="html">
         <source>Activations and chases of this summit will not earn points.</source>
-        <target state="new">Activations and chases of this summit will not earn points.</target>
+        <target state="new">Aktivierungen und Jäger-QSO zu diesem Gipfel generieren keine Punkte.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">52</context>
@@ -3525,7 +3525,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="SubjectToRestrictions" datatype="html">
         <source>This summit is potentially subject to restricted access or restrictions on operations. Details may be found by clicking below:</source>
-        <target state="new">This summit is potentially subject to restricted access or restrictions on operations. Details may be found by clicking below:</target>
+        <target state="new">Dieser Gipfel hat Zutrittsbeschränkungen oder andere Einschränkungen für den Funkbetrieb. Details siehe Link unterhalt.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">57</context>
@@ -3533,7 +3533,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="AltM" datatype="html">
         <source>Alt (m)</source>
-        <target state="new"> Höhe (m) </target>
+        <target state="new">Höhe (m)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">28</context>
@@ -3557,7 +3557,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="TotalActivations" datatype="html">
         <source>Total Activations</source>
-        <target state="new">Total Activations</target>
+        <target state="new">Gesammtzahl Aktivierungen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">30</context>
@@ -3573,7 +3573,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="MyActivations" datatype="html">
         <source>My Activations</source>
-        <target state="new">My Activations</target>
+        <target state="new">Deine Aktivierung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">31</context>
@@ -3589,7 +3589,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="MyChases" datatype="html">
         <source>My Chases</source>
-        <target state="new">My Chases</target>
+        <target state="new">Deine Jäger-Kontakte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">32</context>
@@ -3605,7 +3605,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Summit Articles" datatype="html">
         <source>Summit Articles</source>
-        <target state="new">Summit Articles</target>
+        <target state="new">Gipfelartikel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">3</context>
@@ -3613,7 +3613,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="NoSummitResourcesFound" datatype="html">
         <source>No summit resources found</source>
-        <target state="new">No summit resources found</target>
+        <target state="new">Keine Zusatzinformationen gefunden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">13</context>
@@ -3621,7 +3621,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Title" datatype="html">
         <source>Title</source>
-        <target state="new">Title</target>
+        <target state="new">Titel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">20</context>
@@ -3637,7 +3637,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Article/Link" datatype="html">
         <source>Article/Link</source>
-        <target state="new">Article/Link</target>
+        <target state="new">Artikel/Link</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">21</context>
@@ -3645,7 +3645,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ConfirmDelete" datatype="html">
         <source>Confirm Delete</source>
-        <target state="new">Confirm Delete</target>
+        <target state="new">Bestätige das Löschen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">41</context>
@@ -3657,7 +3657,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="DeleteThisResource" datatype="html">
         <source>Delete this resource?</source>
-        <target state="new">Delete this resource?</target>
+        <target state="new">Diese Information löschen?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">47</context>
@@ -3677,7 +3677,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivatorStats" datatype="html">
         <source>Activator Stats</source>
-        <target state="new">Activator Stats</target>
+        <target state="new">Aktivierer Statistiken</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">9</context>
@@ -3685,7 +3685,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ChaserStats" datatype="html">
         <source>Chaser Stats</source>
-        <target state="new">Chaser Stats</target>
+        <target state="new">Jäger Statistiken</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">12</context>
@@ -3693,7 +3693,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="TotalPointsL" datatype="html">
         <source>total points</source>
-        <target state="new">total points</target>
+        <target state="new">Gesamtpunkte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">33</context>
@@ -3705,7 +3705,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivatorPointsL" datatype="html">
         <source>activator points</source>
-        <target state="new">activator points</target>
+        <target state="new">Aktiviererpunkte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">34</context>
@@ -3717,7 +3717,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="BonusPointsL" datatype="html">
         <source>bonus points</source>
-        <target state="new">bonus points</target>
+        <target state="new">Bonuspunkte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">35</context>
@@ -3729,7 +3729,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivationsL" datatype="html">
         <source>activations</source>
-        <target state="new">activations</target>
+        <target state="new">Aktivierungen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">43</context>
@@ -3741,7 +3741,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="UniqueSummitsL" datatype="html">
         <source>unique summits</source>
-        <target state="new">unique summits</target>
+        <target state="new">Unique Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">51</context>
@@ -3761,7 +3761,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="AssociationsL" datatype="html">
         <source>associations</source>
-        <target state="new">associations</target>
+        <target state="new">Associationen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3777,7 +3777,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="RegionsL" datatype="html">
         <source>regions</source>
-        <target state="new">regions</target>
+        <target state="new">Regionen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">60</context>
@@ -3793,7 +3793,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Top Chaser" datatype="html">
         <source>Top Chaser</source>
-        <target state="new">Top Chaser</target>
+        <target state="new">Top Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">69</context>
@@ -3805,7 +3805,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivatingSince" datatype="html">
         <source>Activating since</source>
-        <target state="new">Activating since</target>
+        <target state="new">Aktivierer seit</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">78</context>
@@ -3817,7 +3817,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="RecentActivations" datatype="html">
         <source>Recent activations</source>
-        <target state="new">Recent activations</target>
+        <target state="new">Kürzliche Aktivierungen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">147</context>
@@ -3825,7 +3825,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="AddActivation" datatype="html">
         <source>Add Activation</source>
-        <target state="new">Add Activation</target>
+        <target state="new">Aktivierung hinzufügen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">169</context>
@@ -3841,7 +3841,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="More" datatype="html">
         <source>More...</source>
-        <target state="new">More...</target>
+        <target state="new">Mehr anzeigen...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">169</context>
@@ -3861,7 +3861,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivatorBadges" datatype="html">
         <source>Activator Badges</source>
-        <target state="new">Activator Badges</target>
+        <target state="new">Aktiviererabzeichen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">175</context>
@@ -3869,7 +3869,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivityByYear" datatype="html">
         <source>Activity by year</source>
-        <target state="new">Activity by year</target>
+        <target state="new">Aktivitäten pro Jahr</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">190</context>
@@ -3881,7 +3881,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Bands" datatype="html">
         <source>Bands</source>
-        <target state="new">Bands</target>
+        <target state="new">Bänder</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">216</context>
@@ -3893,7 +3893,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="TopChasers" datatype="html">
         <source>Top Chasers</source>
-        <target state="new">Top Chasers</target>
+        <target state="new">Häufigste Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">262</context>
@@ -3901,7 +3901,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="MostActivated" datatype="html">
         <source>Most Activated</source>
-        <target state="new">Most Activated</target>
+        <target state="new">Am häufigsten aktiviert</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">277</context>
@@ -3909,7 +3909,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="PointsL" datatype="html">
         <source>points</source>
-        <target state="new">points</target>
+        <target state="new">Punkte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">315</context>
@@ -3925,7 +3925,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="TopActivator" datatype="html">
         <source>Top Activator</source>
-        <target state="new">Top Activator</target>
+        <target state="new">Häufigste Aktivierer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">344</context>
@@ -3937,7 +3937,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ChasingSince" datatype="html">
         <source>Chasing since</source>
-        <target state="new">Chasing since</target>
+        <target state="new">Jäger seit</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">353</context>
@@ -3949,7 +3949,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="S2SPointsShort" datatype="html">
         <source>S2S points</source>
-        <target state="new">S2S points</target>
+        <target state="new">S2S Punkte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">361</context>
@@ -3961,7 +3961,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="TotalS2SQSOs" datatype="html">
         <source>total S2S QSOs</source>
-        <target state="new">total S2S QSOs</target>
+        <target state="new">Summe S2S QSOs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">363</context>
@@ -3977,7 +3977,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="RecentChases" datatype="html">
         <source>Recent chases</source>
-        <target state="new">Recent chases</target>
+        <target state="new">Kürzliche Chases</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">435</context>
@@ -3985,7 +3985,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="AddChase" datatype="html">
         <source>Add Chase</source>
-        <target state="new">Add Chase</target>
+        <target state="new">Jäger-QSO hinzufügen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">477</context>
@@ -3993,7 +3993,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ChaserBadges" datatype="html">
         <source>Chaser Badges</source>
-        <target state="new">Chaser Badges</target>
+        <target state="new">Jägerabzeichen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">483</context>
@@ -4001,7 +4001,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="TopActivators" datatype="html">
         <source>Top Activators</source>
-        <target state="new">Top Activators</target>
+        <target state="new">Häufigste Aktivierer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">569</context>
@@ -4009,7 +4009,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="MostChased" datatype="html">
         <source>Most Chased</source>
-        <target state="new">Most Chased</target>
+        <target state="new">Meist gejagt</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">584</context>
@@ -4017,7 +4017,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="FlagArticle" datatype="html">
         <source>Flag Article</source>
-        <target state="new">Flag Article</target>
+        <target state="new">Makiere Artikel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">2</context>
@@ -4025,7 +4025,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Reason" datatype="html">
         <source>Reason</source>
-        <target state="new">Reason</target>
+        <target state="new">Begründung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">6</context>
@@ -4033,7 +4033,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="SelectAReason" datatype="html">
         <source>Select a reason...</source>
-        <target state="new">Select a reason...</target>
+        <target state="new">Wähle einen Grund...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">8</context>
@@ -4041,7 +4041,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Outdated" datatype="html">
         <source>Information no longer relevant</source>
-        <target state="new">Information no longer relevant</target>
+        <target state="new">Information nicht mehr relevant</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">9</context>
@@ -4053,7 +4053,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="OutdatedURL" datatype="html">
         <source>URL no longer works</source>
-        <target state="new">URL no longer works</target>
+        <target state="new">Weblink funktioniert nicht oder externer Inhalt ungültig</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">10</context>
@@ -4065,7 +4065,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ContentViolation" datatype="html">
         <source>Content violates Acceptable Use Policy</source>
-        <target state="new">Content violates Acceptable Use Policy</target>
+        <target state="new">Vergehen gegen Nutzungshinweise</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">11</context>
@@ -4077,7 +4077,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="InvalidEncoding" datatype="html">
         <source>Invalid text encoding</source>
-        <target state="new">Invalid text encoding</target>
+        <target state="new">Ungültige Textcodierung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">12</context>
@@ -4097,7 +4097,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="LoadingAssoc" datatype="html">
         <source>Loading associations ...</source>
-        <target state="new">Loading associations ...</target>
+        <target state="new">Ladevorgang Assoziationen ...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">6</context>
@@ -4105,7 +4105,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="AssociationIntro" datatype="html">
         <source> SOTA is continually growing with new Associations regularly coming on board. Please click on an Association to find out more information, access the Association Reference Manual (ARM) and view its regions &amp; qualifying summits. </source>
-        <target state="new"> SOTA is continually growing with new Associations regularly coming on board. Please click on an Association to find out more information, access the Association Reference Manual (ARM) and view its regions &amp; qualifying summits. </target>
+        <target state="new"> SOTA wächst stetig mehr mehr neuen Assoziationen welche verfügbar werden. Wähle eine der Assoziationen um mehr Infomationen zu erhalten, den Link zum Assoziationshandbuch zu erhalten und mehr über die Regionen &amp; und Gipfel zu erfahrene.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">12,14</context>
@@ -4121,7 +4121,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="AssociationName" datatype="html">
         <source>Association Name</source>
-        <target state="new">Association Name</target>
+        <target state="new">Assoziation Name</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">25</context>
@@ -4129,7 +4129,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActiveFrom" datatype="html">
         <source>Active From</source>
-        <target state="new">Active From</target>
+        <target state="new">Aktiv von</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">26</context>
@@ -4137,7 +4137,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="RegionsU" datatype="html">
         <source>Regions</source>
-        <target state="new">Regions</target>
+        <target state="new">Regionen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">27</context>
@@ -4145,7 +4145,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="TopSummits" datatype="html">
         <source>Top Summits</source>
-        <target state="new">Top Summits</target>
+        <target state="new">Häufig aktivierte Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">49</context>
@@ -4153,7 +4153,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="RecentlyActivatedSummits" datatype="html">
         <source>Recently Activated Summits</source>
-        <target state="new">Recently Activated Summits</target>
+        <target state="new">Kürzlich aktivierte Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">49</context>
@@ -4161,7 +4161,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="SummitSearch" datatype="html">
         <source>Summit Search</source>
-        <target state="new">Summit Search</target>
+        <target state="new">Gipfelsuche</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/summit-search-form/summit-search.component.html</context>
           <context context-type="linenumber">1</context>
@@ -4170,7 +4170,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       <trans-unit id="SummitSearchDesc" datatype="html">
         <source> This searches the Summit Code and the Summit Name for the entered word, phrase or part of a word or phrase.
 </source>
-        <target state="new"> This searches the Summit Code and the Summit Name for the entered word, phrase or part of a word or phrase.
+        <target state="new"> Diese Suche findet Gipfel nach deren Gipfelcode, Gipfelname oder Phrasen oder Teile des Gipfelnames oder Phrasen.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/summit-search-form/summit-search.component.html</context>
@@ -4187,7 +4187,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Degrees" datatype="html">
         <source>deg</source>
-        <target state="new">deg</target>
+        <target state="new">Grad</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">25</context>
@@ -4195,7 +4195,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="TitleIsRequired" datatype="html">
         <source> Title is required </source>
-        <target state="new"> Title is required </target>
+        <target state="new"> Titel ist erforderlich </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/link-form/link-form.component.html</context>
           <context context-type="linenumber">12,14</context>
@@ -4215,7 +4215,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="URLIsRequired" datatype="html">
         <source> URL is required </source>
-        <target state="new"> URL is required </target>
+        <target state="new"> URL ist erforderlich </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/link-form/link-form.component.html</context>
           <context context-type="linenumber">21,23</context>
@@ -4223,7 +4223,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="EditSummitTags" datatype="html">
         <source>Edit summit tags</source>
-        <target state="new">Edit summit tags</target>
+        <target state="new">Bearbeite Marker/Tags</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/link-form/link-form.component.html</context>
           <context context-type="linenumber">34</context>
@@ -4235,7 +4235,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Close" datatype="html">
         <source>Close</source>
-        <target state="new">Close</target>
+        <target state="new">Schließen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/link-form/link-form.component.html</context>
           <context context-type="linenumber">38</context>
@@ -4263,7 +4263,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csvCallsign" datatype="html">
         <source>This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> used for the QSO. No spaces in the callsign please</source>
-        <target>Das <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>eigene<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>, während des QSOs benutzte Rufzeichen
+        <target>Das <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>eigene<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>, während des QSOs benutzte Rufzeichen.
               Leerzeichen sind nicht zulässig.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
@@ -4280,7 +4280,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csvSummitChaser" datatype="html">
         <source>If you are entering a chaser log, this field will be blank. See last entry in the example. </source>
-        <target state="new">If you are entering a chaser log, this field will be blank.  See last entry in the example.
+        <target state="new">Falls du ein Jäger-Log einreichst bleibt dieses Feld leer. Beispiel siehe oben.
           </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
@@ -4315,7 +4315,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csvOtherCall" datatype="html">
         <source>The callsign of the <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;STRONG>"/> station worked<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</source>
-        <target>Das Rufzeichen der  <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/></target>
+        <target>Das Rufzeichen der Gegenstation  <x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">234</context>
@@ -4332,7 +4332,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="NotesOrComments" datatype="html">
         <source>Notes or Comments</source>
-        <target state="new">Notes or Comments</target>
+        <target state="new">Anmerkungen oder Kommentare</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">251</context>
@@ -4368,7 +4368,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="csv10" datatype="html">
         <source>Spaces in the callsigns.  Our callsigns do not have spaces in them!</source>
-        <target>Leerzeichen im Rufzeichen. Amateurfunk-Rufzeichen  enthalten keine Leerzeichen.</target>
+        <target>Leerzeichen im Rufzeichen. Amateurfunk-Rufzeichen enthalten keine Leerzeichen.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">273</context>
@@ -4468,7 +4468,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="SeeAll" datatype="html">
         <source>See all...</source>
-        <target state="new">See all...</target>
+        <target state="new">Alle Anzeigen...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">40</context>
@@ -4496,7 +4496,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="LatestChases" datatype="html">
         <source>Latest chases</source>
-        <target state="new">Latest chases</target>
+        <target state="new">Letzte Jäger-Kontakte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">45</context>
@@ -4504,7 +4504,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="LatestSummitToSummitLogs" datatype="html">
         <source>Latest Summit to Summit logs</source>
-        <target state="new">Latest Summit to Summit logs</target>
+        <target state="new">Letzte Summit2Summit Kontakte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">75</context>
@@ -4512,7 +4512,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="TheirSummit" datatype="html">
         <source>Their Summit</source>
-        <target state="new">Their Summit</target>
+        <target state="new">Gipfel Gegenstation</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">83</context>
@@ -4520,7 +4520,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="LatestSOTACompleteLogs" datatype="html">
         <source>Latest SOTA Complete logs</source>
-        <target state="new">Latest SOTA Complete logs</target>
+        <target state="new">Letzte SOTA Complete logs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">107</context>
@@ -4528,7 +4528,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivatedDate" datatype="html">
         <source>Activated Date</source>
-        <target state="new">Activated Date</target>
+        <target state="new">Datum Aktivierung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">112</context>
@@ -4548,7 +4548,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="LatestActivatorUniquesLogs" datatype="html">
         <source>Latest Activator Uniques logs</source>
-        <target state="new">Latest Activator Uniques logs</target>
+        <target state="new">Letzte Aktivierer Unique Logs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">133</context>
@@ -4556,7 +4556,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="LatestChaserUniquesLogs" datatype="html">
         <source>Latest Chaser Uniques logs</source>
-        <target state="new">Latest Chaser Uniques logs</target>
+        <target state="new">Letzte Jäger Unique Logs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">155</context>
@@ -4564,7 +4564,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="DeleteS2SLog" datatype="html">
         <source>Delete S2S Log</source>
-        <target state="new">Delete S2S Log</target>
+        <target state="new">Lösche S2S Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-sdelete-modal/s2-sdelete-modal.component.html</context>
           <context context-type="linenumber">2</context>
@@ -4580,7 +4580,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Bonus" datatype="html">
         <source>Bonus</source>
-        <target state="new"> Bonus </target>
+        <target state="new">Bonus</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activation-show/activation-show.component.html</context>
           <context context-type="linenumber">16</context>
@@ -4746,7 +4746,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="AssociationsChasedVHF" datatype="html">
         <source>Association(s) Chased VHF and up</source>
-        <target state="new">Association(s) Chased VHF and up</target>
+        <target state="new">Assoziation(en) gejagt in VHF und höher</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/awards/awards.component.html</context>
           <context context-type="linenumber">74</context>
@@ -4758,7 +4758,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="AwardedToYouOn" datatype="html">
         <source>Awarded to you on: </source>
-        <target state="new">Awarded to you on: </target>
+        <target state="new">Ihnen verliehen: </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">23</context>
@@ -4766,7 +4766,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="First25Awardees" datatype="html">
         <source>First 25 Awardees</source>
-        <target state="new">First 25 Awardees</target>
+        <target state="new">Ersten 25</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">26</context>
@@ -4782,7 +4782,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="ActivatorCallsign" datatype="html">
         <source>Activator Callsign</source>
-        <target state="new"> Rufzeichen Aktivierer</target>
+        <target state="new">Rufzeichen Aktivierer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">77</context>
@@ -4798,7 +4798,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="GoToChaserLog" datatype="html">
         <source>Go to Chaser Log</source>
-        <target state="new">Go to Chaser Log</target>
+        <target state="new">Gehe zu Jäger-Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">11</context>
@@ -4806,7 +4806,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="%ageComplete" datatype="html">
         <source> %age Complete </source>
-        <target state="new"> Complete %</target>
+        <target state="new">SOTA Complete %</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">21</context>
@@ -4814,7 +4814,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="MyActivatedSummits" datatype="html">
         <source>My Activated Summits</source>
-        <target state="new"> Deine aktivierten Gipfel</target>
+        <target state="new">Deine aktivierten Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">19</context>
@@ -4822,7 +4822,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="QSOs" datatype="html">
         <source>QSOs</source>
-        <target>QSOs: </target>
+        <target>QSOs:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activation-delete-modal/activation-delete-modal.component.html</context>
           <context context-type="linenumber">36</context>
@@ -4898,7 +4898,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="DeleteActivation" datatype="html">
         <source>Delete Activation</source>
-        <target state="new">Delete Activation</target>
+        <target state="new">Lösche Aktivierung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activation-delete-modal/activation-delete-modal.component.html</context>
           <context context-type="linenumber">2</context>
@@ -4934,7 +4934,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="On" datatype="html">
         <source>on</source>
-        <target state="new"> auf </target>
+        <target state="new">auf</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activation-show/activation-show.component.html</context>
           <context context-type="linenumber">45</context>
@@ -4946,7 +4946,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="ChaserCallsign" datatype="html">
         <source>Chaser Callsign</source>
-        <target state="new"> Rufzeichen Jäger</target>
+        <target state="new">Rufzeichen Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">78</context>
@@ -4962,7 +4962,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="ActivatorsWorked" datatype="html">
         <source>Activators Worked</source>
-        <target state="new"> Aktivierer gearbeitet</target>
+        <target state="new">Aktivierer gearbeitet</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
           <context context-type="linenumber">28</context>
@@ -4974,7 +4974,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="ChasersWorked" datatype="html">
         <source>Chasers Worked</source>
-        <target state="new">Chasers Worked</target>
+        <target state="new">Jäger gearbeitet</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
           <context context-type="linenumber">29</context>
@@ -4982,7 +4982,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="SummitRef" datatype="html">
         <source>Summit Ref</source>
-        <target state="new"> Referenz </target>
+        <target state="new">Gipfelreferenz</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activation-show/activation-show.component.html</context>
           <context context-type="linenumber">52</context>
@@ -5062,7 +5062,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="StationsHeard" datatype="html">
         <source>Stations Heard</source>
-        <target state="new"> Gehörte Stationen </target>
+        <target state="new">Gehörte Stationen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">81</context>
@@ -5070,7 +5070,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="Contacts" datatype="html">
         <source>Contacts</source>
-        <target state="new"> Kontakte </target>
+        <target state="new">Kontakte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/first12m/first12m.component.html</context>
           <context context-type="linenumber">30</context>
@@ -5086,7 +5086,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="Multipliers" datatype="html">
         <source>Multipliers</source>
-        <target state="new"> Multiplikatoren </target>
+        <target state="new">Multiplikatoren</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/first12m/first12m.component.html</context>
           <context context-type="linenumber">31</context>
@@ -5106,7 +5106,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="AssociationCode" datatype="html">
         <source>Association Code</source>
-        <target state="new">Code Assoziation</target>
+        <target state="new">Assoziation-Code</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/first610m/first610m.component.html</context>
           <context context-type="linenumber">14</context>
@@ -5122,7 +5122,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="610Callsigns" datatype="html">
         <source>6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/>Callsigns</source>
-        <target state="new">6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/>Callsigns</target>
+        <target state="new">6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/>Rufzeichen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/first610m/first610m.component.html</context>
           <context context-type="linenumber">18</context>
@@ -5130,7 +5130,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="DateFirstChase" datatype="html">
         <source>Date of First Chase</source>
-        <target state="new"> Erstes Jäger-QSO</target>
+        <target state="new">Datum erstes Jäger-QSO</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">31</context>
@@ -5138,7 +5138,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Association(s)Activated" datatype="html">
         <source> Association(s) Activated </source>
-        <target state="new"> Aktivierte Assoziation(en)</target>
+        <target state="new">Aktivierte Assoziation(en)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/awards/awards.component.html</context>
           <context context-type="linenumber">31</context>
@@ -5146,7 +5146,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="AssociationsChased" datatype="html">
         <source>Association(s) Chased All Bands</source>
-        <target state="new">Association(s) Chased All Bands</target>
+        <target state="new">Assoziation(en) gejagt auf allen Bändern</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/awards/awards.component.html</context>
           <context context-type="linenumber">44</context>
@@ -5158,7 +5158,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Number" datatype="html">
         <source>Number</source>
-        <target state="new"> Anzahl </target>
+        <target state="new">Anzahl</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">22</context>
@@ -5170,7 +5170,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="DateFirstActivation" datatype="html">
         <source>Date of First Activation</source>
-        <target state="new">Date of First Activation</target>
+        <target state="new">Datum der ersten Aktivierung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">25</context>
@@ -5178,7 +5178,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="ActivationDate" datatype="html">
         <source>Activation Date</source>
-        <target state="new"> Datum der Aktivierung </target>
+        <target state="new">Datum der Aktivierung </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/completes-log/completes-log.component.html</context>
           <context context-type="linenumber">17</context>
@@ -5186,7 +5186,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="ChasedDate" datatype="html">
         <source>Chased Date</source>
-        <target state="new"> Datum Jäger-QSO</target>
+        <target state="new">Datum Gipfel gejagt</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/completes-log/completes-log.component.html</context>
           <context context-type="linenumber">18</context>
@@ -5202,7 +5202,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="CompletedDate" datatype="html">
         <source>Completed Date</source>
-        <target state="new"> SOTA Complete</target>
+        <target state="new">Datum SOTA Complete erreicht</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/completes-log/completes-log.component.html</context>
           <context context-type="linenumber">19</context>
@@ -5210,7 +5210,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="LatestActivations" datatype="html">
         <source>Latest activations</source>
-        <target state="new">Latest activations</target>
+        <target state="new">Letzte Aktivierung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">16</context>
@@ -5218,7 +5218,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="OwnCallsign" datatype="html">
         <source>Own Callsign</source>
-        <target state="new"> Eigenes Rufzeichen</target>
+        <target state="new">Dein Rufzeichen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">115</context>
@@ -5242,7 +5242,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Activator" datatype="html">
         <source>Activator</source>
-        <target state="new">Activator Worked</target>
+        <target state="new">Aktivierer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">5</context>
@@ -5250,7 +5250,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Chaser" datatype="html">
         <source>Chaser</source>
-        <target state="new">Chaser</target>
+        <target state="new">Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">6</context>
@@ -5258,7 +5258,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Distance" datatype="html">
         <source>Distance</source>
-        <target state="new"> Entfernung </target>
+        <target state="new">Entfernung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">122</context>
@@ -5274,7 +5274,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="ChaserPoints" datatype="html">
         <source>Chaser Points</source>
-        <target state="new"> Jägerpunkte </target>
+        <target state="new">Jägerpunkte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">46</context>
@@ -5282,7 +5282,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="ActivatorPoints" datatype="html">
         <source>Activator Points</source>
-        <target state="new"> Aktiviererpunkte</target>
+        <target state="new">Aktiviererpunkte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">47</context>
@@ -5298,7 +5298,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Total" datatype="html">
         <source>Total</source>
-        <target state="new"> Gesamt </target>
+        <target state="new">Gesamt</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">64</context>
@@ -5318,7 +5318,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="ChasedSummit" datatype="html">
         <source>Chased Summit</source>
-        <target state="new"> Gipfel gejagt</target>
+        <target state="new">Gipfel gejagt</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">40</context>
@@ -5326,7 +5326,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="ActivatedSummit" datatype="html">
         <source>Activated Summit</source>
-        <target state="new"> Aktivierter Gipfel</target>
+        <target state="new">Aktivierter Gipfel</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">41</context>
@@ -5342,7 +5342,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="ShowLog" datatype="html">
         <source>Show Log</source>
-        <target state="new"> Log anzeigen </target>
+        <target state="new">Log anzeigen </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">92</context>
@@ -5366,7 +5366,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Download" datatype="html">
         <source>Download</source>
-        <target state="new"> Herunterladen </target>
+        <target state="new">Herunterladen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">104</context>
@@ -5386,7 +5386,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Edit" datatype="html">
         <source>Edit</source>
-        <target state="new">Edit</target>
+        <target state="new">Bearbeiten</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activation-show/activation-show.component.html</context>
           <context context-type="linenumber">18</context>
@@ -5418,7 +5418,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="NoRecordsFound" datatype="html">
         <source>No records found</source>
-        <target state="new">No records found</target>
+        <target state="new">Keine Einträge gefunden</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">143</context>
@@ -5434,7 +5434,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="DeleteChaserLog" datatype="html">
         <source>Delete Chaser Log</source>
-        <target state="new">Delete Chaser Log</target>
+        <target state="new">Lösche Jäger-Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-delete-modal/chaser-delete-modal.component.html</context>
           <context context-type="linenumber">2</context>
@@ -5442,7 +5442,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="MySWL" datatype="html">
         <source>My SWL</source>
-        <target state="new"> Dein SWL </target>
+        <target state="new">Dein SWL</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/swllog/swllog.component.html</context>
           <context context-type="linenumber">32</context>
@@ -5450,7 +5450,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="StationHead" datatype="html">
         <source>Station Heard</source>
-        <target state="new">Station Heard</target>
+        <target state="new">Gehörte Station</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/swllog/swllog.component.html</context>
           <context context-type="linenumber">33</context>
@@ -5458,7 +5458,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="SortByDate" datatype="html">
         <source>Sort by Date</source>
-        <target state="new">Sort by Date</target>
+        <target state="new">Sortiere nach Datum</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">8</context>
@@ -5466,7 +5466,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="SortByAssociation" datatype="html">
         <source>Sort by Association</source>
-        <target state="new">Sort by Association</target>
+        <target state="new">Sortiere nach Assoziation</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">9</context>
@@ -5474,7 +5474,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="SortByActivationCount" datatype="html">
         <source>Sort by Activation Count</source>
-        <target state="new">Sort by Activation Count</target>
+        <target state="new">Sortiere nach Anzahl Aktivierungen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">10</context>
@@ -5490,7 +5490,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="MyChasedRegions" datatype="html">
         <source>My Chased Regions</source>
-        <target state="new">My Chased Regions</target>
+        <target state="new">Deine gejagten Regionen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">9</context>
@@ -5499,7 +5499,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       <trans-unit id="adifUpInst1" datatype="html">
         <source> Export an ADIF file from your log program containing all your entries you would like to upload. These can be for any number of activations, but DO NOT upload your entire log - only export the entries for SOTA. </source>
         <target state="new">
-	Export an ADIF file from your log program containing all your entries you would like to upload. These can be for any number of activations, but DO NOT upload your entire log - only export the entries for SOTA.</target>
+	Exportier eine ADIF Datei von mit allen Einträgen welche du hochladen willst. Diese Datei kann mehr als eine Aktivierung enthalten. Achtung! nicht dein komplettes Log hochladen sondern nur jene mit Einträgen für SOTA.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
           <context context-type="linenumber">27</context>
@@ -5507,7 +5507,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="adifUpInst2" datatype="html">
         <source> If you are unsure what an ADIF file is, please add entries normally, one QSO at a time.</source>
-        <target state="new">i If you are unsure what a ADIF file is, please add entries normally, one QSO at a time.</target>
+        <target state="new">Wenn du nicht mit ADIF vertraut bist dann trage QSO über das Formular ein.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
           <context context-type="linenumber">29</context>
@@ -5516,7 +5516,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       <trans-unit id="adifUpInst3" datatype="html">
         <source> Press the Browse button below and select the ADIF file on your hard drive. </source>
         <target state="new">
-	Press the Browse button below and select the ADIF file on your hard drive
+	Wähle den Durchsuchen Knopf und wähle eine Datei auf deinem System.
    </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
@@ -5525,7 +5525,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="selectADIF" datatype="html">
         <source>Select ADIF File:</source>
-        <target state="new">Select ADIF File:</target>
+        <target state="new">Wähle ADIF Datei:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
           <context context-type="linenumber">38</context>
@@ -5533,7 +5533,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Import" datatype="html">
         <source>Import</source>
-        <target state="new">Import</target>
+        <target state="new">Importieren</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
           <context context-type="linenumber">52</context>
@@ -5545,7 +5545,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="AddChaserEntry" datatype="html">
         <source>Add Chaser Entry</source>
-        <target state="new">Add Chaser Entry</target>
+        <target state="new">Jäger-Kontakte hinzufügen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/chaser-modal/chaser-modal.component.html</context>
           <context context-type="linenumber">3</context>
@@ -5553,7 +5553,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="NoSWLCallsign" datatype="html">
         <source>You do not have an SWL Callsign set up in your profile, and are trying to submit an SWL entry.</source>
-        <target state="new">You do not have an SWL Callsign set up in your profile, and are trying to submit an SWL entry.</target>
+        <target state="new">Du hast keine SWL Kennung in deinem Profil hinterlegt.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/chaser-modal/chaser-modal.component.html</context>
           <context context-type="linenumber">9</context>
@@ -5561,7 +5561,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="ClickToUpdateProfile" datatype="html">
         <source>Click here to update your profile.</source>
-        <target state="new">Click here to update your profile.</target>
+        <target state="new">Klicke hier um dein Profil jetzt zu bearbeiten.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/chaser-modal/chaser-modal.component.html</context>
           <context context-type="linenumber">9</context>
@@ -5585,7 +5585,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Datamodes" datatype="html">
         <source>Datamodes</source>
-        <target state="new"> Datamodes </target>
+        <target state="new">Digital Betriebsarten</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
           <context context-type="linenumber">33</context>
@@ -5593,7 +5593,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="DV" datatype="html">
         <source>DV</source>
-        <target state="new"> DV </target>
+        <target state="new">DV Digital Voice</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
           <context context-type="linenumber">34</context>
@@ -5702,7 +5702,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="ManageUploadsIntro" datatype="html">
         <source>This page will enable you to delete any upload you have made via CSV or ADIF after May 30, 2020. By clicking on delete, all S2S, Chaser and Activator records for that upload will be deleted and can be reuploaded</source>
-        <target state="new">This page will enable you to delete any upload you have made via CSV or ADIF after May 30, 2020.  By clicking on delete, all S2S, Chaser and Activator records for that upload will be deleted and can be reuploaded</target>
+        <target state="new">Diese Seite erlaubt das löschen und bearbeiten von hochgeladen Dateien und geloggten QSOs welche nach dem 30 Mai 2020 gemacht wurden.  Wenn ein Upload gelöscht wird muss dieser bei bedarf erneut hochgeladen werden.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">3</context>
@@ -5710,7 +5710,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Chases" datatype="html">
         <source>Chases</source>
-        <target state="new">Chases</target>
+        <target state="new">Jäger-Log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">21</context>
@@ -5726,7 +5726,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="UploadDeleteAYS" datatype="html">
         <source>Are you sure you want to delete the following upload?</source>
-        <target state="new">Are you sure you want to delete the following upload?</target>
+        <target state="new">Bestätige das Löschen dieser Daten?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">45</context>
@@ -5734,7 +5734,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="DisplayGrid" datatype="html">
         <source>Display grid</source>
-        <target state="new">Display grid</target>
+        <target state="new">Zeige Raster</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/features-control/features-control.component.html</context>
           <context context-type="linenumber">13</context>
