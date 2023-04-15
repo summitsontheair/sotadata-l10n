@@ -335,7 +335,7 @@
       </trans-unit>
       <trans-unit id="HonourRolls" datatype="html">
         <source>Honour Rolls</source>
-        <target state="new">Bestenliste</target>
+        <target state="new">Bestenlisten</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/nav-menu/nav-menu.component.html</context>
           <context context-type="linenumber">17</context>
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="Uploads" datatype="html">
         <source>Uploads</source>
-        <target state="new">Hochladen</target>
+        <target state="new">Hochladen/Eintragen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/nav-menu/nav-menu.component.html</context>
           <context context-type="linenumber">26</context>
@@ -804,7 +804,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       <trans-unit id="csvUpInst4" datatype="html">
         <source> Press the Import button on the bottom of this screen to transfer the file to our server and begin processing it. This may take a few seconds. Please be patient!</source>
         <target>
-	Auf "CSV-/TSV-Logdatei hochladen" klicken, um die Datei auf den Server hochzuladen. Bitte etwas Geduld, es kann einige Sekunden dauern, die Datei zu verarbeiten. </target>
+	Auf "Importieren" klicken, um die Datei auf den Server hochzuladen. Bitte etwas Geduld, es kann einige Sekunden dauern, die Datei zu verarbeiten. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
           <context context-type="linenumber">34</context>
@@ -2033,7 +2033,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="FeelFreeToAdd" datatype="html">
         <source>Feel free to add External Links<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;oi oi-external-link&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>and Articles<x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;oi oi-copywriting&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>relating to this summit that activators and chasers may find useful or interesting. Please read the disclaimer notice at the bottom of the page.</source>
-        <target state="new">Ergänze externe Links<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;oi oi-external-link&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>und Artikel<x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;oi oi-copywriting&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>um Aktivierer nützliche und interessante Infomationen bereit zu stellen. Bitte den Nutzungshinweise am Seitenende beachten.</target>
+        <target state="new">Ergänze externe Links<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;oi oi-external-link&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>und Artikel<x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;oi oi-copywriting&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>um Aktivierer nützliche und interessante Infomationen bereit zu stellen. Bitte den Nutzungshinweis am Seitenende beachten.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">79</context>
@@ -3557,7 +3557,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="TotalActivations" datatype="html">
         <source>Total Activations</source>
-        <target state="new">Gesammtzahl Aktivierungen</target>
+        <target state="new">Gesamtzahl Aktivierungen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">30</context>
@@ -3761,7 +3761,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="AssociationsL" datatype="html">
         <source>associations</source>
-        <target state="new">Associationen</target>
+        <target state="new">Assoziationen</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3869,7 +3869,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivityByYear" datatype="html">
         <source>Activity by year</source>
-        <target state="new">Aktivitäten pro Jahr</target>
+        <target state="new">Aktivität pro Jahr</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">190</context>
@@ -4105,7 +4105,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="AssociationIntro" datatype="html">
         <source> SOTA is continually growing with new Associations regularly coming on board. Please click on an Association to find out more information, access the Association Reference Manual (ARM) and view its regions &amp; qualifying summits. </source>
-        <target state="new"> SOTA wächst stetig mehr mehr neuen Assoziationen welche verfügbar werden. Wähle eine der Assoziationen um mehr Infomationen zu erhalten, den Link zum Assoziationshandbuch zu erhalten und mehr über die Regionen &amp; und Gipfel zu erfahrene.</target>
+        <target state="new"> SOTA wächst stetig und mehr neuen Assoziationen werden verfügbar. Wähle eine der Assoziationen um mehr Infomationen zu erhalten, den Link zum Assoziationshandbuch zu erhalten und mehr über die Regionen &amp; und deren Gipfel zu erfahren.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">12,14</context>
@@ -4468,7 +4468,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="SeeAll" datatype="html">
         <source>See all...</source>
-        <target state="new">Alle Anzeigen...</target>
+        <target state="new">Mehr anzeigen...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">40</context>
@@ -4654,7 +4654,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="BonusPoints" datatype="html">
         <source>Bonus Points</source>
-        <target>Bonuspunkte: </target>
+        <target>Bonuspunkte</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">89</context>
@@ -4822,7 +4822,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="QSOs" datatype="html">
         <source>QSOs</source>
-        <target>QSOs:</target>
+        <target>QSOs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activation-delete-modal/activation-delete-modal.component.html</context>
           <context context-type="linenumber">36</context>
@@ -5702,7 +5702,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="ManageUploadsIntro" datatype="html">
         <source>This page will enable you to delete any upload you have made via CSV or ADIF after May 30, 2020. By clicking on delete, all S2S, Chaser and Activator records for that upload will be deleted and can be reuploaded</source>
-        <target state="new">Diese Seite erlaubt das löschen und bearbeiten von hochgeladen Dateien und geloggten QSOs welche nach dem 30 Mai 2020 gemacht wurden.  Wenn ein Upload gelöscht wird muss dieser bei bedarf erneut hochgeladen werden.</target>
+        <target state="new">Diese Seite erlaubt das Löschen und Bearbeiten von hochgeladen Dateien und geloggten QSOs welche nach dem 30 Mai 2020 gemacht wurden.  Wenn ein Upload gelöscht wird muss dieser bei Bedarf erneut hochgeladen werden.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">3</context>
@@ -5710,7 +5710,7 @@ Wertungszeitraum Challenge: 15. Mai 2015 bis 14. August 2015 sowie 14. November 
       </trans-unit>
       <trans-unit id="Chases" datatype="html">
         <source>Chases</source>
-        <target state="new">Jäger-Log</target>
+        <target state="new">Jäger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">21</context>
