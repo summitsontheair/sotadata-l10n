@@ -3156,6 +3156,22 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
           <context context-type="linenumber">29</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="SearchResults" datatype="html">
+        <source>Search Results</source>
+        <target state="new">Search Results</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="SearchReturned" datatype="html">
+        <source>Your search for <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/><x id="INTERPOLATION" equiv-text="{{ searchString }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/> returned <x id="INTERPOLATION_1" equiv-text="{{ summits.length }}"/> summits.</source>
+        <target state="new">Your search for <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/><x id="INTERPOLATION" equiv-text="{{ searchString }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/> returned <x id="INTERPOLATION_1" equiv-text="{{ summits.length }}"/> summits.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="ViewAllSummitActivity" datatype="html">
         <source>View ALL Summit Activity</source>
         <target state="new">Zeige alle Gipfel Aktivitäten</target>
@@ -3639,10 +3655,6 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">26</context>
         </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
-          <context context-type="linenumber">14</context>
-        </context-group>
       </trans-unit>
       <trans-unit id="MyActivations" datatype="html">
         <source>My Activations</source>
@@ -3655,10 +3667,6 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">27</context>
         </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
-          <context context-type="linenumber">15</context>
-        </context-group>
       </trans-unit>
       <trans-unit id="MyChases" datatype="html">
         <source>My Chases</source>
@@ -3670,10 +3678,6 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">28</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
-          <context context-type="linenumber">16</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Summit Articles" datatype="html">
@@ -4290,6 +4294,10 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
+          <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="km" datatype="html">
