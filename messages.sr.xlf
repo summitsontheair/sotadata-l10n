@@ -683,6 +683,10 @@ Pomozite nam da ovu stranicu održavamo ažurnom tako što ćete redovno slati v
         <source>Association</source>
         <target>Nacionalne organizacije</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/association/association.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/challenge20/challenge20.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
@@ -2709,6 +2713,22 @@ i da prijave mogu biti predmet provere od strane menadžera za diplome.
           <context context-type="linenumber">29</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="SearchResults" datatype="html">
+        <source>Search Results</source>
+        <target state="new">Search Results</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="SearchReturned" datatype="html">
+        <source>Your search for <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/><x id="INTERPOLATION" equiv-text="{{ searchString }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/> returned <x id="INTERPOLATION_1" equiv-text="{{ summits.length }}"/> summits.</source>
+        <target state="new">Your search for <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/><x id="INTERPOLATION" equiv-text="{{ searchString }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/> returned <x id="INTERPOLATION_1" equiv-text="{{ summits.length }}"/> summits.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="ViewAllSummitActivity" datatype="html">
         <source>View ALL Summit Activity</source>
         <target state="new">View ALL Summit Activity</target>
@@ -3065,6 +3085,10 @@ i da prijave mogu biti predmet provere od strane menadžera za diplome.
         <source>Latitude</source>
         <target state="new">Latitude</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">33</context>
         </context-group>
@@ -3073,8 +3097,28 @@ i da prijave mogu biti predmet provere od strane menadžera za diplome.
         <source>Longitude</source>
         <target state="new">Longitude</target>
         <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="DistanceKM" datatype="html">
+        <source>Distance(km)</source>
+        <target state="new">Distance(km)</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Search" datatype="html">
+        <source>Search</source>
+        <target state="new">Search</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
+          <context context-type="linenumber">33</context>
         </context-group>
       </trans-unit>
       <trans-unit id="UKGridRef" datatype="html">
@@ -3099,6 +3143,22 @@ i da prijave mogu biti predmet provere od strane menadžera za diplome.
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="RelativeToHomeQTH" datatype="html">
+        <source>Relative to home QTH</source>
+        <target state="new">Relative to home QTH</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="mi" datatype="html">
+        <source>mi</source>
+        <target state="new">mi</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
+          <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivationsWontEarnPoints" datatype="html">
@@ -3152,10 +3212,6 @@ i da prijave mogu biti predmet provere od strane menadžera za diplome.
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">26</context>
         </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
-          <context context-type="linenumber">14</context>
-        </context-group>
       </trans-unit>
       <trans-unit id="MyActivations" datatype="html">
         <source>My Activations</source>
@@ -3168,10 +3224,6 @@ i da prijave mogu biti predmet provere od strane menadžera za diplome.
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">27</context>
         </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
-          <context context-type="linenumber">15</context>
-        </context-group>
       </trans-unit>
       <trans-unit id="MyChases" datatype="html">
         <source>My Chases</source>
@@ -3183,10 +3235,6 @@ i da prijave mogu biti predmet provere od strane menadžera za diplome.
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">28</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
-          <context context-type="linenumber">16</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Summit Articles" datatype="html">
@@ -3745,6 +3793,24 @@ i da prijave mogu biti predmet provere od strane menadžera za diplome.
           <context context-type="linenumber">49</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="DistanceSearch" datatype="html">
+        <source>Distance Search</source>
+        <target state="new">Distance Search</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="DistanceSearchDesc" datatype="html">
+        <source> This searches for summits within a defined radius of the specified coordinates. Coordinates default to Home QTH if these details are available.
+</source>
+        <target state="new"> This searches for summits within a defined radius of the specified coordinates. Coordinates default to Home QTH if these details are available.
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
+          <context context-type="linenumber">4,6</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="SummitSearch" datatype="html">
         <source>Summit Search</source>
         <target state="new">Summit Search</target>
@@ -3763,6 +3829,46 @@ i da prijave mogu biti predmet provere od strane menadžera za diplome.
           <context context-type="linenumber">3,5</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="BackToAssociationList" datatype="html">
+        <source>Back to Association List</source>
+        <target state="new">Back to Association List</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="DistanceResults" datatype="html">
+        <source>Distance Results</source>
+        <target state="new">Distance Results</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="Searching" datatype="html">
+        <source>Searching</source>
+        <target state="new">Searching</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="km" datatype="html">
+        <source>km</source>
+        <target state="new">km</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="KM" datatype="html">
         <source>km</source>
         <target state="new">km</target>
@@ -3777,6 +3883,10 @@ i da prijave mogu biti predmet provere od strane menadžera za diplome.
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/summit/summit.component.html</context>
+          <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="TitleIsRequired" datatype="html">
@@ -3888,11 +3998,40 @@ i da prijave mogu biti predmet provere od strane menadžera za diplome.
         </context-group>
       </trans-unit>
       <trans-unit id="AssociationManager" datatype="html">
-        <source>Manager</source>
+        <source>Association Manager</source>
         <target state="new">Manager</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/association/association.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/association/association.component.html</context>
           <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="BackToListOfAssociations" datatype="html">
+        <source>Back to list of Associations</source>
+        <target state="new">Back to list of Associations</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/association/association.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="50bc65303609976214244bac5ffa106e928d9134" datatype="html">
+        <source> The Association commenced on <x id="INTERPOLATION" equiv-text="{{ association.activeFrom | date: 'mediumDate' }}"/> and currently has <x id="INTERPOLATION_1" equiv-text="{{ association.regionsCount }}"/> Regions (listed below) and <x id="INTERPOLATION_2" equiv-text="{{ association.summitsCount }}"/> qualifying summits. </source>
+        <target state="new"> The Association commenced on <x id="INTERPOLATION" equiv-text="{{ association.activeFrom | date: 'mediumDate' }}"/> and currently has <x id="INTERPOLATION_1" equiv-text="{{ association.regionsCount }}"/> Regions (listed below) and <x id="INTERPOLATION_2" equiv-text="{{ association.summitsCount }}"/> qualifying summits. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/association/association.component.html</context>
+          <context context-type="linenumber">17,19</context>
+        </context-group>
+        <note priority="1" from="description">TheAssociationCommencedOn</note>
+      </trans-unit>
+      <trans-unit id="ClickOnARegionToViewSummits" datatype="html">
+        <source>Click on a Region to view a list of summits.</source>
+        <target state="new">Click on a Region to view a list of summits.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/association/association.component.html</context>
+          <context context-type="linenumber">24</context>
         </context-group>
       </trans-unit>
       <trans-unit id="RegionCode" datatype="html">
