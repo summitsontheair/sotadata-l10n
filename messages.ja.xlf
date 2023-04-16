@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="ngb.alert.close" datatype="html">
         <source>Close</source>
-        <target state="new">Close</target>
+        <target state="new">閉じる</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/alert/alert.ts</context>
           <context context-type="linenumber">79</context>
@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="ngb.carousel.slide-number" datatype="html">
         <source> Slide <x id="INTERPOLATION" equiv-text="* If `true`,"/> of <x id="INTERPOLATION_1" equiv-text="h carousel usin"/> </source>
-        <target state="new"> Slide <x id="INTERPOLATION" equiv-text="* If `true`,"/> of <x id="INTERPOLATION_1" equiv-text="h carousel usin"/> </target>
+        <target state="new"> スライド <x id="INTERPOLATION" equiv-text="* If `true`,"/> of <x id="INTERPOLATION_1" equiv-text="h carousel usin"/> </target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/carousel/carousel.ts</context>
           <context context-type="linenumber">150,157</context>
@@ -21,7 +21,7 @@
       </trans-unit>
       <trans-unit id="ngb.carousel.previous" datatype="html">
         <source>Previous</source>
-        <target state="new">Previous</target>
+        <target state="new">前</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/carousel/carousel.ts</context>
           <context context-type="linenumber">178</context>
@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id="ngb.carousel.next" datatype="html">
         <source>Next</source>
-        <target state="new">Next</target>
+        <target state="new">次</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/carousel/carousel.ts</context>
           <context context-type="linenumber">200</context>
@@ -37,7 +37,7 @@
       </trans-unit>
       <trans-unit id="ngb.datepicker.previous-month" datatype="html">
         <source>Previous month</source>
-        <target state="new">Previous month</target>
+        <target state="new">前月</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/datepicker/datepicker-navigation.ts</context>
           <context context-type="linenumber">69</context>
@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="ngb.datepicker.next-month" datatype="html">
         <source>Next month</source>
-        <target state="new">Next month</target>
+        <target state="new">翌月</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/datepicker/datepicker-navigation.ts</context>
           <context context-type="linenumber">69</context>
@@ -61,7 +61,7 @@
       </trans-unit>
       <trans-unit id="ngb.datepicker.select-month" datatype="html">
         <source>Select month</source>
-        <target state="new">Select month</target>
+        <target state="new">月を選択</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/datepicker/datepicker-navigation-select.ts</context>
           <context context-type="linenumber">74</context>
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="ngb.datepicker.select-year" datatype="html">
         <source>Select year</source>
-        <target state="new">Select year</target>
+        <target state="new">年を選択</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/datepicker/datepicker-navigation-select.ts</context>
           <context context-type="linenumber">74</context>
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="ngb.pagination.first-aria" datatype="html">
         <source>First</source>
-        <target state="new">First</target>
+        <target state="new">最初</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">324</context>
@@ -125,7 +125,7 @@
       </trans-unit>
       <trans-unit id="ngb.pagination.previous-aria" datatype="html">
         <source>Previous</source>
-        <target state="new">Previous</target>
+        <target state="new">前</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">338</context>
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="ngb.pagination.next-aria" datatype="html">
         <source>Next</source>
-        <target state="new">Next</target>
+        <target state="new">次</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">350</context>
@@ -141,7 +141,7 @@
       </trans-unit>
       <trans-unit id="ngb.pagination.last-aria" datatype="html">
         <source>Last</source>
-        <target state="new">Last</target>
+        <target state="new">最後</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">367</context>
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.increment-hours" datatype="html">
         <source>Increment hours</source>
-        <target state="new">Increment hours</target>
+        <target state="new">時刻を増やす</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">208</context>
@@ -174,7 +174,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.hours" datatype="html">
         <source>Hours</source>
-        <target state="new">Hours</target>
+        <target state="new">時</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">155</context>
@@ -182,7 +182,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.decrement-hours" datatype="html">
         <source>Decrement hours</source>
-        <target state="new">Decrement hours</target>
+        <target state="new">時刻を減らす</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">229</context>
@@ -190,7 +190,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.increment-minutes" datatype="html">
         <source>Increment minutes</source>
-        <target state="new">Increment minutes</target>
+        <target state="new">分を増やす</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">252</context>
@@ -206,7 +206,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.minutes" datatype="html">
         <source>Minutes</source>
-        <target state="new">Minutes</target>
+        <target state="new">分</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">190</context>
@@ -214,7 +214,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.decrement-minutes" datatype="html">
         <source>Decrement minutes</source>
-        <target state="new">Decrement minutes</target>
+        <target state="new">分を減らす</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">274</context>
@@ -222,7 +222,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.increment-seconds" datatype="html">
         <source>Increment seconds</source>
-        <target state="new">Increment seconds</target>
+        <target state="new">秒を増やす</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">295</context>
@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.seconds" datatype="html">
         <source>Seconds</source>
-        <target state="new">Seconds</target>
+        <target state="new">秒</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">295</context>
@@ -246,7 +246,7 @@
       </trans-unit>
       <trans-unit id="ngb.timepicker.decrement-seconds" datatype="html">
         <source>Decrement seconds</source>
-        <target state="new">Decrement seconds</target>
+        <target state="new">秒を減らす</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">295</context>
@@ -270,7 +270,7 @@
       </trans-unit>
       <trans-unit id="ngb.toast.close-aria" datatype="html">
         <source>Close</source>
-        <target state="new">Close</target>
+        <target state="new">閉じる</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/toast/toast.ts</context>
           <context context-type="linenumber">108</context>
@@ -295,7 +295,7 @@
       </trans-unit>
       <trans-unit id="Code" datatype="html">
         <source>Code</source>
-        <target state="new">Code</target>
+        <target state="new">コード</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/association/association.component.html</context>
           <context context-type="linenumber">30</context>
@@ -323,7 +323,7 @@
       </trans-unit>
       <trans-unit id="Logs" datatype="html">
         <source>Logs</source>
-        <target state="new">Logs</target>
+        <target state="new">ログ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">3</context>
@@ -335,7 +335,7 @@
       </trans-unit>
       <trans-unit id="HonourRolls" datatype="html">
         <source>Honour Rolls</source>
-        <target state="new">Honour Rolls</target>
+        <target state="new">ポイントスコア</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/nav-menu/nav-menu.component.html</context>
           <context context-type="linenumber">17</context>
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="Uploads" datatype="html">
         <source>Uploads</source>
-        <target state="new">Uploads</target>
+        <target state="new">アップロード</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/nav-menu/nav-menu.component.html</context>
           <context context-type="linenumber">26</context>
@@ -351,7 +351,7 @@
       </trans-unit>
       <trans-unit id="Statistics" datatype="html">
         <source>Statistics</source>
-        <target state="new">Statistics</target>
+        <target state="new">統計データ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/nav-menu/nav-menu.component.html</context>
           <context context-type="linenumber">29</context>
@@ -367,7 +367,7 @@
       </trans-unit>
       <trans-unit id="UpdateAccount" datatype="html">
         <source>Update Account</source>
-        <target state="new">Update Account</target>
+        <target state="new">アカウント更新</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/title-bar/title-bar.component.html</context>
           <context context-type="linenumber">16</context>
@@ -375,7 +375,7 @@
       </trans-unit>
       <trans-unit id="ManageArticles" datatype="html">
         <source>Manage Articles</source>
-        <target state="new">Manage Articles</target>
+        <target state="new">記事の管理</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/title-bar/title-bar.component.html</context>
           <context context-type="linenumber">17</context>
@@ -427,7 +427,7 @@
       </trans-unit>
       <trans-unit id="ActivatorUniquesRollOfHonour" datatype="html">
         <source>Activator Uniques Roll of Honour</source>
-        <target state="new">Activator Uniques Roll of Honour</target>
+        <target state="new">アクティベータ個別山岳スコア</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">27</context>
@@ -435,7 +435,7 @@
       </trans-unit>
       <trans-unit id="ChaserUniquesRollOfHonour" datatype="html">
         <source>Chaser Uniques Roll of Honour</source>
-        <target state="new">Chaser Uniques Roll of Honour</target>
+        <target state="new">チェイサー個別山岳スコア</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">28</context>
@@ -459,7 +459,7 @@
       </trans-unit>
       <trans-unit id="CompletesRollOfHonour" datatype="html">
         <source>SOTA Completes Roll of Honour</source>
-        <target state="new">SOTA Completes Roll of Honour</target>
+        <target state="new">完全制覇スコア</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">31</context>
@@ -467,7 +467,7 @@
       </trans-unit>
       <trans-unit id="SWLRollOfHonour" datatype="html">
         <source>SWL Roll of Honour</source>
-        <target state="new">SWL Roll of Honour</target>
+        <target state="new">SWLスコア</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">32</context>
@@ -523,7 +523,7 @@
       </trans-unit>
       <trans-unit id="AllEntries" datatype="html">
         <source>- All Entries -</source>
-        <target state="new">- All Entries -</target>
+        <target state="new">- 全て -</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">7</context>
@@ -539,7 +539,7 @@
       </trans-unit>
       <trans-unit id="SOTAResultsAndSummitsDatabase" datatype="html">
         <source>SOTA Results and Summits Database</source>
-        <target state="new">SOTA Results and Summits Database</target>
+        <target state="new">SOTAポイントと山岳データベース</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/title-bar/title-bar.component.html</context>
           <context context-type="linenumber">4</context>
@@ -555,7 +555,7 @@
       </trans-unit>
       <trans-unit id="BackToSummitsList" datatype="html">
         <source>&lt;&lt; Back to summits list</source>
-        <target state="new">&lt;&lt; Back to summits list</target>
+        <target state="new">&lt;&lt; 山岳リストに戻る</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/recent-summits/recent-summits.component.html</context>
           <context context-type="linenumber">5</context>
@@ -575,7 +575,7 @@
       </trans-unit>
       <trans-unit id="UploadADIF" datatype="html">
         <source>Upload ADIF File</source>
-        <target state="new">Upload ADIF log file</target>
+        <target state="new">ADIFログアップロード</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
           <context context-type="linenumber">3</context>
@@ -583,7 +583,7 @@
       </trans-unit>
       <trans-unit id="ManageUploads" datatype="html">
         <source>Manage Uploads</source>
-        <target state="new">Manage Uploads</target>
+        <target state="new">アップロード済みログ管理</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">1</context>
@@ -778,7 +778,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="csvUpInst2" datatype="html">
         <source> If you are unsure what a CSV or TSV file is, please add entries normally, one QSO at a time.</source>
-        <target state="new"> If you are unsure what a CSV or TSV file is, please add entries normally, one QSO at a time.</target>
+        <target state="new"> CSV/TSVログが不明な場合は1QSO毎にログを追加してください。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvmodal/csvmodal.component.html</context>
           <context context-type="linenumber">31</context>
@@ -814,7 +814,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="d37104b3c46b8392494a6e80ed99e70d553b88bf" datatype="html">
         <source>Upload Logs</source>
-        <target state="new">Upload Logs</target>
+        <target state="new">ログを提出</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">2</context>
@@ -823,7 +823,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="AddChaser" datatype="html">
         <source>Add Chaser QSO</source>
-        <target state="new">Add Chaser QSO</target>
+        <target state="new">チェイサーQSOを追加</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">4</context>
@@ -831,7 +831,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ImportCSV" datatype="html">
         <source>Import CSV</source>
-        <target state="new">Import CSV</target>
+        <target state="new">CSVをアップロード</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">7</context>
@@ -839,7 +839,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ImportADIF" datatype="html">
         <source>Import ADIF</source>
-        <target state="new">Import ADIF</target>
+        <target state="new">ADIFをアップロード</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">8</context>
@@ -847,7 +847,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="SessionIsAvailable" datatype="html">
         <source>A previously unsubmitted session exists. Would you like to restore?</source>
-        <target state="new">A previously unsubmitted session exists. Would you like to restore?</target>
+        <target state="new">送信されていないセッションがあります。再度読み込みますか？</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">19</context>
@@ -855,7 +855,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Restore" datatype="html">
         <source>Restore</source>
-        <target state="new">Restore</target>
+        <target state="new">再読み込み</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">21</context>
@@ -863,7 +863,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="CancelEditing" datatype="html">
         <source>Cancel Editing</source>
-        <target state="new">Cancel Editing</target>
+        <target state="new">編集中止</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">25</context>
@@ -871,7 +871,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Chase" datatype="html">
         <source>Chase</source>
-        <target state="new">Chase</target>
+        <target state="new">チェイス</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">30</context>
@@ -879,7 +879,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="InvalidSummit" datatype="html">
         <source>Invalid Summit</source>
-        <target state="new">Invalid Summit</target>
+        <target state="new">不正な山岳ID</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">30</context>
@@ -895,7 +895,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Warning" datatype="html">
         <source>Warning</source>
-        <target state="new">Warning</target>
+        <target state="new">警告</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">30</context>
@@ -907,7 +907,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="SWLChase" datatype="html">
         <source>SWL Chase</source>
-        <target state="new">SWL Chase</target>
+        <target state="new">SWLチェイス</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">30</context>
@@ -915,7 +915,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ChaserDuplicate" datatype="html">
         <source> A record for this chase exists. This chase will be ignored. </source>
-        <target state="new"> A record for this chase exists. This chase will be ignored. </target>
+        <target state="new"> 重複するレコードがあります。このレコードは無視されます。 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">31</context>
@@ -923,7 +923,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="InvalidDateOrTime" datatype="html">
         <source>Invalid Date or Time</source>
-        <target state="new">Invalid Date or Time</target>
+        <target state="new">不正な日付又は時間</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">39</context>
@@ -931,7 +931,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="InvalidBand" datatype="html">
         <source>Invalid Band</source>
-        <target state="new">Invalid Band</target>
+        <target state="new">不正なバンド</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">40</context>
@@ -939,7 +939,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="InvalidMode" datatype="html">
         <source>Invalid Mode</source>
-        <target state="new">Invalid Mode</target>
+        <target state="new">不正なモード</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">41</context>
@@ -947,7 +947,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="InvalidDate" datatype="html">
         <source>Invalid Date</source>
-        <target state="new">Invalid Date</target>
+        <target state="new">不正な日付</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">61</context>
@@ -955,7 +955,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ActivationUploadedAlready" datatype="html">
         <source>This activation has already been uploaded - try editing it!</source>
-        <target state="new">This activation has already been uploaded - try editing it!</target>
+        <target state="new">このアクティベーションは既にアップロードされています。アップロード済みログを編集してください。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">62</context>
@@ -963,7 +963,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Duplicate" datatype="html">
         <source>DUPLICATE</source>
-        <target state="new">DUPLICATE</target>
+        <target state="new">重複</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">62</context>
@@ -971,7 +971,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Frequency" datatype="html">
         <source>Frequency</source>
-        <target state="new">Frequency</target>
+        <target state="new">周波数</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">87</context>
@@ -979,7 +979,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="S2SSummit" datatype="html">
         <source>S2S Summit</source>
-        <target state="new">S2S Summit</target>
+        <target state="new">S2Sサミット</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">89</context>
@@ -1323,7 +1323,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ChasersWorked" datatype="html">
         <source>Chasers Worked</source>
-        <target state="new">Chasers Worked</target>
+        <target state="new">交信数</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
           <context context-type="linenumber">29</context>
@@ -1515,7 +1515,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="OtherCallsign" datatype="html">
         <source>Other Callsign</source>
-        <target>相手局コールサイン</target>
+        <target>相手局</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">118</context>
@@ -1571,7 +1571,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="OtherLocation" datatype="html">
         <source>Other Location</source>
-        <target state="new">Other Location</target>
+        <target state="new">相手局場所</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">119</context>
@@ -1631,7 +1631,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="AchievementDate" datatype="html">
         <source>Achievement Date</source>
-        <target state="new">Achievement Date</target>
+        <target state="new">達成日</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">30</context>
@@ -1643,7 +1643,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Last25Awardees" datatype="html">
         <source>Last 25 Awardees</source>
-        <target state="new">Last 25 Awardees</target>
+        <target state="new">最新25受賞局</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">41</context>
@@ -2070,7 +2070,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatorPoints" datatype="html">
         <source>Activator Points</source>
-        <target>アクティベータサミット</target>
+        <target>アクティベータポイント</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">47</context>
@@ -2078,7 +2078,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SWLLog" datatype="html">
         <source>SWL Log</source>
-        <target state="new">SWL Log</target>
+        <target state="new">SWLログ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/swllog/swllog.component.html</context>
           <context context-type="linenumber">3</context>
@@ -2086,7 +2086,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ChasedSummit" datatype="html">
         <source>Chased Summit</source>
-        <target>チェイスサミット</target>
+        <target>チェイスした山岳</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">40</context>
@@ -2094,7 +2094,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatedSummit" datatype="html">
         <source>Activated Summit</source>
-        <target>アクティベートサミット</target>
+        <target>アクティベートした山岳</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">41</context>
@@ -2102,7 +2102,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatedSummitName" datatype="html">
         <source>Activated Summit Name</source>
-        <target state="new">Activated Summit Name</target>
+        <target state="new">アクティベートした山岳名</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">42</context>
@@ -2150,7 +2150,7 @@ administrators.
       </trans-unit>
       <trans-unit id="OwnCall" datatype="html">
         <source>Own Callsign</source>
-        <target state="new">Own Callsign</target>
+        <target state="new">自局コールサイン</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activation-delete-modal/activation-delete-modal.component.html</context>
           <context context-type="linenumber">27</context>
@@ -2158,7 +2158,7 @@ administrators.
       </trans-unit>
       <trans-unit id="otherCallsign" datatype="html">
         <source>Other Callsign</source>
-        <target>相手局コールサイン:</target>
+        <target>相手局</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-delete-modal/chaser-delete-modal.component.html</context>
           <context context-type="linenumber">30</context>
@@ -2378,7 +2378,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatedSummits" datatype="html">
         <source>Activated Summits</source>
-        <target>アクティベートされたサミット</target>
+        <target>アクティベートされた山岳</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/facts-figures/facts-figures.component.html</context>
           <context context-type="linenumber">35</context>
@@ -2486,14 +2486,14 @@ administrators.
       </trans-unit>
       <trans-unit id="Completes" datatype="html">
         <source>Completes</source>
-        <target state="new">Completes</target>
+        <target state="new">完全制覇</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivatorUniques" datatype="html">
-        <source>Activator Uniques</source>
+        <source>アクティベータ個別山岳スコア</source>
         <target state="new">Activator Uniques</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
@@ -2502,7 +2502,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ChaserUniques" datatype="html">
         <source>Chaser Uniques</source>
-        <target state="new">Chaser Uniques</target>
+        <target state="new">チェイサー個別山岳スコア</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">10</context>
@@ -2574,7 +2574,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Last6Months" datatype="html">
         <source>Last 6 Months</source>
-        <target state="new">Last 6 Months</target>
+        <target state="new">最新6ヶ月</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">18</context>
@@ -2586,7 +2586,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Previous6Months" datatype="html">
         <source>Previous 6 Months</source>
-        <target state="new">Previous 6 Months</target>
+        <target state="new">前6ヶ月</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">19</context>
@@ -2598,7 +2598,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatorWorked" datatype="html">
         <source>Activator Worked</source>
-        <target state="new">Activator Worked</target>
+        <target state="new">アクティベータ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">47</context>
@@ -2614,7 +2614,7 @@ administrators.
       </trans-unit>
       <trans-unit id="MyChaserRegions" datatype="html">
         <source>My Chased Regions</source>
-        <target state="new">My Chased Regions</target>
+        <target state="new">チェイスした地域</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">1</context>
@@ -2622,7 +2622,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Last12Months" datatype="html">
         <source>Last 12 Months</source>
-        <target state="new">Last 12 Months</target>
+        <target state="new">最新12ヶ月</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">18</context>
@@ -2642,7 +2642,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Jan" datatype="html">
         <source>Jan</source>
-        <target state="new">Jan</target>
+        <target state="new">1月</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">23</context>
@@ -2678,7 +2678,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Dec" datatype="html">
         <source>Dec</source>
-        <target state="new">Dec</target>
+        <target state="new">12月</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">23</context>
@@ -2714,7 +2714,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ShowAnalysis" datatype="html">
         <source>Show Analysis</source>
-        <target state="new">Show Analysis</target>
+        <target state="new">分析結果表示</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">28</context>
@@ -2726,7 +2726,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Loading" datatype="html">
         <source>Loading...</source>
-        <target state="new">Loading...</target>
+        <target state="new">ロード中</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">33</context>
@@ -2802,7 +2802,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Activator" datatype="html">
         <source>Activator</source>
-        <target state="new">Activator Worked</target>
+        <target state="new">アクティベータ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">5</context>
@@ -2810,7 +2810,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Chaser" datatype="html">
         <source>Chaser</source>
-        <target state="new">Chaser</target>
+        <target state="new">チェイサー</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">6</context>
@@ -2838,7 +2838,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SummitName" datatype="html">
         <source>Summit Name</source>
-        <target>サミット名</target>
+        <target>山岳名</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activation-show/activation-show.component.html</context>
           <context context-type="linenumber">53</context>
@@ -2886,7 +2886,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ViewMap" datatype="html">
         <source>View Map</source>
-        <target state="new">View Map</target>
+        <target state="new">地図を表示</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">93</context>
@@ -2922,7 +2922,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Edit" datatype="html">
         <source>Edit</source>
-        <target state="new">Edit</target>
+        <target state="new">編集</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activation-show/activation-show.component.html</context>
           <context context-type="linenumber">18</context>
@@ -2954,7 +2954,7 @@ administrators.
       </trans-unit>
       <trans-unit id="NoRecordsFound" datatype="html">
         <source>No records found</source>
-        <target state="new">No records found</target>
+        <target state="new">記録がありません</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">143</context>
@@ -2970,7 +2970,7 @@ administrators.
       </trans-unit>
       <trans-unit id="DeleteChaserLog" datatype="html">
         <source>Delete Chaser Log</source>
-        <target state="new">Delete Chaser Log</target>
+        <target state="new">チェイサーログを削除</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-delete-modal/chaser-delete-modal.component.html</context>
           <context context-type="linenumber">2</context>
@@ -2990,7 +2990,7 @@ administrators.
       </trans-unit>
       <trans-unit id="DateFirstActivation" datatype="html">
         <source>Date of First Activation</source>
-        <target state="new">Date of First Activation</target>
+        <target state="new">ファーストアクティベーション日</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">25</context>
@@ -3038,7 +3038,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AssociationsChasedVHF" datatype="html">
         <source>Association(s) Chased VHF and up</source>
-        <target state="new">Association(s) Chased VHF and up</target>
+        <target state="new">VHF以上でチェイスした支部</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/awards/awards.component.html</context>
           <context context-type="linenumber">74</context>
@@ -3050,7 +3050,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AwardedToYouOn" datatype="html">
         <source>Awarded to you on: </source>
-        <target state="new">Awarded to you on: </target>
+        <target state="new">獲得したアワード:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">23</context>
@@ -3058,7 +3058,7 @@ administrators.
       </trans-unit>
       <trans-unit id="First25Awardees" datatype="html">
         <source>First 25 Awardees</source>
-        <target state="new">First 25 Awardees</target>
+        <target state="new">最初に受賞した25局</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">26</context>
@@ -3074,7 +3074,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SummitCode" datatype="html">
         <source>Summit Code</source>
-        <target> サミットコード </target>
+        <target> 山岳ID </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">116</context>
@@ -3130,7 +3130,7 @@ administrators.
       </trans-unit>
       <trans-unit id="LatestActivations" datatype="html">
         <source>Latest activations</source>
-        <target state="new">Latest activations</target>
+        <target state="new">最新アクティベーション</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">16</context>
@@ -3178,7 +3178,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ChaserLog" datatype="html">
         <source>Chaser Log</source>
-        <target state="new">Chaser Log</target>
+        <target state="new">チェイサーログ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">3</context>
@@ -3186,7 +3186,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ShowAllQSOs" datatype="html">
         <source>Show All QSOs</source>
-        <target state="new">Show All QSOs</target>
+        <target state="new">全てのQSOを表示</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">6</context>
@@ -3194,7 +3194,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ShowAwards" datatype="html">
         <source>Show Awards</source>
-        <target state="new">Show Awards</target>
+        <target state="new">アワードを表示</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">7</context>
@@ -3287,7 +3287,7 @@ administrators.
       </trans-unit>
       <trans-unit id="csvField" datatype="html">
         <source>Field</source>
-        <target state="new">Field</target>
+        <target state="new">項目</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">56</context>
@@ -3423,7 +3423,7 @@ administrators.
       </trans-unit>
       <trans-unit id="VerifyLog" datatype="html">
         <source>Verify Log <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;spinner-border spinner-border-sm&quot; role=&quot;status&quot; aria-hidden=&quot;true&quot; *ngIf=&quot;this.verifying&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/></source>
-        <target state="new">Verify Log <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;spinner-border spinner-border-sm&quot; role=&quot;status&quot; aria-hidden=&quot;true&quot; *ngIf=&quot;this.verifying&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/></target>
+        <target state="new">ログを検証 <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;spinner-border spinner-border-sm&quot; role=&quot;status&quot; aria-hidden=&quot;true&quot; *ngIf=&quot;this.verifying&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">124</context>
@@ -3479,7 +3479,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SummitInfo" datatype="html">
         <source>Summit Info</source>
-        <target>サミット情報</target>
+        <target>山岳情報</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/recent-summits/recent-summits.component.html</context>
           <context context-type="linenumber">29</context>
@@ -3507,7 +3507,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ViewAllSummitActivity" datatype="html">
         <source>View ALL Summit Activity</source>
-        <target state="new">View ALL Summit Activity</target>
+        <target state="new">全ての活動を表示</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">1</context>
@@ -3515,7 +3515,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Activation" datatype="html">
         <source>Activation</source>
-        <target state="new">Activation</target>
+        <target state="new">アクティベーション</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">5</context>
@@ -3523,7 +3523,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Latest" datatype="html">
         <source>Latest</source>
-        <target state="new">Latest</target>
+        <target state="new">最新</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">7</context>
@@ -3531,7 +3531,7 @@ administrators.
       </trans-unit>
       <trans-unit id="FirstActivation" datatype="html">
         <source>First activation</source>
-        <target state="new">First activation</target>
+        <target state="new">ファーストアクティベーション</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">13</context>
@@ -3539,7 +3539,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatedByMe1Time" datatype="html">
         <source>Activated by me 1 time on</source>
-        <target state="new">Activated by me 1 time on</target>
+        <target state="new">自局アクティベーション日</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">19</context>
@@ -3547,7 +3547,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatedByMeXTimes" datatype="html">
         <source>Activated by me <x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> times on</source>
-        <target state="new">Activated by me <x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> times on</target>
+        <target state="new">自局アクティベーション日(<x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> 回)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">20</context>
@@ -3555,7 +3555,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ChasedByMe1Time" datatype="html">
         <source>Chased by me 1 time on</source>
-        <target state="new">Chased by me 1 time on</target>
+        <target state="new">自局チェイス日</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">28</context>
@@ -3563,7 +3563,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ChasedByMeXTimes" datatype="html">
         <source>Chased by me <x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/> times on</source>
-        <target state="new">Chased by me <x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/> times on</target>
+        <target state="new">自局チェイス日(<x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/>回)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">29</context>
@@ -3571,7 +3571,7 @@ administrators.
       </trans-unit>
       <trans-unit id="OftenActivatedWith" datatype="html">
         <source>Often activated with</source>
-        <target state="new">Often activated with</target>
+        <target state="new">一緒にアクティベーションされる山岳</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">37</context>
@@ -3579,7 +3579,7 @@ administrators.
       </trans-unit>
       <trans-unit id="NoActivationsYet" datatype="html">
         <source>No activations yet!</source>
-        <target state="new">No activations yet!</target>
+        <target state="new">未アクティベーション</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">45</context>
@@ -3587,7 +3587,7 @@ administrators.
       </trans-unit>
       <trans-unit id="LoadingActivationData" datatype="html">
         <source>Loading activation data</source>
-        <target state="new">Loading activation data</target>
+        <target state="new">アクティベーションデータ読込中</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">46</context>
@@ -3595,7 +3595,7 @@ administrators.
       </trans-unit>
       <trans-unit id="PostedByCallsign" datatype="html">
         <source> Posted by <x id="INTERPOLATION" equiv-text="{{ model.callsign }}"/> on <x id="INTERPOLATION_1" equiv-text="{{ model.dateSubmitted * 1000 | date }}"/> </source>
-        <target state="new"> Posted by <x id="INTERPOLATION" equiv-text="{{ model.callsign }}"/> on <x id="INTERPOLATION_1" equiv-text="{{ model.dateSubmitted * 1000 | date }}"/> </target>
+        <target state="new"> <x id="INTERPOLATION" equiv-text="{{ model.callsign }}"/>が<x id="INTERPOLATION_1" equiv-text="{{ model.dateSubmitted * 1000 | date }}"/>に投稿</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">4,6</context>
@@ -3603,7 +3603,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ReturnToSummitCode" datatype="html">
         <source>Return to <x id="INTERPOLATION" equiv-text="{{ model.summitCode }}"/></source>
-        <target state="new">Return to <x id="INTERPOLATION" equiv-text="{{ model.summitCode }}"/></target>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{ model.summitCode }}"/>に戻る</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">7</context>
@@ -3611,7 +3611,7 @@ administrators.
       </trans-unit>
       <trans-unit id="EditArticle" datatype="html">
         <source>Edit Article</source>
-        <target state="new">Edit Article</target>
+        <target state="new">記事を編集</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">13</context>
@@ -3619,7 +3619,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ArticleText" datatype="html">
         <source>Article text</source>
-        <target state="new">Article text</target>
+        <target state="new">記事テキスト</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">35</context>
@@ -3627,7 +3627,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ArticleTextIsRequired" datatype="html">
         <source> Article text is required </source>
-        <target state="new"> Article text is required </target>
+        <target state="new">記事テキストが必要です</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">41,43</context>
@@ -3635,7 +3635,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SaveArticle" datatype="html">
         <source>Save Article</source>
-        <target state="new">Save Article</target>
+        <target state="new">記事を保存</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3643,7 +3643,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AddArticle" datatype="html">
         <source>Add Article</source>
-        <target state="new">Add Article</target>
+        <target state="new">記事を追加</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3651,7 +3651,7 @@ administrators.
       </trans-unit>
       <trans-unit id="DriveUp" datatype="html">
         <source>Drive Up Summit</source>
-        <target state="new">Drive Up Summit</target>
+        <target state="new">車で行ける山岳</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">5</context>
@@ -3659,7 +3659,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReachedByVehicle" datatype="html">
         <source>Activation zone can be reached by vehicle</source>
-        <target state="new">Activation zone can be reached by vehicle</target>
+        <target state="new">アクティベーションゾーンに車で到達可能</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">5</context>
@@ -3667,7 +3667,7 @@ administrators.
       </trans-unit>
       <trans-unit id="DriveUp4WD" datatype="html">
         <source>Drive Up Summit - 4WD only</source>
-        <target state="new">Drive Up Summit - 4WD only</target>
+        <target state="new">車で行ける山岳- 4WDのみ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">11</context>
@@ -3675,7 +3675,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReachedByVehicle4WD" datatype="html">
         <source>Activation zone can be reached by vehicle with 4WD capability</source>
-        <target state="new">Activation zone can be reached by vehicle with 4WD capability</target>
+        <target state="new">アクティベーションゾーンに4WD車で到達可能</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">11</context>
@@ -3683,7 +3683,7 @@ administrators.
       </trans-unit>
       <trans-unit id="PublicTransport" datatype="html">
         <source>Public Transport</source>
-        <target state="new">Public Transport</target>
+        <target state="new">公共交通機関</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3691,7 +3691,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReachedByPubTrans" datatype="html">
         <source>Trailhead or Activation Zone can be reached by public transport from nearby city</source>
-        <target state="new">Trailhead or Activation Zone can be reached by public transport from nearby city</target>
+        <target state="new">登山口やアクティベーションゾーンに公共交通機関で到達可能</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3699,7 +3699,7 @@ administrators.
       </trans-unit>
       <trans-unit id="CycleFriendly" datatype="html">
         <source>Cycle Friendly</source>
-        <target state="new">Cycle Friendly</target>
+        <target state="new">自転車のアクセス</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">23</context>
@@ -3707,7 +3707,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeCycle" datatype="html">
         <source>Activation zone can be reached by bicycle</source>
-        <target state="new">Activation zone can be reached by bicycle</target>
+        <target state="new">アクティベーションゾーンに自転車で到達可能</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">23</context>
@@ -3715,15 +3715,15 @@ administrators.
       </trans-unit>
       <trans-unit id="DisabilityFriendly" datatype="html">
         <source>Disability Friendy</source>
-        <target state="new">Disability Friendy</target>
+        <target state="new">障がい者のアクセス</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">29</context>
         </context-group>
       </trans-unit>
       <trans-unit id="SummitIsAccessible" datatype="html">
-        <source>Sumit is accessible to all people, regardless of ability</source>
-        <target state="new">Sumit is accessible to all people, regardless of ability</target>
+        <source>Summit is accessible to all people, regardless of ability</source>
+        <target state="new">障がい者でもアクセス可能</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">29</context>
@@ -3731,7 +3731,7 @@ administrators.
       </trans-unit>
       <trans-unit id="EasyWalk" datatype="html">
         <source>Easy Walk (&lt;30 minutes)</source>
-        <target state="new">Easy Walk (&lt;30 minutes)</target>
+        <target state="new">簡単に登れる (&lt;30分)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">35</context>
@@ -3747,7 +3747,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ModerateWalk" datatype="html">
         <source>Moderate Walk (30-90 minutes)</source>
-        <target state="new">Moderate Walk (30-90 minutes)</target>
+        <target state="new">ある程度歩く (30-90分)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">41</context>
@@ -3755,7 +3755,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReached3090mins" datatype="html">
         <source>Activation zone can be reached by walking between 30 minutes and 90 minutes from a trailhead</source>
-        <target state="new">Activation zone can be reached by walking between 30 minutes and 90 minutes from a trailhead</target>
+        <target state="new">登山口からアクティベーションゾーンまで30分～90分で到達可能</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">41</context>
@@ -3763,7 +3763,7 @@ administrators.
       </trans-unit>
       <trans-unit id="LongWalk" datatype="html">
         <source>Long Walk (1.5 hours - 6 hours)</source>
-        <target state="new">Long Walk (1.5 hours - 6 hours)</target>
+        <target state="new">長く歩く(1時間半-6時間)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">47</context>
@@ -3771,7 +3771,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReached16hours" datatype="html">
         <source>Activation zone can be reached by walking between 1.5 and 6 hours from a trailhead</source>
-        <target state="new">Activation zone can be reached by walking between 1.5 and 6 hours from a trailhead</target>
+        <target state="new">登山口からアクティベーションゾーンまで1時間半-6時間で到達可能</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">47</context>
@@ -3779,7 +3779,7 @@ administrators.
       </trans-unit>
       <trans-unit id="OvernightHike" datatype="html">
         <source>Overnight Hike</source>
-        <target state="new">Overnight Hike</target>
+        <target state="new">泊まりが必要</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">53</context>
@@ -3787,7 +3787,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReachedOvernight" datatype="html">
         <source>Activation zone can be reached by overnight or multi-day walk</source>
-        <target state="new">Activation zone can be reached by overnight or multi-day walk</target>
+        <target state="new">アクティベーションゾーンに数日で到達可能</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">53</context>
@@ -3795,7 +3795,7 @@ administrators.
       </trans-unit>
       <trans-unit id="RockClimbingRequired" datatype="html">
         <source>Rock Climbing Required</source>
-        <target state="new">Rock Climbing Required</target>
+        <target state="new">ロッククライミングが必要</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3803,7 +3803,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivationZoneRequiresRockClimbing" datatype="html">
         <source>Activation zone requires rock climbing to reach</source>
-        <target state="new">Activation zone requires rock climbing to reach</target>
+        <target state="new">アクティベーションゾーン到達にロッククライミングが必要</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3811,7 +3811,7 @@ administrators.
       </trans-unit>
       <trans-unit id="PotentialAccessIssuesAddNote" datatype="html">
         <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>Potential Access Issues<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> - Please add note to explain</source>
-        <target state="new"><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>Potential Access Issues<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> - Please add note to explain</target>
+        <target state="new"><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>アクセス時に起こりうる問題<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> - Please add note to explain</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">65</context>
@@ -3819,7 +3819,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Point" datatype="html">
         <source>point</source>
-        <target state="new">point</target>
+        <target state="new">ポイント</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">5</context>
@@ -3827,7 +3827,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AssociationList" datatype="html">
         <source>Association List</source>
-        <target state="new">Association List</target>
+        <target state="new">支部リスト</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3835,7 +3835,7 @@ administrators.
       </trans-unit>
       <trans-unit id="BackToAssociation" datatype="html">
         <source>Back to <x id="INTERPOLATION" equiv-text="{{ summit.associationCode }}"/> Association</source>
-        <target state="new">Back to <x id="INTERPOLATION" equiv-text="{{ summit.associationCode }}"/> Association</target>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{ summit.associationCode }}"/> 支部に戻る</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">18</context>
@@ -3843,7 +3843,7 @@ administrators.
       </trans-unit>
       <trans-unit id="BackToRegion" datatype="html">
         <source>Back to <x id="INTERPOLATION" equiv-text="{{ summit.regionCode }}"/> Region</source>
-        <target state="new">Back to <x id="INTERPOLATION" equiv-text="{{ summit.regionCode }}"/> Region</target>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{ summit.regionCode }}"/>地域に戻る</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">19</context>
@@ -3851,7 +3851,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Region" datatype="html">
         <source>Region</source>
-        <target state="new">Region</target>
+        <target state="new">地域</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">30</context>
@@ -3859,7 +3859,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Latitude" datatype="html">
         <source>Latitude</source>
-        <target state="new">Latitude</target>
+        <target state="new">緯度</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
           <context context-type="linenumber">10</context>
@@ -3871,7 +3871,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Longitude" datatype="html">
         <source>Longitude</source>
-        <target state="new">Longitude</target>
+        <target state="new">経度</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3907,7 +3907,7 @@ administrators.
       </trans-unit>
       <trans-unit id="QTHLocator" datatype="html">
         <source>QTH Locator</source>
-        <target state="new">QTH Locator</target>
+        <target state="new">QTHロケータ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">38</context>
@@ -3915,7 +3915,7 @@ administrators.
       </trans-unit>
       <trans-unit id="BonusPeriod" datatype="html">
         <source>Bonus Period</source>
-        <target state="new">Bonus Period</target>
+        <target state="new">ボーナス期間</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">41</context>
@@ -3939,7 +3939,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivationsWontEarnPoints" datatype="html">
         <source>Activations and chases of this summit will not earn points.</source>
-        <target state="new">Activations and chases of this summit will not earn points.</target>
+        <target state="new">この山岳のアクティベーション及びチェイスはポイントになりません。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">52</context>
@@ -3947,7 +3947,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SubjectToRestrictions" datatype="html">
         <source>This summit is potentially subject to restricted access or restrictions on operations. Details may be found by clicking below:</source>
-        <target state="new">This summit is potentially subject to restricted access or restrictions on operations. Details may be found by clicking below:</target>
+        <target state="new">この山岳は入山禁止又は運用が制限されている可能性があります。詳細はこちらのリンク:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">57</context>
@@ -3979,7 +3979,7 @@ administrators.
       </trans-unit>
       <trans-unit id="TotalActivations" datatype="html">
         <source>Total Activations</source>
-        <target state="new">Total Activations</target>
+        <target state="new">全アクティベーション</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">30</context>
@@ -3991,7 +3991,7 @@ administrators.
       </trans-unit>
       <trans-unit id="MyActivations" datatype="html">
         <source>My Activations</source>
-        <target state="new">My Activations</target>
+        <target state="new">自局アクティベーション</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">31</context>
@@ -4003,7 +4003,7 @@ administrators.
       </trans-unit>
       <trans-unit id="MyChases" datatype="html">
         <source>My Chases</source>
-        <target state="new">My Chases</target>
+        <target state="new">自局チェイス</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">32</context>
@@ -4015,7 +4015,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Summit Articles" datatype="html">
         <source>Summit Articles</source>
-        <target state="new">Summit Articles</target>
+        <target state="new">山岳情報</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">3</context>
@@ -4023,7 +4023,7 @@ administrators.
       </trans-unit>
       <trans-unit id="NoSummitResourcesFound" datatype="html">
         <source>No summit resources found</source>
-        <target state="new">No summit resources found</target>
+        <target state="new">山岳情報がありません</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">13</context>
@@ -4031,7 +4031,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Title" datatype="html">
         <source>Title</source>
-        <target state="new">Title</target>
+        <target state="new">タイトル</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">20</context>
@@ -4047,7 +4047,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Article/Link" datatype="html">
         <source>Article/Link</source>
-        <target state="new">Article/Link</target>
+        <target state="new">記事/リンク</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">21</context>
@@ -4055,7 +4055,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ConfirmDelete" datatype="html">
         <source>Confirm Delete</source>
-        <target state="new">Confirm Delete</target>
+        <target state="new">削除を確認</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">41</context>
@@ -4067,7 +4067,7 @@ administrators.
       </trans-unit>
       <trans-unit id="DeleteThisResource" datatype="html">
         <source>Delete this resource?</source>
-        <target state="new">Delete this resource?</target>
+        <target state="new">この情報を削除しますか?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">47</context>
@@ -4087,7 +4087,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatorStats" datatype="html">
         <source>Activator Stats</source>
-        <target state="new">Activator Stats</target>
+        <target state="new">アクティベータ統計</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">9</context>
@@ -4095,7 +4095,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ChaserStats" datatype="html">
         <source>Chaser Stats</source>
-        <target state="new">Chaser Stats</target>
+        <target state="new">チェイサー統計</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">12</context>
@@ -4103,7 +4103,7 @@ administrators.
       </trans-unit>
       <trans-unit id="TotalPointsL" datatype="html">
         <source>total points</source>
-        <target state="new">total points</target>
+        <target state="new">トータルポイント</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">33</context>
@@ -4115,7 +4115,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatorPointsL" datatype="html">
         <source>activator points</source>
-        <target state="new">activator points</target>
+        <target state="new">アクティベータポイント</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">34</context>
@@ -4127,7 +4127,7 @@ administrators.
       </trans-unit>
       <trans-unit id="BonusPointsL" datatype="html">
         <source>bonus points</source>
-        <target state="new">bonus points</target>
+        <target state="new">ボーナスポイント</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">35</context>
@@ -4139,7 +4139,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivationsL" datatype="html">
         <source>activations</source>
-        <target state="new">activations</target>
+        <target state="new">アクティベーション</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">43</context>
@@ -4151,7 +4151,7 @@ administrators.
       </trans-unit>
       <trans-unit id="UniqueSummitsL" datatype="html">
         <source>unique summits</source>
-        <target state="new">unique summits</target>
+        <target state="new">個別山岳数</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">51</context>
@@ -4171,7 +4171,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AssociationsL" datatype="html">
         <source>associations</source>
-        <target state="new">associations</target>
+        <target state="new">支部</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">59</context>
@@ -4187,7 +4187,7 @@ administrators.
       </trans-unit>
       <trans-unit id="RegionsL" datatype="html">
         <source>regions</source>
-        <target state="new">regions</target>
+        <target state="new">地域</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">60</context>
@@ -4203,7 +4203,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Top Chaser" datatype="html">
         <source>Top Chaser</source>
-        <target state="new">Top Chaser</target>
+        <target state="new">トップチェイサー</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">69</context>
@@ -4215,7 +4215,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatingSince" datatype="html">
         <source>Activating since</source>
-        <target state="new">Activating since</target>
+        <target state="new">アクティベーション開始</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">78</context>
@@ -4227,7 +4227,7 @@ administrators.
       </trans-unit>
       <trans-unit id="RecentActivations" datatype="html">
         <source>Recent activations</source>
-        <target state="new">Recent activations</target>
+        <target state="new">最近のアクティベーション</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">147</context>
@@ -4235,7 +4235,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AddActivation" datatype="html">
         <source>Add Activation</source>
-        <target state="new">Add Activation</target>
+        <target state="new">アクティベーションログ追加</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">169</context>
@@ -4251,7 +4251,7 @@ administrators.
       </trans-unit>
       <trans-unit id="More" datatype="html">
         <source>More...</source>
-        <target state="new">More...</target>
+        <target state="new">更に表示</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">169</context>
@@ -4271,7 +4271,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatorBadges" datatype="html">
         <source>Activator Badges</source>
-        <target state="new">Activator Badges</target>
+        <target state="new">アクティベータバッジ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">175</context>
@@ -4279,7 +4279,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivityByYear" datatype="html">
         <source>Activity by year</source>
-        <target state="new">Activity by year</target>
+        <target state="new">年ごとの活動</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">190</context>
@@ -4291,7 +4291,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Bands" datatype="html">
         <source>Bands</source>
-        <target state="new">Bands</target>
+        <target state="new">バンド</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">216</context>
@@ -4303,7 +4303,7 @@ administrators.
       </trans-unit>
       <trans-unit id="TopChasers" datatype="html">
         <source>Top Chasers</source>
-        <target state="new">Top Chasers</target>
+        <target state="new">トップチェイサー</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">262</context>
@@ -4311,7 +4311,7 @@ administrators.
       </trans-unit>
       <trans-unit id="MostActivated" datatype="html">
         <source>Most Activated</source>
-        <target state="new">Most Activated</target>
+        <target state="new">最もアクティベーションされている山岳</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">277</context>
@@ -4319,7 +4319,7 @@ administrators.
       </trans-unit>
       <trans-unit id="PointsL" datatype="html">
         <source>points</source>
-        <target state="new">points</target>
+        <target state="new">ポイント</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">315</context>
@@ -4335,7 +4335,7 @@ administrators.
       </trans-unit>
       <trans-unit id="TopActivator" datatype="html">
         <source>Top Activator</source>
-        <target state="new">Top Activator</target>
+        <target state="new">トップアクティベータ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">344</context>
@@ -4347,7 +4347,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ChasingSince" datatype="html">
         <source>Chasing since</source>
-        <target state="new">Chasing since</target>
+        <target state="new">チェイス開始日</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">353</context>
@@ -4359,7 +4359,7 @@ administrators.
       </trans-unit>
       <trans-unit id="S2SPointsShort" datatype="html">
         <source>S2S points</source>
-        <target state="new">S2S points</target>
+        <target state="new">S2Sポイント</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">361</context>
@@ -4371,7 +4371,7 @@ administrators.
       </trans-unit>
       <trans-unit id="TotalS2SQSOs" datatype="html">
         <source>total S2S QSOs</source>
-        <target state="new">total S2S QSOs</target>
+        <target state="new">全S2S QSO数</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">363</context>
@@ -4379,7 +4379,7 @@ administrators.
       </trans-unit>
       <trans-unit id="S2SQSOs" datatype="html">
         <source>S2S QSOs</source>
-        <target state="new">S2S QSOs</target>
+        <target state="new">S2S QSO</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">427</context>
@@ -4387,7 +4387,7 @@ administrators.
       </trans-unit>
       <trans-unit id="RecentChases" datatype="html">
         <source>Recent chases</source>
-        <target state="new">Recent chases</target>
+        <target state="new">最近のチェイス</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">435</context>
@@ -4395,7 +4395,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AddChase" datatype="html">
         <source>Add Chase</source>
-        <target state="new">Add Chase</target>
+        <target state="new">チェイスログ追加</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">477</context>
@@ -4403,7 +4403,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ChaserBadges" datatype="html">
         <source>Chaser Badges</source>
-        <target state="new">Chaser Badges</target>
+        <target state="new">チェイサーバッジ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">483</context>
@@ -4411,7 +4411,7 @@ administrators.
       </trans-unit>
       <trans-unit id="TopActivators" datatype="html">
         <source>Top Activators</source>
-        <target state="new">Top Activators</target>
+        <target state="new">トップアクティベータ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">569</context>
@@ -4419,7 +4419,7 @@ administrators.
       </trans-unit>
       <trans-unit id="MostChased" datatype="html">
         <source>Most Chased</source>
-        <target state="new">Most Chased</target>
+        <target state="new">最もチェイスされている山岳</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">584</context>
@@ -4427,7 +4427,7 @@ administrators.
       </trans-unit>
       <trans-unit id="FlagArticle" datatype="html">
         <source>Flag Article</source>
-        <target state="new">Flag Article</target>
+        <target state="new">記事にフラグ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">2</context>
@@ -4451,7 +4451,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Outdated" datatype="html">
         <source>Information no longer relevant</source>
-        <target state="new">Information no longer relevant</target>
+        <target state="new">古い情報です</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">9</context>
@@ -4463,7 +4463,7 @@ administrators.
       </trans-unit>
       <trans-unit id="OutdatedURL" datatype="html">
         <source>URL no longer works</source>
-        <target state="new">URL no longer works</target>
+        <target state="new">リンク先がありません</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">10</context>
@@ -4475,7 +4475,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ContentViolation" datatype="html">
         <source>Content violates Acceptable Use Policy</source>
-        <target state="new">Content violates Acceptable Use Policy</target>
+        <target state="new">利用規約に違反した内容です</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">11</context>
@@ -4487,7 +4487,7 @@ administrators.
       </trans-unit>
       <trans-unit id="InvalidEncoding" datatype="html">
         <source>Invalid text encoding</source>
-        <target state="new">Invalid text encoding</target>
+        <target state="new">テキストエンコーディングが不正です</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">12</context>
@@ -4499,7 +4499,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActiveAssocs" datatype="html">
         <source><x id="INTERPOLATION" equiv-text="{{ associations.length }}"/> active associations and growing!</source>
-        <target state="new"><x id="INTERPOLATION" equiv-text="{{ associations.length }}"/> active associations and growing!</target>
+        <target state="new">現在<x id="INTERPOLATION" equiv-text="{{ associations.length }}"/>支部あります。さらに増えています！</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">5</context>
@@ -4507,7 +4507,7 @@ administrators.
       </trans-unit>
       <trans-unit id="LoadingAssoc" datatype="html">
         <source>Loading associations ...</source>
-        <target state="new">Loading associations ...</target>
+        <target state="new">支部をロード中</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">6</context>
@@ -4515,7 +4515,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AssociationIntro" datatype="html">
         <source> SOTA is continually growing with new Associations regularly coming on board. Please click on an Association to find out more information, access the Association Reference Manual (ARM) and view its regions &amp; qualifying summits. </source>
-        <target state="new"> SOTA is continually growing with new Associations regularly coming on board. Please click on an Association to find out more information, access the Association Reference Manual (ARM) and view its regions &amp; qualifying summits. </target>
+        <target state="new"> 定期的に新しい支部が参加しSOTAは継続して成長しています。支部についての詳細な情報は支部をクリック又は支部参照マニュアル(Association Reference Manual (ARM)) により、地域・認定された山岳を確認できます。 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">12,14</context>
@@ -4523,7 +4523,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Filter" datatype="html">
         <source>Filter</source>
-        <target state="new">Filter</target>
+        <target state="new">フィルタ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">18</context>
@@ -4531,7 +4531,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AssociationName" datatype="html">
         <source>Association Name</source>
-        <target state="new">Association Name</target>
+        <target state="new">支部名</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">25</context>
@@ -4539,7 +4539,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActiveFrom" datatype="html">
         <source>Active From</source>
-        <target state="new">Active From</target>
+        <target state="new">有効日</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">26</context>
@@ -4547,7 +4547,7 @@ administrators.
       </trans-unit>
       <trans-unit id="RegionsU" datatype="html">
         <source>Regions</source>
-        <target state="new">Regions</target>
+        <target state="new">地域</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">27</context>
@@ -4555,7 +4555,7 @@ administrators.
       </trans-unit>
       <trans-unit id="TopSummits" datatype="html">
         <source>Top Summits</source>
-        <target state="new">Top Summits</target>
+        <target state="new">トップサミット</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">49</context>
@@ -4563,7 +4563,7 @@ administrators.
       </trans-unit>
       <trans-unit id="RecentlyActivatedSummits" datatype="html">
         <source>Recently Activated Summits</source>
-        <target state="new">Recently Activated Summits</target>
+        <target state="new">最近アクティベートされた山岳</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">49</context>
@@ -4589,7 +4589,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SummitSearch" datatype="html">
         <source>Summit Search</source>
-        <target state="new">Summit Search</target>
+        <target state="new">山岳サーチ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/summit-search-form/summit-search.component.html</context>
           <context context-type="linenumber">1</context>
@@ -4598,7 +4598,7 @@ administrators.
       <trans-unit id="SummitSearchDesc" datatype="html">
         <source> This searches the Summit Code and the Summit Name for the entered word, phrase or part of a word or phrase.
 </source>
-        <target state="new"> This searches the Summit Code and the Summit Name for the entered word, phrase or part of a word or phrase.
+        <target state="new"> 山岳ID,山岳名の全部又は一部で検索することができます
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/summit-search-form/summit-search.component.html</context>
@@ -4655,7 +4655,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Degrees" datatype="html">
         <source>deg</source>
-        <target state="new">deg</target>
+        <target state="new">度</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">25</context>
@@ -4667,7 +4667,7 @@ administrators.
       </trans-unit>
       <trans-unit id="TitleIsRequired" datatype="html">
         <source> Title is required </source>
-        <target state="new"> Title is required </target>
+        <target state="new">タイトルを入力してください</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/link-form/link-form.component.html</context>
           <context context-type="linenumber">12,14</context>
@@ -4687,7 +4687,7 @@ administrators.
       </trans-unit>
       <trans-unit id="URLIsRequired" datatype="html">
         <source> URL is required </source>
-        <target state="new"> URL is required </target>
+        <target state="new"> URLが必要です</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/link-form/link-form.component.html</context>
           <context context-type="linenumber">21,23</context>
@@ -4695,7 +4695,7 @@ administrators.
       </trans-unit>
       <trans-unit id="EditSummitTags" datatype="html">
         <source>Edit summit tags</source>
-        <target state="new">Edit summit tags</target>
+        <target state="new">山岳タグを編集</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/link-form/link-form.component.html</context>
           <context context-type="linenumber">34</context>
@@ -4707,7 +4707,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Close" datatype="html">
         <source>Close</source>
-        <target state="new">Close</target>
+        <target state="new">閉じる</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/link-form/link-form.component.html</context>
           <context context-type="linenumber">38</context>
@@ -4775,7 +4775,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AssociationManager" datatype="html">
         <source>Association Manager</source>
-        <target state="new">Manager</target>
+        <target state="new">地区マネージャ</target
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/association/association.component.html</context>
           <context context-type="linenumber">6</context>
@@ -4820,7 +4820,7 @@ administrators.
       </trans-unit>
       <trans-unit id="MyChasedSummits" datatype="html">
         <source>My Chased Summits</source>
-        <target state="new">My Chased Summits</target>
+        <target state="new">自局チェイス</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">18</context>
@@ -4844,7 +4844,7 @@ administrators.
       </trans-unit>
       <trans-unit id="LatitudeLongitude" datatype="html">
         <source> Latitude / Longitude </source>
-        <target state="new"> Latitude / Longitude </target>
+        <target state="new"> 緯度/経度 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/features-control/features-control.component.html</context>
           <context context-type="linenumber">25,27</context>
@@ -4852,7 +4852,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Reset" datatype="html">
         <source>Reset</source>
-        <target state="new">Reset</target>
+        <target state="new">リセット</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">10</context>
@@ -4860,7 +4860,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AllQSOs" datatype="html">
         <source>All QSOs</source>
-        <target state="new">All QSOs</target>
+        <target state="new">全てのQSO</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">16</context>
@@ -4868,7 +4868,7 @@ administrators.
       </trans-unit>
       <trans-unit id="S2SOnly" datatype="html">
         <source>S2S only</source>
-        <target state="new">S2S only</target>
+        <target state="new">S2Sのみ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">17</context>
@@ -4876,7 +4876,7 @@ administrators.
       </trans-unit>
       <trans-unit id="NoS2S" datatype="html">
         <source>No S2S</source>
-        <target state="new">No S2S</target>
+        <target state="new">S2S除く</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">18</context>
@@ -4908,7 +4908,7 @@ administrators.
       </trans-unit>
       <trans-unit id="YourSWLCallsign" datatype="html">
         <source>SWL Callsign YOU Used</source>
-        <target state="new">SWL Callsign YOU Used</target>
+        <target state="new">あなたのSWLコールサイン</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/chaser-modal/chaser-modal.component.html</context>
           <context context-type="linenumber">26</context>
@@ -4940,7 +4940,7 @@ administrators.
       </trans-unit>
       <trans-unit id="csvSummitChaser" datatype="html">
         <source>If you are entering a chaser log, this field will be blank. See last entry in the example. </source>
-        <target state="new">If you are entering a chaser log, this field will be blank.  See last entry in the example.
+        <target state="new">チェイサーログを入力する場合、この項目は空白です。入力例の最後の項目を参照してください。
           </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
@@ -4991,7 +4991,7 @@ administrators.
       </trans-unit>
       <trans-unit id="NotesOrComments" datatype="html">
         <source>Notes or Comments</source>
-        <target state="new">Notes or Comments</target>
+        <target state="new">メモ又はコメント</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">251</context>
@@ -5067,7 +5067,7 @@ administrators.
       </trans-unit>
       <trans-unit id="StationHead" datatype="html">
         <source>Station Heard</source>
-        <target state="new">Station Heard</target>
+        <target state="new">受信局</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/swllog/swllog.component.html</context>
           <context context-type="linenumber">33</context>
@@ -5075,7 +5075,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SortByDate" datatype="html">
         <source>Sort by Date</source>
-        <target state="new">Sort by Date</target>
+        <target state="new">日付順</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">8</context>
@@ -5083,7 +5083,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SortByAssociation" datatype="html">
         <source>Sort by Association</source>
-        <target state="new">Sort by Association</target>
+        <target state="new">支部順</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">9</context>
@@ -5091,7 +5091,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SortByActivationCount" datatype="html">
         <source>Sort by Activation Count</source>
-        <target state="new">Sort by Activation Count</target>
+        <target state="new">アクティベーション回数順</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">10</context>
@@ -5127,7 +5127,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SeeAll" datatype="html">
         <source>See all...</source>
-        <target state="new">See all...</target>
+        <target state="new">全て見る</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">40</context>
@@ -5155,7 +5155,7 @@ administrators.
       </trans-unit>
       <trans-unit id="LatestChases" datatype="html">
         <source>Latest chases</source>
-        <target state="new">Latest chases</target>
+        <target state="new">最新チェイス</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">45</context>
@@ -5163,7 +5163,7 @@ administrators.
       </trans-unit>
       <trans-unit id="LatestSummitToSummitLogs" datatype="html">
         <source>Latest Summit to Summit logs</source>
-        <target state="new">Latest Summit to Summit logs</target>
+        <target state="new">最新S2Sログ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">75</context>
@@ -5171,7 +5171,7 @@ administrators.
       </trans-unit>
       <trans-unit id="TheirSummit" datatype="html">
         <source>Their Summit</source>
-        <target state="new">Their Summit</target>
+        <target state="new">相手局山岳ID</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">83</context>
@@ -5179,7 +5179,7 @@ administrators.
       </trans-unit>
       <trans-unit id="LatestSOTACompleteLogs" datatype="html">
         <source>Latest SOTA Complete logs</source>
-        <target state="new">Latest SOTA Complete logs</target>
+        <target state="new">最新完全制覇ログ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">107</context>
@@ -5187,7 +5187,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatedDate" datatype="html">
         <source>Activated Date</source>
-        <target state="new">Activated Date</target>
+        <target state="new">アクティベーション日/target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">112</context>
@@ -5199,7 +5199,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Completed" datatype="html">
         <source>Completed</source>
-        <target state="new">Completed</target>
+        <target state="new">完全制覇日</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">114</context>
@@ -5207,7 +5207,7 @@ administrators.
       </trans-unit>
       <trans-unit id="LatestActivatorUniquesLogs" datatype="html">
         <source>Latest Activator Uniques logs</source>
-        <target state="new">Latest Activator Uniques logs</target>
+        <target state="new">最新アクティベータ個別ログ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">133</context>
@@ -5215,7 +5215,7 @@ administrators.
       </trans-unit>
       <trans-unit id="LatestChaserUniquesLogs" datatype="html">
         <source>Latest Chaser Uniques logs</source>
-        <target state="new">Latest Chaser Uniques logs</target>
+        <target state="new">最新チェイサー個別ログ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">155</context>
@@ -5223,7 +5223,7 @@ administrators.
       </trans-unit>
       <trans-unit id="DeleteS2SLog" datatype="html">
         <source>Delete S2S Log</source>
-        <target state="new">Delete S2S Log</target>
+        <target state="new">S2Sログ削除</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-sdelete-modal/s2-sdelete-modal.component.html</context>
           <context context-type="linenumber">2</context>
@@ -5231,7 +5231,7 @@ administrators.
       </trans-unit>
       <trans-unit id="S2SLog" datatype="html">
         <source>S2S Log</source>
-        <target state="new">S2S Log</target>
+        <target state="new">S2Sログ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">1</context>
@@ -5399,7 +5399,7 @@ administrators.
       </trans-unit>
       <trans-unit id="DeleteActivation" datatype="html">
         <source>Delete Activation</source>
-        <target state="new">Delete Activation</target>
+        <target state="new">アクティベーション削除</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activation-delete-modal/activation-delete-modal.component.html</context>
           <context context-type="linenumber">2</context>
@@ -5595,7 +5595,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="MyChasedRegions" datatype="html">
         <source>My Chased Regions</source>
-        <target state="new">My Chased Regions</target>
+        <target state="new">自局チェイス地域</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">9</context>
@@ -5604,7 +5604,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       <trans-unit id="adifUpInst1" datatype="html">
         <source> Export an ADIF file from your log program containing all your entries you would like to upload. These can be for any number of activations, but DO NOT upload your entire log - only export the entries for SOTA. </source>
         <target state="new">
-	Export an ADIF file from your log program containing all your entries you would like to upload. These can be for any number of activations, but DO NOT upload your entire log - only export the entries for SOTA.</target>
+        アップロードしたいQSOをログプログラムからADIF形式でエクスポートしてください。複数回のアクティベーションをアップロードできますが、ログ全体をアップロードするのではなくSOTA交信のログのみアップロードしてください。
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
           <context context-type="linenumber">27</context>
@@ -5612,7 +5612,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="adifUpInst2" datatype="html">
         <source> If you are unsure what an ADIF file is, please add entries normally, one QSO at a time.</source>
-        <target state="new"> If you are unsure what an ADIF file is, please add entries normally, one QSO at a time.</target>
+        <target state="new"> ADIFファイルについて不明な場合は1QSO毎追加するようにしてください。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
           <context context-type="linenumber">29</context>
@@ -5620,9 +5620,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="adifUpInst3" datatype="html">
         <source> Press the Browse button below and select the ADIF file on your hard drive. </source>
-        <target state="new">
-	Press the Browse button below and select the ADIF file on your hard drive
-   </target>
+        <target state="new">ファイル選択ボタンを押してアップロードするADIFファイルを選んでください。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
           <context context-type="linenumber">31</context>
@@ -5630,7 +5628,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="selectADIF" datatype="html">
         <source>Select ADIF File:</source>
-        <target state="new">Select ADIF File:</target>
+        <target state="new">ADIFファイルを選択</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
           <context context-type="linenumber">38</context>
@@ -5638,7 +5636,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="Import" datatype="html">
         <source>Import</source>
-        <target state="new">Import</target>
+        <target state="new">アップロード</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
           <context context-type="linenumber">52</context>
@@ -5650,7 +5648,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="AddChaserEntry" datatype="html">
         <source>Add Chaser Entry</source>
-        <target state="new">Add Chaser Entry</target>
+        <target state="new">チェイサーログ追加</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/chaser-modal/chaser-modal.component.html</context>
           <context context-type="linenumber">3</context>
@@ -5658,7 +5656,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="NoSWLCallsign" datatype="html">
         <source>You do not have an SWL Callsign set up in your profile, and are trying to submit an SWL entry.</source>
-        <target state="new">You do not have an SWL Callsign set up in your profile, and are trying to submit an SWL entry.</target>
+        <target state="new">あなたのプロフィールにSWLコールサインがありません。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/chaser-modal/chaser-modal.component.html</context>
           <context context-type="linenumber">9</context>
@@ -5666,7 +5664,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="ClickToUpdateProfile" datatype="html">
         <source>Click here to update your profile.</source>
-        <target state="new">Click here to update your profile.</target>
+        <target state="new">プロフィールを更新する。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/chaser-modal/chaser-modal.component.html</context>
           <context context-type="linenumber">9</context>
@@ -5690,7 +5688,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="Datamodes" datatype="html">
         <source>Datamodes</source>
-        <target state="new"> Datamodes </target>
+        <target state="new"> データモード </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
           <context context-type="linenumber">33</context>
@@ -5778,7 +5776,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="Legend" datatype="html">
         <source>Legend</source>
-        <target state="new">Legend</target>
+        <target state="new">凡例</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/legend/legend.component.html</context>
           <context context-type="linenumber">4</context>
@@ -5807,7 +5805,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="ManageUploadsIntro" datatype="html">
         <source>This page will enable you to delete any upload you have made via CSV or ADIF after May 30, 2020. By clicking on delete, all S2S, Chaser and Activator records for that upload will be deleted and can be reuploaded</source>
-        <target state="new">This page will enable you to delete any upload you have made via CSV or ADIF after May 30, 2020.  By clicking on delete, all S2S, Chaser and Activator records for that upload will be deleted and can be reuploaded</target>
+        <target state="new">このページでは2020年5月30日以降にCSV/ADIFでアップロードしたファイルを削除することができます。各項目をクリックするとログは削除され、再度アップロードが可能になります。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">3</context>
@@ -5815,7 +5813,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="Chases" datatype="html">
         <source>Chases</source>
-        <target state="new">Chases</target>
+        <target state="new">チェイスログ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">21</context>
@@ -5831,7 +5829,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="UploadDeleteAYS" datatype="html">
         <source>Are you sure you want to delete the following upload?</source>
-        <target state="new">Are you sure you want to delete the following upload?</target>
+        <target state="new">このアップロード済みログを削除しても良いですか?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">45</context>
@@ -5839,7 +5837,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       </trans-unit>
       <trans-unit id="DisplayGrid" datatype="html">
         <source>Display grid</source>
-        <target state="new">Display grid</target>
+        <target state="new">グリッドを表示</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/features-control/features-control.component.html</context>
           <context context-type="linenumber">13</context>
