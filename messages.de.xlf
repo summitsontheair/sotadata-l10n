@@ -2978,7 +2978,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Comments" datatype="html">
         <source>Comments</source>
-        <target>Bedeutung</target>
+        <target>Kommentare</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/activation-modal/activation-modal.component.html</context>
           <context context-type="linenumber">38</context>
