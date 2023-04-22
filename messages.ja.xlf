@@ -3547,7 +3547,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatedByMeXTimes" datatype="html">
         <source>Activated by me <x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> times on</source>
-        <target state="new">自局アクティベーション日(直近<x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> 回)</target>
+        <target state="new">自局アクティベーション日(<x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> 回)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">20</context>
@@ -3563,7 +3563,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ChasedByMeXTimes" datatype="html">
         <source>Chased by me <x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/> times on</source>
-        <target state="new">自局チェイス日(直近<x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/>回)</target>
+        <target state="new">自局チェイス日(<x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/>回)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">29</context>
@@ -4215,7 +4215,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatingSince" datatype="html">
         <source>Activating since</source>
-        <target state="new">初めてアクティベーションした日</target>
+        <target state="new">最初のアクティベーション</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">78</context>
@@ -4347,7 +4347,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ChasingSince" datatype="html">
         <source>Chasing since</source>
-        <target state="new">初めてチェイスした日</target>
+        <target state="new">最初のチェイス</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">353</context>
@@ -5291,7 +5291,7 @@ administrators.
       </trans-unit>
       <trans-unit id="BonusPoints" datatype="html">
         <source>Bonus Points</source>
-        <target>ボーナスポイント:</target>
+        <target>ボーナスポイント</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">89</context>
