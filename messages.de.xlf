@@ -3206,7 +3206,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivatedByMe1Time" datatype="html">
         <source>Activated by me 1 time on</source>
-        <target state="new">Von dir ein Mal aktiviert am</target>
+        <target state="new">Von mir einmal aktiviert am</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">19</context>
@@ -3222,7 +3222,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ChasedByMe1Time" datatype="html">
         <source>Chased by me 1 time on</source>
-        <target state="new">Von dir ein Mal gejagt am</target>
+        <target state="new">Von mir einmal gejagt am</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">28</context>
