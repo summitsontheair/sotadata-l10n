@@ -1825,7 +1825,7 @@ Das Format muss strikt eingehalten werden, damit die Logeinträge korrekt gespei
       </trans-unit>
       <trans-unit id="Last25Awardees" datatype="html">
         <source>Last 25 Awardees</source>
-        <target state="new">Letzten 25</target>
+        <target state="new">Die neuesten 25 (nach Datum)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">41</context>
@@ -2978,7 +2978,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Comments" datatype="html">
         <source>Comments</source>
-        <target>Bedeutung</target>
+        <target>Kommentare</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/activation-modal/activation-modal.component.html</context>
           <context context-type="linenumber">38</context>
@@ -3158,7 +3158,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="SearchResults" datatype="html">
         <source>Search Results</source>
-        <target state="new">Search Results</target>
+        <target state="new">Suchergebnis</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
           <context context-type="linenumber">2</context>
@@ -3166,7 +3166,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="SearchReturned" datatype="html">
         <source>Your search for <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/><x id="INTERPOLATION" equiv-text="{{ searchString }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/> returned <x id="INTERPOLATION_1" equiv-text="{{ summits.length }}"/> summits.</source>
-        <target state="new">Your search for <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/><x id="INTERPOLATION" equiv-text="{{ searchString }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/> returned <x id="INTERPOLATION_1" equiv-text="{{ summits.length }}"/> summits.</target>
+        <target state="new">Deine Suche nach <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/><x id="INTERPOLATION" equiv-text="{{ searchString }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/> ergab <x id="INTERPOLATION_1" equiv-text="{{ summits.length }}"/> Gipfel.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
           <context context-type="linenumber">6</context>
@@ -3214,7 +3214,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ActivatedByMeXTimes" datatype="html">
         <source>Activated by me <x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> times on</source>
-        <target state="new">Von mir <x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> Mal aktiviert am</target>
+        <target state="new">Von dir <x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> Mal aktiviert am</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">20</context>
@@ -3230,7 +3230,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="ChasedByMeXTimes" datatype="html">
         <source>Chased by me <x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/> times on</source>
-        <target state="new">Von mir <x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/> Mal gejagt am</target>
+        <target state="new">Von dir <x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/> Mal gejagt am</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">29</context>
@@ -4054,7 +4054,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="RecentChases" datatype="html">
         <source>Recent chases</source>
-        <target state="new">Kürzliche Chases</target>
+        <target state="new">Kürzliche Jäger-QSOs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">435</context>
@@ -4238,7 +4238,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="DistanceSearch" datatype="html">
         <source>Distance Search</source>
-        <target state="new">Distance Search</target>
+        <target state="new">Suche nach Entfernung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
           <context context-type="linenumber">2</context>
@@ -4247,7 +4247,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       <trans-unit id="DistanceSearchDesc" datatype="html">
         <source> This searches for summits within a defined radius of the specified coordinates. Coordinates default to Home QTH if these details are available.
 </source>
-        <target state="new"> This searches for summits within a defined radius of the specified coordinates. Coordinates default to Home QTH if these details are available.
+        <target state="new"> Diese Suchfunktion findet Gipfel in einem gewählten Umkreis um Koordinaten. Als Standard werden die Koordinaten deines QTH gesetzt sofern im SOTA Benutzerprofil definiert.
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
@@ -4274,7 +4274,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="BackToAssociationList" datatype="html">
         <source>Back to Association List</source>
-        <target state="new">Back to Association List</target>
+        <target state="new">Zurück zur Assoziationsübersicht</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">6</context>
@@ -4282,7 +4282,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="DistanceResults" datatype="html">
         <source>Distance Results</source>
-        <target state="new">Distance Results</target>
+        <target state="new">Ergebis der Suche nach Entfernung</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">7</context>
@@ -4290,7 +4290,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="Searching" datatype="html">
         <source>Searching</source>
-        <target state="new">Searching</target>
+        <target state="new">Suche läuft</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">8</context>
@@ -4382,7 +4382,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="AltFt" datatype="html">
         <source>Alt (ft)</source>
-        <target state="new"> Höhe (ft) </target>
+        <target state="new">Höhe (ft)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/recent-summits/recent-summits.component.html</context>
           <context context-type="linenumber">12</context>
@@ -4897,7 +4897,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="AwardedToYouOn" datatype="html">
         <source>Awarded to you on: </source>
-        <target state="new">Ihnen verliehen: </target>
+        <target state="new">Dir verliehen am: </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">23</context>
@@ -4905,7 +4905,7 @@ Soll diese Aktivierung unwiederruflich gelöscht werden?
       </trans-unit>
       <trans-unit id="First25Awardees" datatype="html">
         <source>First 25 Awardees</source>
-        <target state="new">Ersten 25</target>
+        <target state="new">Die ersten 25 (nach Datum)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">26</context>
