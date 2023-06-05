@@ -5604,7 +5604,7 @@ Challenge Dates: 2015年5月15日から2015年8月14日・2015年11月14日か�
       <trans-unit id="adifUpInst1" datatype="html">
         <source> Export an ADIF file from your log program containing all your entries you would like to upload. These can be for any number of activations, but DO NOT upload your entire log - only export the entries for SOTA. </source>
         <target state="new">
-        アップロードしたいQSOをログプログラムからADIF形式でエクスポートしてください。複数回のアクティベーションをアップロードできますが、ログ全体をアップロードするのではなくSOTA交信のログのみアップロードしてください。
+        アップロードしたいQSOをログプログラムからADIF形式でエクスポートしてください。複数回のアクティベーションをアップロードできますが、ログ全体をアップロードするのではなくSOTA交信のログのみアップロードしてください。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/adifmodal/adifmodal.component.html</context>
           <context context-type="linenumber">27</context>
