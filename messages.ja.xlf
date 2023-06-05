@@ -4775,7 +4775,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AssociationManager" datatype="html">
         <source>Association Manager</source>
-        <target state="new">地区マネージャ</target
+        <target state="new">地区マネージャ</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/association/association.component.html</context>
           <context context-type="linenumber">6</context>
@@ -5187,7 +5187,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatedDate" datatype="html">
         <source>Activated Date</source>
-        <target state="new">アクティベーション日/target>
+        <target state="new">アクティベーション日</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">112</context>
