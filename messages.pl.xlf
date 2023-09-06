@@ -659,7 +659,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="S2SBest20" datatype="html">
         <source>Best 20 S2S Days</source>
-        <target>Najlepsze 20 dni S2S (góra z górą)</target>
+        <target>Najlepsze 20 dni S2S (Góra z Górą)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/challenge20/challenge20.component.html</context>
           <context context-type="linenumber">29</context>
@@ -1146,7 +1146,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="Summit2Summit" datatype="html">
         <source>Summit to Summit</source>
-        <target>S2S / Góra z górą</target>
+        <target>S2S / Góra z Górą</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/facts-figures/facts-figures.component.html</context>
           <context context-type="linenumber">89</context>
@@ -1154,7 +1154,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="S2SContacts" datatype="html">
         <source>Summit to Summit Contacts</source>
-        <target>Liczba łączności góra z górą</target>>
+        <target>Liczba łączności Góra z Górą</target>>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/facts-figures/facts-figures.component.html</context>
           <context context-type="linenumber">93</context>
@@ -1166,7 +1166,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="S2SPoints" datatype="html">
         <source>Summit to Summit Points</source>
-        <target>Liczba punktów góra z górą</target>
+        <target>Punkty za łączności Góra z Górą</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/facts-figures/facts-figures.component.html</context>
           <context context-type="linenumber">96</context>
@@ -2213,7 +2213,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="deleteActivator" datatype="html">
         <source> You are about to permanently delete the record of the activation below. This cannot be undone. </source>
-        <target> Log poniższej aktywacji zostanie nieodwracalnie usunięty.</target>
+        <target> Zapis poniższej aktywacji zostanie nieodwracalnie usunięty.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activation-delete-modal/activation-delete-modal.component.html</context>
           <context context-type="linenumber">14,16</context>
@@ -2245,7 +2245,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="QSOs" datatype="html">
         <source>QSOs</source>
-        <target state="needs-translation"/>
+        <target>Łączności</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activation-delete-modal/activation-delete-modal.component.html</context>
           <context context-type="linenumber">36</context>
@@ -2313,7 +2313,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Cancel" datatype="html">
         <source>Cancel</source>
-        <target state="needs-translation"/>
+        <target>Anuluj</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activation-delete-modal/activation-delete-modal.component.html</context>
           <context context-type="linenumber">49</context>
@@ -2373,7 +2373,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="MultipleAccounts" datatype="html">
         <source>This callsign has multiple accounts associated with it. Please contact <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Contact&quot;&gt;"/>the SOTA MT<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to rectify</source>
-        <target state="needs-translation"/>
+        <target>Tem znak jest skojarzony z więcej niż jednym kontem użytkownika. Skontaktuj się z <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Contact&quot;&gt;"/>SOTA MT<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> aby rozwiązać ten problem</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">1</context>
@@ -2385,7 +2385,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ActivatorLog" datatype="html">
         <source>Activator Log</source>
-        <target state="needs-translation"/>
+        <target>Log aktywatora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">3</context>
@@ -2393,7 +2393,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="MyActivatedRegions" datatype="html">
         <source>My Activated Regions</source>
-        <target state="needs-translation"/>
+        <target>Moje aktywowane regiony</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">9</context>
@@ -2401,7 +2401,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ShowMicrowaveOnly" datatype="html">
         <source>Go to Microwave Log</source>
-        <target state="needs-translation"/>
+        <target>Zobacz log mikrofalowy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">10</context>
@@ -2417,7 +2417,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="GoToActivatorLog" datatype="html">
         <source>Go to Activator Log</source>
-        <target state="needs-translation"/>
+        <target>Do logu aktywatora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">11</context>
@@ -2425,7 +2425,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Last12Months" datatype="html">
         <source>Last 12 Months</source>
-        <target state="needs-translation"/>
+        <target>Ostatnie 12 miesięcy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">18</context>
@@ -2445,7 +2445,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Order" datatype="html">
         <source>Order</source>
-        <target state="needs-translation"/>
+        <target>Kolejność</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">22</context>
@@ -2465,7 +2465,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Jan" datatype="html">
         <source>Jan</source>
-        <target state="needs-translation"/>
+        <target>Sty</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">23</context>
@@ -2501,7 +2501,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Dec" datatype="html">
         <source>Dec</source>
-        <target state="needs-translation"/>
+        <target>Gru</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">23</context>
@@ -2537,7 +2537,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ShowAnalysis" datatype="html">
         <source>Show Analysis</source>
-        <target state="needs-translation"/>
+        <target>Pokaż analizę</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">28</context>
@@ -2549,7 +2549,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Loading" datatype="html">
         <source>Loading...</source>
-        <target state="needs-translation"/>
+        <target>Wczytywanie ...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">33</context>
@@ -2581,7 +2581,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Total" datatype="html">
         <source>Total</source>
-        <target state="needs-translation"/>
+        <target>Razem</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">64</context>
@@ -2601,7 +2601,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ShowLog" datatype="html">
         <source>Show Log</source>
-        <target state="needs-translation"/>
+        <target>Pokaż log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">92</context>
@@ -2609,7 +2609,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ViewMap" datatype="html">
         <source>View Map</source>
-        <target state="needs-translation"/>
+        <target>Pokaż mapę</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">93</context>
@@ -2625,7 +2625,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Download" datatype="html">
         <source>Download</source>
-        <target state="needs-translation"/>
+        <target>Pobierz</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">104</context>
@@ -2645,7 +2645,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="OwnCallsign" datatype="html">
         <source>Own Callsign</source>
-        <target state="needs-translation"/>
+        <target>Własny znak</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">115</context>
@@ -2669,7 +2669,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SummitCode" datatype="html">
         <source>Summit Code</source>
-        <target state="needs-translation"/>
+        <target>Kod szczytu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">116</context>
@@ -2693,7 +2693,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="OtherCallsign" datatype="html">
         <source>Other Callsign</source>
-        <target state="needs-translation"/>
+        <target>Znak korespondenta</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">118</context>
@@ -2749,7 +2749,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="OtherLocation" datatype="html">
         <source>Other Location</source>
-        <target state="needs-translation"/>
+        <target>Lokator korespondenta</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">119</context>
@@ -2761,7 +2761,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Distance" datatype="html">
         <source>Distance</source>
-        <target state="needs-translation"/>
+        <target>Odległość</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">122</context>
@@ -2777,7 +2777,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="NoRecordsFound" datatype="html">
         <source>No records found</source>
-        <target state="needs-translation"/>
+        <target>Brak danych</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">143</context>
@@ -2793,7 +2793,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="DeleteChaserLog" datatype="html">
         <source>Delete Chaser Log</source>
-        <target state="needs-translation"/>
+        <target>Usuń log łowcy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-delete-modal/chaser-delete-modal.component.html</context>
           <context context-type="linenumber">2</context>
@@ -2801,7 +2801,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="chaserDeleteResult2" datatype="html">
         <source>You cannot delete this QSO. The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
-        <target state="needs-translation"/>
+        <target>Nie możesz usunąć tej łączności. Wystąpił błąd: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-delete-modal/chaser-delete-modal.component.html</context>
           <context context-type="linenumber">6</context>
@@ -2813,7 +2813,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="deleteChaser" datatype="html">
         <source> You are about to permanently delete the record of the chaser contact below. This cannot be undone. </source>
-        <target state="needs-translation"/>
+        <target>Zamierzasz nieodwracalnie usunąć zapis łączności poniżej.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-delete-modal/chaser-delete-modal.component.html</context>
           <context context-type="linenumber">14,16</context>
@@ -2825,7 +2825,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="otherCallsign" datatype="html">
         <source>Other Callsign</source>
-        <target state="needs-translation"/>
+        <target>Znak korespondenta</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-delete-modal/chaser-delete-modal.component.html</context>
           <context context-type="linenumber">30</context>
@@ -2837,7 +2837,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="S2SQSO" datatype="html">
         <source>S2S QSO</source>
-        <target state="needs-translation"/>
+        <target>Góra z Górą</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-delete-modal/chaser-delete-modal.component.html</context>
           <context context-type="linenumber">45</context>
@@ -2849,7 +2849,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="MySummit" datatype="html">
         <source>My Summit</source>
-        <target state="needs-translation"/>
+        <target>Mój szczyt</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-delete-modal/chaser-delete-modal.component.html</context>
           <context context-type="linenumber">48</context>
@@ -2869,7 +2869,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ChaserLog" datatype="html">
         <source>Chaser Log</source>
-        <target state="needs-translation"/>
+        <target>Log łowcy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">3</context>
@@ -2877,7 +2877,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ShowAllQSOs" datatype="html">
         <source>Show All QSOs</source>
-        <target state="needs-translation"/>
+        <target>Pokaż wszystkie łączności</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">6</context>
@@ -2885,7 +2885,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ShowAwards" datatype="html">
         <source>Show Awards</source>
-        <target state="needs-translation"/>
+        <target>Pokaż dyplomy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">7</context>
@@ -2893,7 +2893,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="DownloadCompleteLog" datatype="html">
         <source>Download complete log</source>
-        <target state="needs-translation"/>
+        <target>Pobierz kompletny log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">8</context>
@@ -2901,7 +2901,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="MyChasedRegions" datatype="html">
         <source>My Chased Regions</source>
-        <target state="needs-translation"/>
+        <target>Regiony które złowiłem</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">9</context>
@@ -2909,7 +2909,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="GoToChaserLog" datatype="html">
         <source>Go to Chaser Log</source>
-        <target state="needs-translation"/>
+        <target>Do logu łowcy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">11</context>
@@ -2917,7 +2917,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Last6Months" datatype="html">
         <source>Last 6 Months</source>
-        <target state="needs-translation"/>
+        <target>Ostatnie 6 miesięcy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">18</context>
@@ -2929,7 +2929,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Previous6Months" datatype="html">
         <source>Previous 6 Months</source>
-        <target state="needs-translation"/>
+        <target>Poprzednie 6 miesięcy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">19</context>
@@ -2941,7 +2941,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ActivatorWorked" datatype="html">
         <source>Activator Worked</source>
-        <target state="needs-translation"/>
+        <target>Znak aktywatora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">47</context>
@@ -2957,7 +2957,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="MyChaserRegions" datatype="html">
         <source>My Chased Regions</source>
-        <target state="needs-translation"/>
+        <target>Moje złowione regiony</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">1</context>
@@ -2965,7 +2965,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="MyActivatorRegions" datatype="html">
         <source>My Activated Regions</source>
-        <target state="needs-translation"/>
+        <target>Moje aktywowane regiony</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">2</context>
@@ -2973,7 +2973,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="AllEntries" datatype="html">
         <source>- All Entries -</source>
-        <target state="needs-translation"/>
+        <target>- Wszystko -</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">7</context>
@@ -2981,7 +2981,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="RegionCode" datatype="html">
         <source>Region Code</source>
-        <target state="needs-translation"/>
+        <target>Kod regionu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">17</context>
@@ -2989,7 +2989,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="MyChasedSummits" datatype="html">
         <source>My Chased Summits</source>
-        <target state="needs-translation"/>
+        <target>Moje złowione szczyty</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">18</context>
@@ -2997,7 +2997,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="MyActivatedSummits" datatype="html">
         <source>My Activated Summits</source>
-        <target state="needs-translation"/>
+        <target>Moje aktywowane szczyty</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">19</context>
@@ -3005,7 +3005,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="%ageComplete" datatype="html">
         <source> %age Complete </source>
-        <target state="needs-translation"/>
+        <target>procent skompletowania</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">21</context>
@@ -3013,7 +3013,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ActivationDate" datatype="html">
         <source>Activation Date</source>
-        <target state="needs-translation"/>
+        <target>Data aktywacji</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/completes-log/completes-log.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3021,7 +3021,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ChasedDate" datatype="html">
         <source>Chased Date</source>
-        <target state="needs-translation"/>
+        <target>Data złowienia</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/completes-log/completes-log.component.html</context>
           <context context-type="linenumber">18</context>
@@ -3037,7 +3037,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="CompletedDate" datatype="html">
         <source>Completed Date</source>
-        <target state="needs-translation"/>
+        <target>Data skompletowania</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/completes-log/completes-log.component.html</context>
           <context context-type="linenumber">19</context>
@@ -3045,7 +3045,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Logs" datatype="html">
         <source>Logs</source>
-        <target state="needs-translation"/>
+        <target>Logi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">3</context>
@@ -3057,7 +3057,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Activator" datatype="html">
         <source>Activator</source>
-        <target state="needs-translation"/>
+        <target>Aktywator</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">5</context>
@@ -3065,7 +3065,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Chaser" datatype="html">
         <source>Chaser</source>
-        <target state="needs-translation"/>
+        <target>Łowca</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">6</context>
@@ -3073,7 +3073,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="S2S" datatype="html">
         <source>S2S</source>
-        <target state="needs-translation"/>
+        <target>Góra z Górą</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">7</context>
@@ -3085,7 +3085,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Completes" datatype="html">
         <source>Completes</source>
-        <target state="needs-translation"/>
+        <target>Komplety</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">8</context>
@@ -3093,7 +3093,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ActivatorUniques" datatype="html">
         <source>Activator Uniques</source>
-        <target state="needs-translation"/>
+        <target>Unikalne aktywacje</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">9</context>
@@ -3101,7 +3101,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ChaserUniques" datatype="html">
         <source>Chaser Uniques</source>
-        <target state="needs-translation"/>
+        <target>Unikalne łowy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">10</context>
@@ -3109,7 +3109,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="LatestActivations" datatype="html">
         <source>Latest activations</source>
-        <target state="needs-translation"/>
+        <target>Ostatnie aktywacje</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">16</context>
@@ -3117,7 +3117,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Map" datatype="html">
         <source>Map</source>
-        <target state="needs-translation"/>
+        <target>Mapa</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">33</context>
@@ -3145,7 +3145,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SeeAll" datatype="html">
         <source>See all...</source>
-        <target state="needs-translation"/>
+        <target>Zobacz wszystkie ...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">40</context>
@@ -3173,7 +3173,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="LatestChases" datatype="html">
         <source>Latest chases</source>
-        <target state="needs-translation"/>
+        <target>Najnowsze łowy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">45</context>
@@ -3181,7 +3181,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="LatestSummitToSummitLogs" datatype="html">
         <source>Latest Summit to Summit logs</source>
-        <target state="needs-translation"/>
+        <target>Najnowsze logi Góra z Górą</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">75</context>
@@ -3189,7 +3189,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="TheirSummit" datatype="html">
         <source>Their Summit</source>
-        <target state="needs-translation"/>
+        <target>Szczyt korespondenta</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">83</context>
@@ -3197,7 +3197,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="LatestSOTACompleteLogs" datatype="html">
         <source>Latest SOTA Complete logs</source>
-        <target state="needs-translation"/>
+        <target>Najnowsze logi kompletów SOTA</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">107</context>
@@ -3205,7 +3205,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ActivatedDate" datatype="html">
         <source>Activated Date</source>
-        <target state="needs-translation"/>
+        <target>Data aktywacji</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">112</context>
@@ -3217,7 +3217,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Completed" datatype="html">
         <source>Completed</source>
-        <target state="needs-translation"/>
+        <target>Skompletowane</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">114</context>
@@ -3225,7 +3225,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="LatestActivatorUniquesLogs" datatype="html">
         <source>Latest Activator Uniques logs</source>
-        <target state="needs-translation"/>
+        <target>Najnowsze logi unikalnych aktywacji</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">133</context>
@@ -3233,7 +3233,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="LatestChaserUniquesLogs" datatype="html">
         <source>Latest Chaser Uniques logs</source>
-        <target state="needs-translation"/>
+        <target>Najnowsze logi unikalnych łowów</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">155</context>
@@ -3241,7 +3241,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="DeleteS2SLog" datatype="html">
         <source>Delete S2S Log</source>
-        <target state="needs-translation"/>
+        <target>Usuń log Góra z Górą</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-sdelete-modal/s2-sdelete-modal.component.html</context>
           <context context-type="linenumber">2</context>
@@ -3249,7 +3249,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="S2SLog" datatype="html">
         <source>S2S Log</source>
-        <target state="needs-translation"/>
+        <target>Log Góra z Górą / S2S</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">1</context>
@@ -3257,7 +3257,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ChasedSummit" datatype="html">
         <source>Chased Summit</source>
-        <target state="needs-translation"/>
+        <target>Złowiony szczyt</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">40</context>
@@ -3265,7 +3265,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ActivatedSummit" datatype="html">
         <source>Activated Summit</source>
-        <target state="needs-translation"/>
+        <target>Aktywowany szczyt</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">41</context>
@@ -3273,7 +3273,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ActivatedSummitName" datatype="html">
         <source>Activated Summit Name</source>
-        <target state="needs-translation"/>
+        <target>Nazwa aktywowanego szczytu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">42</context>
@@ -3281,7 +3281,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ChaserPoints" datatype="html">
         <source>Chaser Points</source>
-        <target state="needs-translation"/>
+        <target>Punkty łowcy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">46</context>
@@ -3289,7 +3289,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ActivatorPoints" datatype="html">
         <source>Activator Points</source>
-        <target state="needs-translation"/>
+        <target>Punkty aktywatora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/s2-slog/s2-slog.component.html</context>
           <context context-type="linenumber">47</context>
@@ -3297,7 +3297,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SWLLog" datatype="html">
         <source>SWL Log</source>
-        <target state="needs-translation"/>
+        <target>Log nasłuchów / SWL</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/swllog/swllog.component.html</context>
           <context context-type="linenumber">3</context>
@@ -3305,7 +3305,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="MySWL" datatype="html">
         <source>My SWL</source>
-        <target state="needs-translation"/>
+        <target>Mój nasłuch</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/swllog/swllog.component.html</context>
           <context context-type="linenumber">32</context>
@@ -3313,7 +3313,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="StationHead" datatype="html">
         <source>Station Heard</source>
-        <target state="needs-translation"/>
+        <target>Słyszana stacja</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/swllog/swllog.component.html</context>
           <context context-type="linenumber">33</context>
@@ -3321,7 +3321,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SortByDate" datatype="html">
         <source>Sort by Date</source>
-        <target state="needs-translation"/>
+        <target>Sortuj według daty</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">8</context>
@@ -3329,7 +3329,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SortByAssociation" datatype="html">
         <source>Sort by Association</source>
-        <target state="needs-translation"/>
+        <target>Sortuj wg stowarzyszenia</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">9</context>
@@ -3337,7 +3337,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SortByActivationCount" datatype="html">
         <source>Sort by Activation Count</source>
-        <target state="needs-translation"/>
+        <target>Sortuj wg liczby aktywacji</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">10</context>
@@ -3345,7 +3345,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ActivationCount" datatype="html">
         <source>Activation Count</source>
-        <target state="needs-translation"/>
+        <target>Liczba aktywacji</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">14</context>
@@ -3361,7 +3361,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Number" datatype="html">
         <source>Number</source>
-        <target state="needs-translation"/>
+        <target>Numer</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">22</context>
@@ -3373,7 +3373,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="DateFirstActivation" datatype="html">
         <source>Date of First Activation</source>
-        <target state="needs-translation"/>
+        <target>Data pierwszej aktywacji</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">25</context>
@@ -3381,7 +3381,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="DateFirstChase" datatype="html">
         <source>Date of First Chase</source>
-        <target state="needs-translation"/>
+        <target>Data pierwszego złowienia</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/uniques/uniques.component.html</context>
           <context context-type="linenumber">31</context>
@@ -3389,7 +3389,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ManageUploads" datatype="html">
         <source>Manage Uploads</source>
-        <target state="needs-translation"/>
+        <target>Zarządzaj plikami</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">1</context>
@@ -3401,7 +3401,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ManageUploadsIntro" datatype="html">
         <source>This page will enable you to delete any upload you have made via CSV or ADIF after May 30, 2020. By clicking on delete, all S2S, Chaser and Activator records for that upload will be deleted and can be reuploaded</source>
-        <target state="needs-translation"/>
+        <target>Na tej stronie możesz usunąć każdy log załadowany przez Ciebie po 30 maja 2020 r. w formacie CSV lub ADIF. Usunięcie logu skutkuje skasowaniem z systemu wszystkich zawartych w nim łącznosi: aktywacji, łowów i kontaktów Góra z Górą (S2S). Można je będzie wprowadzić lub przesłać ponownie.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">3</context>
@@ -3409,7 +3409,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Activations" datatype="html">
         <source>Activations</source>
-        <target state="needs-translation"/>
+        <target>Aktywacje</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">19</context>
@@ -3429,7 +3429,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Chases" datatype="html">
         <source>Chases</source>
-        <target state="needs-translation"/>
+        <target>Łowy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">21</context>
@@ -3445,7 +3445,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="UploadDeleteAYS" datatype="html">
         <source>Are you sure you want to delete the following upload?</source>
-        <target state="needs-translation"/>
+        <target>Na pewno chcesz usunąć poniższy log?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/manage-uploads/manage-uploads.component.html</context>
           <context context-type="linenumber">45</context>
@@ -3453,7 +3453,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="DisplayGrid" datatype="html">
         <source>Display grid</source>
-        <target state="needs-translation"/>
+        <target>Siatka</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/features-control/features-control.component.html</context>
           <context context-type="linenumber">13</context>
@@ -3461,7 +3461,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Locator" datatype="html">
         <source> Locator </source>
-        <target state="needs-translation"/>
+        <target>QTH Lokator</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/features-control/features-control.component.html</context>
           <context context-type="linenumber">19,21</context>
@@ -3469,7 +3469,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="LatitudeLongitude" datatype="html">
         <source> Latitude / Longitude </source>
-        <target state="needs-translation"/>
+        <target> Szerokość / Długość geograficzna</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/features-control/features-control.component.html</context>
           <context context-type="linenumber">25,27</context>
@@ -3477,7 +3477,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Reset" datatype="html">
         <source>Reset</source>
-        <target state="needs-translation"/>
+        <target>Reset</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">10</context>
@@ -3485,7 +3485,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="AllQSOs" datatype="html">
         <source>All QSOs</source>
-        <target state="needs-translation"/>
+        <target>Wszystkie łączności</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">16</context>
@@ -3493,7 +3493,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="S2SOnly" datatype="html">
         <source>S2S only</source>
-        <target state="needs-translation"/>
+        <target>Tylko Góra z Górą / S2S</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3501,7 +3501,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="NoS2S" datatype="html">
         <source>No S2S</source>
-        <target state="needs-translation"/>
+        <target>Bez S2S / Góra z Górą</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">18</context>
@@ -3509,7 +3509,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="HF" datatype="html">
         <source>HF</source>
-        <target state="needs-translation"/>
+        <target>KF</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">24</context>
@@ -3517,7 +3517,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="VHF" datatype="html">
         <source>VHF</source>
-        <target state="needs-translation"/>
+        <target>UKF</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">25</context>
@@ -3525,7 +3525,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="UHF" datatype="html">
         <source>UHF</source>
-        <target state="needs-translation"/>
+        <target>UHF</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">26</context>
@@ -3533,7 +3533,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="2mUp" datatype="html">
         <source>2m up</source>
-        <target state="needs-translation"/>
+        <target>2m i wyżej</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">27</context>
@@ -3541,7 +3541,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="CW" datatype="html">
         <source>CW</source>
-        <target state="needs-translation"/>
+        <target>CW</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">56</context>
@@ -3549,7 +3549,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SSB" datatype="html">
         <source>SSB</source>
-        <target state="needs-translation"/>
+        <target>SSB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">57</context>
@@ -3557,7 +3557,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="FM" datatype="html">
         <source>FM</source>
-        <target state="needs-translation"/>
+        <target>FM</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">58</context>
@@ -3565,7 +3565,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Data" datatype="html">
         <source>DATA</source>
-        <target state="needs-translation"/>
+        <target>DATA</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/filter-control/filter-control.component.html</context>
           <context context-type="linenumber">59</context>
@@ -3573,7 +3573,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Legend" datatype="html">
         <source>Legend</source>
-        <target state="needs-translation"/>
+        <target>Opis</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/map/qsomap/legend/legend.component.html</context>
           <context context-type="linenumber">4</context>
@@ -3585,7 +3585,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Home" datatype="html">
         <source>Home</source>
-        <target state="needs-translation"/>
+        <target>Start</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/nav-menu/nav-menu.component.html</context>
           <context context-type="linenumber">8</context>
@@ -3593,7 +3593,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="HonourRolls" datatype="html">
         <source>Honour Rolls</source>
-        <target state="needs-translation"/>
+        <target>Klasyfikacje</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/nav-menu/nav-menu.component.html</context>
           <context context-type="linenumber">17</context>
@@ -3601,7 +3601,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Uploads" datatype="html">
         <source>Uploads</source>
-        <target state="needs-translation"/>
+        <target>Pliki</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/nav-menu/nav-menu.component.html</context>
           <context context-type="linenumber">26</context>
@@ -3609,7 +3609,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Statistics" datatype="html">
         <source>Statistics</source>
-        <target state="needs-translation"/>
+        <target>Statystyki</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/nav-menu/nav-menu.component.html</context>
           <context context-type="linenumber">29</context>
@@ -3617,7 +3617,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Challenges" datatype="html">
         <source>Challenges</source>
-        <target state="needs-translation"/>
+        <target>Rywalizacje</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/nav-menu/nav-menu.component.html</context>
           <context context-type="linenumber">32</context>
@@ -3625,7 +3625,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="RegionManager" datatype="html">
         <source>Region Manager:</source>
-        <target state="needs-translation"/>
+        <target>Kierownik regionu:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">6</context>
@@ -3633,7 +3633,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Name" datatype="html">
         <source>Name</source>
-        <target state="needs-translation"/>
+        <target>Nazwa</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">27</context>
@@ -3657,7 +3657,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="AltM" datatype="html">
         <source>Alt (m)</source>
-        <target state="needs-translation"/>
+        <target>Wysokość (m)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">28</context>
@@ -3681,7 +3681,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="TotalActivations" datatype="html">
         <source>Total Activations</source>
-        <target state="needs-translation"/>
+        <target>Wszystkich aktywacji</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">30</context>
@@ -3693,7 +3693,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="MyActivations" datatype="html">
         <source>My Activations</source>
-        <target state="needs-translation"/>
+        <target>Moich aktywacji</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">31</context>
@@ -3705,7 +3705,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="MyChases" datatype="html">
         <source>My Chases</source>
-        <target state="needs-translation"/>
+        <target>Moich łowów</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/region/region.component.html</context>
           <context context-type="linenumber">32</context>
@@ -3717,7 +3717,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Summit Articles" datatype="html">
         <source>Summit Articles</source>
-        <target state="needs-translation"/>
+        <target>Artykuły o szczycie</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">3</context>
@@ -3725,7 +3725,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="NoSummitResourcesFound" datatype="html">
         <source>No summit resources found</source>
-        <target state="needs-translation"/>
+        <target>Brak danych</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">13</context>
@@ -3733,7 +3733,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Title" datatype="html">
         <source>Title</source>
-        <target state="needs-translation"/>
+        <target>Tytuł</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">20</context>
@@ -3749,7 +3749,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Article/Link" datatype="html">
         <source>Article/Link</source>
-        <target state="needs-translation"/>
+        <target>Artykuł / Link</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">21</context>
@@ -3757,7 +3757,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ConfirmDelete" datatype="html">
         <source>Confirm Delete</source>
-        <target state="needs-translation"/>
+        <target>Potwierdź usunięcie</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">41</context>
@@ -3769,7 +3769,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="DeleteThisResource" datatype="html">
         <source>Delete this resource?</source>
-        <target state="needs-translation"/>
+        <target>Usunąć ten materiał?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/resource-list/resource-list.component.html</context>
           <context context-type="linenumber">47</context>
@@ -3781,7 +3781,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SOTASherpa" datatype="html">
         <source>SOTA Sherpa</source>
-        <target state="needs-translation"/>
+        <target>Szerpa SOTA</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">4</context>
@@ -3789,7 +3789,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ActivatorStats" datatype="html">
         <source>Activator Stats</source>
-        <target state="needs-translation"/>
+        <target>Statystyki aktywatora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">9</context>
@@ -3797,7 +3797,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ChaserStats" datatype="html">
         <source>Chaser Stats</source>
-        <target state="needs-translation"/>
+        <target>Statystyki łowcy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">12</context>
@@ -3805,7 +3805,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="TotalPointsL" datatype="html">
         <source>total points</source>
-        <target state="needs-translation"/>
+        <target>punktów razem</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">33</context>
@@ -3817,7 +3817,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ActivatorPointsL" datatype="html">
         <source>activator points</source>
-        <target state="needs-translation"/>
+        <target>Punkty aktywatora</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">34</context>
@@ -3829,7 +3829,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="BonusPointsL" datatype="html">
         <source>bonus points</source>
-        <target state="needs-translation"/>
+        <target>punkty dodatkowe / bonus</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">35</context>
@@ -3841,7 +3841,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ActivationsL" datatype="html">
         <source>activations</source>
-        <target state="needs-translation"/>
+        <target>aktywacji</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">43</context>
@@ -3853,7 +3853,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="UniqueSummitsL" datatype="html">
         <source>unique summits</source>
-        <target state="needs-translation"/>
+        <target>unikalne szczyty</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">51</context>
