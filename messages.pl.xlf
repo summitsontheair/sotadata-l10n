@@ -5367,7 +5367,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csv8" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Field notes<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
-        <target state="needs-translation"/>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Notatki<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/> </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">53</context>
@@ -5375,7 +5375,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csvField" datatype="html">
         <source>Field</source>
-        <target state="needs-translation"/>
+        <target>Pole</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">56</context>
@@ -5383,7 +5383,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="MyCallsign" datatype="html">
         <source>My Callsign</source>
-        <target state="needs-translation"/>
+        <target>Mój znak</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">62</context>
@@ -5391,7 +5391,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csvCallsign" datatype="html">
         <source>This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> used for the QSO. No spaces in the callsign please</source>
-        <target state="needs-translation"/>
+        <source>To jest znak <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> użyty podczas łączności. Znak nie może zawierać spacji</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">65,66</context>
@@ -5399,7 +5399,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csvSummit" datatype="html">
         <source>This MUST be the full SOTA reference of the summit you where activating, as shown in the above example.</source>
-        <target state="needs-translation"/>
+        <target>To MUSI być kompletny numer referencyjny aktywowanego szczytu SOTA, jak w przykładzie.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">74,75</context>
@@ -5407,7 +5407,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csvSummitChaser" datatype="html">
         <source>If you are entering a chaser log, this field will be blank. See last entry in the example. </source>
-        <target state="needs-translation"/>
+        <target>Jeśli wprowadzasz log łowcy, to pole ma pozostać puste. Zobacz ostatnią łączność w przykładowym logu. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">76,77</context>
@@ -5415,7 +5415,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csvDate" datatype="html">
         <source>The date of the QSO. Most date formats are accepted but be careful about USA vs. International date format.  Use of International date format (DD/MM/YY) is recommended</source>
-        <target state="needs-translation"/>
+        <target>Data łączności. Akceptujemy większość formatów, ale zalecamy międzynarodowy format (DD/MM/YY)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">86,88</context>
@@ -5423,7 +5423,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csvTime" datatype="html">
         <source>The time in UTC. Either HHMM or HH:MM will work. Use the 24 hour clock!</source>
-        <target state="needs-translation"/>
+        <target>Godzina z minutami, czas uniwersalny (UTC). Format HHMM lub HH:MM. Używaj zegara 24-godzinnego!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">96,97</context>
@@ -5431,7 +5431,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csvBand" datatype="html">
         <source>You can enter the frequency in MHz (14.285MHz) or pick from the following:</source>
-        <target state="needs-translation"/>
+        <target>Możesz wprowadzić częstotliwość w MHz (np. 14.285MHz) albo wybrać z listy:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">105</context>
@@ -5439,7 +5439,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csvOtherCall" datatype="html">
         <source>The callsign of the <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;STRONG&gt;"/> station worked<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/STRONG&gt;"/>.  No spaces in the callsign please</source>
-        <target state="needs-translation"/>
+        <target>Znak stacji <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;STRONG&gt;"/> z którą nawiązano łączność<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/STRONG&gt;"/>. Znak nie może zawierać spacji!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">234,235</context>
@@ -5447,7 +5447,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csvOtherSummit" datatype="html">
         <source>This field is only needed if the station was also activating a SOTA summit. This is the full SOTA reference of the summit the chasing station was activating, as shown in the above example. If there is no [Other Summit] you can leave this blank. If there is a comment then you must insert a TAB or comma to mark the field as being blank. See entries for G3NOH or GW4GTE</source>
-        <target state="needs-translation"/>
+        <target>To pole wypełniamy tylko jeśli korespondent również aktywował szczyt SOTA. Podajemy wtedy numer referencyjny szczytu który aktywowała stacja z którą nawiązano łączność, jak w przykładzie. Jeśli tak nie było, pole zostaje puste. W przypadku kiedy do łączności chcemy dodać komentarz, robimy to po wstawieniu dodatkowego przecinka lub znaku tabulacji. Zobacz w przykładzie łączności z G3NOH lub GW4GTE</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">243,246</context>
@@ -5455,7 +5455,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="NotesOrComments" datatype="html">
         <source>Notes or Comments</source>
-        <target state="needs-translation"/>
+        <target>Notatka lub komentarz</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">251</context>
@@ -5463,7 +5463,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csvComments" datatype="html">
         <source>An optional field for recording short notes about the QSO. This could include the Operator's name and location, Signal Report, QSL information, or almost anything else. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;"/><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>You can embed a TAB or comma in this field. If you do you must enclose the entire Notes field in double-quotes. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
-        <target state="needs-translation"/>
+        <target>Opcjonalne pole do zapisania krótkiej notatki do łączności. Można tu wprowadzić imię i QTH korespondenta, raport, informacje o QSL, itp, itd. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;"/><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>W tym polu można umieścić przecinek lub znak tabulacji, pod warunkiem że cała treść tego pola znajdzie się podwójnym cudzysłowiu (") <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">254,257</context>
