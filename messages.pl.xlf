@@ -5471,7 +5471,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csv9" datatype="html">
         <source>The easiest way to create your TSV/CSV file is using Excel.  This allows you to arrange your log data in columns then save it as either a TSV or CSV file.  Either is accepted by the SOTA program.</source>
-        <target state="needs-translation"/>
+        <target>Najłatwiej utworzyć plik TSV/CSV przy pomocy arkusza kalkulacyjnego. Dane z logu umieszczamy w kolumnach arkusza a następnie zapisujemy/eksportujemy jako plik TSV lub CSV. Obydwa formaty są akceptowane w programie SOTA.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">265,268</context>
@@ -5479,7 +5479,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="CommonErrors" datatype="html">
         <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Common errors<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></source>
-        <target state="needs-translation"/>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;"/>Częste błędy<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">270</context>
@@ -5487,7 +5487,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csv10" datatype="html">
         <source>Spaces in the callsigns.  Our callsigns do not have spaces in them!</source>
-        <target state="needs-translation"/>
+        <target>Spacja w znaku wywoławczym. Znak nie może zawierać spacji.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">273,274</context>
@@ -5495,7 +5495,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csv11" datatype="html">
         <source>Date or time out of order.  The input parser will show an error if the log is not in sequential order</source>
-        <target state="needs-translation"/>
+        <target>Data lub czas poza kolejnością. Log nie może być odczytany jeśli łączności nie są wpisane w kolejności chronologicznej</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">276,278</context>
@@ -5503,7 +5503,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csv12" datatype="html">
         <source>Errors in the SOTA reference number.  Spaces in the reference, leaving off the ITU prefix, or specifying a reference that does not exist will all result in an error being reported.</source>
-        <target state="needs-translation"/>
+        <target>Błędy w numerze referencyjnym SOTA. Spacje w numerze szczytu, pominięcie prefiksu lub podanie nieistniejącego numeru referencyjnego spowodują błąd w odczytaniu przesłanego logu.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">280,283</context>
@@ -5511,7 +5511,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csv13" datatype="html">
         <source>If an error is detected then it is shown in Red and you should then modify the file to correct the error and resubmit it. Once you get an error free report, you should carefully check that everything is correct before saving it. As soon as you have saved the data you will be able to see the effect in the various Activator tables.</source>
-        <target state="needs-translation"/>
+        <target>Jeżeli w przesłanym pliku jest błąd, zostanie wyświetlony na czerwono. Należy wtedy błąd usunąć poprawiając plik i przesłać log ponownie. Jeżeli błędów nie będzie, należy dokładnie sprawdzić wyświetlony log przed potwierdzeniem zapisu. Po zapisaniu logu jego zawartość zostanie wykorzystana do zaktualizowania klasyfikacji.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">286,291</context>
@@ -5519,7 +5519,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="UploadCSV" datatype="html">
         <source>Upload CSV File</source>
-        <target state="needs-translation"/>
+        <target>Wyślij plik CSV</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvmodal/csvmodal.component.html</context>
           <context context-type="linenumber">3</context>
@@ -5527,7 +5527,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csvUpInst1" datatype="html">
         <source> Create a CSV or TSV file containing all your entries. These can be for any number of activations. The file can be generated using a text editor such as NOTEPAD, or can be exported from many other programs, such as Microsoft Excel. The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/upload/csv/info&quot; target=&quot;popup&quot;&gt;"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> for details of the format of the CSV file that we require.</source>
-        <target state="needs-translation"/>
+        <target> Utwórz plik CSV lub TSV zawierający łączności. Mogą być z więcej niż jednej aktywacji. Plik może być utworzony w edytorze tekstu, takim jak Notatnik, albo zostać wyeksportowany we wskazanym formacie z innego programu (na przykład Excel). Zachowanie właściwej struktury danych w pliku jest niezbędnym warunkiem zaakceptowania całej jego zawartości do zapisu w bazie danych. Kliknij <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/upload/csv/info&quot; target=&quot;popup&quot;&gt;"/>tutaj<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> aby zobaczyć oczekiwaną strukturę pliku CSV.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvmodal/csvmodal.component.html</context>
           <context context-type="linenumber">27,30</context>
@@ -5535,7 +5535,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csvUpInst2" datatype="html">
         <source> If you are unsure what a CSV or TSV file is, please add entries normally, one QSO at a time.</source>
-        <target state="needs-translation"/>
+        <target> Jeżeli nie wiesz co to jest plik CSV lub TSV, możesz wpisać łączności pojedynczo, jedną po drugiej.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvmodal/csvmodal.component.html</context>
           <context context-type="linenumber">31,32</context>
@@ -5543,7 +5543,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="csvUpInst3" datatype="html">
         <source> Press the Browse button below and select the CSV or TSV file on your hard drive </source>
-        <target state="needs-translation"/>
+        <target> Wciśnij przycisk Przeglądaj poniżej i wskaż plik CSV lub TSV z twojego dysku.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvmodal/csvmodal.component.html</context>
           <context context-type="linenumber">33,35</context>
@@ -5551,7 +5551,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="selectCSV" datatype="html">
         <source>Select CSV File:</source>
-        <target state="needs-translation"/>
+        <target>Wybierz plik CSV:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvmodal/csvmodal.component.html</context>
           <context context-type="linenumber">40</context>
@@ -5559,7 +5559,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="d37104b3c46b8392494a6e80ed99e70d553b88bf" datatype="html">
         <source>Upload Logs</source>
-        <target state="needs-translation"/>
+        <target>Wyślij logi</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">2</context>
@@ -5568,7 +5568,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="AddChaser" datatype="html">
         <source>Add Chaser QSO</source>
-        <target state="needs-translation"/>
+        <target>Dodaj łączność łowcy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">4</context>
@@ -5576,7 +5576,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ImportCSV" datatype="html">
         <source>Import CSV</source>
-        <target state="needs-translation"/>
+        <target>Import pliku CSV</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">7</context>
@@ -5584,7 +5584,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ImportADIF" datatype="html">
         <source>Import ADIF</source>
-        <target state="needs-translation"/>
+        <target>Import pliku ADIF</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">8</context>
@@ -5592,7 +5592,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SessionIsAvailable" datatype="html">
         <source>A previously unsubmitted session exists. Would you like to restore?</source>
-        <target state="needs-translation"/>
+        <target>Poprzednia próba przesłania danych nie została sfinalizowana. Chcesz ją odtworzyć?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">19</context>
@@ -5600,7 +5600,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Restore" datatype="html">
         <source>Restore</source>
-        <target state="needs-translation"/>
+        <target>Odtwórz</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">21</context>
@@ -5608,7 +5608,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="CancelEditing" datatype="html">
         <source>Cancel Editing</source>
-        <target state="needs-translation"/>
+        <target>Anuluj zmiany</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">25</context>
@@ -5616,7 +5616,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Chase" datatype="html">
         <source>Chase</source>
-        <target state="needs-translation"/>
+        <target>Łowienie</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">30</context>
@@ -5624,7 +5624,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="InvalidSummit" datatype="html">
         <source>Invalid Summit</source>
-        <target state="needs-translation"/>
+        <target>Nieprawidłowy szczyt</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">30</context>
@@ -5640,7 +5640,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Warning" datatype="html">
         <source>Warning</source>
-        <target state="needs-translation"/>
+        <target>Ostrzeżenie</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">30</context>
@@ -5652,7 +5652,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SWLChase" datatype="html">
         <source>SWL Chase</source>
-        <target state="needs-translation"/>
+        <target>Łowienie z nasłuchu (SWL)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">30</context>
@@ -5660,7 +5660,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ChaserDuplicate" datatype="html">
         <source> A record for this chase exists. This chase will be ignored. </source>
-        <target state="needs-translation"/>
+        <target> Zapis tej łączności już istnieje. Duplikat będzie zignorowany. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">31,33</context>
@@ -5668,7 +5668,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="InvalidDateOrTime" datatype="html">
         <source>Invalid Date or Time</source>
-        <target state="needs-translation"/>
+        <target>Nieprawidłowa data lub godzina</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">39</context>
@@ -5676,7 +5676,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="InvalidBand" datatype="html">
         <source>Invalid Band</source>
-        <target state="needs-translation"/>
+        <target>Nieprawidłowe pasmo</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">40</context>
@@ -5684,7 +5684,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="InvalidMode" datatype="html">
         <source>Invalid Mode</source>
-        <target state="needs-translation"/>
+        <target>Nieprawidłowa modulacja</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">41</context>
@@ -5692,7 +5692,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="InvalidDate" datatype="html">
         <source>Invalid Date</source>
-        <target state="needs-translation"/>
+        <target>Niepoprawna data</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">61</context>
@@ -5700,7 +5700,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="ActivationUploadedAlready" datatype="html">
         <source>This activation has already been uploaded - try editing it!</source>
-        <target state="needs-translation"/>
+        <target>Ta aktywacja została już przesłana - spróbuj ją zmodyfikować!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">62</context>
@@ -5708,7 +5708,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Duplicate" datatype="html">
         <source>DUPLICATE</source>
-        <target state="needs-translation"/>
+        <target>DUPLIKAT</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">62</context>
@@ -5716,7 +5716,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="Frequency" datatype="html">
         <source>Frequency</source>
-        <target state="needs-translation"/>
+        <target>Częstotliwość</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">87</context>
@@ -5724,7 +5724,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="S2SSummit" datatype="html">
         <source>S2S Summit</source>
-        <target state="needs-translation"/>
+        <target>Szczyt S2S</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">89</context>
@@ -5732,7 +5732,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SubmitLog" datatype="html">
         <source>Submit Log</source>
-        <target state="needs-translation"/>
+        <target>Prześlij log</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">123</context>
@@ -5740,7 +5740,7 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="VerifyLog" datatype="html">
         <source>Verify Log <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;spinner-border spinner-border-sm&quot; role=&quot;status&quot; aria-hidden=&quot;true&quot; *ngIf=&quot;this.verifying&quot;&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
-        <target state="needs-translation"/>
+        <target>Sprawdź log <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;spinner-border spinner-border-sm&quot; role=&quot;status&quot; aria-hidden=&quot;true&quot; *ngIf=&quot;this.verifying&quot;&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">124</context>
@@ -5752,7 +5752,9 @@ By submitting this log, I certify that I have operated within the rules
 and spirit of the SOTA Programme. I agree that the decision of the
 Management Team will be final in any case of dispute.
 </source>
-        <target state="needs-translation"/>
+        <target>
+Przesyłając ten log potwierdzam, że działałem zgodnie z zasadami i duchem programu SOTA. Przyjmuję do wiadomości iż w razie sporu decyzja Zespołu Zarządzającego będzie rozstrzygająca.
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">131,135</context>
@@ -5764,7 +5766,10 @@ I understand that the scores shown on this website are for guidance only
 and that entries may be subject to verification and adjustment by the award
 administrators.
 </source>
-        <target state="needs-translation"/>
+        <target>
+Przyjmuję do wiadomości, że wyświetlane w tym systemie wyniki mają wyłącznie charakter orientacyjny a przesłane przez mnie logi
+mogą być poddane kontroli i skorygowane przez administratorów.
+        </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">136,140</context>
@@ -5772,7 +5777,7 @@ administrators.
       </trans-unit>
       <trans-unit id="IAgree" datatype="html">
         <source>I agree</source>
-        <target state="needs-translation"/>
+        <target>Zgadzam się</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">144</context>
@@ -5780,7 +5785,7 @@ administrators.
       </trans-unit>
       <trans-unit id="UploadComplete" datatype="html">
         <source>Upload completed</source>
-        <target state="needs-translation"/>
+        <target>Przesyłanie danych zakończone</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">156</context>
@@ -5788,7 +5793,7 @@ administrators.
       </trans-unit>
       <trans-unit id="UploadResult" datatype="html">
         <source>You have <x id="INTERPOLATION" equiv-text="{{ this.uploadResults.activator[2] }}"/> activator points, <x id="INTERPOLATION_1" equiv-text="{{ this.uploadResults.s2s }}"/> S2S points and <x id="INTERPOLATION_2" equiv-text="{{ this.uploadResults.chaser }}"/> chaser points.</source>
-        <target state="needs-translation"/>
+        <target>Uzyskałeś <x id="INTERPOLATION" equiv-text="{{ this.uploadResults.activator[2] }}"/> punktów aktywatora, <x id="INTERPOLATION_1" equiv-text="{{ this.uploadResults.s2s }}"/> punktów S2S oraz <x id="INTERPOLATION_2" equiv-text="{{ this.uploadResults.chaser }}"/> punktów łowcy.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">157</context>
@@ -5796,7 +5801,7 @@ administrators.
       </trans-unit>
       <trans-unit id="NewUpload" datatype="html">
         <source>New Upload</source>
-        <target state="needs-translation"/>
+        <target>Prześlij nowy plik</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">160</context>
@@ -5804,7 +5809,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ReturnToUpload" datatype="html">
         <source>Return to Upload</source>
-        <target state="needs-translation"/>
+        <target>Powrót do przesyłania danych</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">161</context>
@@ -5816,7 +5821,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ReturnToLogs" datatype="html">
         <source>Return to Logs</source>
-        <target state="needs-translation"/>
+        <target>Powrót do logów</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">162</context>
