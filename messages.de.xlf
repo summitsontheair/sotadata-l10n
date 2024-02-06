@@ -4182,7 +4182,7 @@ Eine Aktivierung wird als vollständig betrachtet, wenn sich die Referenz in [My
       </trans-unit>
       <trans-unit id="AssociationIntro" datatype="html">
         <source> SOTA is continually growing with new Associations regularly coming on board. Please click on an Association to find out more information, access the Association Reference Manual (ARM) and view its regions &amp; qualifying summits. </source>
-        <target state="new"> SOTA wächst stetig und mehr neuen Assoziationen werden verfügbar. Wähle eine der Assoziationen um mehr Infomationen zu erhalten, den Link zum Assoziationshandbuch zu erhalten und mehr über die Regionen &amp; und deren Gipfel zu erfahren.</target>
+        <target state="new"> SOTA wächst stetig und mehr neuen Assoziationen werden verfügbar. Wähle eine der Assoziationen um mehr Infomationen zu erhalten, den Link zum Assoziationshandbuch zu erhalten und mehr über die Regionen und deren Gipfel zu erfahren.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">12,14</context>
