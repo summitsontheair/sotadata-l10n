@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="ng2.template">
     <body>
       <trans-unit id="ngb.alert.close" datatype="html">
@@ -11,8 +11,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="ngb.carousel.slide-number" datatype="html">
-        <source> Slide <x id="INTERPOLATION" equiv-text="* If `true`,"/> of <x id="INTERPOLATION_1" equiv-text="h carousel usin"/> </source>
-        <target state="new"> Slide <x id="INTERPOLATION" equiv-text="* If `true`,"/> of <x id="INTERPOLATION_1" equiv-text="h carousel usin"/> </target>
+        <source> Slide <x id="INTERPOLATION" equiv-text="* If `true`," /> of <x id="INTERPOLATION_1" equiv-text="h carousel usin" /> </source>
+        <target state="new"> Slide <x id="INTERPOLATION" equiv-text="* If `true`," /> of <x id="INTERPOLATION_1" equiv-text="h carousel usin" /> </target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/carousel/carousel.ts</context>
           <context context-type="linenumber">150,157</context>
@@ -148,9 +148,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="ngb.progressbar.value" datatype="html">
-        <source><x id="INTERPOLATION" equiv-text="ess bar.
-   *"/></source>
-        <target state="new"><x id="INTERPOLATION" equiv-text="{{getValue() / max | percent}}"/></target>
+        <source><x id="INTERPOLATION" equiv-text="ess bar.    *" /></source>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{getValue() / max | percent}}" /></target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/progressbar/progressbar.ts</context>
           <context context-type="linenumber">64</context>
@@ -253,16 +252,16 @@
         </context-group>
       </trans-unit>
       <trans-unit id="ngb.timepicker.PM" datatype="html">
-        <source><x id="INTERPOLATION"/></source>
-        <target state="new"><x id="INTERPOLATION" equiv-text="{{ i18n.getAfternoonPeriod() }}"/></target>
+        <source><x id="INTERPOLATION" /></source>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{ i18n.getAfternoonPeriod() }}" /></target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">295</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ngb.timepicker.AM" datatype="html">
-        <source><x id="INTERPOLATION"/></source>
-        <target state="new"><x id="INTERPOLATION" equiv-text="{{ i18n.getMorningPeriod() }}"/></target>
+        <source><x id="INTERPOLATION" /></source>
+        <target state="new"><x id="INTERPOLATION" equiv-text="{{ i18n.getMorningPeriod() }}" /></target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
           <context context-type="linenumber">295</context>
@@ -277,17 +276,16 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7e55e0cb1a8e1d94d9672452b63052be7a12d6c6" datatype="html">
-        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/credits&quot;>"/>Credits<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></source>
-        <target state="new"><x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/credits&quot;>"/>Credits<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></target>
-        <context-group purpose="location">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/credits&quot;&gt;" />Credits<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></source>
+        <target><x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/credits&quot;&gt;" />만든 사람들<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></target><context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">8</context>
         </context-group>
         <note priority="1" from="description">@About</note>
       </trans-unit>
       <trans-unit id="Trademark" datatype="html">
-        <source>© 2002-2023 Summits on the Air. Summits on the Air, SOTA and the SOTA Logo are trademarks of the Programme. Questions or comments about this site should be directed to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;http://www.sota.org.uk/Contact&quot; target=&quot;_blank&quot;>"/>webmaster<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. Participation in SOTA is at your own risk. The listing of a summit does NOT imply access is possible. Verify before accessing. See our <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Joining-In/Acceptable-Use-Policy&quot; target=&quot;_blank&quot;>"/>Acceptable Use Policy.<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></source>
-        <target state="new">© 2002-2022 Summits on the Air. Summits on the Air, SOTA and the SOTA Logo are trademarks of the Programme. Questions or comments about this site should be directed to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;http://www.sota.org.uk/Contact&quot; target=&quot;_blank&quot;>"/>webmaster<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. Participation in SOTA is at your own risk. The listing of a summit does NOT imply access is possible. Verify before accessing. See our <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Joining-In/Acceptable-Use-Policy&quot; target=&quot;_blank&quot;>"/>Acceptable Use Policy.<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></target>
+        <source>© 2002-2023 Summits on the Air. Summits on the Air, SOTA and the SOTA Logo are trademarks of the Programme. Questions or comments about this site should be directed to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;http://www.sota.org.uk/Contact&quot; target=&quot;_blank&quot;&gt;" />webmaster<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />. Participation in SOTA is at your own risk. The listing of a summit does NOT imply access is possible. Verify before accessing. See our <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Joining-In/Acceptable-Use-Policy&quot; target=&quot;_blank&quot;&gt;" />Acceptable Use Policy.<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></source>
+        <target state="new">© 2002-2022 Summits on the Air. Summits on the Air, SOTA and the SOTA Logo are trademarks of the Programme. Questions or comments about this site should be directed to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;http://www.sota.org.uk/Contact&quot; target=&quot;_blank&quot;&gt;" />webmaster<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />. Participation in SOTA is at your own risk. The listing of a summit does NOT imply access is possible. Verify before accessing. See our <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Joining-In/Acceptable-Use-Policy&quot; target=&quot;_blank&quot;&gt;" />Acceptable Use Policy.<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.html</context>
           <context context-type="linenumber">9,11</context>
@@ -295,8 +293,7 @@
       </trans-unit>
       <trans-unit id="Code" datatype="html">
         <source>Code</source>
-        <target state="new">Code</target>
-        <context-group purpose="location">
+        <target>코드</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/association/association.component.html</context>
           <context context-type="linenumber">30</context>
         </context-group>
@@ -323,8 +320,7 @@
       </trans-unit>
       <trans-unit id="Logs" datatype="html">
         <source>Logs</source>
-        <target state="new">Logs</target>
-        <context-group purpose="location">
+        <target>로그</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">3</context>
         </context-group>
@@ -427,16 +423,14 @@
       </trans-unit>
       <trans-unit id="ActivatorUniquesRollOfHonour" datatype="html">
         <source>Activator Uniques Roll of Honour</source>
-        <target state="new">Activator Uniques Roll of Honour</target>
-        <context-group purpose="location">
+        <target>액티베이터 고유 산정상 명예의 전당</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">27</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ChaserUniquesRollOfHonour" datatype="html">
         <source>Chaser Uniques Roll of Honour</source>
-        <target state="new">Chaser Uniques Roll of Honour</target>
-        <context-group purpose="location">
+        <target>체이서 고유 산정상 명예의 전당</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">28</context>
         </context-group>
@@ -459,16 +453,14 @@
       </trans-unit>
       <trans-unit id="CompletesRollOfHonour" datatype="html">
         <source>SOTA Completes Roll of Honour</source>
-        <target state="new">SOTA Completes Roll of Honour</target>
-        <context-group purpose="location">
+        <target>SOTA 컴플리트(완주) 명예의 전당</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">31</context>
         </context-group>
       </trans-unit>
       <trans-unit id="SWLRollOfHonour" datatype="html">
         <source>SWL Roll of Honour</source>
-        <target state="new">SWL Roll of Honour</target>
-        <context-group purpose="location">
+        <target>SWL 명예의 전당</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/honour-rolls/honour-rolls.component.html</context>
           <context context-type="linenumber">32</context>
         </context-group>
@@ -523,8 +515,7 @@
       </trans-unit>
       <trans-unit id="AllEntries" datatype="html">
         <source>- All Entries -</source>
-        <target state="new">- All Entries -</target>
-        <context-group purpose="location">
+        <target>- 전체 항목 -</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">7</context>
         </context-group>
@@ -555,8 +546,7 @@
       </trans-unit>
       <trans-unit id="BackToSummitsList" datatype="html">
         <source>&lt;&lt; Back to summits list</source>
-        <target state="new">&lt;&lt; Back to summits list</target>
-        <context-group purpose="location">
+        <target>&lt;&lt; 산정상 목록으로 돌아가기</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/recent-summits/recent-summits.component.html</context>
           <context context-type="linenumber">5</context>
         </context-group>
@@ -633,9 +623,9 @@ An award scheme recognises those who activate the summits and also those that ma
       </trans-unit>
       <trans-unit id="TitlePageInfo" datatype="html">
         <source>
-For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/&quot;>"/>https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></source>
+For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/&quot;&gt;" />https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /></source>
         <target state="translated">
-SOTA에 대한 자세한 설명은 SOTA 웹사이트를 참고해주세요. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+SOTA에 대한 자세한 설명은 SOTA 웹사이트를 참고해주세요. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />https://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/home/home.component.html</context>
@@ -794,10 +784,10 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
         </context-group>
       </trans-unit>
       <trans-unit id="csvUpInst1" datatype="html">
-        <source> Create a CSV or TSV file containing all your entries. These can be for any number of activations. The file can be generated using a text editor such as NOTEPAD, or can be exported from many other programs, such as Microsoft Excel. The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/upload/csv/info&quot; target=&quot;popup&quot;>"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> for details of the format of the CSV file that we require.</source>
+        <source> Create a CSV or TSV file containing all your entries. These can be for any number of activations. The file can be generated using a text editor such as NOTEPAD, or can be exported from many other programs, such as Microsoft Excel. The format of this file is critical to ensure that correct log entries are recorded. Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a routerLink=&quot;/upload/csv/info&quot; target=&quot;popup&quot;&gt;" />here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> for details of the format of the CSV file that we require.</source>
         <target state="translated">
 	모든 항목이 포함된 CSV 또는 TSV 파일을 생성하십시오. 활성화 횟수 제한은 없습니다. 이 파일 형식은 일반 텍스트 편집기는 물론 NOTEPAD 또는 Microsoft Excel과 같은 다른 많은 프로그램에서도 생성할 수 있습니다. 
-이 파일의 형식은 정확한 로그 항목이 기록되도록 하는 데 매우 중요합니다. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a>"/>여기를 클릭<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>하면 필요한 CSV 파일 형식에 대한 자세한 정보를 제공합니다.</target>
+이 파일의 형식은 정확한 로그 항목이 기록되도록 하는 데 매우 중요합니다. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;" />여기를 클릭<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />하면 필요한 CSV 파일 형식에 대한 자세한 정보를 제공합니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvmodal/csvmodal.component.html</context>
           <context context-type="linenumber">27</context>
@@ -1402,8 +1392,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ChasersWorked" datatype="html">
         <source>Chasers Worked</source>
-        <target state="new">Chasers Worked</target>
-        <context-group purpose="location">
+        <target>교신한 체이서 수</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
           <context context-type="linenumber">29</context>
         </context-group>
@@ -1650,8 +1639,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="OtherLocation" datatype="html">
         <source>Other Location</source>
-        <target state="new">Other Location</target>
-        <context-group purpose="location">
+        <target>기타 위치</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">119</context>
         </context-group>
@@ -1710,8 +1698,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="AchievementDate" datatype="html">
         <source>Achievement Date</source>
-        <target state="new">Achievement Date</target>
-        <context-group purpose="location">
+        <target>달성 날짜</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">30</context>
         </context-group>
@@ -1722,32 +1709,28 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="Last25Awardees" datatype="html">
         <source>Last 25 Awardees</source>
-        <target state="new">Last 25 Awardees</target>
-        <context-group purpose="location">
+        <target>최근 수상자 25명</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivatorBest20" datatype="html">
         <source>Best 20 Activator Days</source>
-        <target state="new">Best 20 Activator Days</target>
-        <context-group purpose="location">
+        <target>액티베이터(산악운용) 최고 기록 20일</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/challenge20/challenge20.component.html</context>
           <context context-type="linenumber">27</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ChaserBest20" datatype="html">
         <source>Best 20 Chaser Days</source>
-        <target state="new">Best 20 Chaser Days</target>
-        <context-group purpose="location">
+        <target>체이서(추적국) 최고 기록 20일</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/challenge20/challenge20.component.html</context>
           <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit>
       <trans-unit id="S2SBest20" datatype="html">
         <source>Best 20 S2S Days</source>
-        <target state="new">Best 20 S2S Days</target>
-        <context-group purpose="location">
+        <target>S2S(산대산) 최고 기록 20일</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/challenge20/challenge20.component.html</context>
           <context context-type="linenumber">29</context>
         </context-group>
@@ -1841,9 +1824,8 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
         </context-group>
       </trans-unit>
       <trans-unit id="MultipleAccounts" datatype="html">
-        <source>This callsign has multiple accounts associated with it. Please contact <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Contact&quot;>"/>the SOTA MT<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> to rectify</source>
-        <target state="new">This callsign has multiple accounts associated with it. Please contact <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Contact&quot;>"/>the SOTA MT<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> to rectify</target>
-        <context-group purpose="location">
+        <source>This callsign has multiple accounts associated with it. Please contact <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Contact&quot;&gt;" />the SOTA MT<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" /> to rectify</source>
+        <target>이 호출부호에 여러 계정이 연결되어 있습니다. 문제를 해결하려면 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.sota.org.uk/Contact&quot;&gt;" />SOTA 운영팀(MT)<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />에 문의하세요.</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">1</context>
         </context-group>
@@ -1854,24 +1836,21 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="ActivatorLog" datatype="html">
         <source>Activator Log</source>
-        <target state="new">Activator Log</target>
-        <context-group purpose="location">
+        <target>액티베이터 로그</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">3</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MyActivatedRegions" datatype="html">
         <source>My Activated Regions</source>
-        <target state="new">My Activated Regions</target>
-        <context-group purpose="location">
+        <target>내가 운용한 지역</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ShowMicrowaveOnly" datatype="html">
         <source>Go to Microwave Log</source>
-        <target state="new">Go to Microwave Log</target>
-        <context-group purpose="location">
+        <target>마이크로파 로그로 이동</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">10</context>
         </context-group>
@@ -1886,8 +1865,7 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="GoToActivatorLog" datatype="html">
         <source>Go to Activator Log</source>
-        <target state="new">Go to Activator Log</target>
-        <context-group purpose="location">
+        <target>액티베이터 로그로 이동</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
@@ -1918,23 +1896,21 @@ Please help us to keep this page up-to-date by regularly submitting your SOTA lo
       </trans-unit>
       <trans-unit id="UpcomingActivations" datatype="html">
         <source>Upcoming Activations</source>
-        <target state="new">Upcoming Activations</target>
-        <context-group purpose="location">
+        <target>예정된 액티베이션</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">68</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Resources" datatype="html">
         <source>Resources</source>
-        <target state="new">Resources</target>
-        <context-group purpose="location">
+        <target>참고 자료</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">78</context>
         </context-group>
       </trans-unit>
       <trans-unit id="FeelFreeToAdd" datatype="html">
-        <source>Feel free to add External Links<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;oi oi-external-link&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>and Articles<x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;oi oi-copywriting&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>relating to this summit that activators and chasers may find useful or interesting. Please read the disclaimer notice at the bottom of the page.</source>
-        <target state="new">Feel free to add External Links<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;oi oi-external-link&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>and Articles<x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;oi oi-copywriting&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>relating to this summit that activators and chasers may find useful or interesting. Please read the disclaimer notice at the bottom of the page.</target>
+        <source>Feel free to add External Links<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;oi oi-external-link&quot;&gt;" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />and Articles<x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;oi oi-copywriting&quot;&gt;" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />relating to this summit that activators and chasers may find useful or interesting. Please read the disclaimer notice at the bottom of the page.</source>
+        <target state="new">Feel free to add External Links<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;oi oi-external-link&quot;&gt;" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />and Articles<x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;oi oi-copywriting&quot;&gt;" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />relating to this summit that activators and chasers may find useful or interesting. Please read the disclaimer notice at the bottom of the page.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">79</context>
@@ -2017,8 +1993,8 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="UploadResult" datatype="html">
-        <source>You have <x id="INTERPOLATION" equiv-text="{{ this.uploadResults.activator[2] }}"/> activator points, <x id="INTERPOLATION_1" equiv-text="{{ this.uploadResults.s2s }}"/> S2S points and <x id="INTERPOLATION_2" equiv-text="{{ this.uploadResults.chaser }}"/> chaser points.</source>
-        <target state="new">You have <x id="INTERPOLATION" equiv-text="{{ this.uploadResults.activator[2] }}"/> activator points, <x id="INTERPOLATION_1" equiv-text="{{ this.uploadResults.s2s }}"/> S2S points and <x id="INTERPOLATION_2" equiv-text="{{ this.uploadResults.chaser }}"/> chaser points.</target>
+        <source>You have <x id="INTERPOLATION" equiv-text="{{ this.uploadResults.activator[2] }}" /> activator points, <x id="INTERPOLATION_1" equiv-text="{{ this.uploadResults.s2s }}" /> S2S points and <x id="INTERPOLATION_2" equiv-text="{{ this.uploadResults.chaser }}" /> chaser points.</source>
+        <target state="new">You have <x id="INTERPOLATION" equiv-text="{{ this.uploadResults.activator[2] }}" /> activator points, <x id="INTERPOLATION_1" equiv-text="{{ this.uploadResults.s2s }}" /> S2S points and <x id="INTERPOLATION_2" equiv-text="{{ this.uploadResults.chaser }}" /> chaser points.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">157</context>
@@ -2073,8 +2049,8 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="awardsMG" datatype="html">
-        <source>You are a Mountain Goat with <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/> points.</source>
-        <target>당신은 <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}"/>점의 Mountain Goat입니다..</target>
+        <source>You are a Mountain Goat with <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}" /> points.</source>
+        <target>당신은 <x id="INTERPOLATION" equiv-text="{{statistics.mg.Points}}" />점의 Mountain Goat입니다..</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/awards/awards.component.html</context>
           <context context-type="linenumber">10</context>
@@ -2098,8 +2074,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AssociationsChased" datatype="html">
         <source>Association(s) Chased All Bands</source>
-        <target state="new">Association(s) Chased All Bands</target>
-        <context-group purpose="location">
+        <target>교신한 협회 수 (전 밴드)</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/awards/awards.component.html</context>
           <context context-type="linenumber">44</context>
         </context-group>
@@ -2110,8 +2085,7 @@ administrators.
       </trans-unit>
       <trans-unit id="GoToChaserLog" datatype="html">
         <source>Go to Chaser Log</source>
-        <target state="new">Go to Chaser Log</target>
-        <context-group purpose="location">
+        <target>체이서 로그로 이동</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
@@ -2197,8 +2171,8 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="chaserDeleteResult2" datatype="html">
-        <source>You cannot delete this QSO. The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
-        <target>귀하께서는 이 교신기록을 삭제할 수 없습니다. 에러코드: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
+        <source>You cannot delete this QSO. The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}" /></source>
+        <target>귀하께서는 이 교신기록을 삭제할 수 없습니다. 에러코드: <x id="INTERPOLATION" equiv-text="{{this.resultText}}" /></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-delete-modal/chaser-delete-modal.component.html</context>
           <context context-type="linenumber">6</context>
@@ -2241,8 +2215,7 @@ administrators.
       </trans-unit>
       <trans-unit id="OwnCall" datatype="html">
         <source>Own Callsign</source>
-        <target state="new">Own Callsign</target>
-        <context-group purpose="location">
+        <target>내 호출부호</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activation-delete-modal/activation-delete-modal.component.html</context>
           <context context-type="linenumber">27</context>
         </context-group>
@@ -2557,16 +2530,14 @@ administrators.
       </trans-unit>
       <trans-unit id="Summit2Summit" datatype="html">
         <source>Summit to Summit</source>
-        <target state="new">Summit to Summit</target>
-        <context-group purpose="location">
+        <target>산대산 교신 (S2S)</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/facts-figures/facts-figures.component.html</context>
           <context context-type="linenumber">89</context>
         </context-group>
       </trans-unit>
       <trans-unit id="S2S" datatype="html">
         <source>S2S</source>
-        <target state="translated">S2S</target>
-        <context-group purpose="location">
+        <target>S2S</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">7</context>
         </context-group>
@@ -2577,24 +2548,21 @@ administrators.
       </trans-unit>
       <trans-unit id="Completes" datatype="html">
         <source>Completes</source>
-        <target state="new">Completes</target>
-        <context-group purpose="location">
+        <target>컴플리트</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivatorUniques" datatype="html">
         <source>Activator Uniques</source>
-        <target state="new">Activator Uniques</target>
-        <context-group purpose="location">
+        <target>액티베이터 고유 산정상</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ChaserUniques" datatype="html">
         <source>Chaser Uniques</source>
-        <target state="new">Chaser Uniques</target>
-        <context-group purpose="location">
+        <target>체이서 고유 산정상</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">10</context>
         </context-group>
@@ -2637,8 +2605,7 @@ administrators.
       </trans-unit>
       <trans-unit id="S2SQSO" datatype="html">
         <source>S2S QSO</source>
-        <target>S2S QSO</target>
-        <context-group purpose="location">
+        <target>S2S(산대산) 교신</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-delete-modal/chaser-delete-modal.component.html</context>
           <context context-type="linenumber">45</context>
         </context-group>
@@ -2677,8 +2644,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Previous6Months" datatype="html">
         <source>Previous 6 Months</source>
-        <target state="new">Previous 6 Months</target>
-        <context-group purpose="location">
+        <target>최근 6개월</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
@@ -2689,8 +2655,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatorWorked" datatype="html">
         <source>Activator Worked</source>
-        <target state="new">Activator Worked</target>
-        <context-group purpose="location">
+        <target>교신한 액티베이터</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">47</context>
         </context-group>
@@ -2705,8 +2670,7 @@ administrators.
       </trans-unit>
       <trans-unit id="MyChaserRegions" datatype="html">
         <source>My Chased Regions</source>
-        <target state="new">My Chased Regions</target>
-        <context-group purpose="location">
+        <target>내가 교신한 지역</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">1</context>
         </context-group>
@@ -2805,8 +2769,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ShowAnalysis" datatype="html">
         <source>Show Analysis</source>
-        <target state="new">Show Analysis</target>
-        <context-group purpose="location">
+        <target>분석 보기</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">28</context>
         </context-group>
@@ -2817,8 +2780,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Loading" datatype="html">
         <source>Loading...</source>
-        <target state="new">Loading...</target>
-        <context-group purpose="location">
+        <target>불러오는 중...</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">33</context>
         </context-group>
@@ -2901,8 +2863,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Chaser" datatype="html">
         <source>Chaser</source>
-        <target state="new">Chaser</target>
-        <context-group purpose="location">
+        <target>체이서</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">6</context>
         </context-group>
@@ -2977,8 +2938,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ViewMap" datatype="html">
         <source>View Map</source>
-        <target state="new">View Map</target>
-        <context-group purpose="location">
+        <target>지도 보기</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">93</context>
         </context-group>
@@ -3013,8 +2973,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Edit" datatype="html">
         <source>Edit</source>
-        <target state="new">Edit</target>
-        <context-group purpose="location">
+        <target>편집</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activation-show/activation-show.component.html</context>
           <context context-type="linenumber">18</context>
         </context-group>
@@ -3045,8 +3004,7 @@ administrators.
       </trans-unit>
       <trans-unit id="NoRecordsFound" datatype="html">
         <source>No records found</source>
-        <target state="new">No records found</target>
-        <context-group purpose="location">
+        <target>기록을 찾을 수 없습니다</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activator-log.component.html</context>
           <context context-type="linenumber">143</context>
         </context-group>
@@ -3061,8 +3019,7 @@ administrators.
       </trans-unit>
       <trans-unit id="DeleteChaserLog" datatype="html">
         <source>Delete Chaser Log</source>
-        <target state="new">Delete Chaser Log</target>
-        <context-group purpose="location">
+        <target>체이서 로그 삭제</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-delete-modal/chaser-delete-modal.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
@@ -3129,8 +3086,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AssociationsChasedVHF" datatype="html">
         <source>Association(s) Chased VHF and up</source>
-        <target state="new">Association(s) Chased VHF and up</target>
-        <context-group purpose="location">
+        <target>교신한 협회 수 (VHF 이상)</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/awards/awards.component.html</context>
           <context context-type="linenumber">74</context>
         </context-group>
@@ -3141,24 +3097,21 @@ administrators.
       </trans-unit>
       <trans-unit id="AwardedToYouOn" datatype="html">
         <source>Awarded to you on: </source>
-        <target state="new">Awarded to you on: </target>
-        <context-group purpose="location">
+        <target>획득 날짜: </target><context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">23</context>
         </context-group>
       </trans-unit>
       <trans-unit id="First25Awardees" datatype="html">
         <source>First 25 Awardees</source>
-        <target state="new">First 25 Awardees</target>
-        <context-group purpose="location">
+        <target>최초 수상자 25명</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/badges/badges.component.html</context>
           <context context-type="linenumber">26</context>
         </context-group>
       </trans-unit>
       <trans-unit id="20YearChallengeRoll" datatype="html">
         <source>SOTA 20th Anniversary Roll</source>
-        <target state="new">SOTA 20th Anniversary Roll</target>
-        <context-group purpose="location">
+        <target>SOTA 20주년 기념 명단</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/challenge20/challenge20.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
@@ -3213,8 +3166,7 @@ administrators.
       </trans-unit>
       <trans-unit id="LatestActivations" datatype="html">
         <source>Latest activations</source>
-        <target state="new">Latest activations</target>
-        <context-group purpose="location">
+        <target>최근 액티베이션 기록</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">16</context>
         </context-group>
@@ -3261,24 +3213,21 @@ administrators.
       </trans-unit>
       <trans-unit id="ChaserLog" datatype="html">
         <source>Chaser Log</source>
-        <target state="new">Chaser Log</target>
-        <context-group purpose="location">
+        <target>체이서 로그</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">3</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ShowAllQSOs" datatype="html">
         <source>Show All QSOs</source>
-        <target state="new">Show All QSOs</target>
-        <context-group purpose="location">
+        <target>모든 교신(QSO) 보기</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ShowAwards" datatype="html">
         <source>Show Awards</source>
-        <target state="new">Show Awards</target>
-        <context-group purpose="location">
+        <target>어워드 보기</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">7</context>
         </context-group>
@@ -3292,8 +3241,8 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="csvOne" datatype="html">
-        <source>This facility lets you upload a large number of QSOs in one bulk transaction. You need to create a Comma Separated Variable (CSV) or Tab Separated Variable (TSV) file with the fields laid out as shown in the example below. You then submit this file, which is checked for errors before presenting you with the option to save the QSOs to your database. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>You can mix activation records, chaser records and S2S (summit to summit) records all in the same file.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/> You can include multiple activations in this file but all records for each activation must be together. Each activation is deemed to end when the [My Summit] reference changes. If you activate the same summit on several days you must upload each activation in a separate file<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/> otherwise the file will be assumed to only contain a single activation.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/></source>
-        <target state="translated">이 기능을 통해 대량의 교신기록을 한 번에 업로드 할 수 있습니다. 이를 위해서는 교신기록을 아래에 나타 내듯이 CSV파일(쉼표로 데이터 항목이 구분된 데이터) 혹은 TSV파일(Tab 혹은 공간으로 데이터 항목이 구분된 데이터)로 작성해야 합니다. 이 파일을 업로드 한 후 오류를 점검하여 그대로 데이터베이스를 저장할 수 있는지 여부를 확인할 수 있습니다. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>로그 데이터는 활성화, 추적, S2S(산정상 대 산정상)의 레코드를 하나의 파일에 혼재시키는 것이 가능합니다.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/> 복수의 활성화 로그를 하나의 파일에 포함하는 것도 가능합니다만, 하나의 활성화 로그를 복수의 파일에 걸쳐 넣을 수는 없습니다. 각각의 활성화 로그는 [자국 산정상]란에 기재되는 산정상 참조번호가 바뀌었을 때에 그 활성화가 종료되는 것으로 간주됩니다.<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/> 그렇지 않으면 파일은 단일 활성화만 포함하는 것으로 간주됩니다.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+        <source>This facility lets you upload a large number of QSOs in one bulk transaction. You need to create a Comma Separated Variable (CSV) or Tab Separated Variable (TSV) file with the fields laid out as shown in the example below. You then submit this file, which is checked for errors before presenting you with the option to save the QSOs to your database. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" />You can mix activation records, chaser records and S2S (summit to summit) records all in the same file.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" /> You can include multiple activations in this file but all records for each activation must be together. Each activation is deemed to end when the [My Summit] reference changes. If you activate the same summit on several days you must upload each activation in a separate file<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" /> otherwise the file will be assumed to only contain a single activation.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" /></source>
+        <target state="translated">이 기능을 통해 대량의 교신기록을 한 번에 업로드 할 수 있습니다. 이를 위해서는 교신기록을 아래에 나타 내듯이 CSV파일(쉼표로 데이터 항목이 구분된 데이터) 혹은 TSV파일(Tab 혹은 공간으로 데이터 항목이 구분된 데이터)로 작성해야 합니다. 이 파일을 업로드 한 후 오류를 점검하여 그대로 데이터베이스를 저장할 수 있는지 여부를 확인할 수 있습니다. <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" />로그 데이터는 활성화, 추적, S2S(산정상 대 산정상)의 레코드를 하나의 파일에 혼재시키는 것이 가능합니다.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" /> 복수의 활성화 로그를 하나의 파일에 포함하는 것도 가능합니다만, 하나의 활성화 로그를 복수의 파일에 걸쳐 넣을 수는 없습니다. 각각의 활성화 로그는 [자국 산정상]란에 기재되는 산정상 참조번호가 바뀌었을 때에 그 활성화가 종료되는 것으로 간주됩니다.<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" /> 그렇지 않으면 파일은 단일 활성화만 포함하는 것으로 간주됩니다.<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" />
 
                  </target>
         <context-group purpose="location">
@@ -3367,8 +3316,8 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="csv8" datatype="html">
-        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u>"/>Field notes<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u>"/></source>
-        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u>"/>필드 입력요령 <x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u>"/></target>
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;" />Field notes<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;" /></source>
+        <target><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;" />필드 입력요령 <x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;" /></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">53</context>
@@ -3511,8 +3460,8 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="VerifyLog" datatype="html">
-        <source>Verify Log <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;spinner-border spinner-border-sm&quot; role=&quot;status&quot; aria-hidden=&quot;true&quot; *ngIf=&quot;this.verifying&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/></source>
-        <target state="new">Verify Log <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;spinner-border spinner-border-sm&quot; role=&quot;status&quot; aria-hidden=&quot;true&quot; *ngIf=&quot;this.verifying&quot;>"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/></target>
+        <source>Verify Log <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;spinner-border spinner-border-sm&quot; role=&quot;status&quot; aria-hidden=&quot;true&quot; *ngIf=&quot;this.verifying&quot;&gt;" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></source>
+        <target state="new">Verify Log <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;spinner-border spinner-border-sm&quot; role=&quot;status&quot; aria-hidden=&quot;true&quot; *ngIf=&quot;this.verifying&quot;&gt;" /><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" /></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/upload-add-edit-component.component.html</context>
           <context context-type="linenumber">124</context>
@@ -3580,32 +3529,28 @@ administrators.
       </trans-unit>
       <trans-unit id="SearchResults" datatype="html">
         <source>Search Results</source>
-        <target state="new">Search Results</target>
-        <context-group purpose="location">
+        <target>검색 결과</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
       </trans-unit>
       <trans-unit id="SearchReturned" datatype="html">
-        <source>Your search for <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/><x id="INTERPOLATION" equiv-text="{{ searchString }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/> returned <x id="INTERPOLATION_1" equiv-text="{{ summits.length }}"/> summits.</source>
-        <target state="new">Your search for <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/><x id="INTERPOLATION" equiv-text="{{ searchString }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/> returned <x id="INTERPOLATION_1" equiv-text="{{ summits.length }}"/> summits.</target>
-        <context-group purpose="location">
+        <source>Your search for <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" /><x id="INTERPOLATION" equiv-text="{{ searchString }}" /><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" /> returned <x id="INTERPOLATION_1" equiv-text="{{ summits.length }}" /> summits.</source>
+        <target><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" /><x id="INTERPOLATION" equiv-text="{{ searchString }}" /><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" />에 대한 검색 결과 총 <x id="INTERPOLATION_1" equiv-text="{{ summits.length }}" />개의 산정상이 검색되었습니다.</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/search-results/search-results.component.html</context>
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ViewAllSummitActivity" datatype="html">
         <source>View ALL Summit Activity</source>
-        <target state="new">View ALL Summit Activity</target>
-        <context-group purpose="location">
+        <target>모든 산정상 활동 보기</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">1</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Activation" datatype="html">
         <source>Activation</source>
-        <target state="new">Activation</target>
-        <context-group purpose="location">
+        <target>액티베이션</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">5</context>
         </context-group>
@@ -3635,8 +3580,8 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="ActivatedByMeXTimes" datatype="html">
-        <source>Activated by me <x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> times on</source>
-        <target state="new">Activated by me <x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}"/> times on</target>
+        <source>Activated by me <x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}" /> times on</source>
+        <target state="new">Activated by me <x id="INTERPOLATION" equiv-text="{{ myActivationsCount }}" /> times on</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">20</context>
@@ -3651,8 +3596,8 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="ChasedByMeXTimes" datatype="html">
-        <source>Chased by me <x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/> times on</source>
-        <target state="new">Chased by me <x id="INTERPOLATION" equiv-text="{{ myChasesCount }}"/> times on</target>
+        <source>Chased by me <x id="INTERPOLATION" equiv-text="{{ myChasesCount }}" /> times on</source>
+        <target state="new">Chased by me <x id="INTERPOLATION" equiv-text="{{ myChasesCount }}" /> times on</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-activity/summit-activity.component.html</context>
           <context context-type="linenumber">29</context>
@@ -3683,16 +3628,16 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="PostedByCallsign" datatype="html">
-        <source> Posted by <x id="INTERPOLATION" equiv-text="{{ model.callsign }}"/> on <x id="INTERPOLATION_1" equiv-text="{{ model.dateSubmitted * 1000 | date }}"/> </source>
-        <target state="new"> Posted by <x id="INTERPOLATION" equiv-text="{{ model.callsign }}"/> on <x id="INTERPOLATION_1" equiv-text="{{ model.dateSubmitted * 1000 | date }}"/> </target>
+        <source> Posted by <x id="INTERPOLATION" equiv-text="{{ model.callsign }}" /> on <x id="INTERPOLATION_1" equiv-text="{{ model.dateSubmitted * 1000 | date }}" /> </source>
+        <target state="new"> Posted by <x id="INTERPOLATION" equiv-text="{{ model.callsign }}" /> on <x id="INTERPOLATION_1" equiv-text="{{ model.dateSubmitted * 1000 | date }}" /> </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">4,6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ReturnToSummitCode" datatype="html">
-        <source>Return to <x id="INTERPOLATION" equiv-text="{{ model.summitCode }}"/></source>
-        <target state="new">Return to <x id="INTERPOLATION" equiv-text="{{ model.summitCode }}"/></target>
+        <source>Return to <x id="INTERPOLATION" equiv-text="{{ model.summitCode }}" /></source>
+        <target state="new">Return to <x id="INTERPOLATION" equiv-text="{{ model.summitCode }}" /></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">7</context>
@@ -3708,248 +3653,217 @@ administrators.
       </trans-unit>
       <trans-unit id="ArticleText" datatype="html">
         <source>Article text</source>
-        <target state="new">Article text</target>
-        <context-group purpose="location">
+        <target>게시글 본문</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">35</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ArticleTextIsRequired" datatype="html">
         <source> Article text is required </source>
-        <target state="new"> Article text is required </target>
-        <context-group purpose="location">
+        <target> 게시글 본문은 필수 입력 항목입니다 </target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">41,43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="SaveArticle" datatype="html">
         <source>Save Article</source>
-        <target state="new">Save Article</target>
-        <context-group purpose="location">
+        <target>게시글 저장</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">59</context>
         </context-group>
       </trans-unit>
       <trans-unit id="AddArticle" datatype="html">
         <source>Add Article</source>
-        <target state="new">Add Article</target>
-        <context-group purpose="location">
+        <target>게시글 추가</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-article/summit-article.component.html</context>
           <context context-type="linenumber">59</context>
         </context-group>
       </trans-unit>
       <trans-unit id="DriveUp" datatype="html">
         <source>Drive Up Summit</source>
-        <target state="new">Drive Up Summit</target>
-        <context-group purpose="location">
+        <target>차량 등반 가능 산정상</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReachedByVehicle" datatype="html">
         <source>Activation zone can be reached by vehicle</source>
-        <target state="new">Activation zone can be reached by vehicle</target>
-        <context-group purpose="location">
+        <target>운용 구역(Activation Zone)까지 차량으로 접근 가능</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="DriveUp4WD" datatype="html">
         <source>Drive Up Summit - 4WD only</source>
-        <target state="new">Drive Up Summit - 4WD only</target>
-        <context-group purpose="location">
+        <target>차량 등반 가능 산정상 - 4륜구동(4WD) 전용</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReachedByVehicle4WD" datatype="html">
         <source>Activation zone can be reached by vehicle with 4WD capability</source>
-        <target state="new">Activation zone can be reached by vehicle with 4WD capability</target>
-        <context-group purpose="location">
+        <target>운용 구역(Activation Zone)까지 4륜구동(4WD) 차량으로 접근 가능</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
       </trans-unit>
       <trans-unit id="PublicTransport" datatype="html">
         <source>Public Transport</source>
-        <target state="new">Public Transport</target>
-        <context-group purpose="location">
+        <target>대중교통</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReachedByPubTrans" datatype="html">
         <source>Trailhead or Activation Zone can be reached by public transport from nearby city</source>
-        <target state="new">Trailhead or Activation Zone can be reached by public transport from nearby city</target>
-        <context-group purpose="location">
+        <target>인근 도시에서 대중교통을 이용해 등산로 입구 또는 운용 구역까지 접근 가능</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="CycleFriendly" datatype="html">
         <source>Cycle Friendly</source>
-        <target state="new">Cycle Friendly</target>
-        <context-group purpose="location">
+        <target>자전거 접근 가능</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">23</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeCycle" datatype="html">
         <source>Activation zone can be reached by bicycle</source>
-        <target state="new">Activation zone can be reached by bicycle</target>
-        <context-group purpose="location">
+        <target>운용 구역(Activation Zone)까지 자전거로 접근 가능</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">23</context>
         </context-group>
       </trans-unit>
       <trans-unit id="DisabilityFriendly" datatype="html">
         <source>Disability Friendy</source>
-        <target state="new">Disability Friendy</target>
-        <context-group purpose="location">
+        <target>장애인 접근 가능</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">29</context>
         </context-group>
       </trans-unit>
       <trans-unit id="SummitIsAccessible" datatype="html">
         <source>Sumit is accessible to all people, regardless of ability</source>
-        <target state="new">Sumit is accessible to all people, regardless of ability</target>
-        <context-group purpose="location">
+        <target>신체적 능력과 관계없이 모든 사람이 접근할 수 있는 산정상</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">29</context>
         </context-group>
       </trans-unit>
       <trans-unit id="EasyWalk" datatype="html">
         <source>Easy Walk (&lt;30 minutes)</source>
-        <target state="new">Easy Walk (&lt;30 minutes)</target>
-        <context-group purpose="location">
+        <target>가벼운 산책 (30분 미만)</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">35</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReached30mins" datatype="html">
         <source>Activation zone can be reached by walking less than 30 minutes from a trailhead</source>
-        <target state="new">Activation zone can be reached by walking less than 30 minutes from a trailhead</target>
-        <context-group purpose="location">
+        <target>등산로 입구에서 도보 30분 미만으로 운용 구역(Activation Zone)에 도달 가능</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">35</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ModerateWalk" datatype="html">
         <source>Moderate Walk (30-90 minutes)</source>
-        <target state="new">Moderate Walk (30-90 minutes)</target>
-        <context-group purpose="location">
+        <target>보통 산행 (30~90분)</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReached3090mins" datatype="html">
         <source>Activation zone can be reached by walking between 30 minutes and 90 minutes from a trailhead</source>
-        <target state="new">Activation zone can be reached by walking between 30 minutes and 90 minutes from a trailhead</target>
-        <context-group purpose="location">
+        <target>등산로 입구에서 도보 30분~90분 소요되어 운용 구역(Activation Zone)에 도달 가능</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="LongWalk" datatype="html">
         <source>Long Walk (1.5 hours - 6 hours)</source>
-        <target state="new">Long Walk (1.5 hours - 6 hours)</target>
-        <context-group purpose="location">
+        <target>장시간 산행 (1.5시간~6시간)</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">47</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReached16hours" datatype="html">
         <source>Activation zone can be reached by walking between 1.5 and 6 hours from a trailhead</source>
-        <target state="new">Activation zone can be reached by walking between 1.5 and 6 hours from a trailhead</target>
-        <context-group purpose="location">
+        <target>등산로 입구에서 도보 1.5시간~6시간 소요되어 운용 구역(Activation Zone)에 도달 가능</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">47</context>
         </context-group>
       </trans-unit>
       <trans-unit id="OvernightHike" datatype="html">
         <source>Overnight Hike</source>
-        <target state="new">Overnight Hike</target>
-        <context-group purpose="location">
+        <target>야영 및 종주 산행</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">53</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivationZoneCanBeReachedOvernight" datatype="html">
         <source>Activation zone can be reached by overnight or multi-day walk</source>
-        <target state="new">Activation zone can be reached by overnight or multi-day walk</target>
-        <context-group purpose="location">
+        <target>1박 이상 또는 며칠에 걸친 산행으로 운용 구역(Activation Zone)에 도달 가능</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">53</context>
         </context-group>
       </trans-unit>
       <trans-unit id="RockClimbingRequired" datatype="html">
         <source>Rock Climbing Required</source>
-        <target state="new">Rock Climbing Required</target>
-        <context-group purpose="location">
+        <target>암벽 등반 필요</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">59</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivationZoneRequiresRockClimbing" datatype="html">
         <source>Activation zone requires rock climbing to reach</source>
-        <target state="new">Activation zone requires rock climbing to reach</target>
-        <context-group purpose="location">
+        <target>운용 구역(Activation Zone)에 도달하기 위해 암벽 등반이 필요함</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">59</context>
         </context-group>
       </trans-unit>
       <trans-unit id="PotentialAccessIssuesAddNote" datatype="html">
-        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>Potential Access Issues<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> - Please add note to explain</source>
-        <target state="new"><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>Potential Access Issues<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> - Please add note to explain</target>
-        <context-group purpose="location">
+        <source><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />Potential Access Issues<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> - Please add note to explain</source>
+        <target><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />출입 제한 가능성 있음<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> - 설명을 위해 메모를 추가해 주세요</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit-tags-form/summit-tags-form.component.html</context>
           <context context-type="linenumber">65</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Point" datatype="html">
         <source>point</source>
-        <target state="new">point</target>
-        <context-group purpose="location">
+        <target>점</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="AssociationList" datatype="html">
         <source>Association List</source>
-        <target state="new">Association List</target>
-        <context-group purpose="location">
+        <target>협회 목록</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="BackToAssociation" datatype="html">
-        <source>Back to <x id="INTERPOLATION" equiv-text="{{ summit.associationCode }}"/> Association</source>
-        <target state="new">Back to <x id="INTERPOLATION" equiv-text="{{ summit.associationCode }}"/> Association</target>
-        <context-group purpose="location">
+        <source>Back to <x id="INTERPOLATION" equiv-text="{{ summit.associationCode }}" /> Association</source>
+        <target><x id="INTERPOLATION" equiv-text="{{ summit.associationCode }}" /> 협회로 돌아가기</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">18</context>
         </context-group>
       </trans-unit>
       <trans-unit id="BackToRegion" datatype="html">
-        <source>Back to <x id="INTERPOLATION" equiv-text="{{ summit.regionCode }}"/> Region</source>
-        <target state="new">Back to <x id="INTERPOLATION" equiv-text="{{ summit.regionCode }}"/> Region</target>
-        <context-group purpose="location">
+        <source>Back to <x id="INTERPOLATION" equiv-text="{{ summit.regionCode }}" /> Region</source>
+        <target><x id="INTERPOLATION" equiv-text="{{ summit.regionCode }}" /> 지역으로 돌아가기</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Region" datatype="html">
         <source>Region</source>
-        <target state="new">Region</target>
-        <context-group purpose="location">
+        <target>지역</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">30</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Latitude" datatype="html">
         <source>Latitude</source>
-        <target state="new">Latitude</target>
-        <context-group purpose="location">
+        <target>위도</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
           <context context-type="linenumber">10</context>
         </context-group>
@@ -3960,8 +3874,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Longitude" datatype="html">
         <source>Longitude</source>
-        <target state="new">Longitude</target>
-        <context-group purpose="location">
+        <target>경도</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
           <context context-type="linenumber">17</context>
         </context-group>
@@ -3972,72 +3885,63 @@ administrators.
       </trans-unit>
       <trans-unit id="DistanceKM" datatype="html">
         <source>Distance(km)</source>
-        <target state="new">Distance(km)</target>
-        <context-group purpose="location">
+        <target>거리(km)</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
           <context context-type="linenumber">24</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Search" datatype="html">
         <source>Search</source>
-        <target state="new">Search</target>
-        <context-group purpose="location">
+        <target>검색</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
           <context context-type="linenumber">33</context>
         </context-group>
       </trans-unit>
       <trans-unit id="UKGridRef" datatype="html">
         <source>UK Grid Ref</source>
-        <target state="new">UK Grid Ref</target>
-        <context-group purpose="location">
+        <target>영국 그리드 좌표(UK Grid Ref)</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">37</context>
         </context-group>
       </trans-unit>
       <trans-unit id="QTHLocator" datatype="html">
         <source>QTH Locator</source>
-        <target state="new">QTH Locator</target>
-        <context-group purpose="location">
+        <target>QTH 로케이터</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">38</context>
         </context-group>
       </trans-unit>
       <trans-unit id="BonusPeriod" datatype="html">
         <source>Bonus Period</source>
-        <target state="new">Bonus Period</target>
-        <context-group purpose="location">
+        <target>보너스 기간</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="RelativeToHomeQTH" datatype="html">
         <source>Relative to home QTH</source>
-        <target state="new">Relative to home QTH</target>
-        <context-group purpose="location">
+        <target>자택 QTH 기준</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="mi" datatype="html">
         <source>mi</source>
-        <target state="new">mi</target>
-        <context-group purpose="location">
+        <target>마일(mi)</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivationsWontEarnPoints" datatype="html">
         <source>Activations and chases of this summit will not earn points.</source>
-        <target state="new">Activations and chases of this summit will not earn points.</target>
-        <context-group purpose="location">
+        <target>이 산정상에 대한 액티베이션 및 체이싱은 점수가 부여되지 않습니다.</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">52</context>
         </context-group>
       </trans-unit>
       <trans-unit id="SubjectToRestrictions" datatype="html">
         <source>This summit is potentially subject to restricted access or restrictions on operations. Details may be found by clicking below:</source>
-        <target state="new">This summit is potentially subject to restricted access or restrictions on operations. Details may be found by clicking below:</target>
-        <context-group purpose="location">
+        <target>이 산정상은 출입이 제한되거나 운용상 제약이 있을 수 있습니다. 자세한 내용은 아래를 클릭하여 확인하세요:</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/summit.component.html</context>
           <context context-type="linenumber">57</context>
         </context-group>
@@ -4176,24 +4080,21 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatorStats" datatype="html">
         <source>Activator Stats</source>
-        <target state="new">Activator Stats</target>
-        <context-group purpose="location">
+        <target>액티베이터 통계</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ChaserStats" datatype="html">
         <source>Chaser Stats</source>
-        <target state="new">Chaser Stats</target>
-        <context-group purpose="location">
+        <target>체이서 통계</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">12</context>
         </context-group>
       </trans-unit>
       <trans-unit id="TotalPointsL" datatype="html">
         <source>total points</source>
-        <target state="new">total points</target>
-        <context-group purpose="location">
+        <target>총 점수</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">33</context>
         </context-group>
@@ -4204,8 +4105,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatorPointsL" datatype="html">
         <source>activator points</source>
-        <target state="new">activator points</target>
-        <context-group purpose="location">
+        <target>액티베이터 점수</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">34</context>
         </context-group>
@@ -4216,8 +4116,7 @@ administrators.
       </trans-unit>
       <trans-unit id="BonusPointsL" datatype="html">
         <source>bonus points</source>
-        <target state="new">bonus points</target>
-        <context-group purpose="location">
+        <target>보너스 점수</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">35</context>
         </context-group>
@@ -4228,8 +4127,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivationsL" datatype="html">
         <source>activations</source>
-        <target state="new">activations</target>
-        <context-group purpose="location">
+        <target>액티베이션 횟수</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">43</context>
         </context-group>
@@ -4240,8 +4138,7 @@ administrators.
       </trans-unit>
       <trans-unit id="UniqueSummitsL" datatype="html">
         <source>unique summits</source>
-        <target state="new">unique summits</target>
-        <context-group purpose="location">
+        <target>고유 산정상 수</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">51</context>
         </context-group>
@@ -4260,8 +4157,7 @@ administrators.
       </trans-unit>
       <trans-unit id="AssociationsL" datatype="html">
         <source>associations</source>
-        <target state="new">associations</target>
-        <context-group purpose="location">
+        <target>협회 수</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">59</context>
         </context-group>
@@ -4276,8 +4172,7 @@ administrators.
       </trans-unit>
       <trans-unit id="RegionsL" datatype="html">
         <source>regions</source>
-        <target state="new">regions</target>
-        <context-group purpose="location">
+        <target>지역 수</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">60</context>
         </context-group>
@@ -4292,8 +4187,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Top Chaser" datatype="html">
         <source>Top Chaser</source>
-        <target state="new">Top Chaser</target>
-        <context-group purpose="location">
+        <target>최다 체이서</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">69</context>
         </context-group>
@@ -4304,8 +4198,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatingSince" datatype="html">
         <source>Activating since</source>
-        <target state="new">Activating since</target>
-        <context-group purpose="location">
+        <target>액티베이터 활동 시작일</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">78</context>
         </context-group>
@@ -4316,16 +4209,14 @@ administrators.
       </trans-unit>
       <trans-unit id="RecentActivations" datatype="html">
         <source>Recent activations</source>
-        <target state="new">Recent activations</target>
-        <context-group purpose="location">
+        <target>최근 액티베이션</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">147</context>
         </context-group>
       </trans-unit>
       <trans-unit id="AddActivation" datatype="html">
         <source>Add Activation</source>
-        <target state="new">Add Activation</target>
-        <context-group purpose="location">
+        <target>액티베이션 추가</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">169</context>
         </context-group>
@@ -4340,8 +4231,7 @@ administrators.
       </trans-unit>
       <trans-unit id="More" datatype="html">
         <source>More...</source>
-        <target state="new">More...</target>
-        <context-group purpose="location">
+        <target>더보기...</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">169</context>
         </context-group>
@@ -4360,16 +4250,14 @@ administrators.
       </trans-unit>
       <trans-unit id="ActivatorBadges" datatype="html">
         <source>Activator Badges</source>
-        <target state="new">Activator Badges</target>
-        <context-group purpose="location">
+        <target>액티베이터 배지</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">175</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActivityByYear" datatype="html">
         <source>Activity by year</source>
-        <target state="new">Activity by year</target>
-        <context-group purpose="location">
+        <target>연도별 활동</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">190</context>
         </context-group>
@@ -4380,8 +4268,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Bands" datatype="html">
         <source>Bands</source>
-        <target state="new">Bands</target>
-        <context-group purpose="location">
+        <target>밴드</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">216</context>
         </context-group>
@@ -4392,24 +4279,21 @@ administrators.
       </trans-unit>
       <trans-unit id="TopChasers" datatype="html">
         <source>Top Chasers</source>
-        <target state="new">Top Chasers</target>
-        <context-group purpose="location">
+        <target>상위 체이서</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">262</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MostActivated" datatype="html">
         <source>Most Activated</source>
-        <target state="new">Most Activated</target>
-        <context-group purpose="location">
+        <target>최다 운용 산정상</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">277</context>
         </context-group>
       </trans-unit>
       <trans-unit id="PointsL" datatype="html">
         <source>points</source>
-        <target state="new">points</target>
-        <context-group purpose="location">
+        <target>점</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">315</context>
         </context-group>
@@ -4424,8 +4308,7 @@ administrators.
       </trans-unit>
       <trans-unit id="TopActivator" datatype="html">
         <source>Top Activator</source>
-        <target state="new">Top Activator</target>
-        <context-group purpose="location">
+        <target>최다 액티베이터</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">344</context>
         </context-group>
@@ -4436,8 +4319,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ChasingSince" datatype="html">
         <source>Chasing since</source>
-        <target state="new">Chasing since</target>
-        <context-group purpose="location">
+        <target>체이서 활동 시작일</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">353</context>
         </context-group>
@@ -4448,8 +4330,7 @@ administrators.
       </trans-unit>
       <trans-unit id="S2SPointsShort" datatype="html">
         <source>S2S points</source>
-        <target state="new">S2S points</target>
-        <context-group purpose="location">
+        <target>S2S 점수</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">361</context>
         </context-group>
@@ -4460,88 +4341,77 @@ administrators.
       </trans-unit>
       <trans-unit id="TotalS2SQSOs" datatype="html">
         <source>total S2S QSOs</source>
-        <target state="new">total S2S QSOs</target>
-        <context-group purpose="location">
+        <target>총 S2S 교신(QSO) 수</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">363</context>
         </context-group>
       </trans-unit>
       <trans-unit id="S2SQSOs" datatype="html">
         <source>S2S QSOs</source>
-        <target state="new">S2S QSOs</target>
-        <context-group purpose="location">
+        <target>S2S 교신(QSO)</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">427</context>
         </context-group>
       </trans-unit>
       <trans-unit id="RecentChases" datatype="html">
         <source>Recent chases</source>
-        <target state="new">Recent chases</target>
-        <context-group purpose="location">
+        <target>최근 체이싱</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">435</context>
         </context-group>
       </trans-unit>
       <trans-unit id="AddChase" datatype="html">
         <source>Add Chase</source>
-        <target state="new">Add Chase</target>
-        <context-group purpose="location">
+        <target>체이싱 추가</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">477</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ChaserBadges" datatype="html">
         <source>Chaser Badges</source>
-        <target state="new">Chaser Badges</target>
-        <context-group purpose="location">
+        <target>체이서 배지</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">483</context>
         </context-group>
       </trans-unit>
       <trans-unit id="TopActivators" datatype="html">
         <source>Top Activators</source>
-        <target state="new">Top Activators</target>
-        <context-group purpose="location">
+        <target>상위 액티베이터</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">569</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MostChased" datatype="html">
         <source>Most Chased</source>
-        <target state="new">Most Chased</target>
-        <context-group purpose="location">
+        <target>최다 교신 산정상</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/stats/stats.component.html</context>
           <context context-type="linenumber">584</context>
         </context-group>
       </trans-unit>
       <trans-unit id="FlagArticle" datatype="html">
         <source>Flag Article</source>
-        <target state="new">Flag Article</target>
-        <context-group purpose="location">
+        <target>게시물 신고</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Reason" datatype="html">
         <source>Reason</source>
-        <target state="new">Reason</target>
-        <context-group purpose="location">
+        <target>사유</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="SelectAReason" datatype="html">
         <source>Select a reason...</source>
-        <target state="new">Select a reason...</target>
-        <context-group purpose="location">
+        <target>사유를 선택하세요...</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">8</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Outdated" datatype="html">
         <source>Information no longer relevant</source>
-        <target state="new">Information no longer relevant</target>
-        <context-group purpose="location">
+        <target>더 이상 유효하지 않은 정보</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
@@ -4552,8 +4422,7 @@ administrators.
       </trans-unit>
       <trans-unit id="OutdatedURL" datatype="html">
         <source>URL no longer works</source>
-        <target state="new">URL no longer works</target>
-        <context-group purpose="location">
+        <target>작동하지 않는 인터넷 주소(URL)</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">10</context>
         </context-group>
@@ -4564,8 +4433,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ContentViolation" datatype="html">
         <source>Content violates Acceptable Use Policy</source>
-        <target state="new">Content violates Acceptable Use Policy</target>
-        <context-group purpose="location">
+        <target>이용 정책을 위반하는 내용</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
@@ -4576,8 +4444,7 @@ administrators.
       </trans-unit>
       <trans-unit id="InvalidEncoding" datatype="html">
         <source>Invalid text encoding</source>
-        <target state="new">Invalid text encoding</target>
-        <context-group purpose="location">
+        <target>잘못된 문자 인코딩</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/article-flag-modal/article-flag-modal.component.html</context>
           <context context-type="linenumber">12</context>
         </context-group>
@@ -4587,81 +4454,71 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="ActiveAssocs" datatype="html">
-        <source><x id="INTERPOLATION" equiv-text="{{ associations.length }}"/> active associations and growing!</source>
-        <target state="new"><x id="INTERPOLATION" equiv-text="{{ associations.length }}"/> active associations and growing!</target>
-        <context-group purpose="location">
+        <source><x id="INTERPOLATION" equiv-text="{{ associations.length }}" /> active associations and growing!</source>
+        <target>현재 <x id="INTERPOLATION" equiv-text="{{ associations.length }}" />개의 협회가 활동 중이며 계속 늘어나고 있습니다!</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="LoadingAssoc" datatype="html">
         <source>Loading associations ...</source>
-        <target state="new">Loading associations ...</target>
-        <context-group purpose="location">
+        <target>협회 목록을 불러오는 중...</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="AssociationIntro" datatype="html">
         <source> SOTA is continually growing with new Associations regularly coming on board. Please click on an Association to find out more information, access the Association Reference Manual (ARM) and view its regions &amp; qualifying summits. </source>
-        <target state="new"> SOTA is continually growing with new Associations regularly coming on board. Please click on an Association to find out more information, access the Association Reference Manual (ARM) and view its regions &amp; qualifying summits. </target>
-        <context-group purpose="location">
+        <target> SOTA는 새로운 협회들이 정기적으로 합류하며 계속 성장하고 있습니다. 협회를 클릭하시면 상세 정보, 협회 규정집(ARM), 소속 지역 및 공인 산정상 목록을 확인하실 수 있습니다. </target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">12,14</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Filter" datatype="html">
         <source>Filter</source>
-        <target state="new">Filter</target>
-        <context-group purpose="location">
+        <target>필터</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">18</context>
         </context-group>
       </trans-unit>
       <trans-unit id="AssociationName" datatype="html">
         <source>Association Name</source>
-        <target state="new">Association Name</target>
-        <context-group purpose="location">
+        <target>협회 이름</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">25</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ActiveFrom" datatype="html">
         <source>Active From</source>
-        <target state="new">Active From</target>
-        <context-group purpose="location">
+        <target>시행일</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">26</context>
         </context-group>
       </trans-unit>
       <trans-unit id="RegionsU" datatype="html">
         <source>Regions</source>
-        <target state="new">Regions</target>
-        <context-group purpose="location">
+        <target>지역</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">27</context>
         </context-group>
       </trans-unit>
       <trans-unit id="TopSummits" datatype="html">
         <source>Top Summits</source>
-        <target state="new">Top Summits</target>
-        <context-group purpose="location">
+        <target>인기 산정상</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">49</context>
         </context-group>
       </trans-unit>
       <trans-unit id="RecentlyActivatedSummits" datatype="html">
         <source>Recently Activated Summits</source>
-        <target state="new">Recently Activated Summits</target>
-        <context-group purpose="location">
+        <target>최근 운용된 산정상</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/associations.component.html</context>
           <context context-type="linenumber">49</context>
         </context-group>
       </trans-unit>
       <trans-unit id="DistanceSearch" datatype="html">
         <source>Distance Search</source>
-        <target state="new">Distance Search</target>
-        <context-group purpose="location">
+        <target>거리 검색</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
@@ -4669,17 +4526,14 @@ administrators.
       <trans-unit id="DistanceSearchDesc" datatype="html">
         <source> This searches for summits within a defined radius of the specified coordinates. Coordinates default to Home QTH if these details are available.
 </source>
-        <target state="new"> This searches for summits within a defined radius of the specified coordinates. Coordinates default to Home QTH if these details are available.
-</target>
-        <context-group purpose="location">
+        <target> 지정한 좌표로부터 일정 반경 내의 산정상을 검색합니다. 기본 좌표는 등록된 자택 QTH로 설정됩니다. </target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/distance-search-form/distance-search.component.html</context>
           <context context-type="linenumber">4,6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="SummitSearch" datatype="html">
         <source>Summit Search</source>
-        <target state="new">Summit Search</target>
-        <context-group purpose="location">
+        <target>산정상 검색</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/summit-search-form/summit-search.component.html</context>
           <context context-type="linenumber">1</context>
         </context-group>
@@ -4687,33 +4541,28 @@ administrators.
       <trans-unit id="SummitSearchDesc" datatype="html">
         <source> This searches the Summit Code and the Summit Name for the entered word, phrase or part of a word or phrase.
 </source>
-        <target state="new"> This searches the Summit Code and the Summit Name for the entered word, phrase or part of a word or phrase.
-</target>
-        <context-group purpose="location">
+        <target> 입력한 단어, 구문 또는 일부 문자열로 산정상 코드와 산정상 이름을 검색합니다. </target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/associations/summit-search-form/summit-search.component.html</context>
           <context context-type="linenumber">3,5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="BackToAssociationList" datatype="html">
         <source>Back to Association List</source>
-        <target state="new">Back to Association List</target>
-        <context-group purpose="location">
+        <target>협회 목록으로 돌아가기</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="DistanceResults" datatype="html">
         <source>Distance Results</source>
-        <target state="new">Distance Results</target>
-        <context-group purpose="location">
+        <target>거리 검색 결과</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">7</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Searching" datatype="html">
         <source>Searching</source>
-        <target state="new">Searching</target>
-        <context-group purpose="location">
+        <target>검색 중</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">8</context>
         </context-group>
@@ -4724,8 +4573,7 @@ administrators.
       </trans-unit>
       <trans-unit id="km" datatype="html">
         <source>km</source>
-        <target state="new">km</target>
-        <context-group purpose="location">
+        <target>km</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
@@ -4736,16 +4584,14 @@ administrators.
       </trans-unit>
       <trans-unit id="KM" datatype="html">
         <source>km</source>
-        <target state="new">km</target>
-        <context-group purpose="location">
+        <target>km</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">24</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Degrees" datatype="html">
         <source>deg</source>
-        <target state="new">deg</target>
-        <context-group purpose="location">
+        <target>도(deg)</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/distance-results/distance-results.component.html</context>
           <context context-type="linenumber">25</context>
         </context-group>
@@ -4756,8 +4602,7 @@ administrators.
       </trans-unit>
       <trans-unit id="TitleIsRequired" datatype="html">
         <source> Title is required </source>
-        <target state="new"> Title is required </target>
-        <context-group purpose="location">
+        <target> 제목은 필수 입력 항목입니다 </target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/link-form/link-form.component.html</context>
           <context context-type="linenumber">12,14</context>
         </context-group>
@@ -4768,24 +4613,21 @@ administrators.
       </trans-unit>
       <trans-unit id="URL" datatype="html">
         <source>URL</source>
-        <target state="new">URL</target>
-        <context-group purpose="location">
+        <target>URL</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/link-form/link-form.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
       <trans-unit id="URLIsRequired" datatype="html">
         <source> URL is required </source>
-        <target state="new"> URL is required </target>
-        <context-group purpose="location">
+        <target> URL은 필수 입력 항목입니다 </target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/link-form/link-form.component.html</context>
           <context context-type="linenumber">21,23</context>
         </context-group>
       </trans-unit>
       <trans-unit id="EditSummitTags" datatype="html">
         <source>Edit summit tags</source>
-        <target state="new">Edit summit tags</target>
-        <context-group purpose="location">
+        <target>산정상 태그 편집</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/link-form/link-form.component.html</context>
           <context context-type="linenumber">34</context>
         </context-group>
@@ -4796,8 +4638,7 @@ administrators.
       </trans-unit>
       <trans-unit id="Close" datatype="html">
         <source>Close</source>
-        <target state="new">Close</target>
-        <context-group purpose="location">
+        <target>닫기</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/summit/link-form/link-form.component.html</context>
           <context context-type="linenumber">38</context>
         </context-group>
@@ -4876,16 +4717,14 @@ administrators.
       </trans-unit>
       <trans-unit id="BackToListOfAssociations" datatype="html">
         <source>Back to list of Associations</source>
-        <target state="new">Back to list of Associations</target>
-        <context-group purpose="location">
+        <target>협회 목록으로 돌아가기</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/association/association.component.html</context>
           <context context-type="linenumber">10</context>
         </context-group>
       </trans-unit>
       <trans-unit id="50bc65303609976214244bac5ffa106e928d9134" datatype="html">
-        <source> The Association commenced on <x id="INTERPOLATION" equiv-text="{{ association.activeFrom | date: 'mediumDate' }}"/> and currently has <x id="INTERPOLATION_1" equiv-text="{{ association.regionsCount }}"/> Regions (listed below) and <x id="INTERPOLATION_2" equiv-text="{{ association.summitsCount }}"/> qualifying summits. </source>
-        <target state="new"> The Association commenced on <x id="INTERPOLATION" equiv-text="{{ association.activeFrom | date: 'mediumDate' }}"/> and currently has <x id="INTERPOLATION_1" equiv-text="{{ association.regionsCount }}"/> Regions (listed below) and <x id="INTERPOLATION_2" equiv-text="{{ association.summitsCount }}"/> qualifying summits. </target>
-        <context-group purpose="location">
+        <source> The Association commenced on <x id="INTERPOLATION" equiv-text="{{ association.activeFrom | date: 'mediumDate' }}" /> and currently has <x id="INTERPOLATION_1" equiv-text="{{ association.regionsCount }}" /> Regions (listed below) and <x id="INTERPOLATION_2" equiv-text="{{ association.summitsCount }}" /> qualifying summits. </source>
+        <target> 이 협회는 <x id="INTERPOLATION" equiv-text="{{ association.activeFrom | date: 'mediumDate' }}" />에 시작되었으며, 현재 <x id="INTERPOLATION_1" equiv-text="{{ association.regionsCount }}" />개의 지역(아래 목록)과 <x id="INTERPOLATION_2" equiv-text="{{ association.summitsCount }}" />개의 공인 산정상이 등록되어 있습니다. </target><context-group purpose="location">
           <context context-type="sourcefile">src/app/association/association.component.html</context>
           <context context-type="linenumber">17,19</context>
         </context-group>
@@ -4893,8 +4732,7 @@ administrators.
       </trans-unit>
       <trans-unit id="ClickOnARegionToViewSummits" datatype="html">
         <source>Click on a Region to view a list of summits.</source>
-        <target state="new">Click on a Region to view a list of summits.</target>
-        <context-group purpose="location">
+        <target>산정상 목록을 보려면 지역을 클릭하세요.</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/association/association.component.html</context>
           <context context-type="linenumber">24</context>
         </context-group>
@@ -4909,8 +4747,7 @@ administrators.
       </trans-unit>
       <trans-unit id="MyChasedSummits" datatype="html">
         <source>My Chased Summits</source>
-        <target state="new">My Chased Summits</target>
-        <context-group purpose="location">
+        <target>내가 교신한 산정상</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-regions/chaser-regions.component.html</context>
           <context context-type="linenumber">18</context>
         </context-group>
@@ -5012,8 +4849,8 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="csvCallsign" datatype="html">
-        <source>This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> used for the QSO. No spaces in the callsign please</source>
-        <target state="translated">운용에 사용했던 <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>자국 콜사인<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
+        <source>This is the callsign <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />you<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" /> used for the QSO. No spaces in the callsign please</source>
+        <target state="translated">운용에 사용했던 <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />자국 콜사인<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />
               입니다. 콜사인 안에 스페이스 기호를 넣지 않아야 합니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
@@ -5061,9 +4898,9 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="csvOtherCall" datatype="html">
-        <source>The callsign of the <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;STRONG>"/> station worked<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/STRONG>"/>.  No spaces in the callsign please</source>
-        <target state="translated">교신을 한<x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG>"/>
-                상대국 콜사인<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG>"/>. 콜사인 안에 스페이스 기호를 넣지 않아야 합니다.</target>
+        <source>The callsign of the <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;STRONG&gt;" /> station worked<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/STRONG&gt;" />.  No spaces in the callsign please</source>
+        <target state="translated">교신을 한<x id="START_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;STRONG&gt;" />
+                상대국 콜사인<x id="CLOSE_TAG_STRONG" ctype="x-STRONG" equiv-text="&lt;/STRONG&gt;" />. 콜사인 안에 스페이스 기호를 넣지 않아야 합니다.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
           <context context-type="linenumber">234</context>
@@ -5087,9 +4924,9 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="csvComments" datatype="html">
-        <source>An optional field for recording short notes about the QSO. This could include the Operator's name and location, Signal Report, QSL information, or almost anything else. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>You can embed a TAB or comma in this field. If you do you must enclose the entire Notes field in double-quotes. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/></source>
-        <target state="translated">설명 등을 넣는 옵션 데이터 필드. 예를 들어 운영자의 이름이나 장소, 시그널 리포트, QSL 정보, 기타 등등,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
-                            <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong>"/>이 필드에 TAB 또는 쉼표를 포함할 수 있습니다. 이 경우 전체 주석 또는 비고 필드를 이중 기호(“ ”)로 묶어야 합니다. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong>"/>
+        <source>An optional field for recording short notes about the QSO. This could include the Operator's name and location, Signal Report, QSL information, or almost anything else. ,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;" /><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" />You can embed a TAB or comma in this field. If you do you must enclose the entire Notes field in double-quotes. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" /></source>
+        <target state="translated">설명 등을 넣는 옵션 데이터 필드. 예를 들어 운영자의 이름이나 장소, 시그널 리포트, QSL 정보, 기타 등등,<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />
+                            <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" />이 필드에 TAB 또는 쉼표를 포함할 수 있습니다. 이 경우 전체 주석 또는 비고 필드를 이중 기호(“ ”)로 묶어야 합니다. <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" />
 
 
           </target>
@@ -5107,7 +4944,7 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="CommonErrors" datatype="html">
-        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u>"/>Common errors<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u>"/></source>
+        <source><x id="START_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;u&gt;" />Common errors<x id="CLOSE_UNDERLINED_TEXT" ctype="x-u" equiv-text="&lt;/u&gt;" /></source>
         <target>공통오류.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/upload-add-edit-component/csvinfo-modal/csvinfo-modal.component.html</context>
@@ -5216,8 +5053,7 @@ administrators.
       </trans-unit>
       <trans-unit id="SeeAll" datatype="html">
         <source>See all...</source>
-        <target state="new">See all...</target>
-        <context-group purpose="location">
+        <target>모두 보기...</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">40</context>
         </context-group>
@@ -5244,32 +5080,28 @@ administrators.
       </trans-unit>
       <trans-unit id="LatestChases" datatype="html">
         <source>Latest chases</source>
-        <target state="new">Latest chases</target>
-        <context-group purpose="location">
+        <target>최근 체이서 기록</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">45</context>
         </context-group>
       </trans-unit>
       <trans-unit id="LatestSummitToSummitLogs" datatype="html">
         <source>Latest Summit to Summit logs</source>
-        <target state="new">Latest Summit to Summit logs</target>
-        <context-group purpose="location">
+        <target>최근 산대산(S2S) 로그</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">75</context>
         </context-group>
       </trans-unit>
       <trans-unit id="TheirSummit" datatype="html">
         <source>Their Summit</source>
-        <target state="new">Their Summit</target>
-        <context-group purpose="location">
+        <target>상대방 산정상</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">83</context>
         </context-group>
       </trans-unit>
       <trans-unit id="LatestSOTACompleteLogs" datatype="html">
         <source>Latest SOTA Complete logs</source>
-        <target state="new">Latest SOTA Complete logs</target>
-        <context-group purpose="location">
+        <target>최근 SOTA 컴플리트 로그</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/logs.component.html</context>
           <context context-type="linenumber">107</context>
         </context-group>
@@ -5363,8 +5195,8 @@ administrators.
         </context-group>
       </trans-unit>
       <trans-unit id="activatorDeleteResult2" datatype="html">
-        <source>You cannot delete this Activation. The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></source>
-        <target>귀하는 활성화 데이터를 삭제할 수 없습니다. 에러 코드는: <x id="INTERPOLATION" equiv-text="{{this.resultText}}"/></target>
+        <source>You cannot delete this Activation. The error received was: <x id="INTERPOLATION" equiv-text="{{this.resultText}}" /></source>
+        <target>귀하는 활성화 데이터를 삭제할 수 없습니다. 에러 코드는: <x id="INTERPOLATION" equiv-text="{{this.resultText}}" /></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activation-delete-modal/activation-delete-modal.component.html</context>
           <context context-type="linenumber">6</context>
@@ -5490,8 +5322,7 @@ administrators.
       </trans-unit>
       <trans-unit id="DeleteActivation" datatype="html">
         <source>Delete Activation</source>
-        <target state="new">Delete Activation</target>
-        <context-group purpose="location">
+        <target>액티베이션 기록 삭제</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activator-log/activation-delete-modal/activation-delete-modal.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
@@ -5526,8 +5357,7 @@ administrators.
       </trans-unit>
       <trans-unit id="On" datatype="html">
         <source>on</source>
-        <target state="final">on</target>
-        <context-group purpose="location">
+        <target>날짜:</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/activation-show/activation-show.component.html</context>
           <context context-type="linenumber">45</context>
         </context-group>
@@ -5592,17 +5422,16 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
         </context-group>
       </trans-unit>
       <trans-unit id="610Multipliers" datatype="html">
-        <source>6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>Multipliers</source>
-        <target state="translated"> 6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>멀티플래이어 </target>
+        <source>6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />Multipliers</source>
+        <target state="translated"> 6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />멀티플래이어 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/first610m/first610m.component.html</context>
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="610Callsigns" datatype="html">
-        <source>6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/>Callsigns</source>
-        <target state="new">6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/>Callsigns</target>
-        <context-group purpose="location">
+        <source>6 &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;" />Callsigns</source>
+        <target>6m &amp; 10m<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;" />호출부호</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/first610m/first610m.component.html</context>
           <context context-type="linenumber">18</context>
         </context-group>
@@ -5625,8 +5454,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="MyChasedRegions" datatype="html">
         <source>My Chased Regions</source>
-        <target state="new">My Chased Regions</target>
-        <context-group purpose="location">
+        <target>내가 교신한 지역</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/logs/chaser-log/chaser-log.component.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
@@ -5711,48 +5539,42 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="LF" datatype="html">
         <source>160m / 80m</source>
-        <target state="translated"> 160m / 80m </target>
-        <context-group purpose="location">
+        <target>160m / 80m</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
           <context context-type="linenumber">32</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Datamodes" datatype="html">
         <source>Datamodes</source>
-        <target state="translated"> Datamodes </target>
-        <context-group purpose="location">
+        <target>데이터 모드</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
           <context context-type="linenumber">33</context>
         </context-group>
       </trans-unit>
       <trans-unit id="DV" datatype="html">
         <source>DV</source>
-        <target state="translated"> DV </target>
-        <context-group purpose="location">
+        <target>DV (디지털 음성)</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
           <context context-type="linenumber">34</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Twelve" datatype="html">
         <source> 12m / 10m / 6m </source>
-        <target state="final"> 12m / 10m / 6m </target>
-        <context-group purpose="location">
+        <target> 12m / 10m / 6m </target><context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
           <context context-type="linenumber">35</context>
         </context-group>
       </trans-unit>
       <trans-unit id="Seventeen" datatype="html">
         <source> 17m </source>
-        <target state="final"> 17m </target>
-        <context-group purpose="location">
+        <target> 17m </target><context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
           <context context-type="linenumber">36</context>
         </context-group>
       </trans-unit>
       <trans-unit id="SeventyCm" datatype="html">
         <source> 70cm </source>
-        <target state="new"> 70cm </target>
-        <context-group purpose="location">
+        <target> 70cm </target><context-group purpose="location">
           <context context-type="sourcefile">src/app/challenges/flavours2020/flavours2020.component.html</context>
           <context context-type="linenumber">37</context>
         </context-group>
@@ -5819,8 +5641,7 @@ Challenge Dates: 15th May 2015 to 14th August 2015 and 14th November 2015 to 13t
       </trans-unit>
       <trans-unit id="2d24d1eb8d295534d8669dbeaf56201c141285af" datatype="html">
         <source>Credits</source>
-        <target state="new">Credits</target>
-        <context-group purpose="location">
+        <target>만든 사람들</target><context-group purpose="location">
           <context context-type="sourcefile">src/app/credits/credits.component.html</context>
           <context context-type="linenumber">1</context>
         </context-group>
